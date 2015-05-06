@@ -1,0 +1,4 @@
+baseurl = "http://ccnmtl.columbia.edu/"
+languageCode = "en-us"
+title = "Case Consortium"
+MetaDataFormat = "yaml"
