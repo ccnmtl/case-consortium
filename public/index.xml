@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on Case Consortium </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://ccnmtl.columbia.edu/index.xml/</link>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
     
     
