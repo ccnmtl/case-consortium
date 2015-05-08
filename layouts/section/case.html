@@ -13,7 +13,8 @@
                         <header class="major">
                             <h2>Cases</h2>
                         </header>
-                        <p>{{ range .Data.Pages.ByTitle }}</p>
+                        <p>{{ .Title }}</p>
+                        <p>{{ .Author }}</p>
                         <ul class="actions">
                             <li><a href="#" class="button">Learn More</a></li>
                         </ul>
