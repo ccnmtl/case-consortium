@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on Case Consortium </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://localhost:1313/index.xml/</link>
+    <title>Case Consortium</title>
+    <link>http://kodos.ccnmtl.columbia.edu:1313/</link>
+    <description>Recent content on Case Consortium</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Fri, 08 May 2015 12:16:31 EDT</updated>
+    <lastBuildDate>Fri, 08 May 2015 12:16:31 -0400</lastBuildDate>
+    <atom:link href="http://kodos.ccnmtl.columbia.edu:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test</title>
-      <link>http://localhost:1313/case/test/</link>
-      <pubDate>Fri, 08 May 2015 12:16:31 EDT</pubDate>
+      <title>In the beginning...</title>
+      <link>http://kodos.ccnmtl.columbia.edu:1313/case/test/</link>
+      <pubDate>Fri, 08 May 2015 12:16:31 -0400</pubDate>
       
-      <guid>http://localhost:1313/case/test/</guid>
-      <description>&lt;p&gt;this is content&lt;/p&gt;
+      <guid>http://kodos.ccnmtl.columbia.edu:1313/case/test/</guid>
+      <description>&lt;p&gt;In the beginning, there was content.&lt;/p&gt;
 </description>
     </item>
     

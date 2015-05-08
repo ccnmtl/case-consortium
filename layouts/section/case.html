@@ -1,20 +1,20 @@
 <html>
     {{ partial "header.html" . }}
-    <body id="top">
+    <body id="tops">
 
         <!-- Header -->
         {{ partial "header_section.html" . }}
         <!-- Main -->
             <div id="main">
-
-
                 <!-- One -->
                     <section id="one">
                         <header class="major">
                             <h2>Cases</h2>
                         </header>
-                        <p>{{ .Title }}</p>
-                        <p>{{ .Author }}</p>
+                            {{ range .Data.Pages.ByTitle }}
+                                <p>Author: {{ .Params.author }}</p>
+                                <p>Title: {{ .Title }}</p>
+                            {{ end }}
                         <ul class="actions">
                             <li><a href="#" class="button">Learn More</a></li>
                         </ul>
@@ -27,5 +27,4 @@
     </body>
 
 </html>
-
 

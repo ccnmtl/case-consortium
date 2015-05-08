@@ -1,5 +1,5 @@
 runserver:
-	hugo server --watch --buildDrafts --verboseLog=true -v
+	hugo server --watch --buildDrafts --verboseLog=true -v --baseUrl="kodos.ccnmtl.columbia.edu"
 
 deploy:
 	rm -rf public/*

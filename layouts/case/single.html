@@ -1,0 +1,21 @@
+<html>
+	{{ partial "header.html" . }}
+	<body id="top">
+
+		<!-- Header -->
+		{{ partial "header_section.html" . }}
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<h1>{{.Title}}</h1>
+						<p>{{ .Content }}</p>
+					</section>
+			</div>
+
+		<!-- Footer -->
+			{{ partial "footer.html" . }}
+
+	</body>
+</html>
