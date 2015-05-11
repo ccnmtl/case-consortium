@@ -1,0 +1,48 @@
+<html>
+    {{ partial "header.html" . }}
+    <body id="tops">
+
+        <!-- Header -->
+        {{ partial "header_section.html" . }}
+        <!-- Main -->
+            <div id="main">
+                <!-- One -->
+                    <section id="one">
+                        
+                            <header class="major">
+                                <h2>ids</h2>
+                            </header>
+                            
+                            <table class="alt">
+                            <thead>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Title</th>
+                                    <th>Author </th>
+                                </tr>
+                            </thead>
+                                {{ range .Data.Pages.ByTitle }}
+                                
+                                <tr>
+                                    <td><a href="{{.Permalink}}">{{ .Params.ids }}</a></td>
+                                    <td> {{ .Title }}</td>
+                                    <td>{{ .Params.author }}</td>
+
+                                    
+                                    
+                                </tr>
+                                
+                                {{ end }}
+                            </table>
+                                
+                        
+                    </section>
+
+            </div>
+            
+        {{ partial "footer.html" . }}
+
+    </body>
+
+</html>
+

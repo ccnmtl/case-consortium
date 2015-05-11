@@ -1,5 +1,4 @@
 ---
-id: ""
 title: ""
 author: ""
 ---

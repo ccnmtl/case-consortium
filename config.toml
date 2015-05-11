@@ -2,6 +2,9 @@ baseurl = "case-consortium.stage.ccnmtl.columbia.edu"
 languageCode = "en-us"
 title = "Case Consortium"
 MetaDataFormat = "yaml"
+[taxonomies]
+    case = "cases"
+    term = "terms"
 
 [params]
 baseurl = "case-consortium.stage.ccnmtl.columbia.edu"

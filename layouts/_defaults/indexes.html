@@ -16,7 +16,7 @@
                             <table class="alt">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
+                                    <th>Case ID</th>
                                     <th>Title</th>
                                     <th>Author </th>
                                 </tr>
@@ -24,7 +24,7 @@
                                 {{ range .Data.Pages.ByTitle }}
                                 
                                 <tr>
-                                    <td><a href="{{.Permalink}}">{{ .Params.id }}</a></td>
+                                    <td><a href="{{.Permalink}}">{{ .Params.cases }}</a></td>
                                     <td> {{ .Title }}</td>
                                     <td>{{ .Params.author }}</td>
                                     

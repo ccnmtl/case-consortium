@@ -11,6 +11,10 @@
 					<section id="one">
 						<h1>{{.Title}}</h1>
 						<p>{{ .Content }}</p>
+
+						<ul>
+							{{ range .Params.terms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</li>{{ end }}
+						</ul>
 					</section>
 			</div>
 
