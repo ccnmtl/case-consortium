@@ -22,14 +22,15 @@
                                 </tr>
                             </thead>
                                 {{ range .Data.Pages.ByTitle }}
-                                
-                                <tr>
-                                    <td><a href="{{.Permalink}}">{{ .Params.cases }}</a></td>
-                                    <td> {{ .Title }}</td>
-                                    <td>{{ .Params.author }}</td>
-                                    
-                                </tr>
-                                
+                                                                        
+                                    {{ if eq .Params.page 1 }}
+                                        <tr>
+                                            <td><a href="{{.Permalink}}">{{ .Params.cases }}</a> </td>
+                                            <td> {{ .Title }}</td>
+                                            <td>{{ .Params.author }}</td>
+                                            
+                                        </tr>
+                                    {{ end }}
                                 {{ end }}
                             </table>
                                 

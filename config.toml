@@ -4,7 +4,10 @@ title = "Case Consortium"
 MetaDataFormat = "yaml"
 [taxonomies]
     case = "cases"
+    section = "secitons"
+    page = "pages"
     term = "terms"
 
 [params]
 baseurl = "case-consortium.stage.ccnmtl.columbia.edu"
+page_index = ""

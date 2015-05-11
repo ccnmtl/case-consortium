@@ -13,7 +13,7 @@
 						<p>{{ .Content }}</p>
 
 						<ul>
-							{{ range .Params.terms }}<li><a href="/term/{{ . | urlize | lower}}/">{{ . }}</li>{{ end }}
+							{{ range .Params.cases }}<li><a href="/cases/{{ . | urlize | lower}}/">{{ . }}</li>{{ end }}
 						</ul>
 					</section>
 			</div>
