@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Case Consortium</title>
-    <link>http://kodos.ccnmtl.columbia.edu:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Case Consortium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2015 12:16:31 -0400</lastBuildDate>
-    <atom:link href="http://kodos.ccnmtl.columbia.edu:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 May 2015 12:09:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A long road</title>
+      <link>http://localhost:1313/case/test2/</link>
+      <pubDate>Mon, 11 May 2015 12:09:00 -0400</pubDate>
+      
+      <guid>http://localhost:1313/case/test2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In the beginning...</title>
-      <link>http://kodos.ccnmtl.columbia.edu:1313/case/test/</link>
+      <link>http://localhost:1313/case/test/</link>
       <pubDate>Fri, 08 May 2015 12:16:31 -0400</pubDate>
       
-      <guid>http://kodos.ccnmtl.columbia.edu:1313/case/test/</guid>
+      <guid>http://localhost:1313/case/test/</guid>
       <description>&lt;p&gt;In the beginning, there was content.&lt;/p&gt;
 </description>
     </item>
