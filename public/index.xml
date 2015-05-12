@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case Consortium</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Case Consortium</description>
-    <generator>Hugo -- gohugo.io</generator>
+      <title>Recent Content on Case Consortium </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 May 2015 12:09:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <updated>Mon, 11 May 2015 12:09:00 EDT</updated>
     
     <item>
       <title>A long road</title>
       <link>http://localhost:1313/case/test2/</link>
-      <pubDate>Mon, 11 May 2015 12:09:00 -0400</pubDate>
+      <pubDate>Mon, 11 May 2015 12:09:00 EDT</pubDate>
       
       <guid>http://localhost:1313/case/test2/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>In the beginning...</title>
       <link>http://localhost:1313/case/test/</link>
-      <pubDate>Fri, 08 May 2015 12:16:31 -0400</pubDate>
+      <pubDate>Fri, 08 May 2015 12:16:31 EDT</pubDate>
       
       <guid>http://localhost:1313/case/test/</guid>
       <description>&lt;p&gt;In the beginning, there was content.&lt;/p&gt;

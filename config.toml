@@ -5,3 +5,4 @@ MetaDataFormat = "yaml"
 
 [params]
 baseurl = "case-consortium.stage.ccnmtl.columbia.edu"
+case_repo_baseurl = "http://kang.ccnmtl.columbia.edu/sb/jonah/caseconsortium/casestudies_snapshot/"
