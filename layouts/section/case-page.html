@@ -25,7 +25,11 @@
                                                                         
                                     {{ if eq .Params.page 1 }}
                                         <tr>
-                                            <td><a href="{{.Permalink}}">{{ .Params.cases }}</a> </td>
+                                            <td>
+                                                {{ range .Params.cases }}
+                                                  <a href="/cases/{{ . | urlize | lower}}">{{ . }}</a>
+                                                {{  end }}
+                                                </td>
                                             <td> {{ .Title }}</td>
                                             <td>{{ .Params.author }}</td>
                                             

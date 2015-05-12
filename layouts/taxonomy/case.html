@@ -10,26 +10,20 @@
                     <section id="one">
                         
                             <header class="major">
-                                <h2>ids</h2>
+                                <h2>Case</h2>
                             </header>
                             
                             <table class="alt">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
                                     <th>Title</th>
-                                    <th>Author </th>
+                                    
                                 </tr>
                             </thead>
-                                {{ range .Data.Pages.ByTitle }}
-                                
+                            
+                                {{ range .Data.Pages.ByWeight }}
                                 <tr>
-                                    <td><a href="{{.Permalink}}">{{ .Params.ids }}</a></td>
-                                    <td> {{ .Title }}</td>
-                                    <td>{{ .Params.author }}</td>
-
-                                    
-                                    
+                                    <td><a href="{{.Permalink}}"> {{ .Title }}</a></td>
                                 </tr>
                                 
                                 {{ end }}

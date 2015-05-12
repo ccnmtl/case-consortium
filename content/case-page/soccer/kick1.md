@@ -7,6 +7,7 @@ cases:
 - 384
 
 page: 1
+page_weight: 1
 
 terms:
 - test term
