@@ -47,20 +47,20 @@
     </item>
     
     <item>
-      <title>Higher Truth or Just the Facts? Hell and Back Again</title>
-      <link>http://localhost:1313/case/case_110/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/case/case_110/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Truthiness: This American Life and the Monologist</title>
       <link>http://localhost:1313/case/case_108/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>http://localhost:1313/case/case_108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Higher Truth or Just the Facts? Hell and Back Again</title>
+      <link>http://localhost:1313/case/case_110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/case/case_110/</guid>
       <description></description>
     </item>
     
@@ -74,20 +74,20 @@
     </item>
     
     <item>
-      <title>Credible Voice: WHO-Beijing and the SARS Crisis</title>
-      <link>http://localhost:1313/case/case_112/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/case/case_112/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Can Investigative Journalism Pay?: InvestigateWest and the Nonprofit Model</title>
       <link>http://localhost:1313/case/case_111/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>http://localhost:1313/case/case_111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credible Voice: WHO-Beijing and the SARS Crisis</title>
+      <link>http://localhost:1313/case/case_112/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/case/case_112/</guid>
       <description></description>
     </item>
     
@@ -110,15 +110,6 @@
     </item>
     
     <item>
-      <title>Cumulative or Discrete Numbers: How Should Bloomberg Measure the Bailout?</title>
-      <link>http://localhost:1313/case/case_116/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
-      
-      <guid>http://localhost:1313/case/case_116/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Reportear una Verdad Explosiva: Boston Globe y los Abusos Sexuales  en la Iglesia Católica</title>
       <link>http://localhost:1313/case/case_115/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
@@ -128,11 +119,11 @@
     </item>
     
     <item>
-      <title>AllNovaScotia.com: Success or Anomaly?</title>
-      <link>http://localhost:1313/case/case_118/</link>
+      <title>Cumulative or Discrete Numbers: How Should Bloomberg Measure the Bailout?</title>
+      <link>http://localhost:1313/case/case_116/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/case/case_118/</guid>
+      <guid>http://localhost:1313/case/case_116/</guid>
       <description></description>
     </item>
     
@@ -142,6 +133,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>http://localhost:1313/case/case_117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AllNovaScotia.com: Success or Anomaly?</title>
+      <link>http://localhost:1313/case/case_118/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/case/case_118/</guid>
       <description></description>
     </item>
     
