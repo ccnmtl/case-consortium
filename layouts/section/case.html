@@ -16,17 +16,17 @@
                             <table class="alt">
                             <thead>
                                 <tr>
-                                    <th>ID</th>
+                                    <!--<th>ID</th>
                                     <th>Title</th>
-                                    <th>Author </th>
+                                   <th>Author </th>-->
                                 </tr>
                             </thead>
                                 {{ range .Data.Pages.ByTitle }}
                                 
                                 <tr>
-                                    <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Params.id }}</a></td>
-                                    <td> {{ .Title }}</td>
-                                    <td>{{ .Params.author }}</td>
+                                    <!--<td>{{ .Params.id }}</td>-->
+                                    <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Title }}</a></td>
+                                    <!--<td>{{ .Params.author }}</td>-->
                                     
                                 </tr>
                                 

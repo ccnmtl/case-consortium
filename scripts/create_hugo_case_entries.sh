@@ -17,7 +17,7 @@ cases[23]="After the Storms: The South Florida Sun-Sentinel Investigates FEMA"
 cases[24]="A Life on the Line: The Christian Science Monitor and Jill Carroll"
 cases[25]="Public Death, Private Life: Army Major Alan Rogers and the  Washington Post"
 cases[27]="Privacy and the Public Interest: Frederick, MD, News-Post and the Bruce Ivins Story"
-cases[28]="News or Rumor? Politico and the Edwards Affair "
+cases[28]="News or Rumor? Politico and the Edwards Affair"
 cases[29]="Digital Deadline: The St. Louis Post-Dispatch and the Kirkwood Shooting"
 cases[30]="God and Darwin: The York Daily Record and the Intelligent Design Trial"
 cases[31]="Elusive Story (dead)"
@@ -93,6 +93,11 @@ cases[148]="Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
 
 for i in "${!cases[@]}"
 do
-  echo "id  : $i"
-  echo "title: ${cases[$i]}"
+  touch case_$i.md
+  echo --- >> case_$i.md
+  echo author: >> case_$i.md
+  echo date: >> case_$i.md
+  echo id: "\"$i"\" >> case_$i.md
+  echo title: "\"${cases[$i]}"\" >> case_$i.md
+  echo --- >> case_$i.md
 done
