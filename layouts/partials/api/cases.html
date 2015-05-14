@@ -1,0 +1,10 @@
+<script>
+    var Cases = [];
+    {{ range .Data.Pages.ByTitle }}
+        Cases.push({
+            "id":{{ .Params.id }},
+            "title": {{ .Title }},
+            "topics": new String({{ .Params.case_topics }}).split(';'),
+        });
+    {{ end }}
+</script>

@@ -27,8 +27,12 @@
                                 
                                 <tr>
                                     <!--<td>{{ .Params.id }}</td>-->
-                                    <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Title }}</a></td>
-                                    <!--<td>{{ .Params.author }}</td>-->
+                                    <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Title|safeHtml }}</a>
+                                      <div class="hidden">
+                                        {{ .Content }}
+                                      </div>
+                                    </td>
+                                   
                                     
                                 </tr>
                                 
@@ -39,6 +43,9 @@
                     </section>
 
             </div>
+            
+              {{ partial "api/cases.html" . }}
+            
             <script>
                     jQuery(document).ready(function(){
                         var item_template = 
@@ -50,17 +57,18 @@
                              '</p>' +
                              '<p class="desc"><%= obj.description %></p>' +
                              '<p class="item-id"><%= obj.id %></p>' +
+                             '<p class="item-topics"><%= obj.topics %></p>' +
                            '</div>';
                         settings = { 
-                          items            : cases,
+                          items            : Cases,
                           facets           : { 
-                                              'id'     : 'What id',
+                                              'topics'     : 'What topic',
                           },  
                           resultSelector   : '#results',
                           facetSelector    : '#facets',
                           resultTemplate   : item_template,
                           paginationCount  : 10,
-                          orderByOptions   : {'id': 'ID', 'title': 'Title'},
+                          orderByOptions   : {'topic': 'Topic', 'title': 'Title'},
                           //facetSortOption  : {'continent': ["North America", "South America"]}
                         }   
 

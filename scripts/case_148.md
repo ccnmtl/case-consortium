@@ -1,0 +1,33 @@
+---
+"abstract": "Global Post final1.pdf"
+"abstract_img": "Global Post epilogue.pdf"
+"authentication": ""
+"banner": "Global Post epilogue.pdf"
+"case_author": "Kirsten Lundberg"
+"case_number": "CSJ-14-0057.0"
+"case_topics":
+- - "international journalism, editorial management"
+"category_id": ""
+"created_on": ""
+"description": ""
+"epologue": "Global Post TN.pdf"
+"faculty_notes": ""
+"faculty_only": ""
+"id": "148"
+"layout": ""
+"link_color": ""
+"linked_classes": "yes"
+"news_org": "GlobalPost"
+"price": "5.95"
+"redtext": "NEW"
+"related_cases":
+- - ""
+"school": "17"
+"slug": "GlobalPost Syria"
+"status_id": "standard"
+"teaching_note": ""
+"teaser": ""
+"thumb": "Syria banner.jpeg"
+"title": "Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
+---
+
