@@ -1,17 +1,17 @@
 ---
-"abstract": "Chinalco final.pdf"
-"abstract_img": ""
-"authentication": ""
-"banner": ""
+"abstract": ""
+"abstract_img": "Screen shot 2014-09-23 at 3.30.37 PM.png"
+"authentication": "yes"
+"banner": "CaseConsortiumv3.jpeg"
 "case_author": "Mariana Costa Checa and Carolina Ocampo-Maya"
 "case_number": "SIPA-14-0006.0"
 "case_topics":
-- - "sustainable development"
-  - " environmental affairs"
-  - " negotiations"
-  - " community empowerment"
-"category_id": ""
-"created_on": ""
+- "sustainable development"
+- "environmental affairs"
+- "negotiations"
+- "community empowerment"
+"category_id": "15"
+"created_on": "9/17/2014"
 "description": "<p><em>SIPA-14-0006.0&nbsp;</em><br /><br />This case traces the evolution\
   \ of a resettlement scheme in Peru that has the potential both to benefit corporate\
   \ interests and better the lot of the local community. In January 2012, Fred Goytend&iacute;a\
@@ -26,17 +26,18 @@
 "faculty_notes": ""
 "faculty_only": ""
 "id": "136"
-"layout": ""
-"link_color": "Screen shot 2014-09-23 at 3.30.37 PM.png"
-"linked_classes": "yes"
+"layout": "standard"
+"link_color": ""
+"linked_classes": ""
 "news_org": ""
+"pdf": "Chinalco final.pdf"
 "price": "$3.95"
 "redtext": "NEW"
 "related_cases":
-- - ""
-"school": "15"
+- ""
+"school": ""
 "slug": "Process and Politics"
-"status_id": "standard"
+"status_id": "1"
 "teaching_note": ""
 "teaser": !!python/str "This case traces the evolution of a resettlement scheme in\
   \ Peru that has the potential both to benefit corporate interests and better the\
@@ -45,7 +46,8 @@
   \ a Chinese-owned mine in Peru, multi-level government interests, and the residents\
   \ of Morococha, a town that Chinalco wants to resettle to better exploit the mine’s\
   \ potential."
-"thumb": "CaseConsortiumv3.jpeg"
+"thumb": ""
 "title": "Process and Politics: Chinalco and the Resettlement of Morococha"
+"title_color": ""
 ---
 <p><em>SIPA-14-0006.0&nbsp;</em><br /><br />This case traces the evolution of a resettlement scheme in Peru that has the potential both to benefit corporate interests and better the lot of the local community. In January 2012, Fred Goytend&iacute;a Matos becomes technical secretary for a Dialogue Table created to reconcile the interests of Chinalco, a Chinese-owned mine in Peru, multi-level government interests, and the residents of Morococha, a town that Chinalco wants to resettle to better exploit the mine&rsquo;s potential. Goytend&iacute;a Matos, in particular, dreams of a project that will be a model for communities worldwide experiencing similar challenges.<br /><br /><strong>Topics:</strong> sustainable development; environmental affairs; negotiations; community empowerment</p>

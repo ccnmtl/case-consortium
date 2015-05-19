@@ -1,38 +1,40 @@
 ---
-"abstract": "Seeking Partners for Press Freedom.pdf"
-"abstract_img": "Seeking Partners.pdf"
-"authentication": "textonlythumbnail.jpeg"
-"banner": "Seeking Partners.pdf"
+"abstract": ""
+"abstract_img": "text only image.jpg"
+"authentication": "yes"
+"banner": "CaseConsortiumv3.jpeg"
 "case_author": "R. Chandrasekhar"
 "case_number": "AKU-12-0003.0"
 "case_topics":
-- - ""
-"category_id": ""
-"created_on": ""
+- ""
+"category_id": "19"
+"created_on": "2/11/2014"
 "description": "<p><em>AKU-13-0003.0 </em></p><p>This case examines what means and\
   \ partners are available to battle endemic corruption within the media. In 2009,\
   \ the Media Council of Tanzania (MCT) committed itself to the goal of enlisting\
   \ media outlets, advertisers and others in adopting a code of editorial independence\
   \ and responsibility.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:</strong>&nbsp;\
   \ international media; ethics; media reform; or press and politics.</p>"
-"epologue": "Seeking Partners TZ TN.pdf"
+"epologue": "Seeking Partners.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "123"
-"layout": ""
-"link_color": "text only image.jpg"
-"linked_classes": "yes"
+"layout": "standard"
+"link_color": ""
+"linked_classes": ""
 "news_org": "N/A"
+"pdf": "Seeking Partners for Press Freedom.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases":
-- - ""
-"school": "19"
+- ""
+"school": ""
 "slug": "Seeking Partners"
-"status_id": "standard"
-"teaching_note": ""
+"status_id": "1"
+"teaching_note": "Seeking Partners TZ TN.pdf"
 "teaser": ""
-"thumb": "CaseConsortiumv3.jpeg"
+"thumb": "textonlythumbnail.jpeg"
 "title": "Seeking Partners for Press Freedom Media Council of Tanzania and DEFIR"
+"title_color": ""
 ---
 <p><em>AKU-13-0003.0 </em></p><p>This case examines what means and partners are available to battle endemic corruption within the media. In 2009, the Media Council of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers and others in adopting a code of editorial independence and responsibility.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:</strong>&nbsp; international media; ethics; media reform; or press and politics.</p>

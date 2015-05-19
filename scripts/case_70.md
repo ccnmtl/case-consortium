@@ -1,17 +1,17 @@
 ---
-"abstract": "WikiLeaks and the Guardian.pdf"
-"abstract_img": "Wikileaks Epilogue.pdf"
-"authentication": "thumbnail_wikileaks.jpg"
-"banner": "Wikileaks Epilogue.pdf"
+"abstract": ""
+"abstract_img": "wikileaks abstract.gif"
+"authentication": "no"
+"banner": "knightcase_banner_wikileaks.jpg"
 "case_author": "Kirsten Lundberg"
 "case_number": "CSJ-11-0041.0"
 "case_topics":
-- - "editorial management"
-  - " international"
-  - " digital media"
-  - " politics reporting"
-"category_id": ""
-"created_on": ""
+- "editorial management"
+- "international"
+- "digital media"
+- "politics reporting"
+"category_id": "17"
+"created_on": "6/16/2011"
 "description": "<p><em>CSJ-11-0041.0</em><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/520/wikileaks\
   \ abstract.gif\" style=\"float: right; \" /> This case is about the celebrated collaboration\
   \ between WikiLeaks, the secure website for whistleblowers, and the mainstream media&mdash;\
@@ -21,28 +21,30 @@
   \ is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p><span style=\"font-weight:\
   \ bold;\">Topics: </span>editorial management; international; digital media; politics\
   \ reporting</p>"
-"epologue": "WikiLeaks TN.pdf"
+"epologue": "Wikileaks Epilogue.pdf"
 "faculty_notes": ""
-"faculty_only": "#1f9937"
+"faculty_only": ""
 "id": "70"
-"layout": "#1f9937"
-"link_color": "wikileaks abstract.gif"
-"linked_classes": "no"
+"layout": "standard"
+"link_color": "#1f9937"
+"linked_classes": ""
 "news_org": "Guardian"
+"pdf": "WikiLeaks and the Guardian.pdf"
 "price": "Free"
 "redtext": "FREE"
 "related_cases":
-- - "22"
-  - " 1"
-"school": "17"
+- "22"
+- " 1"
+"school": ""
 "slug": "Friend or foe?"
-"status_id": "standard"
-"teaching_note": ""
+"status_id": "1"
+"teaching_note": "WikiLeaks TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\
   \ secure website for whistleblowers, and the mainstream media--focusing on the British\
   \ Guardian newspaper. Use in courses on government-media relations; managing sources;\
   \ data journalism; editorial decisionmaking; or international reporting. "
-"thumb": "knightcase_banner_wikileaks.jpg"
+"thumb": "thumbnail_wikileaks.jpg"
 "title": "Friend or foe? WikiLeaks and the <i>Guardian</i>"
+"title_color": "#1f9937"
 ---
 <p><em>CSJ-11-0041.0</em><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/520/wikileaks abstract.gif" style="float: right; " /> This case is about the celebrated collaboration between WikiLeaks, the secure website for whistleblowers, and the mainstream media&mdash; focusing on the British <em>Guardian</em> newspaper. It raises for discussion whether the <em>Guardian </em>and its international media partners were correct to collaborate with WikiLeaks and to publish US secret government documents.</p><p><strong>This is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p><span style="font-weight: bold;">Topics: </span>editorial management; international; digital media; politics reporting</p>

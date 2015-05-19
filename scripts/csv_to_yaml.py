@@ -1,5 +1,6 @@
 import csv
 import yaml
+import string
 import pdb
 in_file  = open('cases.csv', "r")
 items = []
@@ -26,7 +27,7 @@ class HugoYaml(yaml.YAMLObject):
 
 def convert_to_yaml(line, counter):
     title = line[2]
-    case_topics = line[4].split(';')
+    case_topics = [str.strip(string.whitespace) for str in line[4].split(';') ]
     related_cases = line[8].split(',')
     description = line[11]
     description = description.replace('_x000d_', '')
@@ -38,30 +39,32 @@ def convert_to_yaml(line, counter):
         'slug': line[1],
         'title': title,
         'case_number': line[3],
-        'case_topics': [case_topics],
+        'case_topics': case_topics,
         'case_author': line[5],
         'news_org': line[6],
         'faculty_notes': line[7],
-        'related_cases': [related_cases],
+        'related_cases': related_cases,
         'redtext': line[9],
         'teaser': line[10],
         'description': description,
         'price': line[12],
-        'abstract': line[13],
-        'teaching_note': line[14],
-        'epologue': line[15],
-        'banner': line[16],
-        'abstract_img': line[16],
-        'thumb': line[17],
-        'link_color': line[18],
-        'authentication': line[19],
-        'faculty_only': line[20],
-        'layout': line[21],
-        'linked_classes': line[22],
-        'category_id': line[23],
-        'status_id': line[24],
-        'created_on': line[25],
-        'school': line[26],
+        'pdf': line[13],
+        'abstract': line[14],
+        'teaching_note': line[15],
+        'epologue': line[16],
+        'banner': line[17],
+        'abstract_img': line[18],
+        'thumb': line[19],
+        'link_color': line[20],
+        'title_color': line[21],
+        'authentication': line[22],
+        'faculty_only': line[23],
+        'layout': line[24],
+        'linked_classes': line[25],
+        'category_id': line[26],
+        'status_id': line[27],
+        'created_on': line[28],
+        'school': line[29],
     }
     items.append(item)
     item_descriptions.append(description)
@@ -74,6 +77,7 @@ try:
     for i in range(len(items)):
         out_filename = "case_" + items[i]['id'] + ".md"
         out_file = open(out_filename, "w")
+        #pdb.set_trace()
         out_file.write(
             yaml.dump(items[i],
                       default_flow_style=False,

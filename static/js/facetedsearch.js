@@ -19,7 +19,7 @@ var defaults = {
   orderByTemplate    : '<div class=orderby><span class="orderby-title">Sort by: </span><ul><% _.each(options, function(value, key) { %>'+
                        '<li class=orderbyitem id=orderby_<%= key %>>'+
                        '<%= value %> </li> <% }); %></ul></div>',
-  countTemplate      : '<!--<div class=facettotalcount>Results: </div>-->',
+  countTemplate      : '<!--<div class=facettotalcount>Results: (<%= count %>)</div>-->',
   deselectTemplate   : '<div class=deselectstartover>Deselect all filters</div>',
   resultTemplate     : '<div class=facetresultbox><%= name %></div>',
   noResults          : '<div class=results>Sorry, but no items match these criteria</div>',

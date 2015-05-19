@@ -1,0 +1,7 @@
+<ul>
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.case_topic }}
+        {{ . }}
+      <li><a href="{{ $data.case_topics }}/{{ $key | urlize }}">{{ $key }}</a> {{ len $value }}</li>
+    {{ end }}
+   </ul>

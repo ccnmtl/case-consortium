@@ -1,14 +1,14 @@
 ---
-"abstract": "When BEST intentions go awry_wm.pdf"
-"abstract_img": "When BEST intentions go awry Epilogue.pdf"
-"authentication": "Screen shot 2012-05-25 at 5.10.33 PM.png"
-"banner": "When BEST intentions go awry Epilogue.pdf"
+"abstract": ""
+"abstract_img": "abstract image.jpg"
+"authentication": "yes"
+"banner": "180-01272_ArsenicMitagion.jpg"
 "case_author": "Ted Smalley Bowen"
 "case_number": "MSPH-12-0003.0"
 "case_topics":
-- - "human subject research, crisis management"
-"category_id": ""
-"created_on": ""
+- "human subject research, crisis management"
+"category_id": "16"
+"created_on": "3/14/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/642/abstract\
   \ image.jpg\" style=\"float: right; \" /></p><p><em>MSPH-12-0003.0</em></p><p><span\
   \ style=\"font-size:12px;\">This case is about a public health response to the widespread\
@@ -23,24 +23,26 @@
   \ rgb(0, 0, 0); font-family: arial, helvetica, verdana, sans-serif; line-height:\
   \ 17px;\">: international public health research, human subject research, or crisis\
   \ management. &nbsp;</span></p>"
-"epologue": "When BEST intentions go awry TN.pdf"
+"epologue": "When BEST intentions go awry Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "87"
-"layout": ""
-"link_color": "abstract image.jpg"
-"linked_classes": "yes"
+"layout": "standard"
+"link_color": ""
+"linked_classes": ""
 "news_org": "N/A"
+"pdf": "When BEST intentions go awry_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- - ""
-"school": "16"
+- ""
+"school": "mailman"
 "slug": "When BEST Intentions Go Awry"
-"status_id": "standard"
-"teaching_note": ""
+"status_id": "1"
+"teaching_note": "When BEST intentions go awry TN.pdf"
 "teaser": ""
-"thumb": "180-01272_ArsenicMitagion.jpg"
+"thumb": "Screen shot 2012-05-25 at 5.10.33 PM.png"
 "title": "When BEST Intentions Go Awry: Arsenic Mitigation in Bangladesh"
+"title_color": ""
 ---
 <p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/642/abstract image.jpg" style="float: right; " /></p><p><em>MSPH-12-0003.0</em></p><p><span style="font-size:12px;">This case is about a public health response to the widespread arsenic contamination of groundwater in Bangladesh. It examines the lead-up to a 2008 media crisis that confronted a Columbia University clinical trial of a potential treatment for arsenic poisoning. The case raises for discussion the challenges of conducting research in rural, less developed and culturally insular communities. It also asks how to help communities while studying them--complicated by funding restrictions and a possible skewing of results.&nbsp;</span></p><p>Epilogue, Teaching Note</p><p><strong style="color: rgb(0, 0, 0); font-family: arial, helvetica, verdana, sans-serif; line-height: 17px;">Topics</strong><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, verdana, sans-serif; line-height: 17px;">: international public health research, human subject research, or crisis management. &nbsp;</span></p>
