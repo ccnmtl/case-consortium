@@ -1,6 +1,35 @@
 ---
-author:
-date:
-id: "148"
-title: "Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
+"abstract": ""
+"abstract_img": ""
+"authentication": "yes"
+"banner": "Syria banner.jpeg"
+"case_author": "Kirsten Lundberg"
+"case_number": "CSJ-14-0057.0"
+"case_topics":
+- "international journalism, editorial management"
+"category_id": "17"
+"created_on": "1/27/2015"
+"description": ""
+"epologue": "Global Post epilogue.pdf"
+"faculty_notes": ""
+"faculty_only": ""
+"id": "148"
+"layout": "standard"
+"link_color": ""
+"linked_classes": ""
+"news_org": "GlobalPost"
+"pdf": "Global Post final1.pdf"
+"price": "5.95"
+"redtext": "NEW"
+"related_cases":
+- ""
+"school": ""
+"slug": "GlobalPost Syria"
+"status_id": "2"
+"teaching_note": "Global Post TN.pdf"
+"teaser": ""
+"thumb": ""
+"title": "Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
+"title_color": ""
 ---
+

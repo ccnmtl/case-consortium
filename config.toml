@@ -6,3 +6,8 @@ MetaDataFormat = "yaml"
 [params]
 baseurl = "case-consortium.stage.ccnmtl.columbia.edu"
 case_repo_baseurl = "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/"
+
+
+[taxonomies]
+    case_topic = "case_topics"
+

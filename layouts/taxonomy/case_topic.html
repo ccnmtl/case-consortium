@@ -1,0 +1,7 @@
+{{ $pages := .Site.Pages }}
+
+<ul>
+    {{ range .Data.Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title|safeHtml }}</a></li>
+    {{ end }}
+</ul>

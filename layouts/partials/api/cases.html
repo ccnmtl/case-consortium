@@ -1,0 +1,16 @@
+<script>
+    var Cases = [];
+    var ClipTerms = [];
+    {{ range .Data.Pages.ByTitle }}
+        Cases.push({
+            "id":{{ .Params.id }},
+            "title": {{ .Title }},
+            "topics": {{ .Params.case_topics }},
+        });
+    {{ end }}
+    
+    {{ range .Data.clip_terms }}
+        ClipTerms.push( {{ . }})
+    {{ end }}
+
+</script>
