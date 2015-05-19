@@ -6,9 +6,6 @@
         {{ partial "header_section.html" . }}
         <!-- Main -->
             <div id="main">
-              {{ range .Data.case_topics }}
-                {{ . }}
-              {{ end }}
              
                 <div id="facets"></div>
                 <div id="results"></div>
@@ -25,11 +22,11 @@
                                 <tr>
                                     <th>Title</th>
                                     <th>Topic</th>
-                                   <!--<th>Author </th>-->
+                                   <th>Internal Link</th>
                                 </tr>
                             </thead>
                                 {{ range .Data.Pages.ByTitle }}
-                                  {{ .Render "json" }}
+                                  
                                 <tr>
                                     
                                     <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Title|safeHtml }}</a>
@@ -41,6 +38,7 @@
                                           {{ . }}, <br/>
                                         {{ end }}
                                   </td>
+                                  <td><a href="{{ .Permalink }}">{{ .Title|safeHtml}}</a></td>
                                 </tr>
                                 
                                 {{ end }}

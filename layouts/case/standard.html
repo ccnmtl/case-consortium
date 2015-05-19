@@ -5,15 +5,15 @@
         <!-- Header -->
         {{ partial "header_section.html" . }}
         <!-- Main -->
-            <div id="main">asdasd
-                {{ .Site.Params.case_repo_baseurl }}
+            <div id="main">
                 <!-- One -->
                     <section id="one">
-                        <h1>{{.Title}}</h1>
+                        <h1>{{.Title|safeHtml}}</h1>
                         <p>{{ .Content }}</p>
                     </section>
+                    <p>Topics:</p>
                     {{ range .Params.case_topics }}
-                        {{ . }} <br/>
+                        <a href="/case_topics/{{ .|urlize }}">{{ . }}</a> <br/>
                     {{ end }}
             </div>
 
