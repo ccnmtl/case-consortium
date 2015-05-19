@@ -29,7 +29,7 @@
                                 </tr>
                             </thead>
                                 {{ range .Data.Pages.ByTitle }}
-                                
+                                  {{ .Render "json" }}
                                 <tr>
                                     
                                     <td><a target="_blank" class="repo-url" href="{{.Site.Params.case_repo_baseurl}}{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{.Params.id}}.html">{{ .Title|safeHtml }}</a>
