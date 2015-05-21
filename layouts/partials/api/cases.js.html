@@ -1,0 +1,14 @@
+<script id="cases" data-type="json" data-export="true" data-file-extension="json">
+    {{ $len := len .Data.Pages }}
+{"cases":[
+    {{ range $i, $e:= .Data.Pages.ByTitle }}
+        {{ $last := sub $len $i }}
+        {
+            "id":{{ .Params.id }},
+            "title": {{ .Title }},
+            "topics": {{ .Params.case_topics }}
+        }{{if gt $last 1 }},{{ end }}
+    {{ end }}
+    ]
+}
+</script>

@@ -77,7 +77,6 @@ try:
     for i in range(len(items)):
         out_filename = "case_" + items[i]['id'] + ".md"
         out_file = open(out_filename, "w")
-        #pdb.set_trace()
         out_file.write(
             yaml.dump(items[i],
                       default_flow_style=False,

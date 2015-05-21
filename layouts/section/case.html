@@ -49,9 +49,9 @@
 
             </div>
             
-              {{ partial "api/cases.html" . }}
+              {{ partial "api/cases.js" . }}
             
-            <script>
+            <script data-export="true" data-file-extension="js" id="facetize">
                     jQuery(document).ready(function(){
                         var item_template = 
                            '<div class="item">' +
