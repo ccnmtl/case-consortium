@@ -1,0 +1,17 @@
+{{ $len := len .Site.Pages.ByTitle }}
+{"cases":[
+    {{ range $i, $page := .Site.Pages.ByTitle }}
+        {{ if ne $page.Type "json" }}
+            {{ $last := sub $len $i }}
+            {{ $content := $page.Plain }}
+            {
+                "id":{{ .Params.id }},
+                "title": "{{ $page.Title|html }}",
+                "content": "{{ $content|urlize }}",
+                "topics": [{{ range $tindex, $tag := .Params.case_topics }}{{ if $tindex }},{{ end }}"{{ $tag }}"{{ end }}]
+            }{{if gt $last 1 }},{{ end }}
+
+        {{ end }}
+    {{ end }}
+    ]
+}

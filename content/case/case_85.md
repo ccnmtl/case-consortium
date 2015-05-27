@@ -6,7 +6,9 @@
 "case_author": "Nancy Zerbey"
 "case_number": "CSJ-12-0043.0"
 "case_topics":
-- "conflict reporting, race, gender"
+- "conflict reporting"
+- "race"
+- "gender"
 "category_id": "17"
 "created_on": "3/5/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/573/abstract\

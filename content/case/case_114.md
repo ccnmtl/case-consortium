@@ -6,7 +6,9 @@
 "case_author": "Ruth Palmer"
 "case_number": "MSPH-13-0006.0"
 "case_topics":
-- "tuberculosis, infectious diseases, quarantine"
+- "tuberculosis"
+- "infectious diseases"
+- "quarantine"
 "category_id": "16"
 "created_on": "6/9/2013"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/771/abstract.jpg\"\

@@ -6,7 +6,8 @@
 "case_author": "Shahbano Tirmizi, Erin O'Reilly, Elizabeth Herb and Lakshmi Balachandran"
 "case_number": "SIPA-13-0003.0"
 "case_topics":
-- "natural resource development policy, negotiations"
+- "natural resource development policy"
+- "negotiations"
 "category_id": "15"
 "created_on": "11/21/2013"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/global/117/abstract.jpg\"\

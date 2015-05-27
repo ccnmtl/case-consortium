@@ -6,7 +6,9 @@
 "case_author": "Delia Cabe"
 "case_number": "CSJ-12-0042.0"
 "case_topics":
-- "ethics, sports reporting, digital journalism"
+- "ethics"
+- "sports reporting"
+- "digital journalism"
 "category_id": "17"
 "created_on": "3/9/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/569/abstract\

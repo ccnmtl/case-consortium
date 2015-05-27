@@ -6,7 +6,8 @@
 "case_author": "Lisa Armstrong"
 "case_number": "MSPH-12-0001"
 "case_topics":
-- "public health policy, public awareness campaigns"
+- "public health policy"
+- "public awareness campaigns"
 "category_id": "16"
 "created_on": "5/25/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/651/Screen\

@@ -6,7 +6,8 @@
 "case_author": "Ted Smalley Bowen"
 "case_number": "MSPH-12-0003.0"
 "case_topics":
-- "human subject research, crisis management"
+- "human subject research"
+- "crisis management"
 "category_id": "16"
 "created_on": "3/14/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/642/abstract\

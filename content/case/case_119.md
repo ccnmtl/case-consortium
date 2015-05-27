@@ -6,7 +6,8 @@
 "case_author": ""
 "case_number": "AKU-13-0001.0"
 "case_topics":
-- "journalism ethics, editorial management"
+- "journalism ethics"
+- "editorial management"
 "category_id": "19"
 "created_on": "12/12/2013"
 "description": "<p><em>AKU-13-0001.0</em></p><p>This case examines what happens when\

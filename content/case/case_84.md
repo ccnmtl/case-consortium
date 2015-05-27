@@ -6,7 +6,8 @@
 "case_author": "Maria Y. Wang"
 "case_number": "SIPA-12-0001.0"
 "case_topics":
-- "international development, food security"
+- "international development"
+- "food security"
 "category_id": "15"
 "created_on": "1/30/2012"
 "description": "<p><em><img alt=\"\" src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/528/TL\

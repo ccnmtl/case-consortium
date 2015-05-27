@@ -6,7 +6,9 @@
 "case_author": "Kelly Toughill"
 "case_number": "CSJ-13-0052.0"
 "case_topics":
-- "media, strategic management, entrepreneurship"
+- "media"
+- "strategic management"
+- "entrepreneurship"
 "category_id": "17"
 "created_on": "12/6/2013"
 "description": "<p><em>CSJ-13-0052.0 </em><br /><br />This case tells the story of\

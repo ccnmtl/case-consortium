@@ -49,10 +49,14 @@
 
             </div>
             
-              {{ partial "api/cases.js" . }}
+              
             
             <script data-export="true" data-file-extension="js" id="facetize">
+                    $.getJSON('/js/api/cases.json').success(function(cases){
+                            window.Cases = cases;
+                        })
                     jQuery(document).ready(function(){
+                         
                         var item_template = 
                            '<div class="item">' +
                              '<img src="<%= obj.imageURL %>">' +
@@ -66,7 +70,7 @@
                              '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></p>' +
                            '</div>';
                         settings = { 
-                          items            : Cases,
+                          items            : Cases.cases,
                           facets           : { 
                                               'topics'     : 'What topic',
                           },  

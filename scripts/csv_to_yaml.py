@@ -28,6 +28,8 @@ class HugoYaml(yaml.YAMLObject):
 def convert_to_yaml(line, counter):
     title = line[2]
     case_topics = [str.strip(string.whitespace) for str in line[4].split(';') ]
+    if len(case_topics) == 1:
+        case_topics = [str.strip(string.whitespace) for str in line[4].split(',') ]
     related_cases = line[8].split(',')
     description = line[11]
     description = description.replace('_x000d_', '')

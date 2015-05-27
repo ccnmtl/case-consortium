@@ -6,7 +6,8 @@
 "case_author": "Anzetse Were"
 "case_number": "AKU-13-0007.0"
 "case_topics":
-- "Journalism ethics, human rights reporting"
+- "Journalism ethics"
+- "human rights reporting"
 "category_id": "19"
 "created_on": "12/12/2013"
 "description": "<p><em>AKU-13-0007.0</em><br /><br />This case looks at the challenges\
