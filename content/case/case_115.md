@@ -22,6 +22,15 @@
   \ que produce la cobertura de il&iacute;citos cometidos por su propia iglesia.</p><p>Ep&iacute;logo,\
   \ Teaching Note</p><p><strong>Temas:</strong> periodismo de investigaci&oacute;n;\
   \ cobertura de religi&oacute;n</p>"
+"description_clean": "CSJ-13-0050.0Este caso trata el cálculo que un medio de comunicación\
+  \ debe hacer cuando descubre una historia que incrimina a la institución más poderosa\
+  \ de su comunidad. En 2001, la unidad de investigación del Boston Globe descubrió\
+  \ una serie de casos de abuso sexual de menores por parte de sacerdotes católicos.\
+  \ Los alumnos podrán examinar las técnicas de investigación empleadas así como analizar\
+  \ los desafíos particulares de cubrir el sector religión y reflexionar sobre el\
+  \ impacto personal sobre los periodistas que produce la cobertura de ilícitos cometidos\
+  \ por su propia iglesia.Epílogo, Teaching NoteTemas: periodismo de investigación;\
+  \ cobertura de religión"
 "epologue": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

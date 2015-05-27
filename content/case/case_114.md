@@ -21,6 +21,15 @@
   \ clear that his strain of TB is more lethal and difficult-to-treat than anticipated.&nbsp;</p><p>Epilogue,\
   \ Teaching Note</p><p><strong>Topics:&nbsp;</strong>global health, tuberculosis,\
   \ infectious diseases, epidemiology, global migration and quarantine</p>"
+"description_clean": " MSPH-13-0006.0This case explores the ethical and logistical\
+  \ challenges that face doctors when an infectious disease patient does not cooperate\
+  \ voluntarily with advice to stay out of public spaces in order to protect the general\
+  \ welfare. In April 2007, a young Atlanta lawyer, Andrew Speaker, was diagnosed\
+  \ with active tuberculosis. Initially cooperative, Speaker departs without notice\
+  \ for Greece and his scheduled wedding after it becomes clear that his strain of\
+  \ TB is more lethal and difficult-to-treat than anticipated. Epilogue, Teaching\
+  \ NoteTopics: global health, tuberculosis, infectious diseases, epidemiology, global\
+  \ migration and quarantine"
 "epologue": "Speaker CDC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

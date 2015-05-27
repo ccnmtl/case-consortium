@@ -17,6 +17,11 @@
   \ of transforming from a traditional ink-on-paper product to a hybrid paper/Web\
   \ product.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>strategic management;\
   \ digital media</p>"
+"description_clean": !!python/unicode "CSJ-07-0002.0This case study takes students\
+  \ inside the strategic thinking of the executive team at the Albany Times Union,\
+  \ a prototypical regional newspaper. Like other newspapers, it faced the challenge\
+  \ of transforming from a traditional ink-on-paper product to a hybrid paper/Web\
+  \ product.Epilogue, Teaching NoteTopics: strategic management; digital media"
 "epologue": "Times Union Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -37,8 +42,8 @@
 "teaching_note": "Times Union Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Charting a Course for Change: Transforming the Albany <i>Times Union </i>in\
-  \ a Wired World"
+"title": "Charting a Course for Change: Transforming the Albany &lt;i&gt;Times Union\
+  \ &lt;/i&gt;in a Wired World"
 "title_color": "#666666"
 ---
 <p><img align="right" alt="" src="/casestudy/files/photos/242/times union.gif" /><i>CSJ-07-0002.0</i><br />This case study takes students inside the strategic thinking of the executive team at the Albany <em>Times Union</em>, a prototypical regional newspaper. Like other newspapers, it faced the challenge of transforming from a traditional ink-on-paper product to a hybrid paper/Web product.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>strategic management; digital media</p>

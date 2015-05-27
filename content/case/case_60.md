@@ -21,6 +21,12 @@
   >la &eacute;tica; la privacidad</span></span></p><p><em><strong>Facultad:</strong>\
   \ Usted tendr&aacute; la oportunidad de revisar la parte B, una vez que se haya\
   \ registrado.</em></p>"
+"description_clean": "CSJ-08-0015.4POEste caso, en dos partes, es acerca de cómo los\
+  \ medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho\
+  \ del público a informarse. Se pide a los estudiantes que deben tener en cuenta\
+  \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
+  \ sobre los que escribe.Temas: la ética; la privacidadFacultad: Usted tendrá la\
+  \ oportunidad de revisar la parte B, una vez que se haya registrado."
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": ""
@@ -40,7 +46,7 @@
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Privacidad y el Inter&eacute;s P&uacute;blico: Frederick, MD, <i>News-Post</i>\
+"title": "Privacidad y el Inter&amp;eacute;s P&amp;uacute;blico: Frederick, MD, &lt;i&gt;News-Post&lt;/i&gt;\
   \ y la Historia de Bruce Ivins. Primera Parte."
 "title_color": "#2947a3"
 ---

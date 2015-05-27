@@ -22,6 +22,13 @@
   \ Teaching Note</p><p><span style=\"font-weight: bold;\">Temas:&nbsp;</span>las\
   \ relaciones entre gobierno y medios; manejo de fuentes; periodismo de datos; procesos\
   \ editoriales de decisi&oacute;n; o informaci&oacute;n internacional.</p>"
+"description_clean": "CSJ-11-0047.0Este caso aborda la famosa colaboración entre Wikileaks,\
+  \ una web segura para los denunciantes, y los principales medios de comunicación,\
+  \ centrándose en el diario británico The Guardian. Sirve para discutir si The Guardian y\
+  \ sus socios en los medios internacionales actuaron correctamente al colaborar con\
+  \ Wikileaks y publicar documentos secretos del gobierno de Estados Unidos.Epílogo,\
+  \ Teaching NoteTemas: las relaciones entre gobierno y medios; manejo de fuentes;\
+  \ periodismo de datos; procesos editoriales de decisión; o información internacional."
 "epologue": "Amigo o enemigoWikileaks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

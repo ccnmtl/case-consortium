@@ -19,6 +19,14 @@
   \ /><strong>This is a FREE case.</strong><br /><br />Epilogue, Teaching Note<br\
   \ /><br /><strong>Topics:&nbsp;</strong>&nbsp;journalism ethics, editorial decision\
   \ making, reporting on human rights and social issues, reporting on politics.&nbsp;</p>"
+"description_clean": "AKU-13-0007.0This case looks at the challenges of reporting\
+  \ on homosexuality in a society with complicated attitudes toward the issue. In\
+  \ September 2009, a Ugandan member of Parliament tabled a bill that called for the\
+  \ criminalization of homosexual acts and the death sentence for “aggravated homosexuality.”\
+  \ Moses Walugembe, a news anchor and talk show host in rural Uganda, wanted to host\
+  \ a show exploring the pros and cons of the bill.This is a FREE case.Epilogue, Teaching\
+  \ NoteTopics:  journalism ethics, editorial decision making, reporting on human\
+  \ rights and social issues, reporting on politics. "
 "epologue": "Radio Buddu epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

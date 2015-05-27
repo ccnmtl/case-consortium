@@ -17,6 +17,11 @@
   \ to write is not the story she uncovers. It also examines the responsibility of\
   \ a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue,\
   \ Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p>"
+"description_clean": !!python/unicode " CSJ-09-0019.0POThis case study examines long-form\
+  \ journalism, and the dilemma for a reporter when the story she intends to write\
+  \ is not the story she uncovers. It also examines the responsibility of a reporter\
+  \ to a source unfamiliar with journalistic conventions.Epilogue, Teaching NoteTopics:\
+  \ ethics; education reporting; feature writing"
 "epologue": "Chicago Tribune Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -37,7 +42,8 @@
 "teaching_note": "Chicago Tribune Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Elusive Story: The <i>Chicago Tribune</i> Examines &quot;No Child Left Behind&quot;"
+"title": "Elusive Story: The &lt;i&gt;Chicago Tribune&lt;/i&gt; Examines &amp;quot;No\
+  \ Child Left Behind&amp;quot;"
 "title_color": "#2947a3"
 ---
 <p><img align="right" alt="" src="/casestudy/files/photos/360/text only image.jpg" /> <i>CSJ-09-0019.0PO</i><br /><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p>

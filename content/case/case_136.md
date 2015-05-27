@@ -22,6 +22,15 @@
   \ of a project that will be a model for communities worldwide experiencing similar\
   \ challenges.<br /><br /><strong>Topics:</strong> sustainable development; environmental\
   \ affairs; negotiations; community empowerment</p>"
+"description_clean": "SIPA-14-0006.0 This case traces the evolution of a resettlement\
+  \ scheme in Peru that has the potential both to benefit corporate interests and\
+  \ better the lot of the local community. In January 2012, Fred Goytendía Matos becomes\
+  \ technical secretary for a Dialogue Table created to reconcile the interests of\
+  \ Chinalco, a Chinese-owned mine in Peru, multi-level government interests, and\
+  \ the residents of Morococha, a town that Chinalco wants to resettle to better exploit\
+  \ the mine’s potential. Goytendía Matos, in particular, dreams of a project that\
+  \ will be a model for communities worldwide experiencing similar challenges.Topics:\
+  \ sustainable development; environmental affairs; negotiations; community empowerment"
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": ""

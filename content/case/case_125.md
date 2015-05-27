@@ -21,6 +21,16 @@
   \ objections&mdash;most of them political&mdash;to some of the requirements for\
   \ an RCT.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>community-based\
   \ research; public health studies; academic/non-profit partnerships</p>"
+"description_clean": "This case looks at the challenges of adhering to best scientific\
+  \ research practices when operating in the real world. The national Experience Corps\
+  \ program brings senior citizens to work as volunteers in elementary schools. But\
+  \ it has not yet had a rigorous evaluation—one that would argue for aggressive expansion.\
+  \ In 2005, Linda Fried, director of the Center on Aging and Health at Johns Hopkins\
+  \ University, wants to submit a proposal to the National Institutes of Health to\
+  \ fund randomized controlled trial of the Baltimore chapter of Experience Corps.\
+  \ But the organization which operates Experience Corps in Baltimore, has objections—most\
+  \ of them political—to some of the requirements for an RCT.Epilogue, Teaching NoteTopics: community-based\
+  \ research; public health studies; academic/non-profit partnerships"
 "epologue": "EC epilogue v.2.pdf"
 "faculty_notes": ""
 "faculty_only": ""

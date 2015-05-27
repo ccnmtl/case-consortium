@@ -20,6 +20,12 @@
   \ in September 2009 over an Associated Press photograph of a wounded Marine who\
   \ subsequently died.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>international;\
   \ editorial decisionmaking; photojournalism</p>"
+"description_clean": " CSJ-10-0035.0This case about news photography examines a host\
+  \ of issues, from the mechanics of war photography, to the rules for embedded photographers,\
+  \ to the relationship between the military establishment and the media. It looks\
+  \ at the controversy in September 2009 over an Associated Press photograph of a\
+  \ wounded Marine who subsequently died.Epilogue, Teaching NoteTopics: international;\
+  \ editorial decisionmaking; photojournalism"
 "epologue": "AP Photos Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

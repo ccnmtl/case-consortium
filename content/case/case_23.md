@@ -18,6 +18,13 @@
   \ aid recipients, as well as instances of complicit FEMA inspectors, many of whom\
   \ had criminal backgrounds.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>investigative\
   \ reporting; newsroom management</p>"
+"description_clean": !!python/unicode "CSJ-08-0010.0This case is about the challenges\
+  \ of investigative reporting. The South Florida Sun-Sentinel began in the fall of\
+  \ 2004 to investigate the consequences of a wave of hurricanes on their region.\
+  \ Eventually, the reporting team discovered widespread fraud by Federal Emergency\
+  \ Management Agency (FEMA) aid recipients, as well as instances of complicit FEMA\
+  \ inspectors, many of whom had criminal backgrounds.Epilogue, Teaching NoteTopics:\
+  \ investigative reporting; newsroom management"
 "epologue": "Sun-Sentinel Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -38,7 +45,8 @@
 "teaching_note": "Sun-Sentinel Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "After the Storms: The South Florida <i>Sun-Sentinel</i> Investigates FEMA"
+"title": "After the Storms: The South Florida &lt;i&gt;Sun-Sentinel&lt;/i&gt; Investigates\
+  \ FEMA"
 "title_color": "#006699"
 ---
 <p><i><img align="right" alt="" src="/casestudy/files/photos/249/sun-sentinel.gif" />CSJ-08-0010.0</i><br />This case is about the challenges of investigative reporting. The South Florida <i>Sun-Sentinel </i>began in the fall of 2004 to investigate the consequences of a wave of hurricanes on their region. Eventually, the reporting team discovered widespread fraud by Federal Emergency Management Agency (FEMA) aid recipients, as well as instances of complicit FEMA inspectors, many of whom had criminal backgrounds.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>investigative reporting; newsroom management</p>

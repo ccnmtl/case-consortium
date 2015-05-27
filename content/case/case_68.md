@@ -20,6 +20,14 @@
   \ in local media markets, and the options for community outreach.</p><p><strong>This\
   \ is a FREE, contributed case.</strong><br /><br />Epilogue, Teaching Note</p><p><strong>Topics:\
   \ </strong>local journalism; media business; digital media</p>"
+"description_clean": !!python/unicode "CSJ-11-0038.0CCThis case takes a hard look\
+  \ behind the scenes at starting a for-profit community news website, the Long Beach\
+  \ Post (LBPOST.com). Students can discuss the variety of challenges facing a news\
+  \ start-up and debate the merits of a for-profit business model. they will gain\
+  \ insight into the realities of journalism entrepreneurship, the competition in\
+  \ local media markets, and the options for community outreach.This is a FREE, contributed\
+  \ case.Epilogue, Teaching NoteTopics: local journalism; media business; digital\
+  \ media"
 "epologue": "Long Beach Post Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -42,7 +50,8 @@
   \ community news website, the <i>Long Beach Post</i> (LBPOST.com). Use in courses\
   \ on the business of media; online media; community news; or journalism entrepreneurship."
 "thumb": "text only image.jpg"
-"title": "The Jury is Out: The <i>Long Beach Post</i> and Online Local News"
+"title": "The Jury is Out: The &lt;i&gt;Long Beach Post&lt;/i&gt; and Online Local\
+  \ News"
 "title_color": "#2947a3"
 ---
 <p><i>CSJ-11-0038.0CC</i><br />This case takes a hard look behind the scenes at starting a for-profit community news website, the <em>Long Beach Post</em> (LBPOST.com). Students can discuss the variety of challenges facing a news start-up and debate the merits of a for-profit business model. they will gain insight into the realities of journalism entrepreneurship, the competition in local media markets, and the options for community outreach.</p><p><strong>This is a FREE, contributed case.</strong><br /><br />Epilogue, Teaching Note</p><p><strong>Topics: </strong>local journalism; media business; digital media</p>

@@ -19,6 +19,15 @@
   \ up to deliver services when, in March 2012, staff learn the chief funder is withdrawing.</p><p><strong>This\
   \ is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong>\
   \ Sustainable development</p>"
+"description_clean": "CCC-14-0001.0This case takes students into the world of international\
+  \ sustainable development. It looks at the challenges that confront a comprehensive\
+  \ development project (environment, education, health etc.) in the south of Haiti\
+  \ in 2012. The Côte Sud Initiative (CSI) is one piece of the government’s response\
+  \ to the devastating earthquake of January 2010 that leveled large parts of the\
+  \ capital and sent refugees streaming into the countryside, including the south.\
+  \ The project starts with data collection and is just gearing up to deliver services\
+  \ when, in March 2012, staff learn the chief funder is withdrawing.This is a FREE\
+  \ case.Epilogue, Teaching NoteTopics: Sustainable development"
 "epologue": "Haiti Epilogue 030614.pdf"
 "faculty_notes": ""
 "faculty_only": ""

@@ -17,6 +17,11 @@
   \ challenge for editors of deciding what to put in the paper once a story has broken\
   \ on the website.&nbsp;<br /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>digital\
   \ media; crisis reporting</p>"
+"description_clean": "CSJ-09-0014.0This case about the St. Louis, MO, Post-Dispatch\
+  \ addresses how to manage a breaking story online when it could have traumatic effects\
+  \ on the local community. It also raises the challenge for editors of deciding what\
+  \ to put in the paper once a story has broken on the website. Epilogue, Teaching\
+  \ NoteTopics: digital media; crisis reporting"
 "epologue": "Post-Dispatch Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -37,7 +42,8 @@
 "teaching_note": "Post-Dispatch Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Digital Deadline: The St. Louis <i>Post-Dispatch</i> and the Kirkwood Shooting"
+"title": "Digital Deadline: The St. Louis &lt;i&gt;Post-Dispatch&lt;/i&gt; and the\
+  \ Kirkwood Shooting"
 "title_color": "#c91e1e"
 ---
 <div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/287/pd abstract small.jpg" /></div><p><i>CSJ-09-0014.0</i><br />This case about the St. Louis, MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online when it could have traumatic effects on the local community. It also raises the challenge for editors of deciding what to put in the paper once a story has broken on the website.&nbsp;<br /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p>

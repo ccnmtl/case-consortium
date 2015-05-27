@@ -24,6 +24,17 @@
   \ expensive ART drugs needed to treat and prevent the further spread of HIV.</p><p>Epilogue,\
   \ Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>public health policy; HIV-AIDS;\
   \ Africa, multinational aid; medical ethics; evidence-based medicine</p>"
+"description_clean": "MSPH-14-0008.0This case study examines the challenges and tradeoffs\
+  \ for a small sub-Saharan African country with limited resources as it tries to\
+  \ combat one of the highest rates of HIV-AIDS infection in the world. Swaziland\
+  \ in 1999 declared HIV-AIDS a national disaster. However, under the direction of\
+  \ Dr. Velphi Okello as national antiretroviral therapy (ART) coordinator at the\
+  \ Ministry of Health, the country gradually began to take charge of its own treatment\
+  \ and prevention programs. Okello learned to leverage both internal and international\
+  \ resources to maintain supplies of the essential but expensive ART drugs needed\
+  \ to treat and prevent the further spread of HIV.Epilogue, Teaching NoteTopics: public\
+  \ health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based\
+  \ medicine"
 "epologue": "Swaziland epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""

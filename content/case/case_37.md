@@ -18,6 +18,12 @@
   \ the structures that keep news reporting separate from opinion, and the factors\
   \ that weigh in on editorial page decisions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics:</b>\
   \ editorial writing; politics reporting; ethics</p>"
+"description_clean": !!python/unicode "CSJ-09-0023.0In this case study, students are\
+  \ taken behind the scenes to examine the role an editorial board plays at a news\
+  \ organization. Students will begin to understand how editorial page opinions are\
+  \ formulated, the structures that keep news reporting separate from opinion, and\
+  \ the factors that weigh in on editorial page decisions.Epilogue, Teaching NoteTopics:\
+  \ editorial writing; politics reporting; ethics"
 "epologue": "Oregonian Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -40,7 +46,8 @@
   \ plays at a news organization. Use in course/class on Editorial Writing, Political\
   \ Reporting, or Editorial Decisionmaking."
 "thumb": "Oregonian banner crop.jpg"
-"title": "A Matter of Opinion: The <i>Oregonian</i> Editorial Board and Sam Adams "
+"title": "A Matter of Opinion: The &lt;i&gt;Oregonian&lt;/i&gt; Editorial Board and\
+  \ Sam Adams "
 "title_color": "#276b65"
 ---
 <div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/366/abstract_small.jpg" /></div><p><i>CSJ-09-0023.0</i><br />In this case study, students are taken behind the scenes to examine the role an editorial board plays at a news organization. <span>Students will begin to understand how editorial page opinions are formulated, the structures that keep news reporting separate from opinion, and the factors that weigh in on editorial page decisions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> editorial writing; politics reporting; ethics</p>

@@ -18,6 +18,14 @@
   \ lines. He had to find a way reunite his staff.<br /><br />Epilogue, Teaching Note<br\
   \ /><br /><strong>Topics:</strong> journalism ethics, editorial management, reporting\
   \ conflict, ethnicity and race in journalism, or reporting elections and politics.</p>"
+"description_clean": !!python/unicode "AKU-13-0001.0This case examines what happens\
+  \ when personal bias affects the newsroom. In mid-January 2008, post-election tribal\
+  \ violence in Kenya was making international headlines. The editorial director of\
+  \ Nation Media Group, which included the Daily Nation newspaper, had a crisis on\
+  \ his hands: the Daily Nation newsroom was splitting along tribal lines. He had\
+  \ to find a way reunite his staff.Epilogue, Teaching NoteTopics: journalism ethics,\
+  \ editorial management, reporting conflict, ethnicity and race in journalism, or\
+  \ reporting elections and politics."
 "epologue": "Kenya elections epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

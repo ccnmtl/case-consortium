@@ -21,6 +21,14 @@
   \ tasked with setting the timetable for implementing this ambitious plan.<br /><br\
   \ />Teaching Note</p><p><strong>Topics:</strong>&nbsp;international development,\
   \ food security</p>"
+"description_clean": "SIPA-12-0001.0This case examines the challenges of implementing\
+  \ a rice production policy in a country with multiple, sometimes conflicting, needs.\
+  \ Timor-Leste, a small Southeast Asian island nation that achieved independence\
+  \ in 2002, had decided to increase domestic rice production rather than increase\
+  \ rice imports. A 2011 20-year Strategic Development Plan called for rice self-sufficiency by\
+  \ 2020. The case asks students to take on the role of agriculture policy advisor\
+  \ to the prime minister, tasked with setting the timetable for implementing this\
+  \ ambitious plan.Teaching NoteTopics: international development, food security"
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": ""

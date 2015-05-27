@@ -24,6 +24,15 @@
   \ rgb(0, 0, 0); font-family: arial, helvetica, verdana, sans-serif; line-height:\
   \ 17px;\">: international public health research, human subject research, or crisis\
   \ management. &nbsp;</span></p>"
+"description_clean": "MSPH-12-0003.0This case is about a public health response to\
+  \ the widespread arsenic contamination of groundwater in Bangladesh. It examines\
+  \ the lead-up to a 2008 media crisis that confronted a Columbia University clinical\
+  \ trial of a potential treatment for arsenic poisoning. The case raises for discussion\
+  \ the challenges of conducting research in rural, less developed and culturally\
+  \ insular communities. It also asks how to help communities while studying them--complicated\
+  \ by funding restrictions and a possible skewing of results. Epilogue, Teaching\
+  \ NoteTopics: international public health research, human subject research, or crisis\
+  \ management.  "
 "epologue": "When BEST intentions go awry Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

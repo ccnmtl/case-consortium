@@ -21,6 +21,14 @@
   \ have a chance to weigh the costs of an investigative reporting project against\
   \ its likely returns.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>international;\
   \ investigative reporting; ethics</p>"
+"description_clean": !!python/unicode "CSJ-10-0027.0This video-intensive case is about\
+  \ a Chilean TV news program's year-long effort to locate the nation's most-wanted\
+  \ criminal, and whether its investigation is properly journalistic or verges on\
+  \ police matters. Students will explore the fine line between legitimate and illegitimate\
+  \ use of undercover reporting techniques, including hidden cameras. They will also\
+  \ have a chance to weigh the costs of an investigative reporting project against\
+  \ its likely returns.Epilogue, Teaching NoteTopics: international; investigative\
+  \ reporting; ethics"
 "epologue": "CONTACTO Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

@@ -19,6 +19,13 @@
   \ for newspapers.</p><p>Teaching Note</p><p><b>Topics: </b>digital media; newsroom\
   \ management; media business</p><p><i>This case should be used in combination with\
   \ Part A. The two parts can be taught together, or in successive class sessions.</i></p>"
+"description_clean": "CSJ-08-0008.1This two-part case looks at the research method\
+  \ “crowdsourcing,” pioneered by the private sector (The Wisdom of Crowds), and examines\
+  \ its usefulness. The Fort Myers (FL) News-Press and Gannett executives believe\
+  \ crowdsourcing —turning to consumers for expertise and information—holds promise\
+  \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
+  \ businessThis case should be used in combination with Part A. The two parts can\
+  \ be taught together, or in successive class sessions."
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": ""
@@ -39,8 +46,8 @@
 "teaching_note": "Crowdsourcing Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Crowdsourcing at the Fort Myers, FL, <i>News-Press</i> Part B: \"Help Us\
-  \ Investigate\""
+"title": "Crowdsourcing at the Fort Myers, FL, &lt;i&gt;News-Press&lt;/i&gt; Part\
+  \ B: &quot;Help Us Investigate&quot;"
 "title_color": "#996632"
 ---
 <p><img align="right" alt="" src="/casestudy/files/photos/246/crowdsourcing_b.jpg" /><i>CSJ-08-0008.1</i><br />This two-part case looks at the research method &ldquo;crowdsourcing,&rdquo; pioneered by the private sector (The Wisdom of Crowds), and examines its usefulness. The Fort Myers (FL) <i>News-Press</i> and Gannett executives believe crowdsourcing &mdash;turning to consumers for expertise and information&mdash;holds promise for newspapers.</p><p>Teaching Note</p><p><b>Topics: </b>digital media; newsroom management; media business</p><p><i>This case should be used in combination with Part A. The two parts can be taught together, or in successive class sessions.</i></p>

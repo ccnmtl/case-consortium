@@ -15,6 +15,12 @@
   \ media outlets, advertisers and others in adopting a code of editorial independence\
   \ and responsibility.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:</strong>&nbsp;\
   \ international media; ethics; media reform; or press and politics.</p>"
+"description_clean": "AKU-13-0003.0 This case examines what means and partners are\
+  \ available to battle endemic corruption within the media. In 2009, the Media Council\
+  \ of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers\
+  \ and others in adopting a code of editorial independence and responsibility.Epilogue,\
+  \ Teaching NoteTopics:  international media; ethics; media reform; or press and\
+  \ politics."
 "epologue": "Seeking Partners.pdf"
 "faculty_notes": ""
 "faculty_only": ""

@@ -17,6 +17,12 @@
   \ the terrorist attacks of September 11, American Airlines Flight 587 leaving Kennedy\
   \ Airport went down in Far Rockaway, Queens, New York.</p><p><strong>This is a video\
   \ case.</strong></p><p><b>Topics: </b>digital media; crisis reporting</p>"
+"description_clean": !!python/unicode "CSJ-09-0013.0This text+video case asks students\
+  \ to engage in a difficult calculus: report on deadline about a disaster when the\
+  \ causes are unclear. On November 12, 2001, two months and a day after the terrorist\
+  \ attacks of September 11, American Airlines Flight 587 leaving Kennedy Airport\
+  \ went down in Far Rockaway, Queens, New York.This is a video case.Topics: digital\
+  \ media; crisis reporting"
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": "yes"
@@ -37,8 +43,8 @@
 "teaching_note": "Newsday Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Terror or Accident? <i>Newsday</i> and the Crash of American Airlines Flight\
-  \ 587 (Video)"
+"title": "Terror or Accident? &lt;i&gt;Newsday&lt;/i&gt; and the Crash of American\
+  \ Airlines Flight 587 (Video)"
 "title_color": "#2850c7"
 ---
 <div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/345/video abstract small.jpg" /></div><p><i>CSJ-09-0013.0</i><br />This text+video case asks students to engage in a difficult calculus: report on deadline about a disaster when the causes are unclear. On November 12, 2001, two months and a day after the terrorist attacks of September 11, American Airlines Flight 587 leaving Kennedy Airport went down in Far Rockaway, Queens, New York.</p><p><strong>This is a video case.</strong></p><p><b>Topics: </b>digital media; crisis reporting</p>

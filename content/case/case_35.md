@@ -16,6 +16,11 @@
   \ to know. Students are asked to consider what are the obligations of a newspaper\
   \ to its readers, and to those it writes about.</p><p><b>Topics:</b> ethics; privacy</p><p><i>This\
   \ case should be used in combination with Part A.<br /></i></p>"
+"description_clean": !!python/unicode "CSJ-08-0015.1POThis two-part case is about\
+  \ how the media balances personal right to privacy against the public right to know.\
+  \ Students are asked to consider what are the obligations of a newspaper to its\
+  \ readers, and to those it writes about.Topics: ethics; privacyThis case should\
+  \ be used in combination with Part A."
 "epologue": ""
 "faculty_notes": ""
 "faculty_only": "yes"

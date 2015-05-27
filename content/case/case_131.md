@@ -24,6 +24,17 @@
   \ reasons at the risk of provoking local mistrust, or stick to the tested timetable.</p><p>Epilogue,\
   \ Teaching Note<br /><br /><strong>Topics:</strong>&nbsp;international non-profits,\
   \ social development, Latin America, &nbsp;management.</p>"
+"description_clean": "SIPA-14-0004.0This case brings readers into the world of nonprofit\
+  \ social development. Fundación Carvajal (FC) decides in 2011 to expand operations\
+  \ beyond familiar territory to the port city of Buenaventura, Colombia. FC has developed\
+  \ over decades an integrated approach to social development which it is confident\
+  \ will be effective in Buenaventura. Central to its strategy is building trust with\
+  \ the target community and involving locals in devising their own solutions to problems.\
+  \ As the program director prepares the ground for this new project, however, he\
+  \ is asked to accelerate a baseline survey, short-cutting trust-building activities.\
+  \ He has to decide: hurry the process for valid strategic reasons at the risk of\
+  \ provoking local mistrust, or stick to the tested timetable.Epilogue, Teaching\
+  \ NoteTopics: international non-profits, social development, Latin America,  management."
 "epologue": "Fundacion Carvajal Epilogue Final.pdf"
 "faculty_notes": ""
 "faculty_only": ""

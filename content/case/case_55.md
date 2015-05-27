@@ -19,6 +19,12 @@
   \ a student-run news bureau in the state capital, Frankfort.</p><p>Epilogue, Teaching\
   \ Note</p><p><strong>Topics:</strong> strategic management; politics reporting;\
   \ media business</p>"
+"description_clean": !!python/unicode "CSJ-10-0031.0This case allows students to consider\
+  \ the societal debate over the business models for future journalism, whether universities\
+  \ have a role to play, and whether good journalism is a civic obligation. The University\
+  \ of Kentucky and Kentucky State University have an opportunity in 2009 to create\
+  \ a student-run news bureau in the state capital, Frankfort.Epilogue, Teaching NoteTopics:\
+  \ strategic management; politics reporting; media business"
 "epologue": "Into the Breach Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

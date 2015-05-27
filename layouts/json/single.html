@@ -7,6 +7,7 @@
             {
                 "id":{{ .Params.id }},
                 "title": "{{ .Title|safeHtml }}",
+                "link": "{{ .Permalink }}",
                 "content": "{{ $content|urlize }}",
                 "topics": [{{ range $tindex, $tag := .Params.case_topics }}{{ if $tindex }},{{ end }}"{{ $tag }}"{{ end }}]
             }{{if gt $last 1 }},{{ end }}

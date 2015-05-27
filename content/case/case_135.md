@@ -23,6 +23,16 @@
   \ in the realities of civil activism in authoritarian societies.&nbsp;</p><p>Epilogue,\
   \ Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>international sustainable\
   \ development; China; environmental activism; civil society</p>"
+"description_clean": "CCC-14-0006.0A civil society activist in any country expects\
+  \ challenges, but with an authoritarian government the role can carry extra burdens.\
+  \ This case examines the creation and evolution of the Institute of Public and Environmental\
+  \ Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of\
+  \ polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured\
+  \ global brands to persuade their offending suppliers to clean up production. But\
+  \ SOEs were a different category—many had powerful supporters in high positions—national,\
+  \ regional and local. Use this case to give students grounding in the realities\
+  \ of civil activism in authoritarian societies. Epilogue, Teaching NoteTopics: international\
+  \ sustainable development; China; environmental activism; civil society"
 "epologue": "Ma Jun epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""

@@ -2,9 +2,24 @@ import csv
 import yaml
 import string
 import pdb
+from bs4 import BeautifulSoup
+
 in_file  = open('cases.csv', "r")
 items = []
 item_descriptions = []
+
+
+html_escape_table = {
+    "&": "&amp;",
+    '"': "&quot;",
+    "'": "&apos;",
+    ">": "&gt;",
+    "<": "&lt;"
+    }
+ 
+def html_escape(text):
+    """Produce entities within text."""
+    return "".join(html_escape_table.get(c,c) for c in text)
 
 '''
 class HugoYaml(yaml.YAMLObject):
@@ -26,7 +41,7 @@ class HugoYaml(yaml.YAMLObject):
 '''
 
 def convert_to_yaml(line, counter):
-    title = line[2]
+    title = html_escape(line[2])
     case_topics = [str.strip(string.whitespace) for str in line[4].split(';') ]
     if len(case_topics) == 1:
         case_topics = [str.strip(string.whitespace) for str in line[4].split(',') ]
@@ -35,6 +50,8 @@ def convert_to_yaml(line, counter):
     description = description.replace('_x000d_', '')
     description = description.replace('\n', '')
     description = description.replace('\t', '')
+    description_clean = BeautifulSoup(description)
+    description_clean = description_clean.get_text()
     #pdb.set_trace()
     item = {
         'id': line[0],
@@ -67,6 +84,7 @@ def convert_to_yaml(line, counter):
         'status_id': line[27],
         'created_on': line[28],
         'school': line[29],
+        'description_clean': description_clean
     }
     items.append(item)
     item_descriptions.append(description)

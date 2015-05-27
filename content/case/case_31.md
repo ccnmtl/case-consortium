@@ -15,6 +15,11 @@
   \ to write is not the story she uncovers. It also examines the responsibility of\
   \ a reporter to a source unfamiliar with journalistic conventions. </span></p><p><b>Topics:\
   \ </b>education reporting; ethics</p>"
+"description_clean": !!python/unicode "CSJ-09-0019.0This case study examines long-form\
+  \ journalism, and the dilemma for a reporter when the story she intends to write\
+  \ is not the story she uncovers. It also examines the responsibility of a reporter\
+  \ to a source unfamiliar with journalistic conventions. Topics: education reporting;\
+  \ ethics"
 "epologue": "Chicago Tribune Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""

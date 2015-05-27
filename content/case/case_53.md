@@ -20,6 +20,12 @@
   \ Annie Le, a Yale University graduate student.<br /><br /><strong>This is a FREE\
   \ case.</strong></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> digital\
   \ media; editorial management; ethics</p>"
+"description_clean": "CSJ-10-0030.0 This case asks what rules exist on the use of\
+  \ social media in reporting news stories. In September 2009, the New Haven Independent—a\
+  \ recent, online, local news website—finds itself beating the national competition\
+  \ on the shocking story of the murder of Annie Le, a Yale University graduate student.This\
+  \ is a FREE case.Epilogue, Teaching NoteTopics: digital media; editorial management;\
+  \ ethics"
 "epologue": "New Haven Independent Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -43,8 +49,8 @@
   \ to a murder story in the news site's backyard. Use in courses on editorial management;\
   \ the business of media; or ethics."
 "thumb": "case_thumbnail.jpg"
-"title": "The Facebook Conundrum: The New Haven <i>Independent</i> and the Annie Le\
-  \ Murder"
+"title": "The Facebook Conundrum: The New Haven &lt;i&gt;Independent&lt;/i&gt; and\
+  \ the Annie Le Murder"
 "title_color": "#3053ba"
 ---
 <div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/410/abstract_2.jpg" /></div><p><em>CSJ-10-0030.0 </em><br />This case asks what rules exist on the use of social media in reporting news stories. In September 2009, the New Haven<i style=""> Independent</i>&mdash;a recent, online, local news website&mdash;finds itself beating the national competition on the shocking story of the murder of Annie Le, a Yale University graduate student.<br /><br /><strong>This is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> digital media; editorial management; ethics</p>

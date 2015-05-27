@@ -18,6 +18,12 @@
   \ proceeds in real time, allowing students to experience the pressures of a newsroom\
   \ deadline.</p><p><strong>This is a video case.</strong></p><p><b>Topics: </b>ethics;\
   \ editorial decisionmaking; broadcast</p>"
+"description_clean": !!python/unicode "CSJ-08-0004.0This text+video case is about\
+  \ how a news organization, New England Cable News (NECN), handles the arrival of\
+  \ a fax alleging sexual misconduct by a member of the New England Patriots football\
+  \ team. The case proceeds in real time, allowing students to experience the pressures\
+  \ of a newsroom deadline.This is a video case.Topics: ethics; editorial decisionmaking;\
+  \ broadcast"
 "epologue": "NECN Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": "yes"

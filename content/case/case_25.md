@@ -20,6 +20,13 @@
   \ it was far from clear that he was open about his sexuality, especially to his\
   \ military colleagues. How should the <i>Post</i> cover his death?</span></p><p>Epilogue,\
   \ Teaching Note</p><p><b>Topics: </b> ethics; gender &amp; race; privacy</p>"
+"description_clean": "CSJ-09-0016.0This case examines the challenges of reporting\
+  \ on a private individual’s sexual orientation. In March 2008, the Washington Post was\
+  \ tipped that a decorated Army major had been the first openly gay military officer\
+  \ killed in Iraq. But as the Post reported the story, it discovered that it was\
+  \ far from clear that he was open about his sexuality, especially to his military\
+  \ colleagues. How should the Post cover his death?Epilogue, Teaching NoteTopics:\
+  \  ethics; gender & race; privacy"
 "epologue": "Rogers and WaPost Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -40,8 +47,8 @@
 "teaching_note": "Rogers and WaPost Teaching Note.pdf"
 "teaser": ""
 "thumb": ""
-"title": "Public Death, Private Life: Army Major Alan Rogers and the <i> Washington\
-  \ Post</i>"
+"title": "Public Death, Private Life: Army Major Alan Rogers and the &lt;i&gt; Washington\
+  \ Post&lt;/i&gt;"
 "title_color": "#0710b5"
 ---
 <div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/278/rogers abstract small.jpg" /></div><p><i><span>CSJ-09-0016.0</span></i><br /><span>This case examines the challenges of reporting on a private individual&rsquo;s sexual orientation. In March 2008, the <i>Washington Post</i>&nbsp;was tipped that a decorated Army major&nbsp;had been the first&nbsp;openly gay military officer killed in Iraq. But as the <i>Post</i> reported the story, it discovered that it was far from clear that he was open about his sexuality, especially to his military colleagues. How should the <i>Post</i> cover his death?</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b> ethics; gender &amp; race; privacy</p>

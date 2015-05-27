@@ -10,7 +10,7 @@
                 <div id="facets"></div>
                 <div id="results"></div>
                <!---->
-                <!-- One -->
+                <!-- One 
                     <section id="one">
                         
                             <header class="major">
@@ -46,7 +46,7 @@
                                 
                         
                     </section>
-
+                -->
             </div>
             
               
@@ -56,13 +56,11 @@
                             window.Cases = cases;
                         }).error(function(){
                             alert('there was a problem loading the cases.')
-                        })
-                    jQuery(document).ready(function(){
-                         
-                        var item_template = 
+                        }).complete(function(){
+                            var item_template = 
                            '<div class="item">' +
                              '<img src="<%= obj.imageURL %>">' +
-                             '<h4 class="unescape"><%= obj.title %></h4>' + 
+                             '<a href="<%= obj.link %>"> <h4 class="unescape"> <%= obj.title %></h4> </a>' + 
                              '<p class="tags">' + 
                              '<% if (obj.category) {  %><%= obj.category %><% } %>' +
                              '</p>' +
@@ -71,21 +69,23 @@
                              '<p class="item-topics">Topics: </br><% for(var topic in obj.topics)' +
                              '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></p>' +
                            '</div>';
-                        settings = { 
-                          items            : Cases.cases,
-                          facets           : { 
-                                              'topics'     : 'What topic',
-                          },  
-                          resultSelector   : '#results',
-                          facetSelector    : '#facets',
-                          resultTemplate   : item_template,
-                          paginationCount  : 10,
-                          orderByOptions   : {'topic': 'Topic', 'title': 'Title'},
-                          //facetSortOption  : {'continent': ["North America", "South America"]}
-                        }   
+                            settings = { 
+                              items            : Cases.cases,
+                              facets           : { 
+                                                  'topics'     : 'What topic',
+                              },  
+                              resultSelector   : '#results',
+                              facetSelector    : '#facets',
+                              resultTemplate   : item_template,
+                              paginationCount  : 10,
+                              orderByOptions   : {'topic': 'Topic', 'title': 'Title'},
+                              //facetSortOption  : {'continent': ["North America", "South America"]}
+                            }   
 
-                        // use them!
-                        jQuery.facetelize(settings);
+                            // use them!
+                            jQuery.facetelize(settings);
+                        })
+                    jQuery(document).ready(function(){
 
                         //string unescape hack
                         jQuery('.unescape').each(function(){

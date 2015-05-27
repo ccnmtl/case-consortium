@@ -17,6 +17,11 @@
   \ a legitimate development project.</p><p>Epilogue, Teaching Note</p><p><strong>Topics:\
   \ </strong>natural resource development policy, negotiations, land policy, rural\
   \ communities</p>"
+"description_clean": !!python/unicode "SIPA-13-0003.0This case provides a detailed\
+  \ description of a foreign direct investment (FDI) in Liberia. Students are asked\
+  \ to decide whether the project amounts to a land grab or is a legitimate development\
+  \ project.Epilogue, Teaching NoteTopics: natural resource development policy, negotiations,\
+  \ land policy, rural communities"
 "epologue": "Liberia epilogue 112513.pdf"
 "faculty_notes": ""
 "faculty_only": ""

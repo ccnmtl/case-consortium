@@ -22,6 +22,15 @@
   \ to provide the photos. Daulerio had already published the story about the photos\
   \ and associated text messages. What did the photos add?</p><p>Epilogue, Teaching\
   \ Note</p><p><strong>Topics:&nbsp;</strong>ethics; sports reporting; digital journalism</p>"
+"description_clean": "CSJ-12-0042.0This case looks at the differences between online\
+  \ and mainstream media to ask whether different editorial guidelines apply to the\
+  \ different platforms, and to question whether rules have changed. In August 2010,\
+  \ the editor for the online blog Deadspin, A.J. Daulerio, faced a decision. Should\
+  \ he pay for and publish graphic photos that famed Quarterback Brett Favre had allegedly\
+  \ sent to reporter Jenn Sterger? The Deadspin legal counselor had concerns. Sterger\
+  \ herself had refused to provide the photos. Daulerio had already published the\
+  \ story about the photos and associated text messages. What did the photos add?Epilogue,\
+  \ Teaching NoteTopics: ethics; sports reporting; digital journalism"
 "epologue": "Deadspin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -44,7 +53,7 @@
   \ and to question whether rules have changed. Use it in courses on sports reporting,\
   \ digital journalism, or ethics. "
 "thumb": "Screen Shot 2012-03-28 at 3.20.52 PM.png"
-"title": "Personal Foul? <i>Deadspin</i> and an Iconic Athlete"
+"title": "Personal Foul? &lt;i&gt;Deadspin&lt;/i&gt; and an Iconic Athlete"
 "title_color": ""
 ---
 <p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/569/abstract image.jpg" style="float: right; " /></p><p><em>CSJ-12-0042.0</em><br />This case looks at the differences between online and mainstream media to ask whether different editorial guidelines apply to the different platforms, and to question whether rules have changed. In August 2010, the editor for the online blog&nbsp;<em>Deadspin</em>, A.J. Daulerio, faced a decision. Should he pay for and publish graphic photos that famed Quarterback Brett Favre had allegedly sent to reporter Jenn Sterger? The<em>&nbsp;Deadspin</em> legal counselor had concerns. Sterger herself had refused to provide the photos. Daulerio had already published the story about the photos and associated text messages. What did the photos add?</p><p>Epilogue, Teaching Note</p><p><strong>Topics:&nbsp;</strong>ethics; sports reporting; digital journalism</p>
