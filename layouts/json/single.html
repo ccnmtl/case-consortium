@@ -6,7 +6,7 @@
             {{ $content := $page.Plain }}
             {
                 "id":{{ .Params.id }},
-                "title": "{{ $page.Title|html }}",
+                "title": "{{ .Title|safeHtml }}",
                 "content": "{{ $content|urlize }}",
                 "topics": [{{ range $tindex, $tag := .Params.case_topics }}{{ if $tindex }},{{ end }}"{{ $tag }}"{{ end }}]
             }{{if gt $last 1 }},{{ end }}

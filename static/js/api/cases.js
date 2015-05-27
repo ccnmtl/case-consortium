@@ -11,7 +11,7 @@
         
         {
             "id":"2",
-            "title": "\u003ci\u003eFrontline\u003c/i\u003e's \"The Last Abortion Clinic\": What's Fair in a Video World?",
+            "title": "poop Frontline's \"The Last Abortion Clinic\": What's Fair in a Video World?",
             "topics": ["documentary","editorial decisionmaking","broadcast"]
         },
     

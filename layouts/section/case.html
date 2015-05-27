@@ -54,13 +54,15 @@
             <script data-export="true" data-file-extension="js" id="facetize">
                     $.getJSON('/js/api/cases.json').success(function(cases){
                             window.Cases = cases;
+                        }).error(function(){
+                            alert('there was a problem loading the cases.')
                         })
                     jQuery(document).ready(function(){
                          
                         var item_template = 
                            '<div class="item">' +
                              '<img src="<%= obj.imageURL %>">' +
-                             '<h4><%= obj.title %></h4>' + 
+                             '<h4 class="unescape"><%= obj.title %></h4>' + 
                              '<p class="tags">' + 
                              '<% if (obj.category) {  %><%= obj.category %><% } %>' +
                              '</p>' +
@@ -85,6 +87,11 @@
                         // use them!
                         jQuery.facetelize(settings);
 
+                        //string unescape hack
+                        jQuery('.unescape').each(function(){
+                                var text = jQuery(this).text();
+                                jQuery(this).html(text);
+                            })
                     });
             </script>
         {{ partial "footer.html" . }}
