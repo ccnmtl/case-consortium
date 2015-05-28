@@ -83,7 +83,6 @@ def replace_related_caseids(items_dict, items):
                 cn = items_dict[items[i]['related_cases'][rel_item]]['case_number']
                 related_case_list.append(cn)
         items[i]['related_cases'] = related_case_list
-        #pdb.set_trace()
 
 try:
     reader = csv.reader(in_file)

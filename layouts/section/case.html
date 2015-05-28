@@ -34,6 +34,7 @@
                             }
                             window.unescapeHtml = function(){
                               jQuery('.unescape').each(function(){
+                                alert('fired');
                                   var text = jQuery(this).text();
                                   jQuery(this).html(text);
                               });
@@ -72,9 +73,10 @@
                             jQuery('.orderbyitem')
                               .add(jQuery('.facetitem'))
                               .add(jQuery('.deselectstartover'))
+                              .add(jQuery('.showmorebutton'))
                               .on('click', function(){
-                              setTableHeaders();
-                              unescapeHtml();
+                                setTableHeaders();
+                                unescapeHtml();
                             })
 
                         })
