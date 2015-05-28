@@ -44,8 +44,7 @@
 "pdf": "When BEST intentions go awry_wm.pdf"
 "price": "5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": "mailman"
 "slug": "When BEST Intentions Go Awry"
 "status_id": "1"

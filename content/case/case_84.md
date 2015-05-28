@@ -40,8 +40,7 @@
 "pdf": "Timor-Leste Text_wm.pdf"
 "price": "$5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Grow Your Own?"
 "status_id": "1"

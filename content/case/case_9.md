@@ -36,7 +36,7 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "21"
+- "CSJ-08-0007.0"
 "school": ""
 "slug": "New England Cable News Video"
 "status_id": "1"

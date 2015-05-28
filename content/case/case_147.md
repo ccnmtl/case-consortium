@@ -44,8 +44,7 @@
 "pdf": "WaPost Snowden final 102314.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Covert Activity"
 "status_id": "1"

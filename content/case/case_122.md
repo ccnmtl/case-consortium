@@ -37,8 +37,7 @@
 "pdf": "TZ bribery final.pdf"
 "price": "5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "TZ Bribery"
 "status_id": "1"

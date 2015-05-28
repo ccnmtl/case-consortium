@@ -40,8 +40,7 @@
 "pdf": "Los Angeles Times and Value Added Analysis_wm.pdf"
 "price": "$5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Rating Teachers"
 "status_id": "1"

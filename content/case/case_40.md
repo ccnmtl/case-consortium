@@ -34,8 +34,8 @@
 "price": "3.95"
 "redtext": ""
 "related_cases":
-- "30"
-- " 2"
+- "CSJ-09-0020.0"
+- "CSJ-08-0005.0"
 "school": ""
 "slug": "Elusive Story"
 "status_id": "1"

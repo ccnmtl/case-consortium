@@ -39,8 +39,7 @@
 "pdf": "Haiti final 031114.pdf"
 "price": "$0"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Haiti"
 "status_id": "1"

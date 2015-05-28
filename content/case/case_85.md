@@ -41,8 +41,7 @@
 "pdf": "Photojournalist Lynsey Addario in Libya_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "A Woman's Place?"
 "status_id": "1"

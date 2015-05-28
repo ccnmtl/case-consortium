@@ -37,8 +37,8 @@
 "price": "3.95"
 "redtext": "New"
 "related_cases":
-- "37"
-- " 36"
+- "CSJ-09-0023.0"
+- "CSJ-09-0022.0PO"
 "school": ""
 "slug": "Conflicted"
 "status_id": "1"

@@ -42,8 +42,7 @@
 "pdf": "Khadija Final 043014.pdf"
 "price": "$5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Fighting Blackmail"
 "status_id": "1"

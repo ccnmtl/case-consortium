@@ -43,8 +43,7 @@
 "pdf": "PPP Parks Final 072214.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Parks"
 "status_id": "1"

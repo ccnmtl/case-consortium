@@ -37,8 +37,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "1"
-- " 43"
+- "CSJ-08-0006.0"
+- "CSJ-10-0026.0"
 "school": ""
 "slug": "Reputations to Lose"
 "status_id": "1"

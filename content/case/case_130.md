@@ -42,8 +42,7 @@
 "pdf": "Equal Education final 070714.pdf"
 "price": "0.00"
 "redtext": "FREE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Equal Education"
 "status_id": "1"

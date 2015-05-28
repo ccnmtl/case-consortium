@@ -40,8 +40,8 @@
 "price": "Free"
 "redtext": "FREE"
 "related_cases":
-- "22"
-- " 1"
+- "CSJ-08-0009.0"
+- "CSJ-08-0006.0"
 "school": ""
 "slug": "Friend or foe?"
 "status_id": "1"

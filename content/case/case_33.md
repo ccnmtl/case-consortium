@@ -38,8 +38,8 @@
 "price": "5.95"
 "redtext": "Video"
 "related_cases":
-- "29"
-- " 24"
+- "CSJ-09-0014.0"
+- "CSJ-08-0012.0"
 "school": ""
 "slug": "Terror or Accident?"
 "status_id": "1"

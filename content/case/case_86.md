@@ -42,8 +42,7 @@
 "pdf": "Deadspin and an Iconic Athelete_wm.pdf"
 "price": "5.95"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Personal Foul"
 "status_id": "1"

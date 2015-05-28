@@ -46,8 +46,7 @@
 "pdf": "Fundacion Carvajal FINAL 072414.pdf"
 "price": "0.00"
 "redtext": "FREE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Tortoise or Hare?"
 "status_id": "1"

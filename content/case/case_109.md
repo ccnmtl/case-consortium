@@ -41,8 +41,8 @@
 "price": "0.00"
 "redtext": "FREE"
 "related_cases":
-- "22"
-- " 1"
+- "CSJ-08-0009.0"
+- "CSJ-08-0006.0"
 "school": ""
 "slug": "Amigo o enemigo?"
 "status_id": "1"

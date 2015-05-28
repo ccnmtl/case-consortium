@@ -36,8 +36,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "19"
-- "28"
+- "CSJ-08-0008.0"
+- "CSJ-08-0018.0PO"
 "school": ""
 "slug": "Bakersfield"
 "status_id": "1"

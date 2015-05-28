@@ -36,8 +36,7 @@
 "pdf": "Hell & Back_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "higher truth"
 "status_id": "1"

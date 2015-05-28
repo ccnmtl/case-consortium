@@ -39,8 +39,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "27"
-- " 28"
+- "CSJ-08-0015.0PO"
+- "CSJ-08-0018.0PO"
 "school": ""
 "slug": "Public Death, Private Life"
 "status_id": "1"

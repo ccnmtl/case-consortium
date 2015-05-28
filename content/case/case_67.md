@@ -36,7 +36,7 @@
 "price": "5.95"
 "redtext": "New"
 "related_cases":
-- "55"
+- "CSJ-10-0031.0"
 "school": ""
 "slug": "Buy It or Make It?"
 "status_id": "1"

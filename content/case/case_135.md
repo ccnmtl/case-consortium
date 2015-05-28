@@ -44,8 +44,7 @@
 "pdf": "Ma Jun final.pdf"
 "price": "0.00"
 "redtext": "FREE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Publishing Pollution Data in China"
 "status_id": "1"

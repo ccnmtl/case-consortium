@@ -43,8 +43,7 @@
   \ .pdf"
 "price": "5.95"
 "redtext": "ESPANOL"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Reportear una Verdad Explosiva"
 "status_id": "1"

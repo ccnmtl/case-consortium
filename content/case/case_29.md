@@ -34,8 +34,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "33"
-- " 15"
+- "CSJ-09-0013.0"
+- "CSJ-07-0002.0"
 "school": ""
 "slug": "Digital Deadline"
 "status_id": "1"

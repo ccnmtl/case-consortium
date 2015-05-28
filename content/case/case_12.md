@@ -39,8 +39,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "30"
-- " 23"
+- "CSJ-09-0020.0"
+- "CSJ-08-0010.0"
 "school": ""
 "slug": "Chemical Fallout"
 "status_id": "1"

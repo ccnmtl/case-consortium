@@ -47,8 +47,7 @@
 "pdf": "Bloomberg and FedReserve_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Cumulative or Discrete Numbers"
 "status_id": "1"

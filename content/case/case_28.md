@@ -36,8 +36,8 @@
 "price": "3.95"
 "redtext": ""
 "related_cases":
-- "28"
-- "19"
+- "CSJ-08-0018.0PO"
+- "CSJ-08-0008.0"
 "school": ""
 "slug": "News or Rumor"
 "status_id": "1"

@@ -39,8 +39,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "12"
-- " 23"
+- "CSJ-08-0017.0"
+- "CSJ-08-0010.0"
 "school": ""
 "slug": "Reporting an Explosive Truth"
 "status_id": "1"

@@ -37,8 +37,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "12"
-- " 14"
+- "CSJ-08-0017.0"
+- "CSJ-09-0011.0"
 "school": ""
 "slug": "After the Storms"
 "status_id": "1"

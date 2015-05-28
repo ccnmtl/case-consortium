@@ -41,8 +41,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "1"
-- " 22"
+- "CSJ-08-0006.0"
+- "CSJ-08-0009.0"
 "school": ""
 "slug": "Legal Jeopardy"
 "status_id": "1"

@@ -35,8 +35,8 @@
 "price": "0.00"
 "redtext": ""
 "related_cases":
-- "30"
-- " 16"
+- "CSJ-09-0020.0"
+- "CSJ-07-0001.0"
 "school": ""
 "slug": "Frontline"
 "status_id": "1"

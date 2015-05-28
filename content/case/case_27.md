@@ -34,7 +34,7 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "25"
+- "CSJ-09-0016.0"
 "school": ""
 "slug": "Privacy and the Public Interest"
 "status_id": "1"

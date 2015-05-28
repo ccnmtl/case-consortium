@@ -41,8 +41,8 @@
 "price": "3.95"
 "redtext": ""
 "related_cases":
-- "28"
-- " 53"
+- "CSJ-08-0018.0PO"
+- "CSJ-10-0030.0"
 "school": ""
 "slug": "But is it News?"
 "status_id": "1"

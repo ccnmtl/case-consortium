@@ -35,7 +35,7 @@
 "price": "5.95"
 "redtext": "Free"
 "related_cases":
-- "22"
+- "CSJ-08-0009.0"
 "school": ""
 "slug": "Life on the Line"
 "status_id": "1"

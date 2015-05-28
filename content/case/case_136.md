@@ -42,8 +42,7 @@
 "pdf": "Chinalco final.pdf"
 "price": "$3.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Process and Politics"
 "status_id": "1"

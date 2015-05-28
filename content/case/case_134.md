@@ -42,8 +42,7 @@
 "pdf": "Reston Dental Arts PtA 060914.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Merging Two Worlds"
 "status_id": "1"

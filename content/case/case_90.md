@@ -45,8 +45,7 @@
 "pdf": "California Policy for Ill and Elderly Inmates_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": "mailman"
 "slug": "CA prisoners"
 "status_id": "1"

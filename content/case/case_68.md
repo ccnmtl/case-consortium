@@ -40,8 +40,8 @@
 "price": "0.00"
 "redtext": "Free"
 "related_cases":
-- "51"
-- " 38"
+- "CSJ-10-0025.0"
+- "CSJ-09-0021.0"
 "school": ""
 "slug": "Jury is Out"
 "status_id": "1"

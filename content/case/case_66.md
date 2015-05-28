@@ -46,8 +46,8 @@
 "price": "5.95"
 "redtext": "New"
 "related_cases":
-- "59"
-- " 1"
+- "CSJ-10-0035.0"
+- "CSJ-08-0006.0"
 "school": ""
 "slug": "Caricatured"
 "status_id": "1"

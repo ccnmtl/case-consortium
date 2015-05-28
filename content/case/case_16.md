@@ -33,7 +33,7 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "2"
+- "CSJ-08-0005.0"
 "school": ""
 "slug": "From Concept to Story"
 "status_id": "1"

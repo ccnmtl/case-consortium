@@ -34,8 +34,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "29"
-- " 38"
+- "CSJ-09-0014.0"
+- "CSJ-09-0021.0"
 "school": ""
 "slug": "Charting a Course for Change"
 "status_id": "1"

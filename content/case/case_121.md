@@ -38,8 +38,7 @@
 "pdf": "Public Service or Illegal Act Pt A.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Public Service or Illegal Act?"
 "status_id": "1"

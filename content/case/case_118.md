@@ -41,8 +41,7 @@
 "pdf": "AllNovaScotia Final.pdf"
 "price": "0.00"
 "redtext": "FREE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "AllNovaScotia.com: Success or Anomaly?"
 "status_id": "1"

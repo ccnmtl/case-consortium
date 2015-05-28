@@ -46,8 +46,7 @@
 "pdf": "Nicobars final 080414.pdf"
 "price": "0.00"
 "redtext": "NOTABLE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "The Islanders and the Scientists: Post-tsunami Aid in the Nicobars"
 "status_id": "1"

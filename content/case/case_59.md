@@ -38,8 +38,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "21"
-- " 25"
+- "CSJ-08-0007.0"
+- "CSJ-09-0016.0"
 "school": ""
 "slug": "Worth a Thousand Words"
 "status_id": "1"

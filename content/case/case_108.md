@@ -46,8 +46,7 @@
 "pdf": "Truthiness_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "this american life"
 "status_id": "1"

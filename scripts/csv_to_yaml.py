@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 
 in_file  = open('cases.csv', "r")
 items = []
+items_dict = {}
 item_descriptions = []
 
 
@@ -29,7 +30,7 @@ def convert_to_yaml(line, counter):
     for topic in range(len(case_topics)):
         if case_topics[topic] == "":
             case_topics[topic] = " None"
-    related_cases = line[8].split(',')
+    related_cases = [str.strip(string.whitespace) for str in line[8].split(',') ]
     description = line[11]
     description = description.replace('_x000d_', '')
     description = description.replace('\n', '')
@@ -70,13 +71,31 @@ def convert_to_yaml(line, counter):
         'description_clean': description_clean
     }
     items.append(item)
+    items_dict[item['id']] = item
     item_descriptions.append(description)
+
+def replace_related_caseids(items_dict, items):
+    for i in range(len(items)):
+        related_case_list = []
+        for rel_item in range(len(items[i]['related_cases'])):
+            ri = items[i]['related_cases'][rel_item]
+            if not ri == "":
+                cn = items_dict[items[i]['related_cases'][rel_item]]['case_number']
+                related_case_list.append(cn)
+        items[i]['related_cases'] = related_case_list
+        #pdb.set_trace()
 
 try:
     reader = csv.reader(in_file)
     next(reader) # skip headers
+
     for counter, line in enumerate(reader):
         convert_to_yaml(line, counter)
+
+    replace_related_caseids(items_dict, items)
+
+    
+
     for i in range(len(items)):
         out_filename = "case_" + items[i]['id'] + ".md"
         out_file = open(out_filename, "w")

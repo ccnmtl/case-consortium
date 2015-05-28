@@ -37,8 +37,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "51"
-- " 38"
+- "CSJ-10-0025.0"
+- "CSJ-09-0021.0"
 "school": ""
 "slug": "Into the Breach"
 "status_id": "1"

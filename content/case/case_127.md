@@ -43,8 +43,7 @@
 "pdf": "NYC Big Data final 061814.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Big Data"
 "status_id": "1"

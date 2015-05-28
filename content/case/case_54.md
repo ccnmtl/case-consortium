@@ -37,8 +37,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "43"
-- " 14"
+- "CSJ-10-0026.0"
+- "CSJ-09-0011.0"
 "school": ""
 "slug": "Voices Behind Bars"
 "status_id": "1"

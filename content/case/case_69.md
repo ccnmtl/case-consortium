@@ -39,8 +39,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "57"
-- " 36"
+- "CSJ-10-0034.0PO"
+- "CSJ-09-0022.0PO"
 "school": ""
 "slug": "Dissonace"
 "status_id": "1"

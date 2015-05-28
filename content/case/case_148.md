@@ -23,8 +23,7 @@
 "pdf": "Global Post final1.pdf"
 "price": "5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "GlobalPost Syria"
 "status_id": "2"

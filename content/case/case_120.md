@@ -38,8 +38,7 @@
 "pdf": "Radio Buddu Uganda.pdf"
 "price": "0.00"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Radio Buddu"
 "status_id": "1"

@@ -60,8 +60,8 @@
 "price": "3.00"
 "redtext": ""
 "related_cases":
-- "39"
-- " 15"
+- "CSJ-09-0021.1"
+- "CSJ-07-0002.0"
 "school": ""
 "slug": "Risky Business"
 "status_id": "1"

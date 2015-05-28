@@ -38,8 +38,8 @@
 "price": "3.00"
 "redtext": ""
 "related_cases":
-- "28"
-- "19"
+- "CSJ-08-0018.0PO"
+- "CSJ-08-0008.0"
 "school": ""
 "slug": "Crowdsourcing A"
 "status_id": "1"

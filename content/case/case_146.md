@@ -46,8 +46,7 @@
 "pdf": "Swaziland HIV FINAL.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Swaziland"
 "status_id": "1"

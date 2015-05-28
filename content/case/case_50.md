@@ -46,8 +46,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "49"
-- " 23"
+- "CSJ-10-0027.0"
+- "CSJ-08-0010.0"
 "school": ""
 "slug": !!python/str "P¿Periodistas o policías?"
 "status_id": "1"

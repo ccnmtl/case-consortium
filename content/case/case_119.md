@@ -37,8 +37,7 @@
 "pdf": "Kenya elxns.pdf"
 "price": "5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "A Newsroom Divided"
 "status_id": "1"

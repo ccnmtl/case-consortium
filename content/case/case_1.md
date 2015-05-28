@@ -35,7 +35,7 @@
 "price": "0.00"
 "redtext": ""
 "related_cases":
-- "22"
+- "CSJ-08-0009.0"
 "school": ""
 "slug": "Settle or fight?"
 "status_id": "1"

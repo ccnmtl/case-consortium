@@ -38,8 +38,7 @@
 "price": "0.00"
 "redtext": "Free"
 "related_cases":
-- "21"
-- ""
+- "CSJ-08-0007.0"
 "school": ""
 "slug": "Facebook Conundrum"
 "status_id": "1"

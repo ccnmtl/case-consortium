@@ -42,8 +42,7 @@
 "pdf": "Experience Corps Final.pdf"
 "price": "$5.95"
 "redtext": "NEW"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Scientific Method"
 "status_id": "1"

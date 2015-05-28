@@ -39,7 +39,7 @@
 "price": "3.95"
 "redtext": ""
 "related_cases":
-- "25"
+- "CSJ-09-0016.0"
 "school": ""
 "slug": !!python/str "Privacidad y el Interés Público"
 "status_id": "1"

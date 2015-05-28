@@ -36,8 +36,8 @@
 "price": "5.95"
 "redtext": "New"
 "related_cases":
-- "28"
-- " 25"
+- "CSJ-08-0018.0PO"
+- "CSJ-09-0016.0"
 "school": ""
 "slug": "Matter of Opinion"
 "status_id": "1"

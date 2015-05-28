@@ -34,8 +34,7 @@
 "pdf": "NYT Paywall final 061814.pdf"
 "price": "$5.95"
 "redtext": "NOTABLE"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Salvation or Mirage"
 "status_id": "1"

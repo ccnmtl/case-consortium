@@ -36,8 +36,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- " 38"
-- " 53"
+- "CSJ-09-0021.0"
+- "CSJ-10-0030.0"
 "school": ""
 "slug": "Not for Profit?"
 "status_id": "1"

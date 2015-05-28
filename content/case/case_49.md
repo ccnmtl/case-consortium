@@ -41,8 +41,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "50"
-- " 23"
+- "CSJ-10-0028.0"
+- "CSJ-08-0010.0"
 "school": ""
 "slug": "Reporters or cops?"
 "status_id": "1"

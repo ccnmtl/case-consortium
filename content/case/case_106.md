@@ -37,8 +37,7 @@
 "pdf": "CHCH Styles.pdf"
 "price": "0.00"
 "redtext": ""
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "Words of the Dying"
 "status_id": "1"

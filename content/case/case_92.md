@@ -41,8 +41,7 @@
 "pdf": "Mission vs Safety OCHA_wm.pdf"
 "price": "5.95"
 "redtext": "Public Policy!"
-"related_cases":
-- ""
+"related_cases": []
 "school": ""
 "slug": "mission vs safety"
 "status_id": "1"

@@ -37,8 +37,8 @@
 "price": "5.95"
 "redtext": ""
 "related_cases":
-- "18"
-- " 25"
+- "CSJ-08-0004.0"
+- "CSJ-09-0016.0"
 "school": ""
 "slug": "Integrity on Deadline"
 "status_id": "1"
