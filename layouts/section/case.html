@@ -84,14 +84,16 @@
 
                             // use them!
                             jQuery.facetelize(settings);
+
+                            jQuery('.unescape').each(function(){
+                                var text = jQuery(this).text();
+                                jQuery(this).html(text);
+                            })
                         })
                     jQuery(document).ready(function(){
 
                         //string unescape hack
-                        jQuery('.unescape').each(function(){
-                                var text = jQuery(this).text();
-                                jQuery(this).html(text);
-                            })
+                        
                     });
             </script>
         {{ partial "footer.html" . }}
