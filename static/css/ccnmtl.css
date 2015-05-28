@@ -19,3 +19,7 @@
 .comma-sep:last-of-type{
     display: none;
 }
+
+.orderbyitem{
+    cursor: pointer;
+}
