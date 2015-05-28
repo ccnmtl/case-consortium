@@ -16,6 +16,7 @@ var defaults = {
   facetListContainer : '<div class=facetlist></div>',
   listItemTemplate   : '<div class=facetitem id="<%= id %>"><%= name %> <span class=facetitemcount>(<%= count %>)</span></div>',
   bottomContainer    : '<div class=bottomline></div>',
+  orderSelector      : '#order-by',
   orderByTemplate    : '<div class=orderby><span class="orderby-title">Sort by: </span><ul><% _.each(options, function(value, key) { %>'+
                        '<li class=orderbyitem id=orderby_<%= key %>>'+
                        '<%= value %> </li> <% }); %></ul></div>',
@@ -239,12 +240,13 @@ function createFacetUI() {
   });
   // Append total result count
   var bottom = $(settings.bottomContainer);
+  var orderSelector = $(settings.orderSelector);
   countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
   $(bottom).append(countHtml);
   // generate the "order by" options:
   var ordertemplate = _.template(settings.orderByTemplate);
   var itemHtml = $(ordertemplate({'options': settings.orderByOptions}));
-  $(bottom).append(itemHtml);
+  $(orderSelector).prepend(itemHtml);
   $(settings.facetSelector).append(bottom);
   $('.orderbyitem').each(function(){
     var id = this.id.substr(8);

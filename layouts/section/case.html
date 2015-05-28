@@ -3,13 +3,17 @@
     <body id="tops">
 
         <!-- Header -->
-        {{ partial "header_section.html" . }}
+        <header id="header">
+            <div id="facets"></div>
+        </header>
         <!-- Main -->
             <div id="main">
               <section id="one">
-                <div id="facets"></div>
-              
+                <div id="order-by"></div>
                 <table class="alt" id="results"></table>
+              </section>
+              <section>
+                {{ partial "footer.html" . }}
               </section>
             </div>
             <script data-export="true" data-file-extension="js" id="facetize">
@@ -53,6 +57,7 @@
                               resultTemplate   : item_template,
                               paginationCount  : 10,
                               orderByOptions   : {'title': 'Title', 'case_number': 'Case Number'},
+                              bottomContainer    : '<div class="bottom-container"></div>',
                               //facetSortOption  : {'continent': ["North America", "South America"]}
                             }   
 
@@ -61,7 +66,10 @@
                             setTableHeaders();
                             unescapeHtml();
 
-                            jQuery('.orderbyitem').add(jQuery('.facetitem')).on('click', function(){
+                            jQuery('.orderbyitem')
+                              .add(jQuery('.facetitem'))
+                              .add(jQuery('.deselectstartover'))
+                              .on('click', function(){
                               setTableHeaders();
                               unescapeHtml();
                             })
@@ -69,7 +77,7 @@
                         })
 
             </script>
-        {{ partial "footer.html" . }}
+        
 
     </body>
 
