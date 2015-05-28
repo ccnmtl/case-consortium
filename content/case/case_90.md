@@ -6,7 +6,7 @@
 "case_author": "Kirsten Lundberg"
 "case_number": "MSPH-12-0002.0"
 "case_topics":
-- ""
+- " None"
 "category_id": "16"
 "created_on": "5/7/2012"
 "description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/614/abstract\

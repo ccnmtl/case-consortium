@@ -6,7 +6,7 @@
 "case_author": "R. Chandrasekhar"
 "case_number": "AKU-12-0003.0"
 "case_topics":
-- ""
+- " None"
 "category_id": "19"
 "created_on": "2/11/2014"
 "description": "<p><em>AKU-13-0003.0 </em></p><p>This case examines what means and\

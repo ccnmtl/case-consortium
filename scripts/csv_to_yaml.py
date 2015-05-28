@@ -21,30 +21,14 @@ def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
-'''
-class HugoYaml(yaml.YAMLObject):
-    def __init__(id, slug, title, case_number, case_topics, case_author, news_org, faculty_notes, related_cases, redtext):
-        self.id = id
-        self.slug = slug
-        self.title = title
-        self.case_number = case_number
-        self.case_topics = case_topics
-        self.case_author = case_author
-        self.news_org = news_org
-        self.faculty_notes = faculty_notes
-        self.related_cases = related_cases
-        self.redtext = redtext
-
-    def __repr__(self):
-        return "%s(id=%r, slug=%r, title=%r) % "(
-            self.__class__.__id__, self.id, self.slug, self.title)
-'''
-
 def convert_to_yaml(line, counter):
     title = html_escape(line[2])
     case_topics = [str.strip(string.whitespace) for str in line[4].split(';') ]
     if len(case_topics) == 1:
         case_topics = [str.strip(string.whitespace) for str in line[4].split(',') ]
+    for topic in range(len(case_topics)):
+        if case_topics[topic] == "":
+            case_topics[topic] = " None"
     related_cases = line[8].split(',')
     description = line[11]
     description = description.replace('_x000d_', '')
@@ -52,7 +36,6 @@ def convert_to_yaml(line, counter):
     description = description.replace('\t', '')
     description_clean = BeautifulSoup(description)
     description_clean = description_clean.get_text()
-    #pdb.set_trace()
     item = {
         'id': line[0],
         'slug': line[1],

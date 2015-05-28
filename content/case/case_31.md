@@ -6,7 +6,7 @@
 "case_author": ""
 "case_number": "<strong>CSJ-09-0019.0</strong>"
 "case_topics":
-- ""
+- " None"
 "category_id": "2"
 "created_on": "5/7/2009"
 "description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/342/abstract\
