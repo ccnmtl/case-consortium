@@ -10,13 +10,13 @@
 - "crisis reporting"
 "category_id": "17"
 "created_on": "4/7/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/287/pd\
-  \ abstract small.jpg\" /></div><p><i>CSJ-09-0014.0</i><br />This case about the\
-  \ St. Louis, MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online\
-  \ when it could have traumatic effects on the local community. It also raises the\
-  \ challenge for editors of deciding what to put in the paper once a story has broken\
-  \ on the website.&nbsp;<br /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>digital\
-  \ media; crisis reporting</p>"
+"description": !!python/str "<html><head></head><body><div style=\"padding: 10px;\
+  \ float: right;\"></div><p><i>CSJ-09-0014.0</i><br/>This case about the St. Louis,\
+  \ MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online when\
+  \ it could have traumatic effects on the local community. It also raises the challenge\
+  \ for editors of deciding what to put in the paper once a story has broken on the\
+  \ website. <br/><br/>Epilogue, Teaching Note</p><p><b>Topics: </b>digital media;\
+  \ crisis reporting</p></body></html>"
 "description_clean": "CSJ-09-0014.0This case about the St. Louis, MO, Post-Dispatch\
   \ addresses how to manage a breaking story online when it could have traumatic effects\
   \ on the local community. It also raises the challenge for editors of deciding what\
@@ -46,4 +46,4 @@
   \ Kirkwood Shooting"
 "title_color": "#c91e1e"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/287/pd abstract small.jpg" /></div><p><i>CSJ-09-0014.0</i><br />This case about the St. Louis, MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online when it could have traumatic effects on the local community. It also raises the challenge for editors of deciding what to put in the paper once a story has broken on the website.&nbsp;<br /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-09-0014.0</i><br/>This case about the St. Louis, MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online when it could have traumatic effects on the local community. It also raises the challenge for editors of deciding what to put in the paper once a story has broken on the website. <br/><br/>Epilogue, Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p></body></html>

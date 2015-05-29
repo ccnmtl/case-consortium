@@ -12,16 +12,15 @@
 - "media relations"
 "category_id": "16"
 "created_on": "3/10/2013"
-"description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/756/abstract.jpg\"\
-  \ style=\"float: right;\" /></p><p><em>MSPH-13-0004.0</em> This case study takes\
-  \ students into the Beijing office of the World Health Organization as it dealt\
-  \ with the SARS crisis in early 2003. The WHO serves as the world&rsquo;s monitor\
-  \ of disease outbreak and control. It is able to mobilize legions of the world&rsquo;s\
-  \ best scientists to analyze, diagnose, prescribe treatments for and contain diseases.\
-  \ However, it depends on the cooperation of the countries experiencing an epidemic.\
-  \ What happens when that cooperation is limited or nonexistent?</p><p>Epilogue,\
+"description": !!python/str "<html><head></head><body><p></p><p><em>MSPH-13-0004.0</em>\
+  \ This case study takes students into the Beijing office of the World Health Organization\
+  \ as it dealt with the SARS crisis in early 2003. The WHO serves as the world’s\
+  \ monitor of disease outbreak and control. It is able to mobilize legions of the\
+  \ world’s best scientists to analyze, diagnose, prescribe treatments for and contain\
+  \ diseases. However, it depends on the cooperation of the countries experiencing\
+  \ an epidemic. What happens when that cooperation is limited or nonexistent?</p><p>Epilogue,\
   \ Teaching Note</p><p><strong>Topics: i</strong>nternational public health; intergovernmental\
-  \ organizations; crisis management; media relations</p>"
+  \ organizations; crisis management; media relations</p></body></html>"
 "description_clean": "MSPH-13-0004.0 This case study takes students into the Beijing\
   \ office of the World Health Organization as it dealt with the SARS crisis in early\
   \ 2003. The WHO serves as the world’s monitor of disease outbreak and control. It\
@@ -55,4 +54,4 @@
 "title": "Credible Voice: WHO-Beijing and the SARS Crisis"
 "title_color": ""
 ---
-<p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/756/abstract.jpg" style="float: right;" /></p><p><em>MSPH-13-0004.0</em> This case study takes students into the Beijing office of the World Health Organization as it dealt with the SARS crisis in early 2003. The WHO serves as the world&rsquo;s monitor of disease outbreak and control. It is able to mobilize legions of the world&rsquo;s best scientists to analyze, diagnose, prescribe treatments for and contain diseases. However, it depends on the cooperation of the countries experiencing an epidemic. What happens when that cooperation is limited or nonexistent?</p><p>Epilogue, Teaching Note</p><p><strong>Topics: i</strong>nternational public health; intergovernmental organizations; crisis management; media relations</p>
+<html><head></head><body><p></p><p><em>MSPH-13-0004.0</em> This case study takes students into the Beijing office of the World Health Organization as it dealt with the SARS crisis in early 2003. The WHO serves as the world’s monitor of disease outbreak and control. It is able to mobilize legions of the world’s best scientists to analyze, diagnose, prescribe treatments for and contain diseases. However, it depends on the cooperation of the countries experiencing an epidemic. What happens when that cooperation is limited or nonexistent?</p><p>Epilogue, Teaching Note</p><p><strong>Topics: i</strong>nternational public health; intergovernmental organizations; crisis management; media relations</p></body></html>

@@ -11,12 +11,11 @@
 - "education reporting"
 "category_id": "17"
 "created_on": "10/9/2009"
-"description": "<p><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/360/text\
-  \ only image.jpg\" /> <i>CSJ-09-0019.0PO</i><br /><span>This case study examines\
-  \ long-form journalism, and the dilemma for a reporter when the story she intends\
-  \ to write is not the story she uncovers. It also examines the responsibility of\
-  \ a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue,\
-  \ Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p>"
+"description": "<html><head></head><body><p> <i>CSJ-09-0019.0PO</i><br/><span>This\
+  \ case study examines long-form journalism, and the dilemma for a reporter when\
+  \ the story she intends to write is not the story she uncovers. It also examines\
+  \ the responsibility of a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue,\
+  \ Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p></body></html>"
 "description_clean": !!python/unicode " CSJ-09-0019.0POThis case study examines long-form\
   \ journalism, and the dilemma for a reporter when the story she intends to write\
   \ is not the story she uncovers. It also examines the responsibility of a reporter\
@@ -46,4 +45,4 @@
   \ Child Left Behind&amp;quot;"
 "title_color": "#2947a3"
 ---
-<p><img align="right" alt="" src="/casestudy/files/photos/360/text only image.jpg" /> <i>CSJ-09-0019.0PO</i><br /><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p>
+<html><head></head><body><p> <i>CSJ-09-0019.0PO</i><br/><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p></body></html>

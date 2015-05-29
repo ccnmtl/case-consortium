@@ -12,16 +12,14 @@
 - "editorial decisionmaking"
 "category_id": "17"
 "created_on": "8/31/2011"
-"description": "<p><img src=\"https://gcms.jrn.columbia.edu/casestudy/files/photos/511/abstract%20image.jpg\"\
-  \ style=\"margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom:\
-  \ 10px; float: right; \" /><em>CSJ-11-0040.0</em>&nbsp;This case goes behind the\
-  \ scenes to examine the thinking at the&nbsp;<em>Los Angeles&nbsp;Times</em>&nbsp;about\
-  \ a 2010 project to rank public elementary school teachers of English and math.&nbsp;It\
-  \ follows editors and reporters as they petition for existing &nbsp;student test\
-  \ data, and then decide whether and how to analyze it (they hire a Rand Corp. expert)&nbsp;to\
-  \ reveal teacher effectiveness. The key question is accountability: should the paper&nbsp;name\
+"description": !!python/str "<html><head></head><body><p><em>CSJ-11-0040.0</em> This\
+  \ case goes behind the scenes to examine the thinking at the <em>Los Angeles Times</em> about\
+  \ a 2010 project to rank public elementary school teachers of English and math. It\
+  \ follows editors and reporters as they petition for existing  student test data,\
+  \ and then decide whether and how to analyze it (they hire a Rand Corp. expert) to\
+  \ reveal teacher effectiveness. The key question is accountability: should the paper name\
   \ individual teachers when it publishes the scores?</p><p>Epilogue, Teaching Note</p><p><strong>Topics</strong>:\
-  \ education reporting; editorial decisionmaking</p>"
+  \ education reporting; editorial decisionmaking</p></body></html>"
 "description_clean": "CSJ-11-0040.0 This case goes behind the scenes to examine the\
   \ thinking at the Los Angeles Times about a 2010 project to rank public elementary\
   \ school teachers of English and math. It follows editors and reporters as they\
@@ -53,4 +51,4 @@
   \ and &quot;Value-Added&quot; Analysis"
 "title_color": ""
 ---
-<p><img src="https://gcms.jrn.columbia.edu/casestudy/files/photos/511/abstract%20image.jpg" style="margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; float: right; " /><em>CSJ-11-0040.0</em>&nbsp;This case goes behind the scenes to examine the thinking at the&nbsp;<em>Los Angeles&nbsp;Times</em>&nbsp;about a 2010 project to rank public elementary school teachers of English and math.&nbsp;It follows editors and reporters as they petition for existing &nbsp;student test data, and then decide whether and how to analyze it (they hire a Rand Corp. expert)&nbsp;to reveal teacher effectiveness. The key question is accountability: should the paper&nbsp;name individual teachers when it publishes the scores?</p><p>Epilogue, Teaching Note</p><p><strong>Topics</strong>: education reporting; editorial decisionmaking</p>
+<html><head></head><body><p><em>CSJ-11-0040.0</em> This case goes behind the scenes to examine the thinking at the <em>Los Angeles Times</em> about a 2010 project to rank public elementary school teachers of English and math. It follows editors and reporters as they petition for existing  student test data, and then decide whether and how to analyze it (they hire a Rand Corp. expert) to reveal teacher effectiveness. The key question is accountability: should the paper name individual teachers when it publishes the scores?</p><p>Epilogue, Teaching Note</p><p><strong>Topics</strong>: education reporting; editorial decisionmaking</p></body></html>

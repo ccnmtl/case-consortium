@@ -11,13 +11,12 @@
 - "broadcast"
 "category_id": "17"
 "created_on": "11/21/2008"
-"description": "<p><strong><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/250/necn_video.jpg\"\
-  \ /></strong><i>CSJ-08-0004.0<br /></i>This text+video case is about how a news\
-  \ organization, New England Cable News (NECN), handles the arrival of a fax alleging\
-  \ sexual misconduct by a member of the New England Patriots football team. The case\
-  \ proceeds in real time, allowing students to experience the pressures of a newsroom\
-  \ deadline.</p><p><strong>This is a video case.</strong></p><p><b>Topics: </b>ethics;\
-  \ editorial decisionmaking; broadcast</p>"
+"description": "<html><head></head><body><p><strong></strong><i>CSJ-08-0004.0<br/></i>This\
+  \ text+video case is about how a news organization, New England Cable News (NECN),\
+  \ handles the arrival of a fax alleging sexual misconduct by a member of the New\
+  \ England Patriots football team. The case proceeds in real time, allowing students\
+  \ to experience the pressures of a newsroom deadline.</p><p><strong>This is a video\
+  \ case.</strong></p><p><b>Topics: </b>ethics; editorial decisionmaking; broadcast</p></body></html>"
 "description_clean": !!python/unicode "CSJ-08-0004.0This text+video case is about\
   \ how a news organization, New England Cable News (NECN), handles the arrival of\
   \ a fax alleging sexual misconduct by a member of the New England Patriots football\
@@ -46,4 +45,4 @@
 "title": "New England Cable News and the Terry Glenn Story (Video)"
 "title_color": "#c30"
 ---
-<p><strong><img align="right" alt="" src="/casestudy/files/photos/250/necn_video.jpg" /></strong><i>CSJ-08-0004.0<br /></i>This text+video case is about how a news organization, New England Cable News (NECN), handles the arrival of a fax alleging sexual misconduct by a member of the New England Patriots football team. The case proceeds in real time, allowing students to experience the pressures of a newsroom deadline.</p><p><strong>This is a video case.</strong></p><p><b>Topics: </b>ethics; editorial decisionmaking; broadcast</p>
+<html><head></head><body><p><strong></strong><i>CSJ-08-0004.0<br/></i>This text+video case is about how a news organization, New England Cable News (NECN), handles the arrival of a fax alleging sexual misconduct by a member of the New England Patriots football team. The case proceeds in real time, allowing students to experience the pressures of a newsroom deadline.</p><p><strong>This is a video case.</strong></p><p><b>Topics: </b>ethics; editorial decisionmaking; broadcast</p></body></html>

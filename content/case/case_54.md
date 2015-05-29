@@ -11,14 +11,14 @@
 - "ethics"
 "category_id": "17"
 "created_on": "4/13/2010"
-"description": "<div style=\"float: right; padding: 10px;\"><img src=\"/casestudy/files/photos/409/abstract.jpg\"\
-  \ /></div><p><em>CSJ-10.0029.0</em><br /><span style=\"\">This radio reporting case\
+"description": "<html><head></head><body><div style=\"float: right; padding: 10px;\"\
+  ></div><p><em>CSJ-10.0029.0</em><br/><span style=\"\">This radio reporting case\
   \ asks students to consider what to do when their reporting may harm the subject\
   \ of the story. </span><span style=\"\">National Public Radio (NPR) reporter Laura\
   \ Sullivan is researching the cases of two men held in solitary confinement for\
   \ 36 years at the Louisiana State Penitentiary in <st1:country-region w:st=\"on\"\
   >Angola</st1:country-region>, <st1:state w:st=\"on\"><st1:place w:st=\"on\">Louisiana</st1:place></st1:state>.</span></p><p>Epilogue,\
-  \ Teaching Note</p><p><strong>Topics: </strong>broadcast; investigative; ethics</p>"
+  \ Teaching Note</p><p><strong>Topics: </strong>broadcast; investigative; ethics</p></body></html>"
 "description_clean": !!python/unicode "CSJ-10.0029.0This radio reporting case asks\
   \ students to consider what to do when their reporting may harm the subject of the\
   \ story. National Public Radio (NPR) reporter Laura Sullivan is researching the\
@@ -48,4 +48,4 @@
 "title": "Voices Behind Bars: National Public Radio and Angola State Prison"
 "title_color": "#243770"
 ---
-<div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/409/abstract.jpg" /></div><p><em>CSJ-10.0029.0</em><br /><span style="">This radio reporting case asks students to consider what to do when their reporting may harm the subject of the story. </span><span style="">National Public Radio (NPR) reporter Laura Sullivan is researching the cases of two men held in solitary confinement for 36 years at the Louisiana State Penitentiary in <st1:country-region w:st="on">Angola</st1:country-region>, <st1:state w:st="on"><st1:place w:st="on">Louisiana</st1:place></st1:state>.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>broadcast; investigative; ethics</p>
+<html><head></head><body><div style="float: right; padding: 10px;"></div><p><em>CSJ-10.0029.0</em><br/><span style="">This radio reporting case asks students to consider what to do when their reporting may harm the subject of the story. </span><span style="">National Public Radio (NPR) reporter Laura Sullivan is researching the cases of two men held in solitary confinement for 36 years at the Louisiana State Penitentiary in <st1:country-region w:st="on">Angola</st1:country-region>, <st1:state w:st="on"><st1:place w:st="on">Louisiana</st1:place></st1:state>.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>broadcast; investigative; ethics</p></body></html>

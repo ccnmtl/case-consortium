@@ -9,12 +9,12 @@
 - " None"
 "category_id": "19"
 "created_on": "2/11/2014"
-"description": "<p><em>AKU-13-0003.0 </em></p><p>This case examines what means and\
-  \ partners are available to battle endemic corruption within the media. In 2009,\
-  \ the Media Council of Tanzania (MCT) committed itself to the goal of enlisting\
-  \ media outlets, advertisers and others in adopting a code of editorial independence\
-  \ and responsibility.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:</strong>&nbsp;\
-  \ international media; ethics; media reform; or press and politics.</p>"
+"description": !!python/str "<html><head></head><body><p><em>AKU-13-0003.0 </em></p><p>This\
+  \ case examines what means and partners are available to battle endemic corruption\
+  \ within the media. In 2009, the Media Council of Tanzania (MCT) committed itself\
+  \ to the goal of enlisting media outlets, advertisers and others in adopting a code\
+  \ of editorial independence and responsibility.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong> \
+  \ international media; ethics; media reform; or press and politics.</p></body></html>"
 "description_clean": "AKU-13-0003.0 This case examines what means and partners are\
   \ available to battle endemic corruption within the media. In 2009, the Media Council\
   \ of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers\
@@ -42,4 +42,4 @@
 "title": "Seeking Partners for Press Freedom Media Council of Tanzania and DEFIR"
 "title_color": ""
 ---
-<p><em>AKU-13-0003.0 </em></p><p>This case examines what means and partners are available to battle endemic corruption within the media. In 2009, the Media Council of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers and others in adopting a code of editorial independence and responsibility.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:</strong>&nbsp; international media; ethics; media reform; or press and politics.</p>
+<html><head></head><body><p><em>AKU-13-0003.0 </em></p><p>This case examines what means and partners are available to battle endemic corruption within the media. In 2009, the Media Council of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers and others in adopting a code of editorial independence and responsibility.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong>  international media; ethics; media reform; or press and politics.</p></body></html>

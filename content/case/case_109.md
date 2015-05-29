@@ -12,16 +12,15 @@
 - "politics reporting"
 "category_id": "5"
 "created_on": "10/21/2012"
-"description": "<p><em>CSJ-11-0047.0</em></p><p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/686/Screen%20Shot%202012-10-31%20at%2011.45.10%20PM.jpg\"\
-  \ style=\"float: right; \" /></p><p>Este caso aborda la famosa colaboraci&oacute;n\
-  \ entre Wikileaks, una web segura para los denunciantes, y los principales medios\
-  \ de comunicaci&oacute;n, centr&aacute;ndose en el diario brit&aacute;nico&nbsp;<em>The\
-  \ Guardian</em>. Sirve para discutir si&nbsp;<em>The Guardian</em>&nbsp;y sus socios\
-  \ en los medios internacionales actuaron correctamente al colaborar con Wikileaks\
-  \ y publicar documentos secretos del gobierno de Estados Unidos.</p><p>Ep&iacute;logo,\
-  \ Teaching Note</p><p><span style=\"font-weight: bold;\">Temas:&nbsp;</span>las\
-  \ relaciones entre gobierno y medios; manejo de fuentes; periodismo de datos; procesos\
-  \ editoriales de decisi&oacute;n; o informaci&oacute;n internacional.</p>"
+"description": !!python/str "<html><head></head><body><p><em>CSJ-11-0047.0</em></p><p></p><p>Este\
+  \ caso aborda la famosa colaboración entre Wikileaks, una web segura para los denunciantes,\
+  \ y los principales medios de comunicación, centrándose en el diario británico <em>The\
+  \ Guardian</em>. Sirve para discutir si <em>The Guardian</em> y sus socios en los\
+  \ medios internacionales actuaron correctamente al colaborar con Wikileaks y publicar\
+  \ documentos secretos del gobierno de Estados Unidos.</p><p>Epílogo, Teaching Note</p><p><span\
+  \ style=\"font-weight: bold;\">Temas: </span>las relaciones entre gobierno y medios;\
+  \ manejo de fuentes; periodismo de datos; procesos editoriales de decisión; o información\
+  \ internacional.</p></body></html>"
 "description_clean": "CSJ-11-0047.0Este caso aborda la famosa colaboración entre Wikileaks,\
   \ una web segura para los denunciantes, y los principales medios de comunicación,\
   \ centrándose en el diario británico The Guardian. Sirve para discutir si The Guardian y\
@@ -55,4 +54,4 @@
 "title": !!python/str "¿Amigo o enemigo? Wikileaks y the Guardian "
 "title_color": ""
 ---
-<p><em>CSJ-11-0047.0</em></p><p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/686/Screen%20Shot%202012-10-31%20at%2011.45.10%20PM.jpg" style="float: right; " /></p><p>Este caso aborda la famosa colaboraci&oacute;n entre Wikileaks, una web segura para los denunciantes, y los principales medios de comunicaci&oacute;n, centr&aacute;ndose en el diario brit&aacute;nico&nbsp;<em>The Guardian</em>. Sirve para discutir si&nbsp;<em>The Guardian</em>&nbsp;y sus socios en los medios internacionales actuaron correctamente al colaborar con Wikileaks y publicar documentos secretos del gobierno de Estados Unidos.</p><p>Ep&iacute;logo, Teaching Note</p><p><span style="font-weight: bold;">Temas:&nbsp;</span>las relaciones entre gobierno y medios; manejo de fuentes; periodismo de datos; procesos editoriales de decisi&oacute;n; o informaci&oacute;n internacional.</p>
+<html><head></head><body><p><em>CSJ-11-0047.0</em></p><p></p><p>Este caso aborda la famosa colaboración entre Wikileaks, una web segura para los denunciantes, y los principales medios de comunicación, centrándose en el diario británico <em>The Guardian</em>. Sirve para discutir si <em>The Guardian</em> y sus socios en los medios internacionales actuaron correctamente al colaborar con Wikileaks y publicar documentos secretos del gobierno de Estados Unidos.</p><p>Epílogo, Teaching Note</p><p><span style="font-weight: bold;">Temas: </span>las relaciones entre gobierno y medios; manejo de fuentes; periodismo de datos; procesos editoriales de decisión; o información internacional.</p></body></html>

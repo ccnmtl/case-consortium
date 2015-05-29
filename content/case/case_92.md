@@ -12,16 +12,15 @@
 - "public sector management"
 "category_id": "15"
 "created_on": "9/18/2012"
-"description": "<p><em>SIPA-12-0002.0</em></p><p><img alt=\"\" src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/665/ocha\
-  \ abstract.jpg\" style=\"float: right; width: 252px; height: 179px; \" /><span style=\"\
-  font-size:12px;\">This case provides students with a window into the reality of\
-  \ international humanitarian work,&nbsp;specifically the UN Office for the Coordination\
-  \ of Humanitarian Affairs (OCHA). &nbsp;In July 2009, al-Shabaab militants overran\
-  \ the UN Common Compound in Baidoa, Somalia, and expelled &quot;political&quot;\
-  \ agencies. Under UN rules, international humanitarian&nbsp;personnel were obliged\
-  \ to leave as well&mdash;although they did not want to.</span></p><p>Epilogue, Teaching\
-  \ Note</p><p><strong>Topics:</strong> aid to lawless societies; humanitarian&nbsp;organizations;\
-  \ multinational organizations; public sector management.</p>"
+"description": !!python/str "<html><head></head><body><p><em>SIPA-12-0002.0</em></p><p><span\
+  \ style=\"font-size:12px;\">This case provides students with a window into the reality\
+  \ of international humanitarian work, specifically the UN Office for the Coordination\
+  \ of Humanitarian Affairs (OCHA).  In July 2009, al-Shabaab militants overran the\
+  \ UN Common Compound in Baidoa, Somalia, and expelled \"political\" agencies. Under\
+  \ UN rules, international humanitarian personnel were obliged to leave as well—although\
+  \ they did not want to.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong>\
+  \ aid to lawless societies; humanitarian organizations; multinational organizations;\
+  \ public sector management.</p></body></html>"
 "description_clean": "SIPA-12-0002.0This case provides students with a window into\
   \ the reality of international humanitarian work, specifically the UN Office for\
   \ the Coordination of Humanitarian Affairs (OCHA).  In July 2009, al-Shabaab militants\
@@ -54,4 +53,4 @@
 "title": "Mission vs Safety: OCHA Somalia and the Baidoa Raid"
 "title_color": ""
 ---
-<p><em>SIPA-12-0002.0</em></p><p><img alt="" src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/665/ocha abstract.jpg" style="float: right; width: 252px; height: 179px; " /><span style="font-size:12px;">This case provides students with a window into the reality of international humanitarian work,&nbsp;specifically the UN Office for the Coordination of Humanitarian Affairs (OCHA). &nbsp;In July 2009, al-Shabaab militants overran the UN Common Compound in Baidoa, Somalia, and expelled &quot;political&quot; agencies. Under UN rules, international humanitarian&nbsp;personnel were obliged to leave as well&mdash;although they did not want to.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> aid to lawless societies; humanitarian&nbsp;organizations; multinational organizations; public sector management.</p>
+<html><head></head><body><p><em>SIPA-12-0002.0</em></p><p><span style="font-size:12px;">This case provides students with a window into the reality of international humanitarian work, specifically the UN Office for the Coordination of Humanitarian Affairs (OCHA).  In July 2009, al-Shabaab militants overran the UN Common Compound in Baidoa, Somalia, and expelled "political" agencies. Under UN rules, international humanitarian personnel were obliged to leave as well—although they did not want to.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> aid to lawless societies; humanitarian organizations; multinational organizations; public sector management.</p></body></html>

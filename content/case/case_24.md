@@ -10,13 +10,13 @@
 - "international"
 "category_id": "17"
 "created_on": "1/20/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/315/csm.jpg\"\
-  \ /></div><p><i>CSJ-08-0012.0</i><br />This case treats the hard choices which confront\
+"description": "<html><head></head><body><div style=\"padding: 10px; float: right;\"\
+  ></div><p><i>CSJ-08-0012.0</i><br/>This case treats the hard choices which confront\
   \ a news organization when violence strikes one of its reporters. Students will\
   \ have a chance to consider how to structure a crisis response; how to manage competing\
   \ interests; and how to sustain an effort past the first adrenalin-fueled moments\
-  \ into weeks of frustrating but crucial work.</p><p><strong>This is a FREE case.</strong><br\
-  \ /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>crisis management; international</p>"
+  \ into weeks of frustrating but crucial work.</p><p><strong>This is a FREE case.</strong><br/><br/>Epilogue,\
+  \ Teaching Note</p><p><b>Topics: </b>crisis management; international</p></body></html>"
 "description_clean": !!python/unicode "CSJ-08-0012.0This case treats the hard choices\
   \ which confront a news organization when violence strikes one of its reporters.\
   \ Students will have a chance to consider how to structure a crisis response; how\
@@ -48,4 +48,4 @@
   \ Jill Carroll"
 "title_color": "#993300"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/315/csm.jpg" /></div><p><i>CSJ-08-0012.0</i><br />This case treats the hard choices which confront a news organization when violence strikes one of its reporters. Students will have a chance to consider how to structure a crisis response; how to manage competing interests; and how to sustain an effort past the first adrenalin-fueled moments into weeks of frustrating but crucial work.</p><p><strong>This is a FREE case.</strong><br /><br />Epilogue, Teaching Note</p><p><b>Topics: </b>crisis management; international</p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-08-0012.0</i><br/>This case treats the hard choices which confront a news organization when violence strikes one of its reporters. Students will have a chance to consider how to structure a crisis response; how to manage competing interests; and how to sustain an effort past the first adrenalin-fueled moments into weeks of frustrating but crucial work.</p><p><strong>This is a FREE case.</strong><br/><br/>Epilogue, Teaching Note</p><p><b>Topics: </b>crisis management; international</p></body></html>

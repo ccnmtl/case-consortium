@@ -10,15 +10,15 @@
 - "crisis reporting"
 "category_id": "17"
 "created_on": "7/7/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/344/abstract\
-  \ background small.jpg\" /></div><p><i>CSJ-09-0013.0</i><br />This text+video case\
-  \ asks students to engage in a difficult calculus: report on deadline about a disaster\
-  \ when the causes are unclear. On November 12, 2001, two months and a day after\
-  \ the terrorist attacks of September 11, American Airlines Flight 587 leaving Kennedy\
-  \ Airport went down in Far Rockaway, Queens, New York.</p><p><strong>This is a video\
-  \ case.</strong></p><p>Teaching Note</p><p><b>Topics: </b>digital media; crisis\
-  \ reporting</p><p><b><i>Faculty</i></b><i>: You will have an opportunity to review\
-  \ the video case once you have registered. </i></p>"
+"description": "<html><head></head><body><div style=\"padding: 10px; float: right;\"\
+  ></div><p><i>CSJ-09-0013.0</i><br/>This text+video case asks students to engage\
+  \ in a difficult calculus: report on deadline about a disaster when the causes are\
+  \ unclear. On November 12, 2001, two months and a day after the terrorist attacks\
+  \ of September 11, American Airlines Flight 587 leaving Kennedy Airport went down\
+  \ in Far Rockaway, Queens, New York.</p><p><strong>This is a video case.</strong></p><p>Teaching\
+  \ Note</p><p><b>Topics: </b>digital media; crisis reporting</p><p><b><i>Faculty</i></b><i>:\
+  \ You will have an opportunity to review the video case once you have registered.\
+  \ </i></p></body></html>"
 "description_clean": !!python/unicode "CSJ-09-0013.0This text+video case asks students\
   \ to engage in a difficult calculus: report on deadline about a disaster when the\
   \ causes are unclear. On November 12, 2001, two months and a day after the terrorist\
@@ -54,4 +54,4 @@
   \ Airlines Flight 587"
 "title_color": "#1c6399"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/344/abstract background small.jpg" /></div><p><i>CSJ-09-0013.0</i><br />This text+video case asks students to engage in a difficult calculus: report on deadline about a disaster when the causes are unclear. On November 12, 2001, two months and a day after the terrorist attacks of September 11, American Airlines Flight 587 leaving Kennedy Airport went down in Far Rockaway, Queens, New York.</p><p><strong>This is a video case.</strong></p><p>Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p><p><b><i>Faculty</i></b><i>: You will have an opportunity to review the video case once you have registered. </i></p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-09-0013.0</i><br/>This text+video case asks students to engage in a difficult calculus: report on deadline about a disaster when the causes are unclear. On November 12, 2001, two months and a day after the terrorist attacks of September 11, American Airlines Flight 587 leaving Kennedy Airport went down in Far Rockaway, Queens, New York.</p><p><strong>This is a video case.</strong></p><p>Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p><p><b><i>Faculty</i></b><i>: You will have an opportunity to review the video case once you have registered. </i></p></body></html>

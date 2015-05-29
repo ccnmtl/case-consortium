@@ -12,14 +12,14 @@
 - "editorial decisionmaking"
 "category_id": "17"
 "created_on": "9/23/2010"
-"description": "<p>&nbsp;</p><div style=\"float: right; padding: 10px;\"><img src=\"\
-  /casestudy/files/photos/454/abstract_small.jpg\" /></div><p><em>CSJ-10-0035.0</em><br\
-  \ />This case about news photography examines a host of issues, from the mechanics\
-  \ of war photography, to the rules for embedded photographers, to the relationship\
-  \ between the military establishment and the media.&nbsp;It looks at the controversy\
-  \ in September 2009 over an Associated Press photograph of a wounded Marine who\
-  \ subsequently died.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>international;\
-  \ editorial decisionmaking; photojournalism</p>"
+"description": !!python/str "<html><head></head><body><p> </p><div style=\"float:\
+  \ right; padding: 10px;\"></div><p><em>CSJ-10-0035.0</em><br/>This case about news\
+  \ photography examines a host of issues, from the mechanics of war photography,\
+  \ to the rules for embedded photographers, to the relationship between the military\
+  \ establishment and the media. It looks at the controversy in September 2009 over\
+  \ an Associated Press photograph of a wounded Marine who subsequently died.</p><p>Epilogue,\
+  \ Teaching Note</p><p><strong>Topics: </strong>international; editorial decisionmaking;\
+  \ photojournalism</p></body></html>"
 "description_clean": " CSJ-10-0035.0This case about news photography examines a host\
   \ of issues, from the mechanics of war photography, to the rules for embedded photographers,\
   \ to the relationship between the military establishment and the media. It looks\
@@ -52,4 +52,4 @@
 "title": "Worth a Thousand Words: The Associated Press and Lance Corporal Joshua Bernard"
 "title_color": "#a31a55"
 ---
-<p>&nbsp;</p><div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/454/abstract_small.jpg" /></div><p><em>CSJ-10-0035.0</em><br />This case about news photography examines a host of issues, from the mechanics of war photography, to the rules for embedded photographers, to the relationship between the military establishment and the media.&nbsp;It looks at the controversy in September 2009 over an Associated Press photograph of a wounded Marine who subsequently died.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>international; editorial decisionmaking; photojournalism</p>
+<html><head></head><body><p> </p><div style="float: right; padding: 10px;"></div><p><em>CSJ-10-0035.0</em><br/>This case about news photography examines a host of issues, from the mechanics of war photography, to the rules for embedded photographers, to the relationship between the military establishment and the media. It looks at the controversy in September 2009 over an Associated Press photograph of a wounded Marine who subsequently died.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>international; editorial decisionmaking; photojournalism</p></body></html>

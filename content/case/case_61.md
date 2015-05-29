@@ -10,15 +10,14 @@
 - "la privacidad"
 "category_id": "5"
 "created_on": "1/26/2011"
-"description": "<div style=\"float: right; padding: 10px;\"><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/455/text%20only%20image.jpg\"\
-  \ /></div><p><i>CSJ-08-0015.5PO</i><br />Este caso, en dos partes, es acerca de\
-  \ c&oacute;mo los medios de comunicaci&oacute;n nivelan, el derecho personal a la\
-  \ intimidad frente al derecho del p&uacute;blico a informarse. Se pide a los estudiantes\
-  \ que deben tener en cuenta cu&aacute;les son las obligaciones de un peri&oacute;dico\
-  \ para sus lectores, y para aquellos sobre los que escribe.</p><p>Ep&iacute;logo,\
-  \ Teaching Note</p><p><strong>Temas:</strong> <span class=\"short_text\" id=\"result_box\"\
-  ><span title=\"Topics: international; investigative reporting; ethics\">la &eacute;tica;\
-  \ la privacidad</span></span></p>"
+"description": !!python/str "<html><head></head><body><div style=\"float: right; padding:\
+  \ 10px;\"></div><p><i>CSJ-08-0015.5PO</i><br/>Este caso, en dos partes, es acerca\
+  \ de cómo los medios de comunicación nivelan, el derecho personal a la intimidad\
+  \ frente al derecho del público a informarse. Se pide a los estudiantes que deben\
+  \ tener en cuenta cuáles son las obligaciones de un periódico para sus lectores,\
+  \ y para aquellos sobre los que escribe.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong>\
+  \ <span class=\"short_text\" id=\"result_box\"><span title=\"Topics: international;\
+  \ investigative reporting; ethics\">la ética; la privacidad</span></span></p></body></html>"
 "description_clean": "CSJ-08-0015.5POEste caso, en dos partes, es acerca de cómo los\
   \ medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho\
   \ del público a informarse. Se pide a los estudiantes que deben tener en cuenta\
@@ -47,4 +46,4 @@
   \ Ivins. Segunda Parte."
 "title_color": "#2947a3"
 ---
-<div style="float: right; padding: 10px;"><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/455/text%20only%20image.jpg" /></div><p><i>CSJ-08-0015.5PO</i><br />Este caso, en dos partes, es acerca de c&oacute;mo los medios de comunicaci&oacute;n nivelan, el derecho personal a la intimidad frente al derecho del p&uacute;blico a informarse. Se pide a los estudiantes que deben tener en cuenta cu&aacute;les son las obligaciones de un peri&oacute;dico para sus lectores, y para aquellos sobre los que escribe.</p><p>Ep&iacute;logo, Teaching Note</p><p><strong>Temas:</strong> <span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">la &eacute;tica; la privacidad</span></span></p>
+<html><head></head><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-08-0015.5PO</i><br/>Este caso, en dos partes, es acerca de cómo los medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho del público a informarse. Se pide a los estudiantes que deben tener en cuenta cuáles son las obligaciones de un periódico para sus lectores, y para aquellos sobre los que escribe.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong> <span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">la ética; la privacidad</span></span></p></body></html>

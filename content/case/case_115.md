@@ -10,18 +10,16 @@
 - !!python/str "cobertura de religión"
 "category_id": "5"
 "created_on": "8/27/2013"
-"description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/798/Screen%20Shot%202013-09-13%20at%204.16.30%20PM.jpg.jpg\"\
-  \ style=\"float: right;\" /></p><p>CSJ-13-0050.0<br />Este caso trata el c&aacute;lculo\
-  \ que un medio de comunicaci&oacute;n debe hacer cuando descubre una historia que\
-  \ incrimina a la instituci&oacute;n m&aacute;s poderosa de su comunidad. En 2001,\
-  \ la unidad de investigaci&oacute;n del Boston Globe descubri&oacute; una serie\
-  \ de casos de abuso sexual de menores por parte de sacerdotes cat&oacute;licos.\
-  \ Los alumnos podr&aacute;n examinar las t&eacute;cnicas de investigaci&oacute;n\
-  \ empleadas as&iacute; como analizar los desaf&iacute;os particulares de cubrir\
-  \ el sector religi&oacute;n y reflexionar sobre el impacto personal sobre los periodistas\
-  \ que produce la cobertura de il&iacute;citos cometidos por su propia iglesia.</p><p>Ep&iacute;logo,\
-  \ Teaching Note</p><p><strong>Temas:</strong> periodismo de investigaci&oacute;n;\
-  \ cobertura de religi&oacute;n</p>"
+"description": !!python/str "<html><head></head><body><p></p><p>CSJ-13-0050.0<br/>Este\
+  \ caso trata el cálculo que un medio de comunicación debe hacer cuando descubre\
+  \ una historia que incrimina a la institución más poderosa de su comunidad. En 2001,\
+  \ la unidad de investigación del Boston Globe descubrió una serie de casos de abuso\
+  \ sexual de menores por parte de sacerdotes católicos. Los alumnos podrán examinar\
+  \ las técnicas de investigación empleadas así como analizar los desafíos particulares\
+  \ de cubrir el sector religión y reflexionar sobre el impacto personal sobre los\
+  \ periodistas que produce la cobertura de ilícitos cometidos por su propia iglesia.</p><p>Epílogo,\
+  \ Teaching Note</p><p><strong>Temas:</strong> periodismo de investigación; cobertura\
+  \ de religión</p></body></html>"
 "description_clean": "CSJ-13-0050.0Este caso trata el cálculo que un medio de comunicación\
   \ debe hacer cuando descubre una historia que incrimina a la institución más poderosa\
   \ de su comunidad. En 2001, la unidad de investigación del Boston Globe descubrió\
@@ -56,4 +54,4 @@
   \  en la Iglesia Católica"
 "title_color": ""
 ---
-<p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/798/Screen%20Shot%202013-09-13%20at%204.16.30%20PM.jpg.jpg" style="float: right;" /></p><p>CSJ-13-0050.0<br />Este caso trata el c&aacute;lculo que un medio de comunicaci&oacute;n debe hacer cuando descubre una historia que incrimina a la instituci&oacute;n m&aacute;s poderosa de su comunidad. En 2001, la unidad de investigaci&oacute;n del Boston Globe descubri&oacute; una serie de casos de abuso sexual de menores por parte de sacerdotes cat&oacute;licos. Los alumnos podr&aacute;n examinar las t&eacute;cnicas de investigaci&oacute;n empleadas as&iacute; como analizar los desaf&iacute;os particulares de cubrir el sector religi&oacute;n y reflexionar sobre el impacto personal sobre los periodistas que produce la cobertura de il&iacute;citos cometidos por su propia iglesia.</p><p>Ep&iacute;logo, Teaching Note</p><p><strong>Temas:</strong> periodismo de investigaci&oacute;n; cobertura de religi&oacute;n</p>
+<html><head></head><body><p></p><p>CSJ-13-0050.0<br/>Este caso trata el cálculo que un medio de comunicación debe hacer cuando descubre una historia que incrimina a la institución más poderosa de su comunidad. En 2001, la unidad de investigación del Boston Globe descubrió una serie de casos de abuso sexual de menores por parte de sacerdotes católicos. Los alumnos podrán examinar las técnicas de investigación empleadas así como analizar los desafíos particulares de cubrir el sector religión y reflexionar sobre el impacto personal sobre los periodistas que produce la cobertura de ilícitos cometidos por su propia iglesia.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong> periodismo de investigación; cobertura de religión</p></body></html>

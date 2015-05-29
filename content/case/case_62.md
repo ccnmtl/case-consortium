@@ -11,17 +11,17 @@
 - !!python/str "la ética"
 "category_id": "5"
 "created_on": "2/1/2011"
-"description": "<div style=\"float: right; padding: 10px;\"><img src=\"/casestudy/files/photos/456/text\
-  \ only image.jpg\" /></div><p><i>CSJ-09-0019.4PO</i><br />Este caso de estudio,\
-  \ examina el periodismo narrativo y el dilema para un reportero, cuando la historia\
-  \ que pretende escribir, no es la historia que ella descubre. <span id=\"result_box\"\
-  \ lang=\"es\"><span class=\"hps\" title=\"Click for alternate translations\">Tambi&eacute;n</span>\
-  \ <span class=\"hps\" title=\"Click for alternate translations\">examina</span>\
-  \ </span>la responsabilidad que tiene un periodista acerca de una fuente no familiarizada\
-  \ con las normas period&iacute;sticas.</p><p>Ep&iacute;logo, Teaching Note</p><p><strong>Temas:</strong>\
-  \ los escritos originales; informes sobre educaci&oacute;n; <span class=\"short_text\"\
+"description": !!python/str "<html><head></head><body><div style=\"float: right; padding:\
+  \ 10px;\"></div><p><i>CSJ-09-0019.4PO</i><br/>Este caso de estudio, examina el periodismo\
+  \ narrativo y el dilema para un reportero, cuando la historia que pretende escribir,\
+  \ no es la historia que ella descubre. <span id=\"result_box\" lang=\"es\"><span\
+  \ class=\"hps\" title=\"Click for alternate translations\">También</span> <span\
+  \ class=\"hps\" title=\"Click for alternate translations\">examina</span> </span>la\
+  \ responsabilidad que tiene un periodista acerca de una fuente no familiarizada\
+  \ con las normas periodísticas.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong>\
+  \ los escritos originales; informes sobre educación; <span class=\"short_text\"\
   \ id=\"result_box\"><span title=\"Topics: international; investigative reporting;\
-  \ ethics\">la &eacute;tica</span></span></p>"
+  \ ethics\">la ética</span></span></p></body></html>"
 "description_clean": "CSJ-09-0019.4POEste caso de estudio, examina el periodismo narrativo\
   \ y el dilema para un reportero, cuando la historia que pretende escribir, no es\
   \ la historia que ella descubre. También examina la responsabilidad que tiene un\
@@ -54,4 +54,4 @@
   \ Ning&amp;uacute;n Ni&amp;ntilde;o Quede Atr&amp;aacute;s&amp;quot;"
 "title_color": "#2947a3"
 ---
-<div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/456/text only image.jpg" /></div><p><i>CSJ-09-0019.4PO</i><br />Este caso de estudio, examina el periodismo narrativo y el dilema para un reportero, cuando la historia que pretende escribir, no es la historia que ella descubre. <span id="result_box" lang="es"><span class="hps" title="Click for alternate translations">Tambi&eacute;n</span> <span class="hps" title="Click for alternate translations">examina</span> </span>la responsabilidad que tiene un periodista acerca de una fuente no familiarizada con las normas period&iacute;sticas.</p><p>Ep&iacute;logo, Teaching Note</p><p><strong>Temas:</strong> los escritos originales; informes sobre educaci&oacute;n; <span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">la &eacute;tica</span></span></p>
+<html><head></head><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-09-0019.4PO</i><br/>Este caso de estudio, examina el periodismo narrativo y el dilema para un reportero, cuando la historia que pretende escribir, no es la historia que ella descubre. <span id="result_box" lang="es"><span class="hps" title="Click for alternate translations">También</span> <span class="hps" title="Click for alternate translations">examina</span> </span>la responsabilidad que tiene un periodista acerca de una fuente no familiarizada con las normas periodísticas.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong> los escritos originales; informes sobre educación; <span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">la ética</span></span></p></body></html>

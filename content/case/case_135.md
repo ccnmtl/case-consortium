@@ -12,17 +12,17 @@
 - "civil society"
 "category_id": "20"
 "created_on": "8/19/2014"
-"description": "<p><em>CCC-14-0006.0</em></p><p>A civil society activist in any country\
-  \ expects challenges, but with an authoritarian government the role can carry extra\
-  \ burdens. This case examines the creation and evolution of the Institute of Public\
-  \ and Environmental Affairs (IPE). In early 2014, however, IPE prepared to take\
-  \ on a new group of polluters: state-owned enterprises (SOEs). IPE had earlier successfully\
-  \ pressured global brands to persuade their offending suppliers to clean up production.\
-  \ But SOEs were a different category&mdash;many had powerful supporters in high\
-  \ positions&mdash;national, regional and local. Use this case to give students grounding\
-  \ in the realities of civil activism in authoritarian societies.&nbsp;</p><p>Epilogue,\
-  \ Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>international sustainable\
-  \ development; China; environmental activism; civil society</p>"
+"description": !!python/str "<html><head></head><body><p><em>CCC-14-0006.0</em></p><p>A\
+  \ civil society activist in any country expects challenges, but with an authoritarian\
+  \ government the role can carry extra burdens. This case examines the creation and\
+  \ evolution of the Institute of Public and Environmental Affairs (IPE). In early\
+  \ 2014, however, IPE prepared to take on a new group of polluters: state-owned enterprises\
+  \ (SOEs). IPE had earlier successfully pressured global brands to persuade their\
+  \ offending suppliers to clean up production. But SOEs were a different category—many\
+  \ had powerful supporters in high positions—national, regional and local. Use this\
+  \ case to give students grounding in the realities of civil activism in authoritarian\
+  \ societies. </p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>international\
+  \ sustainable development; China; environmental activism; civil society</p></body></html>"
 "description_clean": "CCC-14-0006.0A civil society activist in any country expects\
   \ challenges, but with an authoritarian government the role can carry extra burdens.\
   \ This case examines the creation and evolution of the Institute of Public and Environmental\
@@ -58,4 +58,4 @@
   \ Environmental Affairs"
 "title_color": ""
 ---
-<p><em>CCC-14-0006.0</em></p><p>A civil society activist in any country expects challenges, but with an authoritarian government the role can carry extra burdens. This case examines the creation and evolution of the Institute of Public and Environmental Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured global brands to persuade their offending suppliers to clean up production. But SOEs were a different category&mdash;many had powerful supporters in high positions&mdash;national, regional and local. Use this case to give students grounding in the realities of civil activism in authoritarian societies.&nbsp;</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>international sustainable development; China; environmental activism; civil society</p>
+<html><head></head><body><p><em>CCC-14-0006.0</em></p><p>A civil society activist in any country expects challenges, but with an authoritarian government the role can carry extra burdens. This case examines the creation and evolution of the Institute of Public and Environmental Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured global brands to persuade their offending suppliers to clean up production. But SOEs were a different category—many had powerful supporters in high positions—national, regional and local. Use this case to give students grounding in the realities of civil activism in authoritarian societies. </p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>international sustainable development; China; environmental activism; civil society</p></body></html>

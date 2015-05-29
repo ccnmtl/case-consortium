@@ -22,21 +22,30 @@ def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
+def remove_images(description):
+    soup = BeautifulSoup(description)
+    imgs = soup.find_all('img')
+    for img in imgs: 
+        img.extract()
+    return soup
+
 def convert_to_yaml(line, counter):
     title = html_escape(line[2])
-    case_topics = [str.strip(string.whitespace) for str in line[4].split(';') ]
+    case_topics = [st.strip(string.whitespace) for st in line[4].split(';') ]
     if len(case_topics) == 1:
-        case_topics = [str.strip(string.whitespace) for str in line[4].split(',') ]
+        case_topics = [st.strip(string.whitespace) for st in line[4].split(',') ]
     for topic in range(len(case_topics)):
         if case_topics[topic] == "":
             case_topics[topic] = " None"
-    related_cases = [str.strip(string.whitespace) for str in line[8].split(',') ]
+    related_cases = [st.strip(string.whitespace) for st in line[8].split(',') ]
     description = line[11]
     description = description.replace('_x000d_', '')
     description = description.replace('\n', '')
     description = description.replace('\t', '')
-    description_clean = BeautifulSoup(description)
-    description_clean = description_clean.get_text()
+    description_soup = remove_images(description)
+    description = str(description_soup)
+
+    description_clean = description_soup.get_text()
     item = {
         'id': line[0],
         'slug': line[1],
@@ -109,6 +118,7 @@ try:
         ''' the Yaml lib explicit_end is ... not --- '''
         out_file.write("---")
         out_file.write("\n")
+
         out_file.write(item_descriptions[i])
         out_file.write("\n")
 

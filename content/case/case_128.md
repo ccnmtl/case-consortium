@@ -12,16 +12,17 @@
 - "land use"
 "category_id": "15"
 "created_on": "5/30/2014"
-"description": "<p>SIPA-14-0005.0&nbsp;<br /><br />This case examines the history\
-  \ and wider applicability of public-private partnerships (PPPs) for parks. For years,\
-  \ New York City&rsquo;s Central Park was a neglected dustbowl. But in 1980, a new\
-  \ kind of organization arose to reclaim and restore it: the Central Park Conservancy\
-  \ (CPC), a partnership of private citizens working together with government for\
-  \ a public good. This case starts with the financial crisis of 1975 and builds through\
-  \ the creation of the conservancy under Mayor Edward Koch to the formation in 1999\
-  \ of the Friends of the High Line, a group of citizens who wanted to convert a disused\
-  \ elevated railroad into a public park.&nbsp;</p><p>Epilogue, Teaching Note<br /><br\
-  \ /><b>Topics:</b> public policy, public administration, urban planning, land use</p>"
+"description": !!python/str "<html><head></head><body><p>SIPA-14-0005.0 <br/><br/>This\
+  \ case examines the history and wider applicability of public-private partnerships\
+  \ (PPPs) for parks. For years, New York City’s Central Park was a neglected dustbowl.\
+  \ But in 1980, a new kind of organization arose to reclaim and restore it: the Central\
+  \ Park Conservancy (CPC), a partnership of private citizens working together with\
+  \ government for a public good. This case starts with the financial crisis of 1975\
+  \ and builds through the creation of the conservancy under Mayor Edward Koch to\
+  \ the formation in 1999 of the Friends of the High Line, a group of citizens who\
+  \ wanted to convert a disused elevated railroad into a public park. </p><p>Epilogue,\
+  \ Teaching Note<br/><br/><b>Topics:</b> public policy, public administration, urban\
+  \ planning, land use</p></body></html>"
 "description_clean": "SIPA-14-0005.0 This case examines the history and wider applicability\
   \ of public-private partnerships (PPPs) for parks. For years, New York City’s Central\
   \ Park was a neglected dustbowl. But in 1980, a new kind of organization arose to\
@@ -56,4 +57,4 @@
 "title": "Public-Private Partnerships for Green Space in NYC"
 "title_color": ""
 ---
-<p>SIPA-14-0005.0&nbsp;<br /><br />This case examines the history and wider applicability of public-private partnerships (PPPs) for parks. For years, New York City&rsquo;s Central Park was a neglected dustbowl. But in 1980, a new kind of organization arose to reclaim and restore it: the Central Park Conservancy (CPC), a partnership of private citizens working together with government for a public good. This case starts with the financial crisis of 1975 and builds through the creation of the conservancy under Mayor Edward Koch to the formation in 1999 of the Friends of the High Line, a group of citizens who wanted to convert a disused elevated railroad into a public park.&nbsp;</p><p>Epilogue, Teaching Note<br /><br /><b>Topics:</b> public policy, public administration, urban planning, land use</p>
+<html><head></head><body><p>SIPA-14-0005.0 <br/><br/>This case examines the history and wider applicability of public-private partnerships (PPPs) for parks. For years, New York City’s Central Park was a neglected dustbowl. But in 1980, a new kind of organization arose to reclaim and restore it: the Central Park Conservancy (CPC), a partnership of private citizens working together with government for a public good. This case starts with the financial crisis of 1975 and builds through the creation of the conservancy under Mayor Edward Koch to the formation in 1999 of the Friends of the High Line, a group of citizens who wanted to convert a disused elevated railroad into a public park. </p><p>Epilogue, Teaching Note<br/><br/><b>Topics:</b> public policy, public administration, urban planning, land use</p></body></html>

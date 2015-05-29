@@ -11,13 +11,13 @@
 - "ethics"
 "category_id": "17"
 "created_on": "10/2/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/366/abstract_small.jpg\"\
-  \ /></div><p><i>CSJ-09-0023.0</i><br />In this case study, students are taken behind\
+"description": "<html><head></head><body><div style=\"padding: 10px; float: right;\"\
+  ></div><p><i>CSJ-09-0023.0</i><br/>In this case study, students are taken behind\
   \ the scenes to examine the role an editorial board plays at a news organization.\
   \ <span>Students will begin to understand how editorial page opinions are formulated,\
   \ the structures that keep news reporting separate from opinion, and the factors\
   \ that weigh in on editorial page decisions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics:</b>\
-  \ editorial writing; politics reporting; ethics</p>"
+  \ editorial writing; politics reporting; ethics</p></body></html>"
 "description_clean": !!python/unicode "CSJ-09-0023.0In this case study, students are\
   \ taken behind the scenes to examine the role an editorial board plays at a news\
   \ organization. Students will begin to understand how editorial page opinions are\
@@ -50,4 +50,4 @@
   \ Sam Adams "
 "title_color": "#276b65"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/366/abstract_small.jpg" /></div><p><i>CSJ-09-0023.0</i><br />In this case study, students are taken behind the scenes to examine the role an editorial board plays at a news organization. <span>Students will begin to understand how editorial page opinions are formulated, the structures that keep news reporting separate from opinion, and the factors that weigh in on editorial page decisions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> editorial writing; politics reporting; ethics</p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-09-0023.0</i><br/>In this case study, students are taken behind the scenes to examine the role an editorial board plays at a news organization. <span>Students will begin to understand how editorial page opinions are formulated, the structures that keep news reporting separate from opinion, and the factors that weigh in on editorial page decisions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> editorial writing; politics reporting; ethics</p></body></html>

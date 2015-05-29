@@ -10,12 +10,11 @@
 - "news graphics"
 "category_id": "17"
 "created_on": "1/14/2009"
-"description": "<p><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/243/time\
-  \ magazine.gif\" /><i>CSJ-07-0001.0</i><br />This case study tells the story of\
-  \ how one editor at <i>Time</i> Magazine took a concept&mdash;create a &ldquo;mirror\
-  \ on America&rdquo;&mdash;and translated it into 12 pages in the magazine. The case\
+"description": !!python/str "<html><head></head><body><p><i>CSJ-07-0001.0</i><br/>This\
+  \ case study tells the story of how one editor at <i>Time</i> Magazine took a concept—create\
+  \ a “mirror on America”—and translated it into 12 pages in the magazine. The case\
   \ describes the kind of decisions editors have to make on a daily basis.</p><p>Epilogue,\
-  \ Teaching Note</p><p><b>Topics:</b> editorial decisionmaking; news graphics</p>"
+  \ Teaching Note</p><p><b>Topics:</b> editorial decisionmaking; news graphics</p></body></html>"
 "description_clean": "CSJ-07-0001.0This case study tells the story of how one editor\
   \ at Time Magazine took a concept—create a “mirror on America”—and translated it\
   \ into 12 pages in the magazine. The case describes the kind of decisions editors\
@@ -44,4 +43,4 @@
   \ at 300 Million&quot;"
 "title_color": "#cc3333"
 ---
-<p><img align="right" alt="" src="/casestudy/files/photos/243/time magazine.gif" /><i>CSJ-07-0001.0</i><br />This case study tells the story of how one editor at <i>Time</i> Magazine took a concept&mdash;create a &ldquo;mirror on America&rdquo;&mdash;and translated it into 12 pages in the magazine. The case describes the kind of decisions editors have to make on a daily basis.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> editorial decisionmaking; news graphics</p>
+<html><head></head><body><p><i>CSJ-07-0001.0</i><br/>This case study tells the story of how one editor at <i>Time</i> Magazine took a concept—create a “mirror on America”—and translated it into 12 pages in the magazine. The case describes the kind of decisions editors have to make on a daily basis.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> editorial decisionmaking; news graphics</p></body></html>

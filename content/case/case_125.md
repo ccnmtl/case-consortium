@@ -10,17 +10,17 @@
 - "public health studies"
 "category_id": "16"
 "created_on": "4/8/2014"
-"description": "<p>This case looks at the challenges of adhering to best scientific\
-  \ research practices when operating in the real world. The national Experience Corps\
-  \ program brings senior citizens to work as volunteers in elementary schools. But\
-  \ it has not yet had a rigorous evaluation&mdash;one that would argue for aggressive\
-  \ expansion. In 2005, Linda Fried, director of the Center on Aging and Health at\
-  \ Johns Hopkins University, wants to submit a proposal to the National Institutes\
-  \ of Health to fund randomized controlled trial of the Baltimore chapter of Experience\
-  \ Corps. But the organization which operates Experience Corps in Baltimore, has\
-  \ objections&mdash;most of them political&mdash;to some of the requirements for\
-  \ an RCT.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>community-based\
-  \ research; public health studies; academic/non-profit partnerships</p>"
+"description": !!python/str "<html><head></head><body><p>This case looks at the challenges\
+  \ of adhering to best scientific research practices when operating in the real world.\
+  \ The national Experience Corps program brings senior citizens to work as volunteers\
+  \ in elementary schools. But it has not yet had a rigorous evaluation—one that would\
+  \ argue for aggressive expansion. In 2005, Linda Fried, director of the Center on\
+  \ Aging and Health at Johns Hopkins University, wants to submit a proposal to the\
+  \ National Institutes of Health to fund randomized controlled trial of the Baltimore\
+  \ chapter of Experience Corps. But the organization which operates Experience Corps\
+  \ in Baltimore, has objections—most of them political—to some of the requirements\
+  \ for an RCT.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>community-based\
+  \ research; public health studies; academic/non-profit partnerships</p></body></html>"
 "description_clean": "This case looks at the challenges of adhering to best scientific\
   \ research practices when operating in the real world. The national Experience Corps\
   \ program brings senior citizens to work as volunteers in elementary schools. But\
@@ -56,4 +56,4 @@
   \ Study"
 "title_color": ""
 ---
-<p>This case looks at the challenges of adhering to best scientific research practices when operating in the real world. The national Experience Corps program brings senior citizens to work as volunteers in elementary schools. But it has not yet had a rigorous evaluation&mdash;one that would argue for aggressive expansion. In 2005, Linda Fried, director of the Center on Aging and Health at Johns Hopkins University, wants to submit a proposal to the National Institutes of Health to fund randomized controlled trial of the Baltimore chapter of Experience Corps. But the organization which operates Experience Corps in Baltimore, has objections&mdash;most of them political&mdash;to some of the requirements for an RCT.</p><p>Epilogue, Teaching Note<br /><br /><strong>Topics:&nbsp;</strong>community-based research; public health studies; academic/non-profit partnerships</p>
+<html><head></head><body><p>This case looks at the challenges of adhering to best scientific research practices when operating in the real world. The national Experience Corps program brings senior citizens to work as volunteers in elementary schools. But it has not yet had a rigorous evaluation—one that would argue for aggressive expansion. In 2005, Linda Fried, director of the Center on Aging and Health at Johns Hopkins University, wants to submit a proposal to the National Institutes of Health to fund randomized controlled trial of the Baltimore chapter of Experience Corps. But the organization which operates Experience Corps in Baltimore, has objections—most of them political—to some of the requirements for an RCT.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>community-based research; public health studies; academic/non-profit partnerships</p></body></html>

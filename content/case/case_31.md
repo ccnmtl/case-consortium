@@ -9,12 +9,12 @@
 - " None"
 "category_id": "2"
 "created_on": "5/7/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/342/abstract\
-  \ small.jpg\" /></div><p><i>CSJ-09-0019.0</i><br /><span>This case study examines\
-  \ long-form journalism, and the dilemma for a reporter when the story she intends\
-  \ to write is not the story she uncovers. It also examines the responsibility of\
-  \ a reporter to a source unfamiliar with journalistic conventions. </span></p><p><b>Topics:\
-  \ </b>education reporting; ethics</p>"
+"description": "<html><head></head><body><div style=\"padding: 10px; float: right;\"\
+  ></div><p><i>CSJ-09-0019.0</i><br/><span>This case study examines long-form journalism,\
+  \ and the dilemma for a reporter when the story she intends to write is not the\
+  \ story she uncovers. It also examines the responsibility of a reporter to a source\
+  \ unfamiliar with journalistic conventions. </span></p><p><b>Topics: </b>education\
+  \ reporting; ethics</p></body></html>"
 "description_clean": !!python/unicode "CSJ-09-0019.0This case study examines long-form\
   \ journalism, and the dilemma for a reporter when the story she intends to write\
   \ is not the story she uncovers. It also examines the responsibility of a reporter\
@@ -43,4 +43,4 @@
 "title": "Elusive Story (dead)"
 "title_color": "#330694"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/342/abstract small.jpg" /></div><p><i>CSJ-09-0019.0</i><br /><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions. </span></p><p><b>Topics: </b>education reporting; ethics</p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-09-0019.0</i><br/><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions. </span></p><p><b>Topics: </b>education reporting; ethics</p></body></html>

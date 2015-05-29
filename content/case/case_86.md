@@ -11,17 +11,16 @@
 - "digital journalism"
 "category_id": "17"
 "created_on": "3/9/2012"
-"description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/569/abstract\
-  \ image.jpg\" style=\"float: right; \" /></p><p><em>CSJ-12-0042.0</em><br />This\
+"description": !!python/str "<html><head></head><body><p></p><p><em>CSJ-12-0042.0</em><br/>This\
   \ case looks at the differences between online and mainstream media to ask whether\
   \ different editorial guidelines apply to the different platforms, and to question\
-  \ whether rules have changed. In August 2010, the editor for the online blog&nbsp;<em>Deadspin</em>,\
+  \ whether rules have changed. In August 2010, the editor for the online blog <em>Deadspin</em>,\
   \ A.J. Daulerio, faced a decision. Should he pay for and publish graphic photos\
   \ that famed Quarterback Brett Favre had allegedly sent to reporter Jenn Sterger?\
-  \ The<em>&nbsp;Deadspin</em> legal counselor had concerns. Sterger herself had refused\
+  \ The<em> Deadspin</em> legal counselor had concerns. Sterger herself had refused\
   \ to provide the photos. Daulerio had already published the story about the photos\
   \ and associated text messages. What did the photos add?</p><p>Epilogue, Teaching\
-  \ Note</p><p><strong>Topics:&nbsp;</strong>ethics; sports reporting; digital journalism</p>"
+  \ Note</p><p><strong>Topics: </strong>ethics; sports reporting; digital journalism</p></body></html>"
 "description_clean": "CSJ-12-0042.0This case looks at the differences between online\
   \ and mainstream media to ask whether different editorial guidelines apply to the\
   \ different platforms, and to question whether rules have changed. In August 2010,\
@@ -55,4 +54,4 @@
 "title": "Personal Foul? &lt;i&gt;Deadspin&lt;/i&gt; and an Iconic Athlete"
 "title_color": ""
 ---
-<p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/569/abstract image.jpg" style="float: right; " /></p><p><em>CSJ-12-0042.0</em><br />This case looks at the differences between online and mainstream media to ask whether different editorial guidelines apply to the different platforms, and to question whether rules have changed. In August 2010, the editor for the online blog&nbsp;<em>Deadspin</em>, A.J. Daulerio, faced a decision. Should he pay for and publish graphic photos that famed Quarterback Brett Favre had allegedly sent to reporter Jenn Sterger? The<em>&nbsp;Deadspin</em> legal counselor had concerns. Sterger herself had refused to provide the photos. Daulerio had already published the story about the photos and associated text messages. What did the photos add?</p><p>Epilogue, Teaching Note</p><p><strong>Topics:&nbsp;</strong>ethics; sports reporting; digital journalism</p>
+<html><head></head><body><p></p><p><em>CSJ-12-0042.0</em><br/>This case looks at the differences between online and mainstream media to ask whether different editorial guidelines apply to the different platforms, and to question whether rules have changed. In August 2010, the editor for the online blog <em>Deadspin</em>, A.J. Daulerio, faced a decision. Should he pay for and publish graphic photos that famed Quarterback Brett Favre had allegedly sent to reporter Jenn Sterger? The<em> Deadspin</em> legal counselor had concerns. Sterger herself had refused to provide the photos. Daulerio had already published the story about the photos and associated text messages. What did the photos add?</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>ethics; sports reporting; digital journalism</p></body></html>

@@ -10,7 +10,7 @@
 - "editorial management"
 "category_id": "17"
 "created_on": "1/27/2015"
-"description": ""
+"description": "<html><head></head><body></body></html>"
 "description_clean": !!python/unicode ""
 "epologue": "Global Post epilogue.pdf"
 "faculty_notes": ""
@@ -33,4 +33,4 @@
 "title": "Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
 "title_color": ""
 ---
-
+<html><head></head><body></body></html>

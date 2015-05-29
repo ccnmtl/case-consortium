@@ -11,13 +11,13 @@
 - "celebrity reporting"
 "category_id": "17"
 "created_on": "4/7/2009"
-"description": "<div style=\"padding: 10px; float: right;\"><img alt=\"\" src=\"/casestudy/files/photos/284/text\
-  \ only image.jpg\" /></div><p><i>CSJ-08-0018.0PO</i><br />This case is about how\
-  \ journalists make daily decisions on what to write, and what not to write. Students\
-  \ are asked to weigh the credibility of different sources of news, and discuss different\
-  \ standards of accuracy for blogs, tabloids, and more mainstream news outlets. They\
-  \ can also discuss the fine line between privacy and the public&#39;s right to know.</p><p>Teaching\
-  \ Note</p><p><b>Topics: </b>ethics; blogging; celebrity reporting</p>"
+"description": "<html><head></head><body><div style=\"padding: 10px; float: right;\"\
+  ></div><p><i>CSJ-08-0018.0PO</i><br/>This case is about how journalists make daily\
+  \ decisions on what to write, and what not to write. Students are asked to weigh\
+  \ the credibility of different sources of news, and discuss different standards\
+  \ of accuracy for blogs, tabloids, and more mainstream news outlets. They can also\
+  \ discuss the fine line between privacy and the public's right to know.</p><p>Teaching\
+  \ Note</p><p><b>Topics: </b>ethics; blogging; celebrity reporting</p></body></html>"
 "description_clean": !!python/unicode "CSJ-08-0018.0POThis case is about how journalists\
   \ make daily decisions on what to write, and what not to write. Students are asked\
   \ to weigh the credibility of different sources of news, and discuss different standards\
@@ -47,4 +47,4 @@
 "title": "News or Rumor? &lt;i&gt;Politico&lt;/i&gt; and the Edwards Affair "
 "title_color": "#2947a3"
 ---
-<div style="padding: 10px; float: right;"><img alt="" src="/casestudy/files/photos/284/text only image.jpg" /></div><p><i>CSJ-08-0018.0PO</i><br />This case is about how journalists make daily decisions on what to write, and what not to write. Students are asked to weigh the credibility of different sources of news, and discuss different standards of accuracy for blogs, tabloids, and more mainstream news outlets. They can also discuss the fine line between privacy and the public&#39;s right to know.</p><p>Teaching Note</p><p><b>Topics: </b>ethics; blogging; celebrity reporting</p>
+<html><head></head><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-08-0018.0PO</i><br/>This case is about how journalists make daily decisions on what to write, and what not to write. Students are asked to weigh the credibility of different sources of news, and discuss different standards of accuracy for blogs, tabloids, and more mainstream news outlets. They can also discuss the fine line between privacy and the public's right to know.</p><p>Teaching Note</p><p><b>Topics: </b>ethics; blogging; celebrity reporting</p></body></html>

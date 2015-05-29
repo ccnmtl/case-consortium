@@ -10,13 +10,12 @@
 - "negotiations"
 "category_id": "15"
 "created_on": "11/21/2013"
-"description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/global/117/abstract.jpg\"\
-  \ style=\"float: right; height: 177px; width: 250px;\" /></p><p><em>SIPA-13-0003.0</em></p><p>This\
+"description": "<html><head></head><body><p></p><p><em>SIPA-13-0003.0</em></p><p>This\
   \ case provides a detailed description of a foreign direct investment (FDI) in Liberia.\
   \ Students are asked to decide whether the project amounts to a land grab or is\
   \ a legitimate development project.</p><p>Epilogue, Teaching Note</p><p><strong>Topics:\
   \ </strong>natural resource development policy, negotiations, land policy, rural\
-  \ communities</p>"
+  \ communities</p></body></html>"
 "description_clean": !!python/unicode "SIPA-13-0003.0This case provides a detailed\
   \ description of a foreign direct investment (FDI) in Liberia. Students are asked\
   \ to decide whether the project amounts to a land grab or is a legitimate development\
@@ -45,4 +44,4 @@
 "title": "Land Grab or Responsible Development? Oil Palm Concessions in Liberia"
 "title_color": ""
 ---
-<p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/global/117/abstract.jpg" style="float: right; height: 177px; width: 250px;" /></p><p><em>SIPA-13-0003.0</em></p><p>This case provides a detailed description of a foreign direct investment (FDI) in Liberia. Students are asked to decide whether the project amounts to a land grab or is a legitimate development project.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>natural resource development policy, negotiations, land policy, rural communities</p>
+<html><head></head><body><p></p><p><em>SIPA-13-0003.0</em></p><p>This case provides a detailed description of a foreign direct investment (FDI) in Liberia. Students are asked to decide whether the project amounts to a land grab or is a legitimate development project.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>natural resource development policy, negotiations, land policy, rural communities</p></body></html>

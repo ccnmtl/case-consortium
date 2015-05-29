@@ -10,15 +10,14 @@
 - "religion reporting"
 "category_id": "17"
 "created_on": "12/17/2008"
-"description": "<p><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/231/Picture\
-  \ 1.jpg\" /></p><p><i>CSJ-09-</i><i>0011.0</i><br /><span>This case is about the\
-  \ calculus a news organization must make when it uncovers a story that incriminates\
-  \ the most powerful institution in its community. In 2001, the <i>Boston Globe</i></span>&#39;s\
-  \ investigative unit discovered several instances of Catholic priests sexually abusing\
-  \ children. Students will be able to examine investigative techniques as well as\
-  \ the special challenges of covering religion, and gain insight into the personal\
-  \ toll on journalists of covering misdeeds in one&#39;s own church.</p><p>Epilogue,\
-  \ Teaching Note</p><p><b>Topics: </b>investigative reporting; religion reporting</p>"
+"description": "<html><head></head><body><p></p><p><i>CSJ-09-</i><i>0011.0</i><br/><span>This\
+  \ case is about the calculus a news organization must make when it uncovers a story\
+  \ that incriminates the most powerful institution in its community. In 2001, the\
+  \ <i>Boston Globe</i></span>'s investigative unit discovered several instances of\
+  \ Catholic priests sexually abusing children. Students will be able to examine investigative\
+  \ techniques as well as the special challenges of covering religion, and gain insight\
+  \ into the personal toll on journalists of covering misdeeds in one's own church.</p><p>Epilogue,\
+  \ Teaching Note</p><p><b>Topics: </b>investigative reporting; religion reporting</p></body></html>"
 "description_clean": !!python/unicode "CSJ-09-0011.0This case is about the calculus\
   \ a news organization must make when it uncovers a story that incriminates the most\
   \ powerful institution in its community. In 2001, the Boston Globe's investigative\
@@ -51,4 +50,4 @@
   \ Abuse in the Catholic Church "
 "title_color": "#996632"
 ---
-<p><img align="right" alt="" src="/casestudy/files/photos/231/Picture 1.jpg" /></p><p><i>CSJ-09-</i><i>0011.0</i><br /><span>This case is about the calculus a news organization must make when it uncovers a story that incriminates the most powerful institution in its community. In 2001, the <i>Boston Globe</i></span>&#39;s investigative unit discovered several instances of Catholic priests sexually abusing children. Students will be able to examine investigative techniques as well as the special challenges of covering religion, and gain insight into the personal toll on journalists of covering misdeeds in one&#39;s own church.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>investigative reporting; religion reporting</p>
+<html><head></head><body><p></p><p><i>CSJ-09-</i><i>0011.0</i><br/><span>This case is about the calculus a news organization must make when it uncovers a story that incriminates the most powerful institution in its community. In 2001, the <i>Boston Globe</i></span>'s investigative unit discovered several instances of Catholic priests sexually abusing children. Students will be able to examine investigative techniques as well as the special challenges of covering religion, and gain insight into the personal toll on journalists of covering misdeeds in one's own church.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>investigative reporting; religion reporting</p></body></html>

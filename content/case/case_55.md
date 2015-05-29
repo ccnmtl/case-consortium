@@ -11,14 +11,14 @@
 - "media business"
 "category_id": "17"
 "created_on": "6/7/2010"
-"description": "<div style=\"float: right; padding: 10px;\"><img src=\"/casestudy/files/photos/432/kynews_abstract_small.jpg\"\
-  \ /></div><p><i>CSJ-10-0031.0</i><br />This case allows students to consider the\
-  \ societal debate over the business models for future journalism, whether universities\
-  \ have a role to play, and whether good journalism is a civic obligation. The University\
+"description": "<html><head></head><body><div style=\"float: right; padding: 10px;\"\
+  ></div><p><i>CSJ-10-0031.0</i><br/>This case allows students to consider the societal\
+  \ debate over the business models for future journalism, whether universities have\
+  \ a role to play, and whether good journalism is a civic obligation. The University\
   \ of Kentucky and Kentucky State University have an opportunity in 2009 to create\
   \ a student-run news bureau in the state capital, Frankfort.</p><p>Epilogue, Teaching\
   \ Note</p><p><strong>Topics:</strong> strategic management; politics reporting;\
-  \ media business</p>"
+  \ media business</p></body></html>"
 "description_clean": !!python/unicode "CSJ-10-0031.0This case allows students to consider\
   \ the societal debate over the business models for future journalism, whether universities\
   \ have a role to play, and whether good journalism is a civic obligation. The University\
@@ -51,4 +51,4 @@
 "title": "Into the Breach: Should Student Journalists Save Local Political Reporting?"
 "title_color": "#0c43b0"
 ---
-<div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/432/kynews_abstract_small.jpg" /></div><p><i>CSJ-10-0031.0</i><br />This case allows students to consider the societal debate over the business models for future journalism, whether universities have a role to play, and whether good journalism is a civic obligation. The University of Kentucky and Kentucky State University have an opportunity in 2009 to create a student-run news bureau in the state capital, Frankfort.</p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> strategic management; politics reporting; media business</p>
+<html><head></head><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-10-0031.0</i><br/>This case allows students to consider the societal debate over the business models for future journalism, whether universities have a role to play, and whether good journalism is a civic obligation. The University of Kentucky and Kentucky State University have an opportunity in 2009 to create a student-run news bureau in the state capital, Frankfort.</p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> strategic management; politics reporting; media business</p></body></html>

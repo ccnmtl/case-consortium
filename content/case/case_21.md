@@ -12,13 +12,13 @@
 - "broadcast"
 "category_id": "17"
 "created_on": "1/16/2009"
-"description": "<p><i><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/247/abc.gif\"\
-  \ />CSJ-08-0007.0</i><br />This case describes ABC News and its early coverage of\
-  \ an alleged rape by members of the Duke University lacrosse team in 2006. The narrative\
-  \ stops at a point in mid-April when the ABC News Vice President for Editorial Quality,\
-  \ Kerry Smith, had to decide whether or not to broadcast photographs from the party\
-  \ at which the alleged rape took place.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b>\
-  \ ethics; editorial decisionmaking; gender &amp; race</p>"
+"description": "<html><head></head><body><p><i>CSJ-08-0007.0</i><br/>This case describes\
+  \ ABC News and its early coverage of an alleged rape by members of the Duke University\
+  \ lacrosse team in 2006. The narrative stops at a point in mid-April when the ABC\
+  \ News Vice President for Editorial Quality, Kerry Smith, had to decide whether\
+  \ or not to broadcast photographs from the party at which the alleged rape took\
+  \ place.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> ethics; editorial decisionmaking;\
+  \ gender &amp; race</p></body></html>"
 "description_clean": !!python/unicode "CSJ-08-0007.0This case describes ABC News and\
   \ its early coverage of an alleged rape by members of the Duke University lacrosse\
   \ team in 2006. The narrative stops at a point in mid-April when the ABC News Vice\
@@ -48,4 +48,4 @@
 "title": "Integrity on Deadline: ABC News and the Duke Lacrosse Photographs"
 "title_color": "#006699"
 ---
-<p><i><img align="right" alt="" src="/casestudy/files/photos/247/abc.gif" />CSJ-08-0007.0</i><br />This case describes ABC News and its early coverage of an alleged rape by members of the Duke University lacrosse team in 2006. The narrative stops at a point in mid-April when the ABC News Vice President for Editorial Quality, Kerry Smith, had to decide whether or not to broadcast photographs from the party at which the alleged rape took place.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> ethics; editorial decisionmaking; gender &amp; race</p>
+<html><head></head><body><p><i>CSJ-08-0007.0</i><br/>This case describes ABC News and its early coverage of an alleged rape by members of the Duke University lacrosse team in 2006. The narrative stops at a point in mid-April when the ABC News Vice President for Editorial Quality, Kerry Smith, had to decide whether or not to broadcast photographs from the party at which the alleged rape took place.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> ethics; editorial decisionmaking; gender &amp; race</p></body></html>

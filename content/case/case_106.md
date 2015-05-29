@@ -11,14 +11,13 @@
 - "local reporting."
 "category_id": "17"
 "created_on": "10/15/2012"
-"description": "<p><img src=\"https://casestudies.jrn.columbia.edu/casestudy/files/photos/685/abstract.jpg\"\
-  \ style=\"float: right; \" /><em>CSJ-12-0045.0 -&nbsp;</em>This contributed case\
-  \ examines whether CHCH TV (outside Toronto) should broadcast the dying words of\
-  \ a police officer whose last thoughts were for the welfare of the teenagers who\
-  \ had dragged him to his death. The case counterposes concern for the privacy of\
-  \ the family/individual against the public&rsquo;s interest in the officer, Constable\
-  \ Garrett Styles.</p><p><strong>This is a FREE, contributed case.</strong></p><p>Epilogue</p><p><strong>Topics:</strong>&nbsp;ethics;\
-  \ editorial decisionmaking; local reporting.</p>"
+"description": !!python/str "<html><head></head><body><p><em>CSJ-12-0045.0 - </em>This\
+  \ contributed case examines whether CHCH TV (outside Toronto) should broadcast the\
+  \ dying words of a police officer whose last thoughts were for the welfare of the\
+  \ teenagers who had dragged him to his death. The case counterposes concern for\
+  \ the privacy of the family/individual against the public’s interest in the officer,\
+  \ Constable Garrett Styles.</p><p><strong>This is a FREE, contributed case.</strong></p><p>Epilogue</p><p><strong>Topics:</strong> ethics;\
+  \ editorial decisionmaking; local reporting.</p></body></html>"
 "description_clean": "CSJ-12-0045.0 - This contributed case examines whether CHCH\
   \ TV (outside Toronto) should broadcast the dying words of a police officer whose\
   \ last thoughts were for the welfare of the teenagers who had dragged him to his\
@@ -47,4 +46,4 @@
 "title": "Words of the Dying: CHCH TV and Constable Garrett Styles"
 "title_color": ""
 ---
-<p><img src="https://casestudies.jrn.columbia.edu/casestudy/files/photos/685/abstract.jpg" style="float: right; " /><em>CSJ-12-0045.0 -&nbsp;</em>This contributed case examines whether CHCH TV (outside Toronto) should broadcast the dying words of a police officer whose last thoughts were for the welfare of the teenagers who had dragged him to his death. The case counterposes concern for the privacy of the family/individual against the public&rsquo;s interest in the officer, Constable Garrett Styles.</p><p><strong>This is a FREE, contributed case.</strong></p><p>Epilogue</p><p><strong>Topics:</strong>&nbsp;ethics; editorial decisionmaking; local reporting.</p>
+<html><head></head><body><p><em>CSJ-12-0045.0 - </em>This contributed case examines whether CHCH TV (outside Toronto) should broadcast the dying words of a police officer whose last thoughts were for the welfare of the teenagers who had dragged him to his death. The case counterposes concern for the privacy of the family/individual against the public’s interest in the officer, Constable Garrett Styles.</p><p><strong>This is a FREE, contributed case.</strong></p><p>Epilogue</p><p><strong>Topics:</strong> ethics; editorial decisionmaking; local reporting.</p></body></html>

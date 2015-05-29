@@ -12,14 +12,14 @@
 - "newsroom management"
 "category_id": "17"
 "created_on": "4/25/2011"
-"description": "<p><i>CSJ-11-0038.0CC</i><br />This case takes a hard look behind\
-  \ the scenes at starting a for-profit community news website, the <em>Long Beach\
-  \ Post</em> (LBPOST.com). Students can discuss the variety of challenges facing\
-  \ a news start-up and debate the merits of a for-profit business model. they will\
-  \ gain insight into the realities of journalism entrepreneurship, the competition\
-  \ in local media markets, and the options for community outreach.</p><p><strong>This\
-  \ is a FREE, contributed case.</strong><br /><br />Epilogue, Teaching Note</p><p><strong>Topics:\
-  \ </strong>local journalism; media business; digital media</p>"
+"description": "<html><head></head><body><p><i>CSJ-11-0038.0CC</i><br/>This case takes\
+  \ a hard look behind the scenes at starting a for-profit community news website,\
+  \ the <em>Long Beach Post</em> (LBPOST.com). Students can discuss the variety of\
+  \ challenges facing a news start-up and debate the merits of a for-profit business\
+  \ model. they will gain insight into the realities of journalism entrepreneurship,\
+  \ the competition in local media markets, and the options for community outreach.</p><p><strong>This\
+  \ is a FREE, contributed case.</strong><br/><br/>Epilogue, Teaching Note</p><p><strong>Topics:\
+  \ </strong>local journalism; media business; digital media</p></body></html>"
 "description_clean": !!python/unicode "CSJ-11-0038.0CCThis case takes a hard look\
   \ behind the scenes at starting a for-profit community news website, the Long Beach\
   \ Post (LBPOST.com). Students can discuss the variety of challenges facing a news\
@@ -54,4 +54,4 @@
   \ News"
 "title_color": "#2947a3"
 ---
-<p><i>CSJ-11-0038.0CC</i><br />This case takes a hard look behind the scenes at starting a for-profit community news website, the <em>Long Beach Post</em> (LBPOST.com). Students can discuss the variety of challenges facing a news start-up and debate the merits of a for-profit business model. they will gain insight into the realities of journalism entrepreneurship, the competition in local media markets, and the options for community outreach.</p><p><strong>This is a FREE, contributed case.</strong><br /><br />Epilogue, Teaching Note</p><p><strong>Topics: </strong>local journalism; media business; digital media</p>
+<html><head></head><body><p><i>CSJ-11-0038.0CC</i><br/>This case takes a hard look behind the scenes at starting a for-profit community news website, the <em>Long Beach Post</em> (LBPOST.com). Students can discuss the variety of challenges facing a news start-up and debate the merits of a for-profit business model. they will gain insight into the realities of journalism entrepreneurship, the competition in local media markets, and the options for community outreach.</p><p><strong>This is a FREE, contributed case.</strong><br/><br/>Epilogue, Teaching Note</p><p><strong>Topics: </strong>local journalism; media business; digital media</p></body></html>

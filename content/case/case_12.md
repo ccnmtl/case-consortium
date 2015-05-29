@@ -10,15 +10,14 @@
 - "investigative reporting"
 "category_id": "17"
 "created_on": "12/9/2008"
-"description": "<p><img align=\"right\" alt=\"\" src=\"/casestudy/files/photos/238/chemical.jpg\"\
-  \ /><i>CSJ-08-0017.0</i><br />This case looks at the challenges that confront science\
-  \ reporters as they seek to determine what is the &ldquo;truth&rdquo; among competing\
-  \ scientific claims. In summer 2007, the Milwaukee <i>Journal Sentinel</i> launched\
-  \ an investigation into the chemical compound bisphenol A (BPA). An editor asks\
-  \ the reporters to determine for themselves whether BPA is safe or not. Accustomed\
-  \ to telling &ldquo;balanced&rdquo;&nbsp;he said/she said-style stories, this thrusts\
-  \ the reporting team&mdash;especially its science reporter&mdash;into unknown territory.</p><p>Epilogue,\
-  \ Teaching Note</p><p><b>Topics: </b>science reporting; investigative reporting</p>"
+"description": !!python/str "<html><head></head><body><p><i>CSJ-08-0017.0</i><br/>This\
+  \ case looks at the challenges that confront science reporters as they seek to determine\
+  \ what is the “truth” among competing scientific claims. In summer 2007, the Milwaukee\
+  \ <i>Journal Sentinel</i> launched an investigation into the chemical compound bisphenol\
+  \ A (BPA). An editor asks the reporters to determine for themselves whether BPA\
+  \ is safe or not. Accustomed to telling “balanced” he said/she said-style stories,\
+  \ this thrusts the reporting team—especially its science reporter—into unknown territory.</p><p>Epilogue,\
+  \ Teaching Note</p><p><b>Topics: </b>science reporting; investigative reporting</p></body></html>"
 "description_clean": "CSJ-08-0017.0This case looks at the challenges that confront\
   \ science reporters as they seek to determine what is the “truth” among competing\
   \ scientific claims. In summer 2007, the Milwaukee Journal Sentinel launched an\
@@ -51,4 +50,4 @@
   \ the BPA Story"
 "title_color": "#ad36ad"
 ---
-<p><img align="right" alt="" src="/casestudy/files/photos/238/chemical.jpg" /><i>CSJ-08-0017.0</i><br />This case looks at the challenges that confront science reporters as they seek to determine what is the &ldquo;truth&rdquo; among competing scientific claims. In summer 2007, the Milwaukee <i>Journal Sentinel</i> launched an investigation into the chemical compound bisphenol A (BPA). An editor asks the reporters to determine for themselves whether BPA is safe or not. Accustomed to telling &ldquo;balanced&rdquo;&nbsp;he said/she said-style stories, this thrusts the reporting team&mdash;especially its science reporter&mdash;into unknown territory.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>science reporting; investigative reporting</p>
+<html><head></head><body><p><i>CSJ-08-0017.0</i><br/>This case looks at the challenges that confront science reporters as they seek to determine what is the “truth” among competing scientific claims. In summer 2007, the Milwaukee <i>Journal Sentinel</i> launched an investigation into the chemical compound bisphenol A (BPA). An editor asks the reporters to determine for themselves whether BPA is safe or not. Accustomed to telling “balanced” he said/she said-style stories, this thrusts the reporting team—especially its science reporter—into unknown territory.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>science reporting; investigative reporting</p></body></html>

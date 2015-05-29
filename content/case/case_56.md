@@ -11,16 +11,16 @@
 - "international"
 "category_id": "17"
 "created_on": "8/10/2010"
-"description": "<div style=\"float: right; padding: 10px;\"><img src=\"/casestudy/files/photos/434/clarin_abstract_small.jpg\"\
-  \ /></div><p><i>CSJ-10-0033.0</i><br />This case is about the relationship between\
-  \ government and media, how media companies should manage that relationship, and\
-  \ the role of media in society. In 2009, the Grupo Clar&iacute;n in Argentina faced\
+"description": !!python/str "<html><head></head><body><div style=\"float: right; padding:\
+  \ 10px;\"></div><p><i>CSJ-10-0033.0</i><br/>This case is about the relationship\
+  \ between government and media, how media companies should manage that relationship,\
+  \ and the role of media in society. In 2009, the Grupo Clarín in Argentina faced\
   \ a proposed media reform law that would have a meaningful impact on its bottom\
   \ line. Use this case as the basis for student discussion of the role of the press\
   \ in a democracy, the ideal legal framework for a press to operate, and the competing\
   \ priorities of media as a business vs. media as news purveyor.</p><p>Epilogue,\
   \ Teaching Note</p><p><strong>Topics: </strong>media business; strategic management;\
-  \ international</p>"
+  \ international</p></body></html>"
 "description_clean": "CSJ-10-0033.0This case is about the relationship between government\
   \ and media, how media companies should manage that relationship, and the role of\
   \ media in society. In 2009, the Grupo Clarín in Argentina faced a proposed media\
@@ -55,4 +55,4 @@
 "title": "Legal Jeopardy: Clar&amp;iacute;n Group and the Kirchners"
 "title_color": "#9e1313"
 ---
-<div style="float: right; padding: 10px;"><img src="/casestudy/files/photos/434/clarin_abstract_small.jpg" /></div><p><i>CSJ-10-0033.0</i><br />This case is about the relationship between government and media, how media companies should manage that relationship, and the role of media in society. In 2009, the Grupo Clar&iacute;n in Argentina faced a proposed media reform law that would have a meaningful impact on its bottom line. Use this case as the basis for student discussion of the role of the press in a democracy, the ideal legal framework for a press to operate, and the competing priorities of media as a business vs. media as news purveyor.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>media business; strategic management; international</p>
+<html><head></head><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-10-0033.0</i><br/>This case is about the relationship between government and media, how media companies should manage that relationship, and the role of media in society. In 2009, the Grupo Clarín in Argentina faced a proposed media reform law that would have a meaningful impact on its bottom line. Use this case as the basis for student discussion of the role of the press in a democracy, the ideal legal framework for a press to operate, and the competing priorities of media as a business vs. media as news purveyor.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>media business; strategic management; international</p></body></html>
