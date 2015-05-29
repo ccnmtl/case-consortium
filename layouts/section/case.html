@@ -37,7 +37,8 @@
                                   var text = jQuery(this).text();
                                   jQuery(this).html(text);
                               });
-                            }                  
+                            }    
+
                             var item_template = 
                             '<tr class="item">' +
                               '<td id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
@@ -72,7 +73,7 @@
                             jQuery('.orderbyitem')
                               .add(jQuery('.facetitem'))
                               .add(jQuery('.deselectstartover'))
-                              .add(jQuery('.showmorebutton'))
+                              .add(jQuery('#showmorebutton'))
                               .on('click', function(){
                                 setTableHeaders();
                                 unescapeHtml();
