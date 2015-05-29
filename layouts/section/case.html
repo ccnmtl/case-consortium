@@ -34,7 +34,6 @@
                             }
                             window.unescapeHtml = function(){
                               jQuery('.unescape').each(function(){
-                                alert('fired');
                                   var text = jQuery(this).text();
                                   jQuery(this).html(text);
                               });
@@ -46,7 +45,7 @@
                               '<td><a target="_blank" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/'+
                               '<%= obj.id %>/casestudy/www/layout/standard.asp%3fcase_id=<%= obj.id %>.html">'+
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' + 
-                              '<td><img src="<%= obj.imageURL %>"></td>' +
+                              '<td><img src="/img/case/case_thumb_<%= obj.id %>.jpg"/></td>' +
                               '<td class="item-topics"><% for(var topic in obj.topics)' +
                               '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></td>' +
                             '</tr>';
