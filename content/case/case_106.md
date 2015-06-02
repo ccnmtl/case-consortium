@@ -38,7 +38,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Words of the Dying"
+"slug": "WordsoftheDying"
 "status_id": "1"
 "teaching_note": ""
 "teaser": ""

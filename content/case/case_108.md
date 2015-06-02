@@ -46,7 +46,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "this american life"
+"slug": "thisamericanlife"
 "status_id": "1"
 "teaching_note": "Truthiness TN.pdf"
 "teaser": "When This American Life featured a story exposing the deplorable working\

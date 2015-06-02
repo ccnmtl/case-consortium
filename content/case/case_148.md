@@ -25,7 +25,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "GlobalPost Syria"
+"slug": "GlobalPostSyria"
 "status_id": "2"
 "teaching_note": "Global Post TN.pdf"
 "teaser": ""

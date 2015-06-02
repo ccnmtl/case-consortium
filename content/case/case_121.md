@@ -39,7 +39,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Public Service or Illegal Act?"
+"slug": "PublicServiceorIllegalAct"
 "status_id": "1"
 "teaching_note": "Public Service or Illegal Act TN.pdf"
 "teaser": "Are there instances in which the media is justified in breaking the law?\

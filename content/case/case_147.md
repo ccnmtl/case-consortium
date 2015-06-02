@@ -46,7 +46,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Covert Activity"
+"slug": "CovertActivity"
 "status_id": "1"
 "teaching_note": "TN Snowden WaPost.pdf"
 "teaser": "This case takes a behind-the-scenes look at how a national security reporter\

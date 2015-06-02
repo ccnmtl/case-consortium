@@ -44,7 +44,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Fighting Blackmail"
+"slug": "FightingBlackmail"
 "status_id": "1"
 "teaching_note": "Khadija TN 071714.pdf"
 "teaser": !!python/str "This case chronicles the challenges of reporting on corruption\

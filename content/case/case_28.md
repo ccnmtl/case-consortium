@@ -39,7 +39,7 @@
 - "CSJ-08-0018.0PO"
 - "CSJ-08-0008.0"
 "school": ""
-"slug": "News or Rumor"
+"slug": "NewsorRumor"
 "status_id": "1"
 "teaching_note": "Edwards Teaching Note.pdf"
 "teaser": ""

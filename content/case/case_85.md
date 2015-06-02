@@ -41,7 +41,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "A Woman's Place?"
+"slug": "AWomansPlace"
 "status_id": "1"
 "teaching_note": "Addario TN.pdf"
 "teaser": "This case raises for student consideration the challenges and rewards of\

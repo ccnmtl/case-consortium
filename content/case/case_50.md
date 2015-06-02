@@ -48,7 +48,7 @@
 - "CSJ-10-0027.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": !!python/str "P¿Periodistas o policías?"
+"slug": !!python/str "P¿Periodistasopolicías"
 "status_id": "1"
 "teaching_note": "CONTACTO Espanol Teaching Note.pdf"
 "teaser": ""

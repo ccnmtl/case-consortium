@@ -39,7 +39,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "TZ Bribery"
+"slug": "TZBribery"
 "status_id": "1"
 "teaching_note": "TZ bribery TN.pdf"
 "teaser": "The case explores ethics in journalism and the potential costs to a news\

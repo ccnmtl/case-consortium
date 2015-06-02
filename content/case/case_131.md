@@ -48,7 +48,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Tortoise or Hare?"
+"slug": "TortoiseorHare"
 "status_id": "1"
 "teaching_note": "TN FC 080614.pdf"
 "teaser": !!python/str "This case brings readers into the world of nonprofit social\

@@ -39,7 +39,7 @@
 - "CSJ-09-0021.0"
 - "CSJ-10-0030.0"
 "school": ""
-"slug": "Not for Profit?"
+"slug": "NotforProfit"
 "status_id": "1"
 "teaching_note": "Voice of San Diego Teaching Note.pdf"
 "teaser": ""

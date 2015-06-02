@@ -41,7 +41,7 @@
 - "CSJ-09-0020.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": "Chemical Fallout"
+"slug": "ChemicalFallout"
 "status_id": "1"
 "teaching_note": "Chemical Fallout Teaching Note.pdf"
 "teaser": ""

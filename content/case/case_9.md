@@ -37,7 +37,7 @@
 "related_cases":
 - "CSJ-08-0007.0"
 "school": ""
-"slug": "New England Cable News Video"
+"slug": "NewEnglandCableNewsVideo"
 "status_id": "1"
 "teaching_note": "NECN Teaching Note.pdf"
 "teaser": ""

@@ -43,7 +43,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Personal Foul"
+"slug": "PersonalFoul"
 "status_id": "1"
 "teaching_note": "Deadspin TN.pdf"
 "teaser": "This case looks at the differences between online and mainstream media\

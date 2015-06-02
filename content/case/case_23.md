@@ -39,7 +39,7 @@
 - "CSJ-08-0017.0"
 - "CSJ-09-0011.0"
 "school": ""
-"slug": "After the Storms"
+"slug": "AftertheStorms"
 "status_id": "1"
 "teaching_note": "Sun-Sentinel Teaching Note.pdf"
 "teaser": ""

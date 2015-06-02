@@ -40,7 +40,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Rating Teachers"
+"slug": "RatingTeachers"
 "status_id": "1"
 "teaching_note": "LA Times TN.pdf"
 "teaser": "This case goes behind the scenes to examine the thinking at the Los Angeles\

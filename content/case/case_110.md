@@ -37,7 +37,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "higher truth"
+"slug": "highertruth"
 "status_id": "1"
 "teaching_note": "HellandBackTN.pdf"
 "teaser": "In 2010, photojournalist and videographer Danfung Dennis was wrapping up\

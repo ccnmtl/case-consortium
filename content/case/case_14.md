@@ -41,7 +41,7 @@
 - "CSJ-08-0017.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": "Reporting an Explosive Truth"
+"slug": "ReportinganExplosiveTruth"
 "status_id": "1"
 "teaching_note": "Boston Globe Teaching Note.pdf"
 "teaser": ""

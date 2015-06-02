@@ -41,7 +41,7 @@
 - "CSJ-08-0007.0"
 - "CSJ-08-0018.0PO"
 "school": ""
-"slug": "New England Cable News Text"
+"slug": "NewEnglandCableNewsText"
 "status_id": "1"
 "teaching_note": "NECN Teaching Note.pdf"
 "teaser": ""

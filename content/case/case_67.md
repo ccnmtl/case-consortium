@@ -38,7 +38,7 @@
 "related_cases":
 - "CSJ-10-0031.0"
 "school": ""
-"slug": "Buy It or Make It?"
+"slug": "BuyItorMakeIt"
 "status_id": "1"
 "teaching_note": "AP and Charlotte Observer Teaching Note.pdf"
 "teaser": "This case examines the dilemma faced by US newspapers as they make painful\

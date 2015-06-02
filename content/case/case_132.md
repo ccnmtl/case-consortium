@@ -48,7 +48,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Chasing the Community Newspaper Rainbow"
+"slug": "ChasingtheCommunityNewspaperRainbow"
 "status_id": "1"
 "teaching_note": "Whiteville NC TN FINAL.pdf"
 "teaser": "This case looks at a community newspaper and how it might transform its\

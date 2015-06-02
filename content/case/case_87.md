@@ -45,7 +45,7 @@
 "redtext": ""
 "related_cases": []
 "school": "mailman"
-"slug": "When BEST Intentions Go Awry"
+"slug": "WhenBESTIntentionsGoAwry"
 "status_id": "1"
 "teaching_note": "When BEST intentions go awry TN.pdf"
 "teaser": ""

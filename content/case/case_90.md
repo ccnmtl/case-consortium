@@ -46,7 +46,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": "mailman"
-"slug": "CA prisoners"
+"slug": "CAprisoners"
 "status_id": "1"
 "teaching_note": "California Policy for Ill and Elderly TN.pdf"
 "teaser": "This case looks at the challenges that confront public health professionals\

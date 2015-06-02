@@ -42,7 +42,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": "mailman"
-"slug": "credible voice"
+"slug": "crediblevoice"
 "status_id": "1"
 "teaching_note": "WHO SARS TN.pdf"
 "teaser": "The WHO serves as the world's monitor of disease outbreak and control.\

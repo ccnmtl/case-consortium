@@ -37,7 +37,7 @@
 "related_cases":
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "Life on the Line"
+"slug": "LifeontheLine"
 "status_id": "1"
 "teaching_note": "Monitor Teaching Note.pdf"
 "teaser": "This case treats the hard choices which confront a news organization when\

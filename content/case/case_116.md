@@ -48,7 +48,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Cumulative or Discrete Numbers"
+"slug": "CumulativeorDiscreteNumbers"
 "status_id": "1"
 "teaching_note": "Bloomberg TN 111413.pdf"
 "teaser": "This case describes one of the more confounding issues that business reporters\

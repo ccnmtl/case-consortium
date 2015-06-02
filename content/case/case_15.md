@@ -36,7 +36,7 @@
 - "CSJ-09-0014.0"
 - "CSJ-09-0021.0"
 "school": ""
-"slug": "Charting a Course for Change"
+"slug": "ChartingaCourseforChange"
 "status_id": "1"
 "teaching_note": "Times Union Teaching Note.pdf"
 "teaser": ""

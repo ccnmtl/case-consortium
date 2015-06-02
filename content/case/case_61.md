@@ -37,7 +37,7 @@
 "related_cases":
 - "CSJ-09-0016.0"
 "school": ""
-"slug": !!python/str "Privacidad e Interés Público"
+"slug": !!python/str "PrivacidadeInterésPúblico"
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""

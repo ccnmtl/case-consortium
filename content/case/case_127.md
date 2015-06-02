@@ -45,7 +45,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Big Data"
+"slug": "BigData"
 "status_id": "1"
 "teaching_note": "NYC Big Data TN 060814.pdf"
 "teaser": "This case traces the use of data in making wiser policy decisions, from\

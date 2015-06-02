@@ -40,7 +40,7 @@
 - "CSJ-08-0004.0"
 - "CSJ-09-0016.0"
 "school": ""
-"slug": "Integrity on Deadline"
+"slug": "IntegrityonDeadline"
 "status_id": "1"
 "teaching_note": "ABC Teaching Note.pdf"
 "teaser": ""

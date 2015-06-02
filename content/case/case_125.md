@@ -44,7 +44,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Scientific Method"
+"slug": "ScientificMethod"
 "status_id": "1"
 "teaching_note": "EC teaching note v.2.pdf"
 "teaser": !!python/str "This case looks at the challenges of adhering to best scientific\

@@ -40,7 +40,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "A Newsroom Divided"
+"slug": "ANewsroomDivided"
 "status_id": "1"
 "teaching_note": "Kenya elxns TN.pdf"
 "teaser": "This case examines what happens when personal bias affects the newsroom.\

@@ -44,7 +44,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Merging Two Worlds"
+"slug": "MergingTwoWorlds"
 "status_id": "1"
 "teaching_note": "TN Reston Dental Arts 082614.pdf"
 "teaser": !!python/str "This case takes students into the world of medical management,\

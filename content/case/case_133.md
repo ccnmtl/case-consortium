@@ -48,7 +48,7 @@
 "redtext": "NOTABLE"
 "related_cases": []
 "school": ""
-"slug": "The Islanders and the Scientists: Post-tsunami Aid in the Nicobars"
+"slug": "TheIslandersandtheScientists:Post-tsunamiAidintheNicobars"
 "status_id": "1"
 "teaching_note": "Nicobars TN 080414.pdf"
 "teaser": "This sustainable development case focuses on the unintended consequences\

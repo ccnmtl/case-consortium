@@ -38,7 +38,7 @@
 - "CSJ-08-0017.0"
 - "CSJ-09-0011.0"
 "school": ""
-"slug": "God and Darwin"
+"slug": "GodandDarwin"
 "status_id": "1"
 "teaching_note": "York Daily Record Teaching Note.pdf"
 "teaser": ""

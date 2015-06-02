@@ -36,7 +36,7 @@
 - "CSJ-09-0020.0"
 - "CSJ-08-0005.0"
 "school": ""
-"slug": "Elusive Story"
+"slug": "ElusiveStory"
 "status_id": "1"
 "teaching_note": "Chicago Tribune Teaching Note.pdf"
 "teaser": ""

@@ -42,7 +42,7 @@
 - "CSJ-08-0015.0PO"
 - "CSJ-08-0018.0PO"
 "school": ""
-"slug": "Public Death, Private Life"
+"slug": "PublicDeath,PrivateLife"
 "status_id": "1"
 "teaching_note": "Rogers and WaPost Teaching Note.pdf"
 "teaser": ""

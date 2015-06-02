@@ -39,7 +39,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-10-0026.0"
 "school": ""
-"slug": "Reputations to Lose"
+"slug": "ReputationstoLose"
 "status_id": "1"
 "teaching_note": "BBC Teaching Note.pdf"
 "teaser": ""

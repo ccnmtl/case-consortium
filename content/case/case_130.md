@@ -45,7 +45,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Equal Education"
+"slug": "EqualEducation"
 "status_id": "1"
 "teaching_note": "Equal Education TN Final.pdf"
 "teaser": "This case takes readers into the world of advocacy, and the benefits and\

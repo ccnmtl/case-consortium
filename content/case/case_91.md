@@ -46,7 +46,7 @@
 "redtext": ""
 "related_cases": []
 "school": "mailman"
-"slug": "Voluntary or Regulated?"
+"slug": "VoluntaryorRegulated"
 "status_id": "1"
 "teaching_note": "Voluntary or Regulated TN.pdf"
 "teaser": "This case takes students behind the scenes in the world of public health\

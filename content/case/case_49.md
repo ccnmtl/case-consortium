@@ -44,7 +44,7 @@
 - "CSJ-10-0028.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": "Reporters or cops?"
+"slug": "Reportersorcops"
 "status_id": "1"
 "teaching_note": "CONTACTO Teaching Note.pdf"
 "teaser": ""

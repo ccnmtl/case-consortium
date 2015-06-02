@@ -41,7 +41,7 @@
 - "CSJ-08-0018.0PO"
 - "CSJ-08-0008.0"
 "school": ""
-"slug": "Crowdsourcing A"
+"slug": "CrowdsourcingA"
 "status_id": "1"
 "teaching_note": "Crowdsourcing Teaching Note.pdf"
 "teaser": ""

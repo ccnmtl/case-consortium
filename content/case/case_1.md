@@ -36,7 +36,7 @@
 "related_cases":
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "Settle or fight?"
+"slug": "Settleorfight"
 "status_id": "1"
 "teaching_note": "FEER Teaching Note.pdf"
 "teaser": ""

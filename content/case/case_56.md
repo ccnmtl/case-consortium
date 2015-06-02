@@ -44,7 +44,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "Legal Jeopardy"
+"slug": "LegalJeopardy"
 "status_id": "1"
 "teaching_note": "Clarin Teaching Note.pdf"
 "teaser": "This case is about the relationship between government and media, how media\

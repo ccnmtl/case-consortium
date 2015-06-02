@@ -43,7 +43,7 @@
 - "CSJ-08-0009.0"
 - "CSJ-08-0006.0"
 "school": ""
-"slug": "Amigo o enemigo?"
+"slug": "Amigooenemigo"
 "status_id": "1"
 "teaching_note": "Amigo o enemigo TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\

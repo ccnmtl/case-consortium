@@ -43,7 +43,7 @@
 "redtext": "ESPANOL"
 "related_cases": []
 "school": ""
-"slug": "Reportear una Verdad Explosiva"
+"slug": "ReportearunaVerdadExplosiva"
 "status_id": "1"
 "teaching_note": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica TN.pdf"
 "teaser": !!python/str "Este caso trata el cálculo que un medio de comunicación debe\

@@ -44,7 +44,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Process and Politics"
+"slug": "ProcessandPolitics"
 "status_id": "1"
 "teaching_note": ""
 "teaser": !!python/str "This case traces the evolution of a resettlement scheme in\

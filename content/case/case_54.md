@@ -40,7 +40,7 @@
 - "CSJ-10-0026.0"
 - "CSJ-09-0011.0"
 "school": ""
-"slug": "Voices Behind Bars"
+"slug": "VoicesBehindBars"
 "status_id": "1"
 "teaching_note": "NPR Sullivan Teaching Note.pdf"
 "teaser": ""

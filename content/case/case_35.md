@@ -35,7 +35,7 @@
 "related_cases":
 - "CSJ-09-0016.0"
 "school": ""
-"slug": "Privacy and the Public Interest"
+"slug": "PrivacyandthePublicInterest"
 "status_id": "2"
 "teaching_note": "Ivins Teaching Note.pdf"
 "teaser": ""

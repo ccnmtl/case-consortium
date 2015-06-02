@@ -43,7 +43,7 @@
 - "CSJ-08-0018.0PO"
 - "CSJ-10-0030.0"
 "school": ""
-"slug": "But is it News?"
+"slug": "ButisitNews"
 "status_id": "1"
 "teaching_note": "New York Times and IFC Teaching Note.pdf"
 "teaser": ""

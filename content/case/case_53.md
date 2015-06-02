@@ -40,7 +40,7 @@
 "related_cases":
 - "CSJ-08-0007.0"
 "school": ""
-"slug": "Facebook Conundrum"
+"slug": "FacebookConundrum"
 "status_id": "1"
 "teaching_note": "New Haven Independent Teaching Note.pdf"
 "teaser": "This case asks what rules exist on the use of social media in reporting\

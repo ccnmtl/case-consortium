@@ -40,7 +40,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Grow Your Own?"
+"slug": "GrowYourOwn"
 "status_id": "1"
 "teaching_note": "Timor-Leste TN.pdf"
 "teaser": ""

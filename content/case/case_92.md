@@ -42,7 +42,7 @@
 "redtext": "Public Policy!"
 "related_cases": []
 "school": ""
-"slug": "mission vs safety"
+"slug": "missionvssafety"
 "status_id": "1"
 "teaching_note": "UN OCHA TN .pdf"
 "teaser": "When al-Shabaab militants in July 2009 expel agencies from the UN  Common\

@@ -34,7 +34,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Land Grab or Responsible Development?"
+"slug": "LandGraborResponsibleDevelopment"
 "status_id": "1"
 "teaching_note": "Liberia TN 111913.pdf"
 "teaser": "This case provides a detailed description of a foreign direct investment\

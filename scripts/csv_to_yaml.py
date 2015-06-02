@@ -2,6 +2,7 @@ import csv
 import yaml
 import string
 import pdb
+import urllib
 from bs4 import BeautifulSoup
 
 in_file  = open('cases.csv', "r")
@@ -17,6 +18,15 @@ html_escape_table = {
     ">": "&gt;",
     "<": "&lt;"
     }
+
+slug_strip_table ={
+    "&": "",
+    '"': "",
+    "'": "",
+    ">": "",
+    "<": "",
+    "?": ""  
+}
  
 def html_escape(text):
     """Produce entities within text."""
@@ -46,9 +56,13 @@ def convert_to_yaml(line, counter):
     description = str(description_soup)
 
     description_clean = description_soup.get_text()
+    slug_soup = line[1].split(' ')
+    temp_slug = "".join(s for s in slug_soup)
+    clean_slug = "".join(slug_strip_table.get(st,st) for st in temp_slug)
+    #pdb.set_trace()
     item = {
         'id': line[0],
-        'slug': line[1],
+        'slug': clean_slug,
         'title': title,
         'case_number': line[3],
         'case_topics': case_topics,

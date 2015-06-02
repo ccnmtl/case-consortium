@@ -40,7 +40,7 @@
 - "CSJ-10-0025.0"
 - "CSJ-09-0021.0"
 "school": ""
-"slug": "Into the Breach"
+"slug": "IntotheBreach"
 "status_id": "1"
 "teaching_note": "Into the Breach Teaching Note.pdf"
 "teaser": "This case allows students to consider the societal debate over the business\

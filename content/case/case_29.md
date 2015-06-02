@@ -37,7 +37,7 @@
 - "CSJ-09-0013.0"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "Digital Deadline"
+"slug": "DigitalDeadline"
 "status_id": "1"
 "teaching_note": "Post-Dispatch Teaching Note.pdf"
 "teaser": ""

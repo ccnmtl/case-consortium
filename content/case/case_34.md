@@ -38,7 +38,7 @@
 - "CSJ-09-0014.0"
 - "CSJ-08-0012.0"
 "school": ""
-"slug": "Terror or Accident?"
+"slug": "TerrororAccident"
 "status_id": "1"
 "teaching_note": "Newsday Teaching Note.pdf"
 "teaser": ""

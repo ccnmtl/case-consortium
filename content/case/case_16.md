@@ -34,7 +34,7 @@
 "related_cases":
 - "CSJ-08-0005.0"
 "school": ""
-"slug": "From Concept to Story"
+"slug": "FromConcepttoStory"
 "status_id": "1"
 "teaching_note": "TIME Teaching Note.pdf"
 "teaser": ""

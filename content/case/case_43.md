@@ -40,7 +40,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "When the story is us"
+"slug": "Whenthestoryisus"
 "status_id": "1"
 "teaching_note": "TN Heralds.pdf"
 "teaser": ""

@@ -34,7 +34,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Seeking Partners"
+"slug": "SeekingPartners"
 "status_id": "1"
 "teaching_note": "Seeking Partners TZ TN.pdf"
 "teaser": ""

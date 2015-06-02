@@ -40,7 +40,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Radio Buddu"
+"slug": "RadioBuddu"
 "status_id": "1"
 "teaching_note": "TN Radio Buddu.pdf"
 "teaser": "This case looks at the challenges of reporting on homosexuality in a society\
