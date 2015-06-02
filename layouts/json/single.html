@@ -6,7 +6,7 @@
             {{ $content := $page.Plain }}
             {
                 "id":{{ .Params.id }},
-                "title": "{{ .Title|safeHtml }}",
+                "title": "{{ .Title|safeHTML }}",
                 "link": "{{ .Permalink }}",
                 "slug": "{{ .Slug }}",
                 "case_number": "{{ .Params.case_number }}",

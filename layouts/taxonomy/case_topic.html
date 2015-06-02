@@ -2,6 +2,6 @@
 
 <ul>
     {{ range .Data.Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title|safeHtml }}</a></li>
+        <li><a href="{{ .Permalink }}">{{ .Title|safeHTML }}</a></li>
     {{ end }}
 </ul>
