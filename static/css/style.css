@@ -1325,3 +1325,8 @@
     body.is-touch .poptrox-popup .closer {
         opacity: 1.0 !important;
     }
+    
+/* RSS Feed */
+.divRss img {
+    display: none;
+}
