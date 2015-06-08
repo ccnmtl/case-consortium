@@ -2,14 +2,16 @@ var index = lunr(function() {
 
     this.field('title', {boost: 10});
     this.field('content');
+    this.field('slug');
 });
-index.ref('title');
+index.ref('slug');
 
-var data = {};
+
+window.data = {};
 $.getJSON('/js/api/cases.json').done(function(item) {
     item.cases.forEach(function(d) {
         index.add(d);
-        data[d.url] = d;
+        data[d.slug] = d;
     });
 }).fail(function(jqxhr, textStatus, error) {
     var err = textStatus + ', ' + error;
@@ -18,7 +20,7 @@ $.getJSON('/js/api/cases.json').done(function(item) {
 
 var doSearch = function() {
     var q = $('#q').val();
-    var results = index.search(q);
+    window.results = index.search(q);
     var $el = $('#search-results');
     
     $el.empty();
@@ -34,14 +36,17 @@ var doSearch = function() {
             if (results.hasOwnProperty(r)) {
 
                 var d = results[r].ref;
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
+
                 var $result = $('<div>');
                 var html_convert = $('<div>');
-                html_convert.append(d);
+
+                html_convert.append(title);
                 var text = html_convert.text();
                 html_convert.html(text)
-                $result.append($('<a>', {
-                  html: html_convert
-                }));
+                $result.append('<a target="_blank "href="'+
+                    slug+'">' + html_convert.html() + '</a>');
                 
                 $el.append($result);
             }
