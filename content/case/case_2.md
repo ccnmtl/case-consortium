@@ -15,7 +15,7 @@
   \ case takes students behind the scenes into the making of a news documentary for\
   \ <em>Frontline</em>, produced at the PBS affiliate in Boston (WGBH). The case tells\
   \ the story of the making of “The Last Abortion Clinic,” a 2005 documentary by producer\
-  \ Raney Aronson and her team.<br/><br/><strong>This is a FREE case.</strong></p><p>Epilogue,\
+  \ Raney Aronson and her team.<br/><br/><p>Epilogue,\
   \ Teaching Note</p><p><b>Topics: </b>documentary; editorial decisionmaking</p></body></html>"
 "description_clean": "CSJ-08-0005.0This case takes students behind the scenes into\
   \ the making of a news documentary for Frontline, produced at the PBS affiliate\
