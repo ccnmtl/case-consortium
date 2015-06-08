@@ -22,7 +22,7 @@
   \ in Boston (WGBH). The case tells the story of the making of “The Last Abortion\
   \ Clinic,” a 2005 documentary by producer Raney Aronson and her team.This is a FREE\
   \ case.Epilogue, Teaching NoteTopics: documentary; editorial decisionmaking"
-"epologue": "Frontline Epilogue.pdf"
+"epilogue": "Frontline Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "2"

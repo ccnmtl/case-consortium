@@ -26,7 +26,7 @@
   \ went down in Far Rockaway, Queens, New York.This is a video case.Teaching NoteTopics:\
   \ digital media; crisis reportingFaculty: You will have an opportunity to review\
   \ the video case once you have registered. "
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "33"

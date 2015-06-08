@@ -32,7 +32,7 @@
   \ requested an extension. The leadership had to decide what to do.This is a FREE\
   \ case.Epilogue, Teaching NoteTopics: education reform; social activism; sustainable\
   \ development; organizational management "
-"epologue": "Equal Education Epilogue 070314.pdf"
+"epilogue": "Equal Education Epilogue 070314.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "130"

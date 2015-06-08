@@ -10,8 +10,16 @@
                     <section id="one">
                         <h1 class="unescape">{{.Title|safeHTML}}</h1>
                         <p>{{ .Content }}</p>
-                        <a target="_blank" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{ .Params.id }}.html">
+                        <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{ .Params.id }}.html">
                             <h4 class="unescape">Link to case</h4>
+                        </a>
+
+                        <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
+                            <h4 class="unescape">Link to epilogue</h4>
+                        </a>
+
+                         <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
+                            <h4 class="unescape">Link to pdf</h4>
                         </a>
                     </section>
                     <p>Topics:</p>

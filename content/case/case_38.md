@@ -48,7 +48,7 @@
   \ and into the minds of two journalism entrepreneurs. Students can debate the pros\
   \ and cons of leaving mainstream journalism outlets to start new operations.Teaching\
   \ NoteTopics: media business; editorial decisionmaking; digital media"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "38"

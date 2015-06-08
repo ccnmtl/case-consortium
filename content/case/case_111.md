@@ -27,7 +27,7 @@
   \ can news start-ups achieve a sustainable business model that includes a mix of\
   \ funding streams?Epilogue, Teaching NoteTopics: journalism entrepreneurship; editorial\
   \ management; ethics; or multimedia journalism production"
-"epologue": "InvestigateWest Epilogue.pdf"
+"epilogue": "InvestigateWest Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "111"

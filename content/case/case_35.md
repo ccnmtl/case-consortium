@@ -21,7 +21,7 @@
   \ Students are asked to consider what are the obligations of a newspaper to its\
   \ readers, and to those it writes about.Topics: ethics; privacyThis case should\
   \ be used in combination with Part A."
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": "yes"
 "id": "35"

@@ -28,7 +28,7 @@
   \ The project starts with data collection and is just gearing up to deliver services\
   \ when, in March 2012, staff learn the chief funder is withdrawing.This is a FREE\
   \ case.Epilogue, Teaching NoteTopics: Sustainable development"
-"epologue": "Haiti Epilogue 030614.pdf"
+"epilogue": "Haiti Epilogue 030614.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "124"

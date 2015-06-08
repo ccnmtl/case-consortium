@@ -30,7 +30,7 @@
   \ step be: sell out? Duplicate the ANS model elsewhere? Go more digital?This is\
   \ a FREE, contributed case.Epilogue, Teaching NoteTopics: media, strategic management,\
   \ entrepreneurship"
-"epologue": "AllNovaScotia epilogue final.pdf"
+"epilogue": "AllNovaScotia epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "118"

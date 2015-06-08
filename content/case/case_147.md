@@ -33,7 +33,7 @@
   \ takes the story to the Washington Post, which agrees to work with him to publish\
   \ it.Epilogue, Teaching NoteTopics: national security reporting; investigative reporting;\
   \ editorial management"
-"epologue": "Snowden WaPost epilogue 101514.pdf"
+"epilogue": "Snowden WaPost epilogue 101514.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "147"

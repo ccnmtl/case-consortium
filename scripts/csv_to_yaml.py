@@ -77,7 +77,7 @@ def convert_to_yaml(line, counter):
         'pdf': line[13],
         'abstract': line[14],
         'teaching_note': line[15],
-        'epologue': line[16],
+        'epilogue': line[16],
         'banner': line[17],
         'abstract_img': line[18],
         'thumb': line[19],

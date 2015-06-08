@@ -33,7 +33,7 @@
   \ the errors, how to manage audience and press reaction, and how to restore credibility\
   \ to the show.Epilogue, Teaching NoteTopics: journalism ethics, editorial management,\
   \ broadcast journalism or crisis management"
-"epologue": "Truthiness Epilogue.pdf"
+"epilogue": "Truthiness Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "108"

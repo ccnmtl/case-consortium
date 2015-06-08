@@ -21,7 +21,7 @@
   \ to decide whether the project amounts to a land grab or is a legitimate development\
   \ project.Epilogue, Teaching NoteTopics: natural resource development policy, negotiations,\
   \ land policy, rural communities"
-"epologue": "Liberia epilogue 112513.pdf"
+"epilogue": "Liberia epilogue 112513.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "117"

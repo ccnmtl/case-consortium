@@ -35,7 +35,7 @@
   \ revenue and product. This is a FREE, contributed case.\L\LEpilogue, Teaching NoteTopics:\
   \ business of media; community journalism; strategic management; entrepreneurial\
   \ journalism"
-"epologue": "Whiteville NC epilogue 072914.pdf"
+"epilogue": "Whiteville NC epilogue 072914.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "132"

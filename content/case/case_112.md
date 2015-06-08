@@ -29,7 +29,7 @@
   \ of the countries experiencing an epidemic. What happens when that cooperation\
   \ is limited or nonexistent?Epilogue, Teaching NoteTopics: international public\
   \ health; intergovernmental organizations; crisis management; media relations"
-"epologue": "WHO SARS Epilogue.pdf"
+"epilogue": "WHO SARS Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "112"

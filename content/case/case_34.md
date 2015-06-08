@@ -23,7 +23,7 @@
   \ attacks of September 11, American Airlines Flight 587 leaving Kennedy Airport\
   \ went down in Far Rockaway, Queens, New York.This is a video case.Topics: digital\
   \ media; crisis reporting"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": "yes"
 "id": "34"

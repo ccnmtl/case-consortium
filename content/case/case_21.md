@@ -25,7 +25,7 @@
   \ President for Editorial Quality, Kerry Smith, had to decide whether or not to\
   \ broadcast photographs from the party at which the alleged rape took place.Epilogue,\
   \ Teaching NoteTopics: ethics; editorial decisionmaking; gender & race"
-"epologue": "ABC Epilogue.pdf"
+"epilogue": "ABC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "21"

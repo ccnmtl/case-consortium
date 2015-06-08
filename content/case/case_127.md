@@ -32,7 +32,7 @@
   \ issues? Should other cities imitate New York?Epilogue, Teaching NoteTopics: public\
   \ management; technology in government; public sector performance evaluation; government\
   \ innovation"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "127"

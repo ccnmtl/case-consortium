@@ -26,7 +26,7 @@
   \ on the shocking story of the murder of Annie Le, a Yale University graduate student.This\
   \ is a FREE case.Epilogue, Teaching NoteTopics: digital media; editorial management;\
   \ ethics"
-"epologue": "New Haven Independent Epilogue.pdf"
+"epilogue": "New Haven Independent Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "53"

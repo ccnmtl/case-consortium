@@ -35,7 +35,7 @@
   \ Simron Singh soon perceived that the islanders were losing initiative and self-reliance.  This\
   \ is a FREE case.Epilogue, Teaching NoteTopics: sustainable development; nonprofit\
   \ management; scientific ethics; international aid"
-"epologue": "Nicobars epilogue 080414.pdf"
+"epilogue": "Nicobars epilogue 080414.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "133"

@@ -33,7 +33,7 @@
   \ to resort to regulation, despite the risks of triggering protests of a “nanny\
   \ state,” not to mention pushback from industry.Epilogue, Teaching NoteTopics: public\
   \ health policy, public awareness campaigns, or regulating public health"
-"epologue": "Voluntary or Regulated Epilogue.pdf"
+"epilogue": "Voluntary or Regulated Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "91"

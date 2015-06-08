@@ -23,7 +23,7 @@
   \ to manage competing interests; and how to sustain an effort past the first adrenalin-fueled\
   \ moments into weeks of frustrating but crucial work.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: crisis management; international"
-"epologue": "Monitor Epilogue.pdf"
+"epilogue": "Monitor Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "24"

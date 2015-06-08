@@ -27,7 +27,7 @@
   \ la historia que ella descubre. También examina la responsabilidad que tiene un\
   \ periodista acerca de una fuente no familiarizada con las normas periodísticas.Epílogo,\
   \ Teaching NoteTemas: los escritos originales; informes sobre educación; la ética"
-"epologue": "Una Historia Esquiva Epilogo.pdf"
+"epilogue": "Una Historia Esquiva Epilogo.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "62"

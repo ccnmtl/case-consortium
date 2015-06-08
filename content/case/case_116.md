@@ -35,7 +35,7 @@
   \ it had to design a database to crunch and organize the data for optimal public\
   \ understanding.Epilogue, Teaching NoteTopics: financial journalism; government-media\
   \ relations; data journalism; editorial management. "
-"epologue": "Bloomberg Epilogue 110713.pdf"
+"epilogue": "Bloomberg Epilogue 110713.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "116"

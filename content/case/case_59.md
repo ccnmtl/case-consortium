@@ -26,7 +26,7 @@
   \ at the controversy in September 2009 over an Associated Press photograph of a\
   \ wounded Marine who subsequently died.Epilogue, Teaching NoteTopics: international;\
   \ editorial decisionmaking; photojournalism"
-"epologue": "AP Photos Epilogue.pdf"
+"epilogue": "AP Photos Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "59"

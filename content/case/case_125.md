@@ -31,7 +31,7 @@
   \ But the organization which operates Experience Corps in Baltimore, has objections—most\
   \ of them political—to some of the requirements for an RCT.Epilogue, Teaching NoteTopics: community-based\
   \ research; public health studies; academic/non-profit partnerships"
-"epologue": "EC epilogue v.2.pdf"
+"epilogue": "EC epilogue v.2.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "125"

@@ -23,7 +23,7 @@
   \ team. The case proceeds in real time, allowing students to experience the pressures\
   \ of a newsroom deadline.This is a video case.Topics: ethics; editorial decisionmaking;\
   \ broadcast"
-"epologue": "NECN Epilogue.pdf"
+"epilogue": "NECN Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": "yes"
 "id": "9"

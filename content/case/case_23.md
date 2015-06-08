@@ -24,7 +24,7 @@
   \ Management Agency (FEMA) aid recipients, as well as instances of complicit FEMA\
   \ inspectors, many of whom had criminal backgrounds.Epilogue, Teaching NoteTopics:\
   \ investigative reporting; newsroom management"
-"epologue": "Sun-Sentinel Epilogue.pdf"
+"epilogue": "Sun-Sentinel Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "23"

@@ -33,7 +33,7 @@
   \ cámaras ocultas. También tendrán la oportunidad de evaluar los costos de un proyecto\
   \ de periodismo de investigación en contra de su posible rentabilidad.Epílogo, Teaching\
   \ NoteTemas: internacional; el periodismo de investigación; la ética"
-"epologue": "CONTACTO Espanol Epilogue.pdf"
+"epilogue": "CONTACTO Espanol Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "50"

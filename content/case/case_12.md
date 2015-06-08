@@ -26,7 +26,7 @@
   \ telling “balanced” he said/she said-style stories, this thrusts the reporting\
   \ team—especially its science reporter—into unknown territory.Epilogue, Teaching\
   \ NoteTopics: science reporting; investigative reporting"
-"epologue": "Chemical Fallout Epilogue.pdf"
+"epilogue": "Chemical Fallout Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "12"

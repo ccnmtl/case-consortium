@@ -28,7 +28,7 @@
   \ local media markets, and the options for community outreach.This is a FREE, contributed\
   \ case.Epilogue, Teaching NoteTopics: local journalism; media business; digital\
   \ media"
-"epologue": "Long Beach Post Epilogue.pdf"
+"epilogue": "Long Beach Post Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "68"

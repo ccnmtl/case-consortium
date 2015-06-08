@@ -26,7 +26,7 @@
   \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
   \ sobre los que escribe.Temas: la ética; la privacidadFacultad: Usted tendrá la\
   \ oportunidad de revisar la parte B, una vez que se haya registrado."
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "60"

@@ -24,7 +24,7 @@
   \ Times in 2009, when it was deciding whether to try again for a paywall and, if\
   \ so, what kind.Epilogue, Teaching NoteTopics: strategic management; business of\
   \ media; digital media"
-"epologue": "NYT Paywall epilogue final 061214.pdf"
+"epilogue": "NYT Paywall epilogue final 061214.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "129"

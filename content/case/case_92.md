@@ -29,7 +29,7 @@
   \ leave as well—although they did not want to.Epilogue, Teaching NoteTopics: aid\
   \ to lawless societies; humanitarian organizations; multinational organizations;\
   \ public sector management."
-"epologue": "Mission vs Safety Epilogue.pdf"
+"epilogue": "Mission vs Safety Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "92"

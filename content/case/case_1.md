@@ -22,7 +22,7 @@
   \ afoul of Singapore’s leaders and its government. The case traces the history of\
   \ the media, both domestic and international, in Singapore.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: international; ethics; media business"
-"epologue": "FEER Epilogue FINAL 091010.pdf"
+"epilogue": "FEER Epilogue FINAL 091010.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "1"

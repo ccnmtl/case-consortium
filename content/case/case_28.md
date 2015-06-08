@@ -24,7 +24,7 @@
   \ of accuracy for blogs, tabloids, and more mainstream news outlets. They can also\
   \ discuss the fine line between privacy and the public's right to know.Teaching\
   \ NoteTopics: ethics; blogging; celebrity reporting"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "28"

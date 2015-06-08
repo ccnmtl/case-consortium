@@ -25,7 +25,7 @@
   \ of Kentucky and Kentucky State University have an opportunity in 2009 to create\
   \ a student-run news bureau in the state capital, Frankfort.Epilogue, Teaching NoteTopics:\
   \ strategic management; politics reporting; media business"
-"epologue": "Into the Breach Epilogue.pdf"
+"epilogue": "Into the Breach Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "55"

@@ -12,7 +12,7 @@
 "created_on": "1/27/2015"
 "description": "<html><head></head><body></body></html>"
 "description_clean": !!python/unicode ""
-"epologue": "Global Post epilogue.pdf"
+"epilogue": "Global Post epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "148"

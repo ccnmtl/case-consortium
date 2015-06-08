@@ -26,7 +26,7 @@
   \ challenges of covering religion, and gain insight into the personal toll on journalists\
   \ of covering misdeeds in one's own church.Epilogue, Teaching NoteTopics: investigative\
   \ reporting; religion reporting"
-"epologue": "Boston Globe Epilogue.pdf"
+"epilogue": "Boston Globe Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "14"

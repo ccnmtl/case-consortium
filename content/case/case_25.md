@@ -27,7 +27,7 @@
   \ far from clear that he was open about his sexuality, especially to his military\
   \ colleagues. How should the Post cover his death?Epilogue, Teaching NoteTopics:\
   \  ethics; gender & race; privacy"
-"epologue": "Rogers and WaPost Epilogue.pdf"
+"epilogue": "Rogers and WaPost Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "25"

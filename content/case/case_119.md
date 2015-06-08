@@ -27,7 +27,7 @@
   \ to find a way reunite his staff.Epilogue, Teaching NoteTopics: journalism ethics,\
   \ editorial management, reporting conflict, ethnicity and race in journalism, or\
   \ reporting elections and politics."
-"epologue": "Kenya elections epilogue.pdf"
+"epilogue": "Kenya elections epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "119"

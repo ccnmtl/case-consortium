@@ -31,7 +31,7 @@
   \ to focus on patients, and compensate them according to an agreed-on formula. Part\
   \ B, Epilogue, Teaching NoteTopics: dentistry professional practice; medical management;\
   \ mergers; acquisitions; human resources"
-"epologue": "PtBEpilogueComboFinal.pdf"
+"epilogue": "PtBEpilogueComboFinal.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "134"

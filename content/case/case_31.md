@@ -20,7 +20,7 @@
   \ is not the story she uncovers. It also examines the responsibility of a reporter\
   \ to a source unfamiliar with journalistic conventions. Topics: education reporting;\
   \ ethics"
-"epologue": "Chicago Tribune Epilogue.pdf"
+"epilogue": "Chicago Tribune Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "31"

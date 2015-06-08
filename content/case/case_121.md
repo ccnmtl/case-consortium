@@ -26,7 +26,7 @@
   \ forestall a deadly event? Part B describes the consequences.Part B, Teaching NoteTopics:  journalism\
   \ ethics,  international media, journalism and the law, or investigative reporting.Faculty:\
   \ You will have an opportunity to review Part B once you have registered."
-"epologue": "Public Service or Illegal Act Pt B.pdf"
+"epilogue": "Public Service or Illegal Act Pt B.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "121"

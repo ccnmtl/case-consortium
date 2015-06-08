@@ -25,7 +25,7 @@
   \ cases of two men held in solitary confinement for 36 years at the Louisiana State\
   \ Penitentiary in Angola, Louisiana.Epilogue, Teaching NoteTopics: broadcast; investigative;\
   \ ethics"
-"epologue": "NPR Sullivan Epilogue.pdf"
+"epilogue": "NPR Sullivan Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "54"

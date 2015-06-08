@@ -26,7 +26,7 @@
   \ of a newsroom deadline.This is a video case.Epilogue, Teaching NoteTopics: ethics;\
   \ editorial decisionmaking; broadcastFaculty: You will have an opportunity to review\
   \ the video case once you have registered. "
-"epologue": "NECN Epilogue.pdf"
+"epilogue": "NECN Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "18"

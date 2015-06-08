@@ -34,7 +34,7 @@
   \ City. With that unnecessary evacuation fresh in their minds, the two officials\
   \ had to decide what to do as Sandy approached.Epilogue, Teaching NoteTopics: disaster\
   \ preparedness, crisis management, health care system logistics"
-"epologue": "NorthShore LIJ Epilogue.pdf"
+"epilogue": "NorthShore LIJ Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "113"

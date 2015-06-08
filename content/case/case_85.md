@@ -28,7 +28,7 @@
   \ discuss how female journalists and their employers deal with the \"silencing crime\"\
   --sexual attacks.Epilogue, Teaching NoteTopics: reporting in conflict zones; journalism\
   \ and trauma; international journalism; or race/gender"
-"epologue": "Addario Epilogue.pdf"
+"epilogue": "Addario Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "85"

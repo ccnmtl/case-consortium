@@ -26,7 +26,7 @@
   \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
   \ businessThis case can be used alone, or in combination with Part B. The two parts\
   \ can be taught together, or in successive class sessions."
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "19"

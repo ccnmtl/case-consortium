@@ -27,7 +27,7 @@
   \ 2020. The case asks students to take on the role of agriculture policy advisor\
   \ to the prime minister, tasked with setting the timetable for implementing this\
   \ ambitious plan.Teaching NoteTopics: international development, food security"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "84"

@@ -30,7 +30,7 @@
   \ herself had refused to provide the photos. Daulerio had already published the\
   \ story about the photos and associated text messages. What did the photos add?Epilogue,\
   \ Teaching NoteTopics: ethics; sports reporting; digital journalism"
-"epologue": "Deadspin Epilogue.pdf"
+"epilogue": "Deadspin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "86"

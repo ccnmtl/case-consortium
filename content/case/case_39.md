@@ -32,7 +32,7 @@
   \ of journalism entrepreneurs deciding what formula will ensure sufficient revenue\
   \ to continue operations.Teaching NoteTopics: media business; newsroom management;\
   \ digital media"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "39"

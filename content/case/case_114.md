@@ -30,7 +30,7 @@
   \ TB is more lethal and difficult-to-treat than anticipated. Epilogue, Teaching\
   \ NoteTopics: global health, tuberculosis, infectious diseases, epidemiology, global\
   \ migration and quarantine"
-"epologue": "Speaker CDC Epilogue.pdf"
+"epilogue": "Speaker CDC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "114"

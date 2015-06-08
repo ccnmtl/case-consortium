@@ -26,7 +26,7 @@
   \ documents proving improprieties in a privatization deal. Before publishing a story,\
   \ he was offered a bribe to spike it.Epilogue, Teaching NoteTopics: journalism;\
   \ business ethics; editorial management"
-"epologue": "TZ bribery epilogue FINAL.pdf"
+"epilogue": "TZ bribery epilogue FINAL.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "122"

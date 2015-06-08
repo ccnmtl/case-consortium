@@ -24,7 +24,7 @@
   \ formulated, the structures that keep news reporting separate from opinion, and\
   \ the factors that weigh in on editorial page decisions.Epilogue, Teaching NoteTopics:\
   \ editorial writing; politics reporting; ethics"
-"epologue": "Oregonian Epilogue.pdf"
+"epilogue": "Oregonian Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "37"
