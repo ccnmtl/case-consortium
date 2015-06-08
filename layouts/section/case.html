@@ -158,7 +158,7 @@
             </div>
 
             <script data-export="true" data-file-extension="js" id="facetize">
-
+            jQuery(document).ready(function(){
                     $.getJSON('/js/api/cases.json').success(function(cases){
                             window.Cases = cases;
                         }).error(function(){
@@ -221,7 +221,7 @@
                             })
 
                         })
-
+              });
             </script>
     </body>
 
