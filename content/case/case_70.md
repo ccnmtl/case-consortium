@@ -27,7 +27,7 @@
   \ WikiLeaks and to publish US secret government documents.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: editorial management; international; digital media; politics\
   \ reporting"
-"epologue": "Wikileaks Epilogue.pdf"
+"epilogue": "Wikileaks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "70"
@@ -42,7 +42,7 @@
 - "CSJ-08-0009.0"
 - "CSJ-08-0006.0"
 "school": ""
-"slug": "Friend or foe?"
+"slug": "Friendorfoe"
 "status_id": "1"
 "teaching_note": "WikiLeaks TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\

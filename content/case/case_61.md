@@ -23,7 +23,7 @@
   \ del público a informarse. Se pide a los estudiantes que deben tener en cuenta\
   \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
   \ sobre los que escribe.Epílogo, Teaching NoteTemas: la ética; la privacidad"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": "yes"
 "id": "61"
@@ -37,7 +37,7 @@
 "related_cases":
 - "CSJ-09-0016.0"
 "school": ""
-"slug": !!python/str "Privacidad e Interés Público"
+"slug": !!python/str "PrivacidadeInterésPúblico"
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""

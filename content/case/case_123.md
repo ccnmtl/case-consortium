@@ -21,7 +21,7 @@
   \ and others in adopting a code of editorial independence and responsibility.Epilogue,\
   \ Teaching NoteTopics:  international media; ethics; media reform; or press and\
   \ politics."
-"epologue": "Seeking Partners.pdf"
+"epilogue": "Seeking Partners.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "123"
@@ -34,7 +34,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Seeking Partners"
+"slug": "SeekingPartners"
 "status_id": "1"
 "teaching_note": "Seeking Partners TZ TN.pdf"
 "teaser": ""

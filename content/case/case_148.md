@@ -12,7 +12,7 @@
 "created_on": "1/27/2015"
 "description": "<html><head></head><body></body></html>"
 "description_clean": !!python/unicode ""
-"epologue": "Global Post epilogue.pdf"
+"epilogue": "Global Post epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "148"
@@ -25,7 +25,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "GlobalPost Syria"
+"slug": "GlobalPostSyria"
 "status_id": "2"
 "teaching_note": "Global Post TN.pdf"
 "teaser": ""

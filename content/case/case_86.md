@@ -30,7 +30,7 @@
   \ herself had refused to provide the photos. Daulerio had already published the\
   \ story about the photos and associated text messages. What did the photos add?Epilogue,\
   \ Teaching NoteTopics: ethics; sports reporting; digital journalism"
-"epologue": "Deadspin Epilogue.pdf"
+"epilogue": "Deadspin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "86"
@@ -43,7 +43,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Personal Foul"
+"slug": "PersonalFoul"
 "status_id": "1"
 "teaching_note": "Deadspin TN.pdf"
 "teaser": "This case looks at the differences between online and mainstream media\

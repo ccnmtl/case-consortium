@@ -33,7 +33,7 @@
   \ a group of citizens who wanted to convert a disused elevated railroad into a public\
   \ park. Epilogue, Teaching NoteTopics: public policy, public administration, urban\
   \ planning, land use"
-"epologue": "PPP Parks Epilogue.pdf"
+"epilogue": "PPP Parks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "128"

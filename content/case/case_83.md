@@ -27,7 +27,7 @@
   \ it (they hire a Rand Corp. expert) to reveal teacher effectiveness. The key question\
   \ is accountability: should the paper name individual teachers when it publishes\
   \ the scores?Epilogue, Teaching NoteTopics: education reporting; editorial decisionmaking"
-"epologue": "LATimes Epilogue Final.pdf"
+"epilogue": "LATimes Epilogue Final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "83"
@@ -40,7 +40,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Rating Teachers"
+"slug": "RatingTeachers"
 "status_id": "1"
 "teaching_note": "LA Times TN.pdf"
 "teaser": "This case goes behind the scenes to examine the thinking at the Los Angeles\

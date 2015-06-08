@@ -24,7 +24,7 @@
   \ all at some point have to ask whether it is dishonest to alter the literal truth\
   \ in order to communicate a “higher” truth or complex story.Epilogue, Teaching NoteTopics: journalism\
   \ ethics; documentary; war reporting; editorial decision-making; or film editing."
-"epologue": "HellandBack Epilogue.pdf"
+"epilogue": "HellandBack Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "110"
@@ -37,7 +37,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "higher truth"
+"slug": "highertruth"
 "status_id": "1"
 "teaching_note": "HellandBackTN.pdf"
 "teaser": "In 2010, photojournalist and videographer Danfung Dennis was wrapping up\

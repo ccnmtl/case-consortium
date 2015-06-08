@@ -26,7 +26,7 @@
   \ at the controversy in September 2009 over an Associated Press photograph of a\
   \ wounded Marine who subsequently died.Epilogue, Teaching NoteTopics: international;\
   \ editorial decisionmaking; photojournalism"
-"epologue": "AP Photos Epilogue.pdf"
+"epilogue": "AP Photos Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "59"
@@ -41,7 +41,7 @@
 - "CSJ-08-0007.0"
 - "CSJ-09-0016.0"
 "school": ""
-"slug": "Worth a Thousand Words"
+"slug": "WorthaThousandWords"
 "status_id": "1"
 "teaching_note": "AP Photos Teaching Note.pdf"
 "teaser": "This case about news photography examines a host of issues, from the mechanics\

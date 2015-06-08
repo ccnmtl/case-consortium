@@ -24,7 +24,7 @@
   \ of accuracy for blogs, tabloids, and more mainstream news outlets. They can also\
   \ discuss the fine line between privacy and the public's right to know.Teaching\
   \ NoteTopics: ethics; blogging; celebrity reporting"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "28"
@@ -39,7 +39,7 @@
 - "CSJ-08-0018.0PO"
 - "CSJ-08-0008.0"
 "school": ""
-"slug": "News or Rumor"
+"slug": "NewsorRumor"
 "status_id": "1"
 "teaching_note": "Edwards Teaching Note.pdf"
 "teaser": ""

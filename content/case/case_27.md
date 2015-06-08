@@ -21,7 +21,7 @@
   \ Students are asked to consider what are the obligations of a newspaper to its\
   \ readers, and to those it writes about.Part B, Teaching NoteTopics: ethics; privacyFaculty:\
   \ You will have an opportunity to review Part B once you have registered."
-"epologue": "News Post and the Bruce Ivins Story Part B.pdf"
+"epilogue": "News Post and the Bruce Ivins Story Part B.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "27"
@@ -35,7 +35,7 @@
 "related_cases":
 - "CSJ-09-0016.0"
 "school": ""
-"slug": "Privacy and the Public Interest"
+"slug": "PrivacyandthePublicInterest"
 "status_id": "1"
 "teaching_note": "Ivins Teaching Note.pdf"
 "teaser": ""

@@ -26,7 +26,7 @@
   \ went down in Far Rockaway, Queens, New York.This is a video case.Teaching NoteTopics:\
   \ digital media; crisis reportingFaculty: You will have an opportunity to review\
   \ the video case once you have registered. "
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "33"
@@ -41,7 +41,7 @@
 - "CSJ-09-0014.0"
 - "CSJ-08-0012.0"
 "school": ""
-"slug": "Terror or Accident?"
+"slug": "TerrororAccident"
 "status_id": "1"
 "teaching_note": "Newsday Teaching Note.pdf"
 "teaser": "This text+video case asks students to engage in a difficult calculus: how\

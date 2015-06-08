@@ -29,7 +29,7 @@
   \ have a chance to weigh the costs of an investigative reporting project against\
   \ its likely returns.Epilogue, Teaching NoteTopics: international; investigative\
   \ reporting; ethics"
-"epologue": "CONTACTO Epilogue.pdf"
+"epilogue": "CONTACTO Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "49"
@@ -44,7 +44,7 @@
 - "CSJ-10-0028.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": "Reporters or cops?"
+"slug": "Reportersorcops"
 "status_id": "1"
 "teaching_note": "CONTACTO Teaching Note.pdf"
 "teaser": ""

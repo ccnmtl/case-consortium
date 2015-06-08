@@ -24,7 +24,7 @@
   \ between a radio host and a British Broadcasting Corporation (BBC) reporter escalated\
   \ into a full-scale war, which pitted the BBC against Prime Minister Tony Blair’s\
   \ government.Epilogue, Teaching NoteTopics: strategic management; international"
-"epologue": "BBC Epilogue.pdf"
+"epilogue": "BBC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "22"
@@ -39,7 +39,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-10-0026.0"
 "school": ""
-"slug": "Reputations to Lose"
+"slug": "ReputationstoLose"
 "status_id": "1"
 "teaching_note": "BBC Teaching Note.pdf"
 "teaser": ""

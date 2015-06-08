@@ -33,7 +33,7 @@
   \ also is given a disturbing photograph of the girl’s genitals, badly infected with\
   \ a sexually transmitted disease.Epilogue, Teaching NoteTopics: international journalism;\
   \ journalism in Africa; feature writing; editorial management"
-"epologue": "Catalyze Dont Offend Epilogue.pdf"
+"epilogue": "Catalyze Dont Offend Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "142"

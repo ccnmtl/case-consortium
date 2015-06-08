@@ -24,7 +24,7 @@
   \ the Times’ own ombudsman—called for transfer of Jerusalem Bureau Chief Ethan Bronner\
   \ because his adult son had joined the Israeli Defense Forces.Epilogue, Teaching\
   \ NoteTopics: editorial management; ethics; international"
-"epologue": "Bronner and New York Times Epilogue.pdf"
+"epilogue": "Bronner and New York Times Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "57"

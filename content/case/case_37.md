@@ -24,7 +24,7 @@
   \ formulated, the structures that keep news reporting separate from opinion, and\
   \ the factors that weigh in on editorial page decisions.Epilogue, Teaching NoteTopics:\
   \ editorial writing; politics reporting; ethics"
-"epologue": "Oregonian Epilogue.pdf"
+"epilogue": "Oregonian Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "37"
@@ -39,7 +39,7 @@
 - "CSJ-08-0018.0PO"
 - "CSJ-09-0016.0"
 "school": ""
-"slug": "Matter of Opinion"
+"slug": "MatterofOpinion"
 "status_id": "1"
 "teaching_note": "Oregonian Teaching Note.pdf"
 "teaser": "Take your students behind the scenes to examine the role an editorial board\

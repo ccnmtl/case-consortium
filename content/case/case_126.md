@@ -31,7 +31,7 @@
   \ reporting. The case stops as Ismayilova debates what her options are: remain silent\
   \ or respond and, if the latter, how?Epilogue, Teaching NoteTopics: investigative\
   \ reporting; blackmail; reporting on corruption"
-"epologue": "Khadija epilogue 050114.pdf"
+"epilogue": "Khadija epilogue 050114.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "126"
@@ -44,7 +44,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Fighting Blackmail"
+"slug": "FightingBlackmail"
 "status_id": "1"
 "teaching_note": "Khadija TN 071714.pdf"
 "teaser": !!python/str "This case chronicles the challenges of reporting on corruption\

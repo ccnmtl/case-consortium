@@ -30,7 +30,7 @@
   \ step be: sell out? Duplicate the ANS model elsewhere? Go more digital?This is\
   \ a FREE, contributed case.Epilogue, Teaching NoteTopics: media, strategic management,\
   \ entrepreneurship"
-"epologue": "AllNovaScotia epilogue final.pdf"
+"epilogue": "AllNovaScotia epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "118"
@@ -43,7 +43,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "AllNovaScotia.com: Success or Anomaly?"
+"slug": "AllNovaScotia.com:SuccessorAnomaly"
 "status_id": "1"
 "teaching_note": "ANS TN Final.pdf"
 "teaser": "This case tells the story of a small, online publication in Halifax, Nova\

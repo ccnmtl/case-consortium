@@ -25,7 +25,7 @@
   \ accepting money from the US government. Students will gain understanding of the\
   \ relationship between newspaper owners, their publishers, and their editors.Epilogue,\
   \ Teaching NoteTopics: strategic management; media business; gender & race"
-"epologue": "Heralds epilogue.pdf"
+"epilogue": "Heralds epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "43"
@@ -40,7 +40,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "When the story is us"
+"slug": "Whenthestoryisus"
 "status_id": "1"
 "teaching_note": "TN Heralds.pdf"
 "teaser": ""

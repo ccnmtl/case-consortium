@@ -26,7 +26,7 @@
   \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
   \ sobre los que escribe.Temas: la ética; la privacidadFacultad: Usted tendrá la\
   \ oportunidad de revisar la parte B, una vez que se haya registrado."
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "60"
@@ -40,7 +40,7 @@
 "related_cases":
 - "CSJ-09-0016.0"
 "school": ""
-"slug": !!python/str "Privacidad y el Interés Público"
+"slug": !!python/str "PrivacidadyelInterésPúblico"
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""

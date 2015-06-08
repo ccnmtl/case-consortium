@@ -32,7 +32,7 @@
   \ issues? Should other cities imitate New York?Epilogue, Teaching NoteTopics: public\
   \ management; technology in government; public sector performance evaluation; government\
   \ innovation"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "127"
@@ -45,7 +45,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Big Data"
+"slug": "BigData"
 "status_id": "1"
 "teaching_note": "NYC Big Data TN 060814.pdf"
 "teaser": "This case traces the use of data in making wiser policy decisions, from\

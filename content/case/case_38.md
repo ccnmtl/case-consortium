@@ -48,7 +48,7 @@
   \ and into the minds of two journalism entrepreneurs. Students can debate the pros\
   \ and cons of leaving mainstream journalism outlets to start new operations.Teaching\
   \ NoteTopics: media business; editorial decisionmaking; digital media"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "38"
@@ -63,7 +63,7 @@
 - "CSJ-09-0021.1"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "Risky Business"
+"slug": "RiskyBusiness"
 "status_id": "1"
 "teaching_note": "Politico Part A Teaching Note.pdf"
 "teaser": "Two cases on Business of Media, (A) re journalism entrepreneurship, and\

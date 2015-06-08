@@ -26,7 +26,7 @@
   \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
   \ businessThis case should be used in combination with Part A. The two parts can\
   \ be taught together, or in successive class sessions."
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "20"
@@ -41,7 +41,7 @@
 - "CSJ-08-0008.0"
 - "CSJ-08-0003.0"
 "school": ""
-"slug": "Crowdsourcing B"
+"slug": "CrowdsourcingB"
 "status_id": "1"
 "teaching_note": "Crowdsourcing Teaching Note.pdf"
 "teaser": ""

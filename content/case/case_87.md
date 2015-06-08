@@ -32,7 +32,7 @@
   \ by funding restrictions and a possible skewing of results. Epilogue, Teaching\
   \ NoteTopics: international public health research, human subject research, or crisis\
   \ management.  "
-"epologue": "When BEST intentions go awry Epilogue.pdf"
+"epilogue": "When BEST intentions go awry Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "87"
@@ -45,7 +45,7 @@
 "redtext": ""
 "related_cases": []
 "school": "mailman"
-"slug": "When BEST Intentions Go Awry"
+"slug": "WhenBESTIntentionsGoAwry"
 "status_id": "1"
 "teaching_note": "When BEST intentions go awry TN.pdf"
 "teaser": ""

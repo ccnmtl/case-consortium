@@ -34,7 +34,7 @@
   \ the line between respect for religion and censorship, and the balance between\
   \ religious beliefs and freedom of the press.Epilogue, Teaching NoteTopics: international;\
   \ religion reporting; news graphics"
-"epologue": "Le Monde Epilogue.pdf"
+"epilogue": "Le Monde Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "66"

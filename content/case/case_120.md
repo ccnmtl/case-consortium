@@ -27,7 +27,7 @@
   \ a show exploring the pros and cons of the bill.This is a FREE case.Epilogue, Teaching\
   \ NoteTopics:  journalism ethics, editorial decision making, reporting on human\
   \ rights and social issues, reporting on politics. "
-"epologue": "Radio Buddu epilogue.pdf"
+"epilogue": "Radio Buddu epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "120"
@@ -40,7 +40,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Radio Buddu"
+"slug": "RadioBuddu"
 "status_id": "1"
 "teaching_note": "TN Radio Buddu.pdf"
 "teaser": "This case looks at the challenges of reporting on homosexuality in a society\

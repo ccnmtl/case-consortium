@@ -27,7 +27,7 @@
   \ to find a way reunite his staff.Epilogue, Teaching NoteTopics: journalism ethics,\
   \ editorial management, reporting conflict, ethnicity and race in journalism, or\
   \ reporting elections and politics."
-"epologue": "Kenya elections epilogue.pdf"
+"epilogue": "Kenya elections epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "119"
@@ -40,7 +40,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "A Newsroom Divided"
+"slug": "ANewsroomDivided"
 "status_id": "1"
 "teaching_note": "Kenya elxns TN.pdf"
 "teaser": "This case examines what happens when personal bias affects the newsroom.\

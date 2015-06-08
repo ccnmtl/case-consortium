@@ -32,7 +32,7 @@
   \ of journalism entrepreneurs deciding what formula will ensure sufficient revenue\
   \ to continue operations.Teaching NoteTopics: media business; newsroom management;\
   \ digital media"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "39"
@@ -47,7 +47,7 @@
 - "CSJ-09-0021.0"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "Risky Business"
+"slug": "RiskyBusiness"
 "status_id": "1"
 "teaching_note": "Politico Part B Teaching Note.pdf"
 "teaser": ""

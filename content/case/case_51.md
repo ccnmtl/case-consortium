@@ -24,7 +24,7 @@
   \ learn about the pros and cons of nonprofit news. They will also get an in-person\
   \ glimpse into the complexities of being a journalism entrepreneur.Epilogue, Teaching\
   \ NoteTopics: media business; newsroom management"
-"epologue": "Voice of San Diego Epilogue.pdf"
+"epilogue": "Voice of San Diego Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "51"
@@ -39,7 +39,7 @@
 - "CSJ-09-0021.0"
 - "CSJ-10-0030.0"
 "school": ""
-"slug": "Not for Profit?"
+"slug": "NotforProfit"
 "status_id": "1"
 "teaching_note": "Voice of San Diego Teaching Note.pdf"
 "teaser": ""

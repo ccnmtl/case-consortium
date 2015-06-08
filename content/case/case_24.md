@@ -23,7 +23,7 @@
   \ to manage competing interests; and how to sustain an effort past the first adrenalin-fueled\
   \ moments into weeks of frustrating but crucial work.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: crisis management; international"
-"epologue": "Monitor Epilogue.pdf"
+"epilogue": "Monitor Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "24"
@@ -37,7 +37,7 @@
 "related_cases":
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "Life on the Line"
+"slug": "LifeontheLine"
 "status_id": "1"
 "teaching_note": "Monitor Teaching Note.pdf"
 "teaser": "This case treats the hard choices which confront a news organization when\

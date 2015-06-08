@@ -20,7 +20,7 @@
   \ into 12 pages in the magazine. The case describes the kind of decisions editors\
   \ have to make on a daily basis.Epilogue, Teaching NoteTopics: editorial decisionmaking;\
   \ news graphics"
-"epologue": "TIME Epilogue.pdf"
+"epilogue": "TIME Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "16"
@@ -34,7 +34,7 @@
 "related_cases":
 - "CSJ-08-0005.0"
 "school": ""
-"slug": "From Concept to Story"
+"slug": "FromConcepttoStory"
 "status_id": "1"
 "teaching_note": "TIME Teaching Note.pdf"
 "teaser": ""

@@ -36,7 +36,7 @@
   \ to treat and prevent the further spread of HIV.Epilogue, Teaching NoteTopics: public\
   \ health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based\
   \ medicine"
-"epologue": "Swaziland epilogue final.pdf"
+"epilogue": "Swaziland epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "146"

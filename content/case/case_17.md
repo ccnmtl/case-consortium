@@ -24,7 +24,7 @@
   \ section of the Bakersfield.com website, she is asked to offer informal observations\
   \ and commentary on the complicated murder case.Epilogue, Teaching NoteTopics: digital\
   \ media; newsroom management; blogging"
-"epologue": "Bakersfield Epilogue.pdf"
+"epilogue": "Bakersfield Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "17"

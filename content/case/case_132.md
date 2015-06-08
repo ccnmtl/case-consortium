@@ -35,7 +35,7 @@
   \ revenue and product. This is a FREE, contributed case.\L\LEpilogue, Teaching NoteTopics:\
   \ business of media; community journalism; strategic management; entrepreneurial\
   \ journalism"
-"epologue": "Whiteville NC epilogue 072914.pdf"
+"epilogue": "Whiteville NC epilogue 072914.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "132"
@@ -48,7 +48,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Chasing the Community Newspaper Rainbow"
+"slug": "ChasingtheCommunityNewspaperRainbow"
 "status_id": "1"
 "teaching_note": "Whiteville NC TN FINAL.pdf"
 "teaser": "This case looks at a community newspaper and how it might transform its\

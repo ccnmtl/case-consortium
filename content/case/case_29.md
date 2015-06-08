@@ -22,7 +22,7 @@
   \ on the local community. It also raises the challenge for editors of deciding what\
   \ to put in the paper once a story has broken on the website. Epilogue, Teaching\
   \ NoteTopics: digital media; crisis reporting"
-"epologue": "Post-Dispatch Epilogue.pdf"
+"epilogue": "Post-Dispatch Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "29"
@@ -37,7 +37,7 @@
 - "CSJ-09-0013.0"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "Digital Deadline"
+"slug": "DigitalDeadline"
 "status_id": "1"
 "teaching_note": "Post-Dispatch Teaching Note.pdf"
 "teaser": ""

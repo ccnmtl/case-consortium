@@ -35,7 +35,7 @@
   \ He has to decide: hurry the process for valid strategic reasons at the risk of\
   \ provoking local mistrust, or stick to the tested timetable.Epilogue, Teaching\
   \ NoteTopics: international non-profits, social development, Latin America,  management."
-"epologue": "Fundacion Carvajal Epilogue Final.pdf"
+"epilogue": "Fundacion Carvajal Epilogue Final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "131"
@@ -48,7 +48,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Tortoise or Hare?"
+"slug": "TortoiseorHare"
 "status_id": "1"
 "teaching_note": "TN FC 080614.pdf"
 "teaser": !!python/str "This case brings readers into the world of nonprofit social\

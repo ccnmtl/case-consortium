@@ -33,7 +33,7 @@
   \ regional and local. Use this case to give students grounding in the realities\
   \ of civil activism in authoritarian societies. Epilogue, Teaching NoteTopics: international\
   \ sustainable development; China; environmental activism; civil society"
-"epologue": "Ma Jun epilogue final.pdf"
+"epilogue": "Ma Jun epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "135"
@@ -46,7 +46,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "Publishing Pollution Data in China"
+"slug": "PublishingPollutionDatainChina"
 "status_id": "1"
 "teaching_note": "TN Ma Jun.pdf"
 "teaser": "A civil society activist in any country expects challenges, but with an\

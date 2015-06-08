@@ -28,7 +28,7 @@
   \ Wikileaks y publicar documentos secretos del gobierno de Estados Unidos.Epílogo,\
   \ Teaching NoteTemas: las relaciones entre gobierno y medios; manejo de fuentes;\
   \ periodismo de datos; procesos editoriales de decisión; o información internacional."
-"epologue": "Amigo o enemigoWikileaks Epilogue.pdf"
+"epilogue": "Amigo o enemigoWikileaks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "109"
@@ -43,7 +43,7 @@
 - "CSJ-08-0009.0"
 - "CSJ-08-0006.0"
 "school": ""
-"slug": "Amigo o enemigo?"
+"slug": "Amigooenemigo"
 "status_id": "1"
 "teaching_note": "Amigo o enemigo TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\

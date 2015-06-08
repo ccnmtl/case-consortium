@@ -31,7 +31,7 @@
   \ the mine’s potential. Goytendía Matos, in particular, dreams of a project that\
   \ will be a model for communities worldwide experiencing similar challenges.Topics:\
   \ sustainable development; environmental affairs; negotiations; community empowerment"
-"epologue": ""
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 "id": "136"
@@ -44,7 +44,7 @@
 "redtext": "NEW"
 "related_cases": []
 "school": ""
-"slug": "Process and Politics"
+"slug": "ProcessandPolitics"
 "status_id": "1"
 "teaching_note": ""
 "teaser": !!python/str "This case traces the evolution of a resettlement scheme in\

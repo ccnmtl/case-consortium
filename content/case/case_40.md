@@ -21,7 +21,7 @@
   \ is not the story she uncovers. It also examines the responsibility of a reporter\
   \ to a source unfamiliar with journalistic conventions.Epilogue, Teaching NoteTopics:\
   \ ethics; education reporting; feature writing"
-"epologue": "Chicago Tribune Epilogue.pdf"
+"epilogue": "Chicago Tribune Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "40"
@@ -36,7 +36,7 @@
 - "CSJ-09-0020.0"
 - "CSJ-08-0005.0"
 "school": ""
-"slug": "Elusive Story"
+"slug": "ElusiveStory"
 "status_id": "1"
 "teaching_note": "Chicago Tribune Teaching Note.pdf"
 "teaser": ""

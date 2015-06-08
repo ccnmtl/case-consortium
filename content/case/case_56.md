@@ -29,7 +29,7 @@
   \ ideal legal framework for a press to operate, and the competing priorities of\
   \ media as a business vs. media as news purveyor.Epilogue, Teaching NoteTopics:\
   \ media business; strategic management; international"
-"epologue": "Clarin Epilogue.pdf"
+"epilogue": "Clarin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "56"
@@ -44,7 +44,7 @@
 - "CSJ-08-0006.0"
 - "CSJ-08-0009.0"
 "school": ""
-"slug": "Legal Jeopardy"
+"slug": "LegalJeopardy"
 "status_id": "1"
 "teaching_note": "Clarin Teaching Note.pdf"
 "teaser": "This case is about the relationship between government and media, how media\

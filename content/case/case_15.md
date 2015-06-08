@@ -21,7 +21,7 @@
   \ a prototypical regional newspaper. Like other newspapers, it faced the challenge\
   \ of transforming from a traditional ink-on-paper product to a hybrid paper/Web\
   \ product.Epilogue, Teaching NoteTopics: strategic management; digital media"
-"epologue": "Times Union Epilogue.pdf"
+"epilogue": "Times Union Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "15"
@@ -36,7 +36,7 @@
 - "CSJ-09-0014.0"
 - "CSJ-09-0021.0"
 "school": ""
-"slug": "Charting a Course for Change"
+"slug": "ChartingaCourseforChange"
 "status_id": "1"
 "teaching_note": "Times Union Teaching Note.pdf"
 "teaser": ""

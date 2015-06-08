@@ -35,7 +35,7 @@
   \ it had to design a database to crunch and organize the data for optimal public\
   \ understanding.Epilogue, Teaching NoteTopics: financial journalism; government-media\
   \ relations; data journalism; editorial management. "
-"epologue": "Bloomberg Epilogue 110713.pdf"
+"epilogue": "Bloomberg Epilogue 110713.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "116"
@@ -48,7 +48,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
-"slug": "Cumulative or Discrete Numbers"
+"slug": "CumulativeorDiscreteNumbers"
 "status_id": "1"
 "teaching_note": "Bloomberg TN 111413.pdf"
 "teaser": "This case describes one of the more confounding issues that business reporters\

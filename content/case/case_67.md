@@ -24,7 +24,7 @@
   \ whether to end its 135-year relationship with the venerable and once-indispensable\
   \ wire service, the Associated Press.Epilogue, Teaching NoteTopics: strategic management;\
   \ editorial decisionmaking; media business"
-"epologue": "AP and Charlotte Observer Epilogue.pdf"
+"epilogue": "AP and Charlotte Observer Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "67"
@@ -38,7 +38,7 @@
 "related_cases":
 - "CSJ-10-0031.0"
 "school": ""
-"slug": "Buy It or Make It?"
+"slug": "BuyItorMakeIt"
 "status_id": "1"
 "teaching_note": "AP and Charlotte Observer Teaching Note.pdf"
 "teaser": "This case examines the dilemma faced by US newspapers as they make painful\

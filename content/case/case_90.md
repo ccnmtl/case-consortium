@@ -33,7 +33,7 @@
   \ who qualified for medical parole? Inmate Carl Wade's case was a tough call.   Epilogue,\
   \ Teaching NoteTopics: public health policy, corrections and health care, or strategic\
   \ management."
-"epologue": "California Policy for Ill and Elderly Epilogue.pdf"
+"epilogue": "California Policy for Ill and Elderly Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "90"
@@ -46,7 +46,7 @@
 "redtext": "NEW!"
 "related_cases": []
 "school": "mailman"
-"slug": "CA prisoners"
+"slug": "CAprisoners"
 "status_id": "1"
 "teaching_note": "California Policy for Ill and Elderly TN.pdf"
 "teaser": "This case looks at the challenges that confront public health professionals\

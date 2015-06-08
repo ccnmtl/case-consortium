@@ -29,7 +29,7 @@
   \ leave as well—although they did not want to.Epilogue, Teaching NoteTopics: aid\
   \ to lawless societies; humanitarian organizations; multinational organizations;\
   \ public sector management."
-"epologue": "Mission vs Safety Epilogue.pdf"
+"epilogue": "Mission vs Safety Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "92"
@@ -42,7 +42,7 @@
 "redtext": "Public Policy!"
 "related_cases": []
 "school": ""
-"slug": "mission vs safety"
+"slug": "missionvssafety"
 "status_id": "1"
 "teaching_note": "UN OCHA TN .pdf"
 "teaser": "When al-Shabaab militants in July 2009 expel agencies from the UN  Common\

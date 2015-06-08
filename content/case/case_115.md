@@ -29,7 +29,7 @@
   \ impacto personal sobre los periodistas que produce la cobertura de ilícitos cometidos\
   \ por su propia iglesia.Epílogo, Teaching NoteTemas: periodismo de investigación;\
   \ cobertura de religión"
-"epologue": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica Epilogue.pdf"
+"epilogue": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "115"
@@ -43,7 +43,7 @@
 "redtext": "ESPANOL"
 "related_cases": []
 "school": ""
-"slug": "Reportear una Verdad Explosiva"
+"slug": "ReportearunaVerdadExplosiva"
 "status_id": "1"
 "teaching_note": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica TN.pdf"
 "teaser": !!python/str "Este caso trata el cálculo que un medio de comunicación debe\

@@ -27,7 +27,7 @@
   \ la historia que ella descubre. También examina la responsabilidad que tiene un\
   \ periodista acerca de una fuente no familiarizada con las normas periodísticas.Epílogo,\
   \ Teaching NoteTemas: los escritos originales; informes sobre educación; la ética"
-"epologue": "Una Historia Esquiva Epilogo.pdf"
+"epilogue": "Una Historia Esquiva Epilogo.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "62"
@@ -42,7 +42,7 @@
 - "CSJ-09-0020.0"
 - "CSJ-08-0005.0"
 "school": ""
-"slug": "Una Historia Esquiva"
+"slug": "UnaHistoriaEsquiva"
 "status_id": "1"
 "teaching_note": "Una Historia Esquiva TN.pdf"
 "teaser": !!python/str "Este caso de estudio, examina el periodismo narrativo y el\

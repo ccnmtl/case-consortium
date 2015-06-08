@@ -25,7 +25,7 @@
   \ against the public’s interest in the officer, Constable Garrett Styles.This is\
   \ a FREE, contributed case.EpilogueTopics: ethics; editorial decisionmaking; local\
   \ reporting."
-"epologue": "CHCH Styles Epilogue.pdf"
+"epilogue": "CHCH Styles Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "106"
@@ -38,7 +38,7 @@
 "redtext": ""
 "related_cases": []
 "school": ""
-"slug": "Words of the Dying"
+"slug": "WordsoftheDying"
 "status_id": "1"
 "teaching_note": ""
 "teaser": ""

@@ -27,7 +27,7 @@
   \ it is to be a critic, but also how difficult it can be for editors to manage critics\
   \ in the newsroom.Epilogue, Teaching NoteTopics: arts criticism; editorial management;\
   \ local journalism"
-"epologue": "Cleveland Plain Dealer Epilogue.pdf"
+"epilogue": "Cleveland Plain Dealer Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "69"
