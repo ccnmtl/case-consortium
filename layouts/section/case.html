@@ -20,7 +20,7 @@
                     $.getJSON('/js/api/cases.json').success(function(cases){
                             window.Cases = cases;
                         }).error(function(){
-                            alert('there was a problem loading the cases.')
+                            alert('There was a problem loading the cases.')
                         }).complete(function(){
                           function setTableHeaders(){
                             jQuery('#results').prepend('<thead>' +
