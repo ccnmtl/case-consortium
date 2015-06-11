@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
+@import url("@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600);");
 
 /*
 	Verti by HTML5 UP
@@ -1322,7 +1322,7 @@
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 13pt;
 		color: #696969;
 		font-weight: 300;
@@ -1341,7 +1341,7 @@
 		}
 
 	input, select, textarea {
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 13pt;
 		color: #696969;
 		font-weight: 300;
@@ -1359,7 +1359,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #444;
-		font-weight: 800;
+		font-weight: 600;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1738,12 +1738,16 @@
 			padding: 0;
 		}
 
+		.box.feature header {
+			margin: 0;
+		}
 			.box.feature .inner {
-				padding: 4em 2em 3em 2em;
+				padding: 2em 2em 3em 2em;
 			}
 
 			.box.feature h2 {
 				font-size: 1.35em;
+				line-height: 1.5em;
 			}
 
 			.box.feature p {
@@ -1869,19 +1873,7 @@
 		margin: 1em 0 0 0;
 	}
 
-		#logo h1 {
-			background: #ff4486;
-			color: #fff;
-			border-radius: 6px;
-			font-family: 'Oleo Script', serif;
-			font-weight: 400;
-			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3.25em;
-			letter-spacing: 0.05em;
-			display: inline-block;
-			vertical-align: middle;
-		}
-
+	
 		#logo span {
 			font-weight: 800;
 			line-height: 4.5em;
@@ -1924,7 +1916,8 @@
 			}
 
 			#nav ul li:hover a, #nav ul li:hover span {
-				background: #fff;
+				background: #6cbcde;
+				color: #fff;
 			}
 
 			#nav ul li.active a, #nav ul li.active span {
@@ -2003,11 +1996,12 @@
 
 		#banner h2 {
 			font-size: 3.5em;
+			font-weight: 600;
 			margin: 0.1em 0 0.35em 0;
 		}
 
 		#banner p {
-			font-size: 2.75em;
+			font-size: 1.75em;
 			line-height: 1.35em;
 			margin: 0;
 		}
