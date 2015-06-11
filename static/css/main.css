@@ -2585,3 +2585,35 @@
 			}
 
 	}
+	
+	
+	
+/* Browse Page */
+/* Facets */
+.facetlist {
+  height: 200px;
+  width: 300px;
+  overflow: auto;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+  padding: 30px;
+}
+.facetitemcount{
+    cursor: pointer;
+}
+
+.deselectstartover{
+    cursor: pointer;
+    font-size: 20px;
+    margin: 30px 0 0 0;
+}
+
+
+/* table results */
+.comma-sep:last-of-type{
+    display: none;
+}
+
+.orderbyitem{
+    cursor: pointer;
+}	
