@@ -1837,7 +1837,8 @@
 /* Wrappers */
 
 	#header-wrapper {
-		padding: 4.5em 0 1em 0;
+		padding: 2em 0 1em 0;
+		background-color: #2da9d6;
 	}
 
 	#features-wrapper {
@@ -1860,10 +1861,12 @@
 		position: relative;
 	}
 
+
 /* Logo */
 
 	#logo {
 		display: inline-block;
+		margin: 1em 0 0 0;
 	}
 
 		#logo h1 {
@@ -1910,7 +1913,7 @@
 				transition: background-color .25s ease-in-out;
 				font-weight: 800;
 				letter-spacing: 0.025em;
-				color: #696969;
+				color: #fff;
 				text-decoration: none;
 				border-radius: 6px;
 				padding: 0.5em 1em 0.5em 1em;
