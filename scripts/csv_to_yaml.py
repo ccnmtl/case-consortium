@@ -19,7 +19,7 @@ html_escape_table = {
     "<": "&lt;"
     }
 
-slug_strip_table ={
+slug_strip_table = {
     "&": "",
     '"': "",
     "'": "",
@@ -27,7 +27,41 @@ slug_strip_table ={
     "<": "",
     "?": ""  
 }
- 
+
+category_mapping = [
+    {
+        "id":"5",
+        "category":"Spanish-language Cases",
+        "order":"2"
+    },
+    {
+        "id":"15",
+        "category":"Public Policy Cases",
+        "order":"3"
+    },
+    {
+        "id":"16",
+        "category":"Public Health and Medical Cases",
+        "order":"4"
+    },
+    {
+        "id":"17",
+        "category":"Journalism Cases",
+        "order":"1"
+    },
+    {
+        "id":"19",
+        "category":"AKU Cases",
+        "order":"6"
+    },
+    {
+        "id":"20",
+        "category":"Sustainable Development Cases",
+        "order":"5"
+    },
+
+]
+
 def html_escape(text):
     """Produce entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
@@ -38,6 +72,14 @@ def remove_images(description):
     for img in imgs: 
         img.extract()
     return soup
+
+def set_category(cat_id):
+    for cat in category_mapping:
+        if cat["id"] == cat_id:
+            return cat['category']
+
+    return "None"
+
 
 def convert_to_yaml(line, counter):
     title = html_escape(line[2])
@@ -59,7 +101,7 @@ def convert_to_yaml(line, counter):
     slug_soup = line[1].split(' ')
     temp_slug = "".join(s for s in slug_soup)
     clean_slug = "".join(slug_strip_table.get(st,st) for st in temp_slug)
-    #pdb.set_trace()
+    category = set_category(line[26])
     item = {
         'id': line[0],
         'slug': clean_slug,
@@ -79,7 +121,6 @@ def convert_to_yaml(line, counter):
         'teaching_note': line[15],
         'epilogue': line[16],
         'banner': line[17],
-        'abstract_img': line[18],
         'thumb': line[19],
         'link_color': line[20],
         'title_color': line[21],
@@ -88,11 +129,13 @@ def convert_to_yaml(line, counter):
         'layout': line[24],
         'linked_classes': line[25],
         'category_id': line[26],
+        'category': category,
         'status_id': line[27],
         'created_on': line[28],
         'school': line[29],
         'description_clean': description_clean
     }
+
     items.append(item)
     items_dict[item['id']] = item
     item_descriptions.append(description)
