@@ -14,21 +14,15 @@
                             <h4 class="unescape">Link to case</h4>
                         </a>
 
-                        <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
-                            <h4 class="unescape">Link to epilogue</h4>
-                        </a>
-
                          <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
                             <h4 class="unescape">Link to pdf</h4>
                         </a>
-                        <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.teaching_note }}">
-                            <h4 class="unescape">Link to Teaching Note</h4>
-                        </a>
+                        
                     </section>
 
                     <!-- Button trigger modal -->
                     <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-                      modal
+                      Teaching Resouces
                     </button>
 
                     <!-- Modal -->
@@ -37,14 +31,25 @@
                         <div class="modal-content">
                           <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                            <!--<h4 class="modal-title" id="myModalLabel">Modal title</h4>-->
                           </div>
                           <div class="modal-body">
-                            ...
+                            <p>Warning!</p>
+                            <p>Are you sure you want to view the teaching resources?</p>
+
+                            <div id="teaching-resources">
+                                <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.teaching_note }}">
+                                    <h4 class="unescape">Link to Teaching Note</h4>
+                                </a>
+
+                                <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
+                                    <h4 class="unescape">Link to epilogue</h4>
+                                </a>
+                            </div>
                           </div>
                           <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>
+                            <button type="button" class="btn btn-default btn-close" data-dismiss="modal">No</button>
+                            <button id="view-teaching-resources" type="button" class="btn btn-primary">Yes</button>
                           </div>
                         </div>
                       </div>
@@ -66,6 +71,13 @@
                     var text = jQuery(this).text();
                     jQuery(this).html(text);
                 });
+
+                jQuery('#teaching-resources').hide();
+
+                jQuery('#view-teaching-resources').click(function(){
+                    jQuery('#teaching-resources').removeClass('hidden').fadeIn();
+                })
+
             </script>
     </body>
 </html>
