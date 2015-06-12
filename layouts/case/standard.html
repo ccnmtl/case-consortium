@@ -1,13 +1,18 @@
-<html>
-    {{ partial "header.html" . }}
-    <body id="top">
+<!DOCTYPE HTML>
 
-        <!-- Header -->
-        {{ partial "header_section.html" . }}
-        <!-- Main -->
-            <div id="main">
-                <!-- One -->
-                    <section id="one">
+<html>
+{{ partial "header.html" . }}
+<body id="tops" class="left-sidebar">
+<div id="page-wrapper">
+	<!--Header Section-->
+	<div id="header-wrapper">
+	{{ partial "header_section.html" . }}
+	</div>
+	<!-- End Header Section-->
+
+<!-- Main -->
+<div id="main-wrapper">
+<div class="container">
                         <h1 class="unescape">{{.Title|safeHTML}}</h1>
                         <p>{{ .Content }}</p>
                         <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/standard.asp%3fcase_id={{ .Params.id }}.html">
@@ -18,7 +23,6 @@
                             <h4 class="unescape">Link to pdf</h4>
                         </a>
                         
-                    </section>
 
                     <!-- Button trigger modal -->
                     <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
