@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+
+<html>
+{{ partial "header.html" . }}
+<body id="tops" class="left-sidebar">
+<div id="page-wrapper">
+	<!--Header Section-->
+	<div id="header-wrapper">
+	{{ partial "header_section.html" . }}
+	</div>
+	<!-- End Header Section-->
+
+<!-- Main -->
+<div id="main-wrapper">
+<div class="container">
+
+    {{ .Content }}
+</div>
+</div>
+</div>
+{{ partial "footer.html" . }}

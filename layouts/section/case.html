@@ -1,23 +1,28 @@
-<!DOCTYPE HTML>
-<!--
-	Verti by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-{{ partial "header.html" . }}
-<body id="tops" class="left-sidebar">
-<div id="page-wrapper">
-	<!--Header Section-->
+        {{ partial "header.html" . }}
 
-	{{ partial "header_section.html" . }}
+    <body class="homepage">
+        <div id="page-wrapper">
 
-	<!-- End Header Section-->
+            <!-- Header -->
+                <div id="header-wrapper">
+                            {{ partial "header_section.html" . }}
+                </div>
 
-<!-- Main -->
 <div id="main-wrapper">
 <div class="container">
+<h2>Browse Cases</h2>
+<p>Some instructions on how best to browse cases.</p>
 <div class="row 200%">
+  <div class="12u 12u$(medium)">
+        <form class="form-inline" role="search">
+            <div class="input-group">
+                <input id="q" type="text" class="form-control" placeholder="search" />
+                <div class="input-group-btn"></div>
+            </div>
+        </form>
+        <div class="12u 12u$(medium)" id="search-results"></div>
+    </div>
 <div class="4u 12u$(medium)">
 <!-- Facets -->
 <div id="sidebar">
@@ -30,15 +35,7 @@
 <div class="8u 12u$(medium) important(medium)">
 <!-- Content -->
 <div id="content">
-  <div class="col-md-6">
-        <form class="form-inline" role="search">
-            <div class="input-group">
-                <input style="color:#333" id="q" type="text" class="form-control" placeholder="search" />
-                <div class="input-group-btn"></div>
-            </div>
-        </form>
-        <div class="col-md-6" id="search-results"></div>
-    </div>
+
 
 <div id="order-by"></div>
 <table class="alt" id="results"></table>
@@ -52,11 +49,20 @@
 </div>
 
 			<!-- Footer -->
+
+		
+			</div>
+
+</header>
+
+
+
 				
 </div>
 </div>
+                {{ partial "footer.html" . }}
 
-  {{ partial "footer.html" . }}
+
 
 
           <script data-export="true" data-file-extension="js" id="facetize">
@@ -71,7 +77,6 @@
                                                         '<tr>' +
                                                             '<th>Case Number</th>' +
                                                             '<th>Title</th>' +
-                                                            '<th>Thumbnail</th>' +
                                                             '<th>Topics</th>' +
                                                         '</tr>' +
                                                       '</thead>');
@@ -89,7 +94,6 @@
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
                               '<td><a href="<%= obj.slug %>">'+
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' + 
-                              '<td><img src="/img/case/case_thumb_<%= obj.id %>.jpg"/></td>' +
                               '<td class="item-topics"><% for(var topic in obj.topics)' +
                               '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></td>' +
                             '</tr>';
