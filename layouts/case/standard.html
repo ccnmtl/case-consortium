@@ -1,11 +1,17 @@
 <html>
     {{ partial "header.html" . }}
     <body id="top">
-
+<div id="page-wrapper">
         <!-- Header -->
         {{ partial "header_section.html" . }}
         <!-- Main -->
-            <div id="main">
+        <!-- Main -->
+<div id="main-wrapper">
+<div class="container">
+<div class="row 200%">
+<div class="12u 12u$(medium)">
+<!-- Content -->
+<div id="content">
                 <!-- One -->
                     <section id="one">
                         <h1 class="unescape">{{.Title|safeHTML}}</h1>
@@ -61,6 +67,11 @@
                         <a href="/case_topics/{{ .|urlize }}">{{ . }}</a> <br/>
                     {{ end }}
             </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div><!-- end pagewrapper-->
 
 
 
