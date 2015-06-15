@@ -1,16 +1,14 @@
-<!DOCTYPE HTML>
-
 <html>
-{{ partial "header.html" . }}
-<body id="tops" class="left-sidebar">
-<div id="page-wrapper">
-	<!--Header Section-->
-	<div id="header-wrapper">
-	{{ partial "header_section.html" . }}
-	</div>
-	<!-- End Header Section-->
+        {{ partial "header.html" . }}
 
-<!-- Main -->
+    <body class="homepage">
+        <div id="page-wrapper">
+
+            <!-- Header -->
+                <div id="header-wrapper">
+                            {{ partial "header_section.html" . }}
+                </div>
+
 <div id="main-wrapper">
 <div class="container">
 <h2>Browse Cases</h2>
@@ -51,14 +49,23 @@
 </div>
 
 			<!-- Footer -->
+
 		
 			</div>
 
 </header>
 
+
+
+				
+</div>
+</div>
                 {{ partial "footer.html" . }}
 
-            <script data-export="true" data-file-extension="js" id="facetize">
+
+
+
+          <script data-export="true" data-file-extension="js" id="facetize">
             jQuery(document).ready(function(){
                     $.getJSON('/js/api/cases.json').success(function(cases){
                             window.Cases = cases;
