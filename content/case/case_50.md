@@ -12,7 +12,7 @@
 "category": "Spanish-language Cases"
 "category_id": "5"
 "created_on": "3/2/2010"
-"description": !!python/str "<html><body><div style=\"padding: 10px; float: right;\"\
+"description": "<html><body><div style=\"padding: 10px; float: right;\"\
   ></div><p><i>CSJ-10-0028.0</i><br/>Este caso, dicho en su mayoría a través de entrevistas\
   \ en video con el equipo de noticias, acerca del esfuerzo de una organización de\
   \ noticias para localizar a un criminal, y si su trabajo es periodísticamente apropiado\
@@ -47,7 +47,7 @@
 - "CSJ-10-0027.0"
 - "CSJ-08-0010.0"
 "school": ""
-"slug": !!python/str "P¿Periodistasopolicías"
+"slug": "Periodistasopolicias"
 "status_id": "1"
 "teaching_note": "CONTACTO Espanol Teaching Note.pdf"
 "teaser": ""
