@@ -1,21 +1,26 @@
-<!DOCTYPE HTML>
-
 <html>
-{{ partial "header.html" . }}
-<body id="tops" class="left-sidebar">
-<div id="page-wrapper">
-	<!--Header Section-->
+        {{ partial "header.html" . }}
+
+<body class="homepage">
+	<div id="page-wrapper">
+
+	<!-- Header -->
 	<div id="header-wrapper">
 	{{ partial "header_section.html" . }}
 	</div>
-	<!-- End Header Section-->
 
-<!-- Main -->
-<div id="main-wrapper">
-<div class="container">
+	<div id="main-wrapper" class="box container">
 
-    {{ .Content }}
+		<div class="row 200%">
+			<div class="8u 12u$(medium) important(medium)">
+<!-- Content -->
+			<div id="content">
+		   {{ .Content }}
+			</div> 
+<!-- End Content -->
 </div>
 </div>
 </div>
-{{ partial "footer.html" . }}
+</div>
+</div>
+ {{ partial "footer.html" . }}
