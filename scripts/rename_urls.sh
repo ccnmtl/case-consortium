@@ -14,7 +14,8 @@ for dir in `ls`; do
 done;
 
 # update the internal links to match the new filenames
-find . -name \*.html | perl -pi -e "s#standard.asp%3Fcase_id=#case_id_#g"
-find . -name \*.html | perl -pi -e "s#&amp;id=#_id_#g"
-find . -name \*.html | perl -pi -e "s#&amp;pid=#_pid_#g" 
-find . -name \*.html | perl -pi -e "s#&amp;c=#_c_#g" 
+find . -name \*.html | xargs perl -pi -e "s#standard.asp%3Fcase_id=#case_id_#g"
+find . -name \*.html | xargs perl -pi -e "s#&amp;id=#_id_#g"
+find . -name \*.html | xargs perl -pi -e "s#&amp;pid=#_pid_#g" 
+find . -name \*.html | xargs perl -pi -e "s#&amp;c=#_c_#g" 
+find . -name \*.html | xargs perl -pi -e "s#&amp;gid=#_gid_#g" 
