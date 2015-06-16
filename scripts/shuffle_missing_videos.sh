@@ -12,3 +12,5 @@ perl -n -e 'm#./(\d+)/casestudy.*/casestudy/files/videos/(\d+)/.*#; print "$1,$2
 # the global_videos_case_video.txt contains: case1,videoid1 case2,videoid2, etc
 for i in `cat global_videos_case_video.txt`; do caseid=`echo $i | cut -d \, -f 1`; videoid=`echo $i | cut -d \, -f 2`; cp -r /www/data/ccnmtl/draft/sdreher/casestudies/files/videos/${videoid} /www/data/ccnmtl/projects/caseconsortium/casestudies/${caseid}/casestudy/files/videos/; done; 
  
+# finally, update the links to the videos so they are relative
+find . -name \*.html | xargs perl -pi -e "s#/casestudy/files/videos#../../files/videos#g"
