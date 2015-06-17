@@ -1,56 +1,55 @@
 <html>
         {{ partial "header.html" . }}
 
-<body class="homepage">
+<body class="search">
 	<div id="page-wrapper">
 
-	<!-- Header -->
-	<div id="header-wrapper">
+	<!-- Header --><div id="header-wrapper">
 	{{ partial "header_section.html" . }}
+	<!-- End Header --></div>
+
+<!-- Main Wrapper --><div id="main-wrapper" class="box container">
+	<!-- Search Box --><div id="search">
+							<form class="form-inline" role="search">
+							<div class="input-group">
+							<input id="q" type="text" placeholder="Search for Cases" />
+							<div class="input-group-btn"></div>
+							</div>
+							</form>
+							<div id="search-results"></div>
+<!-- End Search Box --></div>
+<!-- Browse Cases --><div class="row 200% browse_cases">
+<!-- Page Title and Search Box --><div class="12u 12u$(medium)">
+						<h2>Browse Cases</h2>
+
+			
+<!-- End Title & Search Box --></div>
+<!-- Search Results -->
+    
+    
+    
+    <!-- End Search Results -->
+<!-- Sidebar -->
+	<div class="4u 12u$(medium)" id="sidebar">
+	<!-- Facets -->
+	<div id="facets"></div>
+	<!-- End Facets -->
 	</div>
-
-<div id="main-wrapper" class="box container">
-
-<h2>Browse Cases</h2>
-<p>Some instructions on how best to browse cases.</p>
-<div class="row 200%">
-  <div class="12u 12u$(medium)">
-        <form class="form-inline" role="search">
-            <div class="input-group">
-                <input id="q" type="text" class="form-control" placeholder="search" />
-                <div class="input-group-btn"></div>
-            </div>
-        </form>
-        <div class="12u 12u$(medium)" id="search-results"></div>
-    </div>
-<div class="4u 12u$(medium)">
-<!-- Facets -->
-<div id="sidebar">
-
-            <div id="facets"></div>
-
-</div>
-<!-- End Facets -->
-</div>
-<div class="8u 12u$(medium) important(medium)">
-<!-- Content -->
-<div id="content">
+<!-- End Sidebar -->
+	<div class="8u 12u$(medium) important(medium)" id="content">
+	<!-- Content -->
+	<div id="order-by"></div>
+	<table class="alt" id="results"></table>
+	<!-- End Content -->
+	</div> 
 
 
-<div id="order-by"></div>
-<table class="alt" id="results"></table>
 
-</div> 
-<!-- End Content -->
-</div>
-</div>
-</div>
+<!-- End Browse Cases --></div>
+<!-- End Main Wrapper --></div>
 </div>
 
-                {{ partial "footer.html" . }}
-
-
-
+         {{ partial "footer.html" . }}
 
           <script data-export="true" data-file-extension="js" id="facetize">
             jQuery(document).ready(function(){
@@ -77,11 +76,11 @@
 
                             var item_template = 
                             '<tr class="item">' +
-                              '<td id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
+                              '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
-                              '<td><a href="<%= obj.slug %>">'+
+                              '<td class="case_slug"><a href="<%= obj.slug %>">'+
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' + 
-                              '<td class="item-topics"><% for(var topic in obj.topics)' +
+                              '<td class="case_topics"><% for(var topic in obj.topics)' +
                               '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></td>' +
                             '</tr>';
                             settings = { 

@@ -26,10 +26,10 @@ var doSearch = function() {
     $el.empty();
     $el.show();
     if (results.length == 0) {
-        $el.html('sorry, no results found');
+        $el.html('Sorry, no results matching your query were found.');
     } else {
         $el.append(
-           $('<h2>Search Results: "' + q + '"</h2>')
+           $('<h2 class="results-title">Search Results: "' + q + '"</h2>')
         );
 
         for (r in results.slice(0, 10)) {
@@ -39,7 +39,7 @@ var doSearch = function() {
                 var title = window.data[d]['title'];
                 var slug = window.data[d]['slug'];
 
-                var $result = $('<div>');
+                var $result = $('<div class="result-link">');
                 var html_convert = $('<div>');
 
                 html_convert.append(title);
