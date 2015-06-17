@@ -2589,6 +2589,29 @@
 	
 	
 /* Browse Page */
+
+
+.browse_cases .8u, .browse_cases .4u {
+margin: 0;
+}
+
+/*Search*/
+
+#search {
+float: right;
+}
+
+#search input {
+width: 400px;
+}
+
+#search-results {
+  width: 200px;
+  position: absolute;
+  height: inherit;
+  background-color: #fff;
+}
+
 /* Facets */
 #facets {
 	background-color: #f5f5f5;
@@ -2633,3 +2656,22 @@ h3.facettitle {
 .orderbyitem{
     cursor: pointer;
 }	
+
+tr.item {
+
+}
+
+td.case_id  {
+width: 20%;
+paddding: 0 0 1em 0;
+}
+
+td.case_slug {
+width: 50%;
+padding: 0 0 1em 0;
+}
+
+td.case_topics {
+width: 205%;
+padding: 0 0 1em 0;
+}

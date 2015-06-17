@@ -26,7 +26,7 @@ var doSearch = function() {
     $el.empty();
     $el.show();
     if (results.length == 0) {
-        $el.html('sorry, no results found');
+        $el.html('Sorry, no results matching your query were found.');
     } else {
         $el.append(
            $('<h2>Search Results: "' + q + '"</h2>')
