@@ -104,6 +104,7 @@
 			width: 1200px;
 		}
 
+
 	}
 
 	@media screen and (max-width: 1280px) {
@@ -2597,19 +2598,48 @@ margin: 0;
 
 /*Search*/
 
+body.search #main-wrapper {
+	padding: 0;
+}
 #search {
-float: right;
+	width: 100%
 }
 
+
+
+#search .input-group {
+width: 100%;
+}
+
+
+
 #search input {
-width: 400px;
+height: 3.5em;
+border-radius: 0;
+width: 100%;
+font-size: 1.75em;
+font-weight: 300;
 }
 
 #search-results {
-  width: 200px;
+width: 1400px;
   position: absolute;
   height: inherit;
   background-color: #fff;
+  padding: 2em;
+}
+
+	@media screen and (max-width: 1680px) {
+#search-results {
+width: 1200px;
+}
+}
+
+
+	@media screen and (max-width: 1280px) {
+#search-results {
+width: 960px;
+}
 }
 
 /* Facets */
