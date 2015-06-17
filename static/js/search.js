@@ -56,12 +56,17 @@ var doSearch = function() {
 }
 
 $(document).ready(function() {
-    $('#search').click(doSearch);
     $('#q').keyup(function() {
         $('#search-results').empty();
         if ($(this).val().length < 2) {
             return;
         }
+        $('#clear-search').show();
         return doSearch();
+    });
+    $('#clear-search').click(function(){
+        $('#search-results').empty();
+        $('#search-results').hide();
+        $('#clear-search').hide();
     });
 });

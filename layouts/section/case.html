@@ -12,7 +12,8 @@
 	<!-- Search Box --><div id="search">
 							<form class="form-inline" role="search">
 							<div class="input-group">
-							<input id="q" type="text" placeholder="Search for Cases" />
+							<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
+              <button class="close-icon" id="clear-search" type="reset"></button>
 							<div class="input-group-btn"></div>
 							</div>
 							</form>

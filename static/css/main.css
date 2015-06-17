@@ -2597,6 +2597,40 @@ margin: 0;
 }
 
 /*Search*/
+.close-icon {
+  display: none;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  height: 16px;
+  width: 16px;
+  padding: 0;
+  border: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  vertical-align: middle;
+  outline: 0;
+  cursor: pointer;
+  background: #ff8585 url('/img/icon-clearsearch.png') center center no-repeat;
+}
+.close-icon:hover {
+  display: none;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  height: 16px;
+  width: 16px;
+  padding: 0;
+  border: 0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  vertical-align: middle;
+  outline: 0;
+  cursor: pointer;
+  background: #ff8585 url('/img/icon-clearsearch.png') center center no-repeat;
+}
 
 body.search #main-wrapper {
 	padding: 0;
