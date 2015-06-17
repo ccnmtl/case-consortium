@@ -27,16 +27,16 @@
     
     <!-- End Search Results -->
 <!-- Sidebar -->
-	<div class="4u 12u$(medium)" id="sidebar">
+	<div class="3u 12u$(medium)" id="sidebar">
 	<!-- Facets -->
 	<div id="facets"></div>
 	<!-- End Facets -->
 	</div>
 <!-- End Sidebar -->
-	<div class="8u 12u$(medium) important(medium)">
+	<div class="9u 12u$(medium) important(medium)">
 		<div id="content">
 	<!-- Content -->
-	<div id="order-by"></div>
+
 	<table class="alt" id="results"></table>
 	<!-- End Content -->
 		</div>
@@ -60,9 +60,9 @@
                           function setTableHeaders(){
                             jQuery('#results').prepend('<thead>' +
                                                         '<tr>' +
-                                                            '<th>Case Number</th>' +
-                                                            '<th>Title</th>' +
-                                                            '<th>Topics</th>' +
+                                                            '<th class="case_id_head">Case Number</th>' +
+                                                            '<th class="case_title_head">Title</th>' +
+                                                            '<th class="case_topics_head">Topics</th>' +
                                                         '</tr>' +
                                                       '</thead>');
                             }
@@ -93,8 +93,9 @@
                               facetSelector    : '#facets',
                               resultTemplate   : item_template,
                               paginationCount  : 10,
-                              orderByOptions   : {'title': 'Title', 'case_number': 'Case Number'},
+                              orderByOptions   : {'case_number': 'Case Number', 'title': 'Title'},
                               bottomContainer    : '<div class="bottom-container"></div>',
+                              showMoreTemplate   : '<a id=showmorebutton>Show More</a>',
                               //facetSortOption  : {'continent': ["North America", "South America"]}
                             }   
 
