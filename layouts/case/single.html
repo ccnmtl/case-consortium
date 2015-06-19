@@ -2,23 +2,25 @@
         {{ partial "header.html" . }}
 
 <body class="homepage">
-    <div id="page-wrapper">
+	<div id="page-wrapper">
 
-    <!-- Header -->
-    <div id="header-wrapper">
-    {{ partial "header_section.html" . }}
-    </div>
+	<!-- Header -->
+	<div id="header-wrapper">
+	{{ partial "header_section.html" . }}
+	</div>
 
 <div id="main-wrapper" class="box container">
 
 <div class="row 200%">
-<div class="12u 12u$(medium)">
+<div class="3u 12u$(medium)">
+<img class ="thumbnail" src="/img/case/case_thumb_{{ .Params.id }}.jpg" />
+</div>
+<div class="9u 12u$(medium)">
 <!-- Content -->
 <div id="content">
                 <!-- One -->
                     <section id="one">
-
-                        <h1 class="unescape">{{.Title|safeHTML}}</h1>
+                        <h1 class="case-title unescape">{{.Title|safeHTML}}</h1>
                         <p>{{ .Content }}</p>
                         <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
                             <h4 class="unescape">Link to case</h4>

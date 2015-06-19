@@ -13,14 +13,13 @@
 
 <div class="row 200%">
 <div class="3u 12u$(medium)">
-<img src="../../img/case/{{ .Params.thumb }}" />
+<img class ="thumbnail" src="/img/case/case_thumb_{{ .Params.id }}.jpg" />
 </div>
 <div class="9u 12u$(medium)">
 <!-- Content -->
 <div id="content">
                 <!-- One -->
                     <section id="one">
-
                         <h1 class="case-title unescape">{{.Title|safeHTML}}</h1>
                         <p>{{ .Content }}</p>
                         <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
