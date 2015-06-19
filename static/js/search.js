@@ -56,6 +56,12 @@ var doSearch = function() {
 }
 
 $(document).ready(function() {
+    $('#q').on('keydown', function(event) {
+       var x = event.which;
+       if (x === 13) {
+           event.preventDefault();
+       }
+    });
     $('#q').keyup(function() {
         $('#search-results').empty();
         if ($(this).val().length < 2) {
