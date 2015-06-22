@@ -43,7 +43,7 @@
 "redtext": "FREE"
 "related_cases": []
 "school": ""
-"slug": "AllNovaScotia.com:SuccessorAnomaly"
+"slug": "AllNovaScotia"
 "status_id": "1"
 "teaching_note": "ANS TN Final.pdf"
 "teaser": "This case tells the story of a small, online publication in Halifax, Nova\

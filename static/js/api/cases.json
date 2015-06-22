@@ -1,15 +1,19 @@
 
+
+
 {"cases":[
     
-        
+     
     
+     
+        
         
             
             
             {
                 "id":50,
                 "title": "&amp;iquest;Periodistas o polic&amp;iacute;as? CONTACTO y la b&amp;uacute;squeda de Paul Schaefer",
-                "link": "http://localhost:1313/case/P%C2%BFPeriodistasopolic%C3%ADas/",
+                "link": "http://localhost:1313/case/Periodistasopolicias/",
                 "slug": "Periodistasopolicias",
                 "case_number": "CSJ-10-0028.0",
                 "category": "Spanish-language Cases",
@@ -20,6 +24,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -37,6 +44,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -47,13 +57,16 @@
                 "slug": "LifeontheLine",
                 "case_number": "CSJ-08-0012.0",
                 "category": "Journalism Cases",
-                "content": "csj-08-0012.0this-case-treats-the-hard-choices-which-confront-a-news-organization-when-violence-strikes-one-of-its-reporters.-students-will-have-a-chance-to-consider-how-to-structure-a-crisis-response-how-to-manage-competing-interests-and-how-to-sustain-an-effort-past-the-first-adrenalin-fueled-moments-into-weeks-of-frustrating-but-crucial-work.this-is-a-free-case.epilogue-teaching-notetopics-crisis-management-international",
+                "content": "csj-08-0012.0this-case-treats-the-hard-choices-which-confront-a-news-organization-when-violence-strikes-one-of-its-reporters.-students-will-have-a-chance-to-consider-how-to-structure-a-crisis-response-how-to-manage-competing-interests-and-how-to-sustain-an-effort-past-the-first-adrenalin-fueled-moments-into-weeks-of-frustrating-but-crucial-work.epilogue-teaching-notetopics-crisis-management-international",
                 "topics": ["crisis management","international"],
                 "related_cases": ["CSJ-08-0009.0"]
             },
 
         
     
+    
+     
+        
         
             
             
@@ -71,6 +84,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -88,6 +104,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -105,6 +124,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -122,14 +144,17 @@
 
         
     
+    
+     
+        
         
             
             
             {
                 "id":118,
                 "title": "AllNovaScotia.com: Success or Anomaly?",
-                "link": "http://localhost:1313/case/AllNovaScotia.com:SuccessorAnomaly/",
-                "slug": "AllNovaScotia.com:SuccessorAnomaly",
+                "link": "http://localhost:1313/case/AllNovaScotia/",
+                "slug": "AllNovaScotia",
                 "case_number": "CSJ-13-0052.0",
                 "category": "Journalism Cases",
                 "content": "csj-13-0052.0-this-case-tells-the-story-of-a-small-online-publication-in-halifax-nova-scotia-which-has-confounded-the-punditry-of-the-digital-era.-allnovascotia.com-ans-sits-firmly-behind-a-paywall-does-not-allow-its-stories-to-be-shared-online-and-even-refuses-subscriptions-to-employees-of-rival-publications.-nonetheless-it-has-been-financially-successful.-but-in-2013-founder-david-bentley-faced-a-crossroads.-at-69-he-was-ready-to-step-back.-but-what-should-the-next-step-be-sell-out-duplicate-the-ans-model-elsewhere-go-more-digitalthis-is-a-free-contributed-case.epilogue-teaching-notetopicsmedia-strategic-management-entrepreneurship",
@@ -139,6 +164,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -156,6 +184,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -173,6 +204,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -190,6 +224,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -207,6 +244,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -224,6 +264,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -241,6 +284,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -258,6 +304,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -275,6 +324,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -292,6 +344,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -309,6 +364,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -326,6 +384,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -343,6 +404,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -360,6 +424,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -377,6 +444,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -394,6 +464,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -411,6 +484,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -428,6 +504,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -445,6 +524,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -462,6 +544,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -479,6 +564,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -496,6 +584,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -513,6 +604,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -530,6 +624,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -547,6 +644,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -564,6 +664,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -581,6 +684,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -598,6 +704,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -615,6 +724,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -632,6 +744,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -649,6 +764,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -666,6 +784,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -676,13 +797,16 @@
                 "slug": "GlobalPostSyria",
                 "case_number": "CSJ-14-0057.0",
                 "category": "Journalism Cases",
-                "content": "",
+                "content": "csj-14-0057.0-this-case-goes-behind-the-scenes-at-globapost-to-follow-how-journalists-operate-in-war-zones-and-how-editors-evaluate-the-newsworthiness-of-what-could-be-an-explosive-story.-in-april-2014-globalpost-senior-correspondent-tracey-shelton-heard-reports-of-a-chemical-weapons-attack-that-might-cross-the-ldquored-linerdquo-set-by-us-president-barack-obama-eight-months-earlier.-she-and-her-editors-have-to-decide-how-to-treat-what-she-uncovers.",
                 "topics": ["international journalism","editorial management"],
                 "related_cases": []
             },
 
         
     
+    
+     
+        
         
             
             
@@ -700,6 +824,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -717,6 +844,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -734,6 +864,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -751,6 +884,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -768,23 +904,9 @@
 
         
     
-        
-            
-            
-            {
-                "id":9,
-                "title": "New England Cable News and the Terry Glenn Story (Video)",
-                "link": "http://localhost:1313/case/NewEnglandCableNewsVideo/",
-                "slug": "NewEnglandCableNewsVideo",
-                "case_number": "CSJ-08-0004.0",
-                "category": "Journalism Cases",
-                "content": "csj-08-0004.0this-textvideo-case-is-about-how-a-news-organization-new-england-cable-news-necn-handles-the-arrival-of-a-fax-alleging-sexual-misconduct-by-a-member-of-the-new-england-patriots-football-team.-the-case-proceeds-in-real-time-allowing-students-to-experience-the-pressures-of-a-newsroom-deadline.this-is-a-video-case.topics-ethics-editorial-decisionmaking-broadcast",
-                "topics": ["ethics","editorial decisionmaking","broadcast"],
-                "related_cases": ["CSJ-08-0007.0"]
-            },
-
-        
     
+     
+        
         
             
             
@@ -802,6 +924,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -819,6 +944,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -836,6 +964,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -853,6 +984,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -870,6 +1004,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -887,6 +1024,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -904,6 +1044,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -921,6 +1064,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -938,6 +1084,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -955,6 +1104,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -972,6 +1124,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -989,6 +1144,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1006,6 +1164,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1023,6 +1184,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1040,6 +1204,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1057,6 +1224,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1074,6 +1244,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1091,6 +1264,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1108,6 +1284,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1125,6 +1304,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1142,6 +1324,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1159,6 +1344,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1176,6 +1364,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1193,6 +1384,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1210,6 +1404,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1227,6 +1424,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1244,23 +1444,9 @@
 
         
     
-        
-            
-            
-            {
-                "id":34,
-                "title": "Terror or Accident? &lt;i&gt;Newsday&lt;/i&gt; and the Crash of American Airlines Flight 587 (Video)",
-                "link": "http://localhost:1313/case/TerrororAccident/",
-                "slug": "TerrororAccident",
-                "case_number": "CSJ-09-0013.0",
-                "category": "Journalism Cases",
-                "content": "csj-09-0013.0this-textvideo-case-asks-students-to-engage-in-a-difficult-calculus-report-on-deadline-about-a-disaster-when-the-causes-are-unclear.-on-november-12-2001-two-months-and-a-day-after-the-terrorist-attacks-of-september-11-american-airlines-flight-587-leaving-kennedy-airport-went-down-in-far-rockaway-queens-new-york.this-is-a-video-case.topics-digital-media-crisis-reporting",
-                "topics": ["digital media","crisis reporting"],
-                "related_cases": ["CSJ-09-0014.0","CSJ-08-0012.0"]
-            },
-
-        
     
+     
+        
         
             
             
@@ -1278,6 +1464,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1295,6 +1484,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1312,6 +1504,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1329,6 +1524,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1346,6 +1544,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1363,6 +1564,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1380,6 +1584,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1397,6 +1604,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1414,6 +1624,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1431,6 +1644,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1448,6 +1664,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1465,6 +1684,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1482,6 +1704,9 @@
 
         
     
+    
+     
+        
         
             
             
@@ -1499,6 +1724,17 @@
 
         
     
+    
+     
+    
+     
+    
+     
+    
+     
+    
+     
+        
         
             
             
@@ -1515,6 +1751,7 @@
             }
 
         
+    
     
     ]
 }

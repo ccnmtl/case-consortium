@@ -1,7 +1,11 @@
 {{ $len := len .Site.Pages.ByTitle }}
+
+
 {"cases":[
     {{ range $i, $page := .Site.Pages.ByTitle }}
+     {{ if .Params.id }}
         {{ if ne $page.Type "json" }}
+        
             {{ $last := sub $len $i }}
             {{ $content := $page.Plain }}
             {
@@ -17,6 +21,7 @@
             }{{if gt $last 1 }},{{ end }}
 
         {{ end }}
+    {{ end }}
     {{ end }}
     ]
 }
