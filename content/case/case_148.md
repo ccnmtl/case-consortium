@@ -11,7 +11,7 @@
 "category_id": "17"
 "created_on": "1/27/2015"
 "description": ""
-"description_clean": !!python/unicode ""
+"description_clean": "CSJ-14-0057.0 This case goes behind the scenes at GlobaPost to follow how journalists operate in war zones and how editors evaluate the newsworthiness of what could be an explosive story. In April 2014, GlobalPost Senior Correspondent Tracey Shelton heard reports of a chemical weapons attack that might cross the red line set by US President Barack Obama eight months earlier. She and her editors have to decide how to treat what she uncovers."
 "epilogue": "Global Post epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
@@ -34,3 +34,4 @@
 "title_color": ""
 ---
 
+CSJ-14-0057.0 This case goes behind the scenes at GlobaPost to follow how journalists operate in war zones and how editors evaluate the newsworthiness of what could be an explosive story. In April 2014, GlobalPost Senior Correspondent Tracey Shelton heard reports of a chemical weapons attack that might cross the "red line" set by US President Barack Obama eight months earlier. She and her editors have to decide how to treat what she uncovers.
