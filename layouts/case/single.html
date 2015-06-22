@@ -49,13 +49,17 @@
                             <p>Are you sure you want to view the teaching resources?</p>
 
                             <div id="teaching-resources">
+                                {{ if .Params.teaching_note }}
                                 <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.teaching_note }}">
                                     <h4 class="unescape">Link to Teaching Note</h4>
                                 </a>
+                                {{ end }}
 
+                                {{ if .Params.epilogue }}
                                 <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
                                     <h4 class="unescape">Link to epilogue</h4>
                                 </a>
+                                {{ end }}
                             </div>
                           </div>
                           <div class="modal-footer">
