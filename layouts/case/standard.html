@@ -1,7 +1,7 @@
 <html>
         {{ partial "header.html" . }}
 
-<body class="homepage">
+<body class="case">
 	<div id="page-wrapper">
 
 	<!-- Header -->
@@ -12,10 +12,10 @@
 <div id="main-wrapper" class="box container">
 
 <div class="row 200%">
-<div class="3u 12u$(medium)">
+<div class="3u 12u$(medium) case-thumb">
 <img class ="thumbnail" src="/img/case/case_thumb_{{ .Params.id }}.jpg" />
 </div>
-<div class="9u 12u$(medium)">
+<div class="9u 12u$(medium) case-desc">
 <!-- Content -->
 <div id="content">
                 <!-- One -->
@@ -69,12 +69,13 @@
                         </div>
                       </div>
                     </div>
+<div id="topics">
 
-
-                    <p>Topics:</p>
+                    <h2>Topics:</h2>
                     {{ range .Params.case_topics }}
-                        <a href="/case_topics/{{ .|urlize }}">{{ . }}</a> <br/>
+                        <a href="/case_topics/{{ .|urlize }}">{{ . }}</a>
                     {{ end }}
+</div>
             </div>
     </div>
     </div>
