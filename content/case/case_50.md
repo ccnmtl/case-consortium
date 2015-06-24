@@ -36,7 +36,7 @@
 "faculty_notes": ""
 "faculty_only": ""
 "id": "50"
-"layout": "standard2"
+"layout": "standard"
 "link_color": "#e8123d"
 "linked_classes": ""
 "news_org": "CONTACTO"
