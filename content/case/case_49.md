@@ -32,7 +32,7 @@
 "faculty_notes": ""
 "faculty_only": ""
 "id": "49"
-"layout": "standard2"
+"layout": "standard"
 "link_color": "#e8123d"
 "linked_classes": ""
 "news_org": "CONTACTO"
