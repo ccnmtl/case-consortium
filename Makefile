@@ -11,4 +11,4 @@ deploy:
 s3-deploy: createjs
 	rm -rf public/
 	/usr/local/bin/hugo -s . -b 'https://casestudies.ccnmtl.columbia.edu/' && \
-	s3cmd --acl-public --delete-removed --no-progress sync public/* s3://casestudies.ccnmtl.columbia.edu/
+	s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://casestudies.ccnmtl.columbia.edu/
