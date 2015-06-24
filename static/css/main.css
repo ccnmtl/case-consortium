@@ -1191,7 +1191,36 @@ ol.default li { padding-left: 0.25em; }
 .box.feature p
 {
 	margin: 0;
-	line-height: 2.25em;
+	line-height: 1.75em;
+}
+
+.box.feature img {
+max-width: 100%;
+}
+
+@media screen and (max-width: 980px) {
+	.box.feature .inner { padding: 0 10px 0 0; }
+ 	.box.feature img {
+ 	float: left; 
+ 	padding: 0 20px 0 0;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.box.feature .inner { 
+		padding: 1em;
+		font-size: 1.5em;
+		line-height: .75em;
+	 }
+	.box.feature p {
+		line-height: 1.5em;
+	}
+ 	.box.feature img {
+	float: none;
+	clear: both;
+	min-width: 100%;
+ 	padding: 0 0 0 0;
+	}
 }
 
 .box.feature .image
@@ -1201,7 +1230,7 @@ ol.default li { padding-left: 0.25em; }
 }
 
 .box.feature .image img
-{
+{	
 	border-bottom-left-radius: 0;
 	border-bottom-right-radius: 0;
 }
@@ -1301,6 +1330,22 @@ ol.default li { padding-left: 0.25em; }
 	margin: 1em 0 0 0;
 }
 
+#logo img {
+	max-width: 100%;
+	}
+	
+@media screen and (min-width: 980px) and (max-width: 1280px) {
+	#logo {
+	width: 60%;
+	}
+	#banner .button.icon:before {
+	  position: absolute;
+	  right: 0.15em;
+	  top: 50%;
+	  margin-top: -0.5em;
+	}
+}
+	
 #logo span
 {
 	font-weight: 800;
@@ -1448,6 +1493,15 @@ ol.default li { padding-left: 0.25em; }
 	right: 0.15em;
 	top: 50%;
 	margin-top: -0.5em;
+}
+
+@media screen and (min-width: 980px) and (max-width: 1280px) {
+	#banner .button.icon:before {
+	  position: absolute;
+	  right: 0.15em;
+	  top: 50%;
+	  margin-top: -0.5em;
+	}
 }
 
 #banner .button.alt
