@@ -2218,8 +2218,69 @@ a#showmorebutton
 }
 
 /* Case Standard Page */
+body.case #content #one p {
+display: none;
+}
+
+body.case #content #one p:nth-of-type(3) {
+display: block;
+}	
+
+body.case .thumbnail {
+margin: 0 auto;
+}
+
 
 h1.case-title {
 font-size: 1.75em;
 font-weight: 600;
+}
+
+
+a.external-case-link, a.pdf {
+  display: block;
+  width: 100%;
+  background-color: #29b0e2;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+  text-align: center;
+  font-size: 1.25em;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 1em auto;
+    transition: background-color .25s ease-in-out;
+}
+
+a.pdf {
+background-color: #0ba2da;
+}
+
+a.external-case-link:hover, a.pdf:hover, body.case button {
+background-color: #23527c;
+}
+
+body.case button {
+  display: block;
+  width: 100%;
+  background-color: #0090c5;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+  text-align: center;
+  font-size: 1.25em;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 1em auto;
+  border: none;
+  }
+  #topics h2 {
+  display: inline;
+  padding: 0 10px 0 0;
+  }
+  #topics a {
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0 10px 0 0;
+  display: inline;
 }
