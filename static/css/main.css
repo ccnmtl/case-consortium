@@ -2131,11 +2131,12 @@ h2.results-title
 /* Facets */
 #facets { padding: 1em 0 0 0; }
 
-.facetlist
-{
-	height: 200px;
-	margin: 0 0 2em 2em;
-	overflow: auto;
+.facetlist {
+  height: 200px;
+  margin: 0 0 2em 2em;
+  border: solid 1px #ccc;
+  overflow: auto;
+  padding: 10px;
 }
 
 .facetitem, .facetitemcount
@@ -2189,8 +2190,16 @@ h3.facettitle
 	padding: 0 10px 4px 0;
 }
 
+
+@media screen and (min-width:980px) and (max-width: 1280px) {
+.facetlist {
+margin: 0 0 0 1em;
+}
+}
+
+
 /* table results */
-.browse_cases div#content { margin: 0 2em 4em -4em; }
+.browse_cases div#content { margin: 0 0 4em 0; }
 .comma-sep:last-of-type { display: none; }
 
 .orderbyitem
@@ -2272,65 +2281,90 @@ a#showmorebutton
 }
 
 /* Case Standard Page */
-body.case #content #one p {
-display: none;
-}
+
 
 body.case #content #one p:nth-of-type(3) {
 display: block;
+margin: 0 0 5em 0;
 }	
 
 body.case .thumbnail {
 margin: 0 auto;
+max-width: 100%;
 }
 
 
 h1.case-title {
-font-size: 1.75em;
-font-weight: 600;
+  font-size: 1.75em;
+  font-weight: 600;
+  line-height: 1.25em;
+  padding: 0 0 .25em 0;
 }
 
-
-a.external-case-link, a.pdf {
+a.external-case-link {
   display: block;
   width: 100%;
-  background-color: #29b0e2;
+  background-color: #fff;
   padding: 10px;
-  border-radius: 4px;
-  color: #fff;
+  border-radius: 0;
+  color: #444;
   text-align: center;
   font-size: 1.25em;
   text-decoration: none;
   font-weight: 600;
   margin: 1em auto;
-    transition: background-color .25s ease-in-out;
+	border: solid 1px #ccc;
 }
 
-a.pdf {
-background-color: #0ba2da;
+
+
+ a.pdf {
+  display: block;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 0;
+  color: #444;
+  text-align: center;
+  font-size: 1.25em;
+  text-decoration: none;
+  font-weight: 600;
+  margin: 1em auto;
+	border: solid 1px #ccc;
 }
 
-a.external-case-link:hover, a.pdf:hover, body.case button {
-background-color: #23527c;
-}
 
 body.case button {
   display: block;
   width: 100%;
-  background-color: #0090c5;
+  background-color: #fff;
   padding: 10px;
-  border-radius: 4px;
-  color: #fff;
+  border-radius: 0;
+  color: #444;
   text-align: center;
   font-size: 1.25em;
   text-decoration: none;
   font-weight: 600;
   margin: 1em auto;
-  border: none;
-  }
+	border: solid 1px #ccc;
+}
+
+a.external-case-link:hover, a.pdf:hover, body.case button:hover {
+background-color: #fff;
+box-shadow: inset 1px 1px 3px #ccc;
+color: #000;
+}
+
+  
+body.case button:focus {
+background-color: #fff;
+color: #000;
+}
+  
   #topics h2 {
   display: inline;
   padding: 0 10px 0 0;
+  font-size: 1em;
   }
   #topics a {
   font-weight: 600;
@@ -2338,3 +2372,42 @@ body.case button {
   padding: 0 10px 0 0;
   display: inline;
 }
+
+@media screen and (min-width: 768px) {
+
+	a.external-case-link, a.pdf {
+		display: inline;
+		width: 25%;
+		float: left;
+		clear: none;
+		margin: 0 1em 0 0;
+	}
+
+
+	a.external-case-link:hover, a.pdf:hover, body.case button:hover {
+	background-color: #fff;
+	box-shadow: inset 1px 1px 3px #ccc;
+	color: #000;
+	}
+
+	body.case button {
+		display: inline;
+		width: 33%;
+		float: left;
+		clear: none;
+		margin: 0 ;
+		padding: 10px 20px 8px 10px!important;}
+	
+	
+  
+	body.case button:focus {
+	background-color: #fff;
+	color: #000;
+	}
+  
+	#topics {
+	clear: both;
+	padding: 1em 0 0 0;
+	}
+}
+
