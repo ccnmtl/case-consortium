@@ -29,7 +29,7 @@
   \ impacto personal sobre los periodistas que produce la cobertura de ilícitos cometidos\
   \ por su propia iglesia.Epílogo, Teaching NoteTemas: periodismo de investigación;\
   \ cobertura de religión"
-"epilogue": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica Epilogue.pdf"
+"epilogue": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaEpilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
 "id": "115"
@@ -37,15 +37,14 @@
 "link_color": ""
 "linked_classes": ""
 "news_org": "The Boston Globe"
-"pdf": !!python/str "Boston Globe y los Abusos Sexuales  en la Iglesia Católica_wm\
-  \ .pdf"
+"pdf": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolica_wm.pdf"
 "price": "5.95"
 "redtext": "ESPANOL"
 "related_cases": []
 "school": ""
 "slug": "ReportearunaVerdadExplosiva"
 "status_id": "1"
-"teaching_note": "Boston Globe y los Abusos Sexuales en la Iglesia Catolica TN.pdf"
+"teaching_note": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaTN.pdf"
 "teaser": !!python/str "Este caso trata el cálculo que un medio de comunicación debe\
   \ hacer cuando descubre una historia que incrimina a la institución más poderosa\
   \ de su comunidad."
