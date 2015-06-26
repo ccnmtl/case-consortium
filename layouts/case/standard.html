@@ -71,10 +71,9 @@
                     </div>
 <div id="topics">
 
-                    <h2>Topics:</h2>
-                    {{ range .Params.case_topics }}
-                        <a href="/case_topics/{{ .|urlize }}">{{ . }}</a>
-                    {{ end }}
+                    <h2>Category:</h2>
+                    
+                        <span> {{ .Params.category }}</span>
 </div>
             </div>
     </div>

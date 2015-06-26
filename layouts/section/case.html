@@ -63,7 +63,7 @@
                                                         '<tr>' +
                                                             '<th class="case_id_head">Case Number</th>' +
                                                             '<th class="case_title_head">Title</th>' +
-                                                            '<th class="case_topics_head">Topics</th>' +
+                                                            '<th class="case_topics_head">Category</th>' +
                                                         '</tr>' +
                                                       '</thead>');
                             }
@@ -80,8 +80,7 @@
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
                               '<td class="case_slug"><a href="<%= obj.slug %>">'+
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' + 
-                              '<td class="case_topics"><% for(var topic in obj.topics)' +
-                              '{ %> <%= obj.topics[topic] %><span class="comma-sep">,</span> <% } %></td>' +
+                              '<td class="case_topics"><span><%= obj.category %></span></td>' +
                             '</tr>';
                             settings = { 
                               items            : Cases.cases,
