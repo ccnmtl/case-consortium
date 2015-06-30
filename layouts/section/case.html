@@ -22,10 +22,10 @@
 <!-- End Search Box --></div>
 <!-- Browse Cases --><div class="row 200% browse_cases">
 
-		
- 
-    
-    
+
+
+
+
     <!-- End Search Results -->
 <!-- Sidebar -->
 	<div class="3u 12u$(medium)" id="sidebar">
@@ -41,7 +41,7 @@
 	<table class="alt" id="results"></table>
 	<!-- End Content -->
 		</div>
-	</div> 
+	</div>
 
 
 
@@ -72,23 +72,24 @@
                                   var text = jQuery(this).text();
                                   jQuery(this).html(text);
                               });
-                            }    
+                            }
 
-                            var item_template = 
+                            var item_template =
                             '<tr class="item">' +
                               '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
                               '<td class="case_slug"><a href="<%= obj.slug %>">'+
-                              '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' + 
+                              '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' +
                               '<td class="case_topics"><span><%= obj.category %></span></td>' +
                             '</tr>';
-                            settings = { 
+                            settings = {
                               items            : Cases.cases,
-                              facets           : { 
+                              facets           : {
+                                                  'category': 'Category',
                                                   'topics': 'Filter by Topic',
-                                                  'related_cases': 'Related Cases',
-                                                  'category': 'Category'
-                              },  
+                                                  'related_cases': 'Related Cases'
+
+                              },
                               resultSelector   : '#results',
                               facetSelector    : '#facets',
                               resultTemplate   : item_template,
@@ -97,7 +98,7 @@
                               bottomContainer    : '<div class="bottom-container"></div>',
                               showMoreTemplate   : '<a id=showmorebutton>Show More</a>',
                               //facetSortOption  : {'continent': ["North America", "South America"]}
-                            }   
+                            }
 
                             // use them!
                             jQuery.facetelize(settings);
@@ -119,4 +120,3 @@
     </body>
 
 </html>
-
