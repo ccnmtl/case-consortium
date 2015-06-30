@@ -3,6 +3,7 @@ var index = lunr(function() {
     this.field('title', {boost: 10});
     this.field('content');
     this.field('slug');
+    this.field('id');
 });
 index.ref('slug');
 
@@ -10,6 +11,12 @@ index.ref('slug');
 window.data = {};
 $.getJSON('/js/api/cases.json').done(function(item) {
     item.cases.forEach(function(d) {
+        var el = $('<div>' + d.title + '</div>');
+        // convert encoded html to decoded text
+        // then grab that text and insert it to 
+        // the index
+        el.html(el.text());
+        d.title = el.text();
         index.add(d);
         data[d.slug] = d;
     });
