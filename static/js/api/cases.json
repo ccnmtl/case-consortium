@@ -37,7 +37,7 @@
                 "slug": "Frontline",
                 "case_number": "CSJ-08-0005.0",
                 "category": "Journalism Cases",
-                "content": "csj-08-0005.0this-case-takes-students-behind-the-scenes-into-the-making-of-a-news-documentary-for-frontline-produced-at-the-pbs-affiliate-in-boston-wgbh.-the-case-tells-the-story-of-the-making-of-the-last-abortion-clinic-a-2005-documentary-by-producer-raney-aronson-and-her-team.this-is-a-free-case.epilogue-teaching-notetopics-documentary-editorial-decisionmaking",
+                "content": "csj-08-0005.0this-case-takes-students-behind-the-scenes-into-the-making-of-a-news-documentary-for-frontline-produced-at-the-pbs-affiliate-in-boston-wgbh.-the-case-tells-the-story-of-the-making-of-the-last-abortion-clinic-a-2005-documentary-by-producer-raney-aronson-and-her-team.epilogue-teaching-notetopics-documentary-editorial-decisionmaking",
                 "topics": ["documentary","editorial decisionmaking","broadcast"],
                 "related_cases": ["CSJ-09-0020.0","CSJ-07-0001.0"]
             },
@@ -157,7 +157,7 @@
                 "slug": "AllNovaScotia",
                 "case_number": "CSJ-13-0052.0",
                 "category": "Journalism Cases",
-                "content": "csj-13-0052.0-this-case-tells-the-story-of-a-small-online-publication-in-halifax-nova-scotia-which-has-confounded-the-punditry-of-the-digital-era.-allnovascotia.com-ans-sits-firmly-behind-a-paywall-does-not-allow-its-stories-to-be-shared-online-and-even-refuses-subscriptions-to-employees-of-rival-publications.-nonetheless-it-has-been-financially-successful.-but-in-2013-founder-david-bentley-faced-a-crossroads.-at-69-he-was-ready-to-step-back.-but-what-should-the-next-step-be-sell-out-duplicate-the-ans-model-elsewhere-go-more-digitalthis-is-a-free-contributed-case.epilogue-teaching-notetopicsmedia-strategic-management-entrepreneurship",
+                "content": "csj-13-0052.0-this-case-tells-the-story-of-a-small-online-publication-in-halifax-nova-scotia-which-has-confounded-the-punditry-of-the-digital-era.-allnovascotia.com-ans-sits-firmly-behind-a-paywall-does-not-allow-its-stories-to-be-shared-online-and-even-refuses-subscriptions-to-employees-of-rival-publications.-nonetheless-it-has-been-financially-successful.-but-in-2013-founder-david-bentley-faced-a-crossroads.-at-69-he-was-ready-to-step-back.-but-what-should-the-next-step-be-sell-out-duplicate-the-ans-model-elsewhere-go-more-digitalthis-is-a-contributed-case.epilogue-teaching-note",
                 "topics": ["media","strategic management","entrepreneurship"],
                 "related_cases": []
             },
@@ -297,7 +297,7 @@
                 "slug": "ChasingtheCommunityNewspaperRainbow",
                 "case_number": "CSJ-14-0055.0",
                 "category": "Journalism Cases",
-                "content": "csj-14-0055.0this-case-looks-at-a-community-newspaper-and-how-it-might-transform-its-business-model-to-thrive-in-the-digital-age.-it-chronicles-the-award-winningwhitevilleltncnews-reporteras-it-confronts-many-of-the-economic-editorial-and-technological-challenges-facing-community-newspapers-today.-the-newspaper-has-long-printed-its-own-paper-enjoyed-high-reader-loyalty-and-been-an-important-community-institution.-but-emerging-from-the-recession-of-2008-thenews-reporterleadership-team-of-leslie-and-stuart-high-realizes-business-is-not-as-usual-and-that-a-new-strategic-plan-needs-to-take-account-of-new-realities-regarding-revenue-and-product.this-is-a-free-contributed-case.epilogue-teaching-notetopics-business-of-media-community-journalism-strategic-management-entrepreneurial-journalism",
+                "content": "csj-14-0055.0this-case-looks-at-a-community-newspaper-and-how-it-might-transform-its-business-model-to-thrive-in-the-digital-age.-it-chronicles-the-award-winningwhitevilleltncnews-reporteras-it-confronts-many-of-the-economic-editorial-and-technological-challenges-facing-community-newspapers-today.-the-newspaper-has-long-printed-its-own-paper-enjoyed-high-reader-loyalty-and-been-an-important-community-institution.-but-emerging-from-the-recession-of-2008-thenews-reporterleadership-team-of-leslie-and-stuart-high-realizes-business-is-not-as-usual-and-that-a-new-strategic-plan-needs-to-take-account-of-new-realities-regarding-revenue-and-product.this-is-a-contributed-case.epilogue-teaching-note",
                 "topics": ["business of media","community journalism","strategic management","entrepreneurial journalism"],
                 "related_cases": []
             },
@@ -531,26 +531,6 @@
             
             
             {
-                "id":31,
-                "title": "Elusive Story (dead)",
-                "link": "http://localhost:1313/case/ElusiveStory/",
-                "slug": "ElusiveStory",
-                "case_number": "&lt;strong&gt;CSJ-09-0019.0&lt;/strong&gt;",
-                "category": "None",
-                "content": "csj-09-0019.0this-case-study-examines-long-form-journalism-and-the-dilemma-for-a-reporter-when-the-story-she-intends-to-write-is-not-the-story-she-uncovers.-it-also-examines-the-responsibility-of-a-reporter-to-a-source-unfamiliar-with-journalistic-conventions.-topics-education-reporting-ethics",
-                "topics": [" None"],
-                "related_cases": ["CSJ-09-0020.0","CSJ-08-0005.0"]
-            },
-
-        
-    
-    
-     
-        
-        
-            
-            
-            {
                 "id":40,
                 "title": "Elusive Story: The &lt;i&gt;Chicago Tribune&lt;/i&gt; Examines &amp;quot;No Child Left Behind&amp;quot;",
                 "link": "http://localhost:1313/case/ElusiveStory/",
@@ -577,7 +557,7 @@
                 "slug": "evacuate",
                 "case_number": "MSPH-13-0005.0",
                 "category": "Public Health and Medical Cases",
-                "content": "msph-13-0005.0this-case-examines-the-pros-and-cons-of-evacuating-medical-facilities-in-the-face-of-a-looming-natural-disaster.-in-october-2012-the-north-shore-long-island-jewish-hospitals-north-shore-lij-network-bracedtogether-with-rest-of-the-east-coastfor-the-advent-of-hurricane-sandy.-weather-forecasters-painted-a-grim-picture-and-north-shore-lij-had-three-hospitals-in-low-lying-areas.-vice-president-of-protective-services-james-romagnoli-and-coo-mark-solazzo-had-seen-this-scenario-only-a-year-earlier-when-in-august-2011-they-evacuated-hospitals-in-advance-of-hurricane-irene.-but-irene-had-at-the-last-moment-spared-new-york-city.-with-that-unnecessary-evacuation-fresh-in-their-minds-the-two-officials-had-to-decide-what-to-do-as-sandy-approached.epilogue-teaching-notetopicsdisaster-preparedness-crisis-management-health-care-system-logistics",
+                "content": "msph-13-0005.0this-case-examines-the-pros-and-cons-of-evacuating-medical-facilities-in-the-face-of-a-looming-natural-disaster.-in-october-2012-the-north-shore-long-island-jewish-hospitals-north-shore-lij-network-bracedtogether-with-rest-of-the-east-coastfor-the-advent-of-hurricane-sandy.-weather-forecasters-painted-a-grim-picture-and-north-shore-lij-had-three-hospitals-in-low-lying-areas.-vice-president-of-protective-services-james-romagnoli-and-coo-mark-solazzo-had-seen-this-scenario-only-a-year-earlier-when-in-august-2011-they-evacuated-hospitals-in-advance-of-hurricane-irene.-but-irene-had-at-the-last-moment-spared-new-york-city.-with-that-unnecessary-evacuation-fresh-in-their-minds-the-two-officials-had-to-decide-what-to-do-as-sandy-approached.epilogue-teaching-note",
                 "topics": ["disaster preparedness","crisis management","health care system logistics"],
                 "related_cases": []
             },
@@ -637,7 +617,7 @@
                 "slug": "Friendorfoe",
                 "case_number": "CSJ-11-0041.0",
                 "category": "Journalism Cases",
-                "content": "csj-11-0041.0-this-case-is-about-the-celebrated-collaboration-between-wikileaks-the-secure-website-for-whistleblowers-and-the-mainstream-media-focusing-on-the-british-guardian-newspaper.-it-raises-for-discussion-whether-the-guardian-and-its-international-media-partners-were-correct-to-collaborate-with-wikileaks-and-to-publish-us-secret-government-documents.this-is-a-free-case.epilogue-teaching-notetopics-editorial-management-international-digital-media-politics-reporting",
+                "content": "csj-11-0041.0-this-case-is-about-the-celebrated-collaboration-between-wikileaks-the-secure-website-for-whistleblowers-and-the-mainstream-media-focusing-on-the-british-guardian-newspaper.-it-raises-for-discussion-whether-the-guardian-and-its-international-media-partners-were-correct-to-collaborate-with-wikileaks-and-to-publish-us-secret-government-documents.epilogue-teaching-notetopics-editorial-management-international-digital-media-politics-reporting",
                 "topics": ["editorial management","international","digital media","politics reporting"],
                 "related_cases": ["CSJ-08-0009.0","CSJ-08-0006.0"]
             },
@@ -897,7 +877,7 @@
                 "slug": "NewEnglandCableNewsText",
                 "case_number": "CSJ-08-0004.0",
                 "category": "Journalism Cases",
-                "content": "csj-08-0004.0this-textvideo-case-is-about-how-a-news-organization-new-england-cable-news-necn-handles-the-arrival-of-a-fax-alleging-sexual-misconduct-by-a-member-of-the-new-england-patriots-football-team.-the-case-proceeds-in-real-time-allowing-students-to-experience-the-pressures-of-a-newsroom-deadline.this-is-a-video-case.epilogue-teaching-notetopics-ethics-editorial-decisionmaking-broadcastfaculty-you-will-have-an-opportunity-to-review-the-video-case-once-you-have-registered.",
+                "content": "csj-08-0004.0this-textvideo-case-is-about-how-a-news-organization-new-england-cable-news-necn-handles-the-arrival-of-a-fax-alleging-sexual-misconduct-by-a-member-of-the-new-england-patriots-football-team.-the-case-proceeds-in-real-time-allowing-students-to-experience-the-pressures-of-a-newsroom-deadline.this-is-a-video-case.epilogue-teaching-note",
                 "topics": ["ethics","editorial decisionmaking","broadcast"],
                 "related_cases": ["CSJ-08-0007.0","CSJ-08-0018.0PO"]
             },
@@ -1011,26 +991,6 @@
             
             
             {
-                "id":35,
-                "title": "Privacy and the Public Interest. Part B: The Case Against Ivins (DEAD)",
-                "link": "http://localhost:1313/case/PrivacyandthePublicInterest/",
-                "slug": "PrivacyandthePublicInterest",
-                "case_number": "CSJ-08-0015.1PO",
-                "category": "Spanish-language Cases",
-                "content": "csj-08-0015.1pothis-two-part-case-is-about-how-the-media-balances-personal-right-to-privacy-against-the-public-right-to-know.-students-are-asked-to-consider-what-are-the-obligations-of-a-newspaper-to-its-readers-and-to-those-it-writes-about.topics-ethics-privacythis-case-should-be-used-in-combination-with-part-a.",
-                "topics": ["ethics","privacy"],
-                "related_cases": ["CSJ-09-0016.0"]
-            },
-
-        
-    
-    
-     
-        
-        
-            
-            
-            {
                 "id":27,
                 "title": "Privacy and the Public Interest: Frederick, MD, &lt;i&gt;News-Post&lt;/i&gt; and the Bruce Ivins Story",
                 "link": "http://localhost:1313/case/PrivacyandthePublicInterest/",
@@ -1097,7 +1057,7 @@
                 "slug": "PublicServiceorIllegalAct",
                 "case_number": "AKU-12-0002.0",
                 "category": "AKU Cases",
-                "content": "aku-14-0002.0are-there-instances-in-which-the-media-is-justified-in-breaking-the-law-part-a-describes-debate-within-the-editorial-team-at-the-weekly-mail-south-african-newspaper-as-it-wrestles-with-whether-to-bug-a-meeting-of-right-wing-extremists-with-a-history-of-violence.-what-if-eavesdropping-could-forestall-a-deadly-event-part-b-describes-the-consequences.part-b-teaching-notetopicsjournalism-ethics-international-media-journalism-and-the-law-or-investigative-reporting.faculty-you-will-have-an-opportunity-to-review-part-b-once-you-have-registered.",
+                "content": "aku-14-0002.0are-there-instances-in-which-the-media-is-justified-in-breaking-the-law-part-a-describes-debate-within-the-editorial-team-at-the-weekly-mail-south-african-newspaper-as-it-wrestles-with-whether-to-bug-a-meeting-of-right-wing-extremists-with-a-history-of-violence.-what-if-eavesdropping-could-forestall-a-deadly-event-part-b-describes-the-consequences.part-b-teaching-note",
                 "topics": ["journalism ethics","international media","law"],
                 "related_cases": []
             },
@@ -1297,7 +1257,7 @@
                 "slug": "RiskyBusiness",
                 "case_number": "CSJ-09-0021.1",
                 "category": "Journalism Cases",
-                "content": "ltndashif-gte-mso-9gt---normal--0------false--false--false---------------------microsoftinternetexplorer4-ltendifndashgtltndashif-gte-mso-9gtltendifndashgtltndashif-msogtst1behaviorurl#ieooui-ltendifndashgtltndashcke_protected3c2d2d0a202f20font20definitions202f0a2040font-face0a097b0a09panose-13a22042052022052052052032032043b7d0a40font-face0a097b22palatino20linotype223b0a09panose-13a22042052022052052052032032043b7d0a202f20style20definitions202f0a20p.msonormal2c20li.msonormal2c20div.msonormal0a097bmso-style-parent3a22223b0a09margin3a0in3b0a09margin-bottom3a.0001pt3b0a09font-size3a12.0pt3b22times20new20roman223b0a09mso-fareast-22times20new20roman223b7d0ap.footerp1text2c20li.footerp1text2c20div.footerp1text0a097bmso-style-name3a22footer20p120text223b0a09margin-top3a6.0pt3b0a09margin-right3a5.0pt3b0a09margin-bottom3a0in3b0a09margin-left3a4.3pt3b0a09margin-bottom3a.0001pt3b0a09text-align3ajustify3b0a09line-height3a12.0pt3b0a09font-size3a9.0pt3b22palatino20linotype223b0a09mso-fareast-22times20new20roman223b0a09mso-bidi-22times20new20roman223b7d0a40page20section10a097bsize3a8.5in2011.0in3b0a09margin3a1.0in201.25in201.0in201.25in3b7d0adiv.section10a097bpage3asection13b7d0a2d2d3endashgtltndashif-gte-mso-10gt-/-style-definitions-/-table.msonormaltablemso-style-nameldquotable-normalrdquomso-style-parentldquordquofont-size10.0ptldquotimes-new-romanrdquoltendifndashgtcsj-09-0021.1these-two-stand-alone-cases-examine-separate-aspects-of-the-hybrid-print/online-political-news-outlet-politico.-in-part-b-students-take-an-in-depth-look-at-the-business-model-politico-adopted.-they-will-be-asked-to-imagine-themselves-in-the-shoes-of-journalism-entrepreneurs-deciding-what-formula-will-ensure-sufficient-revenue-to-continue-operations.teaching-notetopics-media-business-newsroom-management-digital-media",
+                "content": "csj-09-0021.1these-two-stand-alone-cases-examine-separate-aspects-of-the-hybrid-print/online-political-news-outlet-politico.-in-part-b-students-take-an-in-depth-look-at-the-business-model-politico-adopted.-they-will-be-asked-to-imagine-themselves-in-the-shoes-of-journalism-entrepreneurs-deciding-what-formula-will-ensure-sufficient-revenue-to-continue-operations.teaching-note",
                 "topics": ["media business","newsroom management","digital media"],
                 "related_cases": ["CSJ-09-0021.0","CSJ-07-0002.0"]
             },
@@ -1377,7 +1337,7 @@
                 "slug": "Settleorfight",
                 "case_number": "CSJ-08-0006.0",
                 "category": "Journalism Cases",
-                "content": "csj-08-0006.0this-case-is-about-the-challenge-faced-by-the-far-eastern-economic-review-feer-and-its-parent-dow-jones-when-in-2006-feer-ran-afoul-of-singapores-leaders-and-its-government.-the-case-traces-the-history-of-the-media-both-domestic-and-international-in-singapore.this-is-a-free-case.epilogue-teaching-notetopics-international-ethics-media-business",
+                "content": "csj-08-0006.0this-case-is-about-the-challenge-faced-by-the-far-eastern-economic-review-feer-and-its-parent-dow-jones-when-in-2006-feer-ran-afoul-of-singapores-leaders-and-its-government.-the-case-traces-the-history-of-the-media-both-domestic-and-international-in-singapore.epilogue-teaching-note",
                 "topics": ["international","ethics","media business"],
                 "related_cases": ["CSJ-08-0009.0"]
             },
@@ -1697,7 +1657,7 @@
                 "slug": "WordsoftheDying",
                 "case_number": "CSJ-12-0045.0",
                 "category": "Journalism Cases",
-                "content": "csj-12-0045.0--this-contributed-case-examines-whether-chch-tv-outside-toronto-should-broadcast-the-dying-words-of-a-police-officer-whose-last-thoughts-were-for-the-welfare-of-the-teenagers-who-had-dragged-him-to-his-death.-the-case-counterposes-concern-for-the-privacy-of-the-family/individual-against-the-publics-interest-in-the-officer-constable-garrett-styles.this-is-a-free-contributed-case.epiloguetopicsethics-editorial-decisionmaking-local-reporting.",
+                "content": "csj-12-0045.0--this-contributed-case-examines-whether-chch-tv-outside-toronto-should-broadcast-the-dying-words-of-a-police-officer-whose-last-thoughts-were-for-the-welfare-of-the-teenagers-who-had-dragged-him-to-his-death.-the-case-counterposes-concern-for-the-privacy-of-the-family/individual-against-the-publics-interest-in-the-officer-constable-garrett-styles.this-is-a-contributed-case.epilogue",
                 "topics": ["ethics","editorial decisionmaking","local reporting."],
                 "related_cases": []
             },
@@ -1724,6 +1684,8 @@
 
         
     
+    
+     
     
      
     
