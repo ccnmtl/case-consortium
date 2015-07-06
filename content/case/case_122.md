@@ -9,7 +9,7 @@
 - "business ethics"
 - "editorial management"
 "category": 
--  "AKU Cases"
+-  "Journalism Cases"
 "category_id": "19"
 "created_on": "1/23/2014"
 "description": !!python/str "<html><body><p><em>AKU-14-0006.0</em></p><p>How should\

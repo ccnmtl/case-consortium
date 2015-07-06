@@ -9,7 +9,7 @@
 - "international media"
 - "law"
 "category": 
--  "AKU Cases"
+-  "Journalism Cases"
 "category_id": "19"
 "created_on": "1/22/2014"
 "description": !!python/str "<html><body><p><em>AKU-14-0002.0</em><br/><br/>Are there\

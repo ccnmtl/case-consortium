@@ -10,7 +10,7 @@
 - "feature writing"
 - "editorial management"
 "category": 
--  "AKU Cases"
+-  "Journalism Cases"
 "category_id": "19"
 "created_on": "9/18/2014"
 "description": !!python/str "<html><body><p><em>AKU-12-0005.0 </em><br/><br/>This\

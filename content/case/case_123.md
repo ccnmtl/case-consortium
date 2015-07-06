@@ -7,7 +7,7 @@
 "case_topics":
 - " None"
 "category": 
--  "AKU Cases"
+-  "Journalism Cases"
 "category_id": "19"
 "created_on": "2/11/2014"
 "description": !!python/str "<html><body><p><em>AKU-13-0003.0 </em></p><p>This case\
