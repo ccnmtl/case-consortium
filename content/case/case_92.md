@@ -9,7 +9,8 @@
 - "humanitarian organizations"
 - "multinational organizations"
 - "public sector management"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "9/18/2012"
 "description": !!python/str "<html><body><p><em>SIPA-12-0002.0</em></p><p><span style=\"\

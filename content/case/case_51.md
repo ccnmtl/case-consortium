@@ -7,7 +7,8 @@
 "case_topics":
 - "media business"
 - "newsroom management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "3/30/2010"
 "description": !!python/str "<html><body><div style=\"float: right; padding: 10px;\"\

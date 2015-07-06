@@ -9,7 +9,8 @@
 - "public service journalism"
 - "data journalism"
 - "editorial decisionmaking"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "8/31/2011"
 "description": !!python/str "<html><body><p><em>CSJ-11-0040.0</em> This case goes\

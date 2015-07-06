@@ -10,7 +10,8 @@
 - "news graphics"
 - "editorial decisionmaking"
 - "ethics"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "2/22/2011"
 "description": "<html><body><div style=\"float: right; padding: 10px;\"></div><p><em>CSJ-11-0036.0</em><br/>In\

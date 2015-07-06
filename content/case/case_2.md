@@ -8,7 +8,8 @@
 - "documentary"
 - "editorial decisionmaking"
 - "broadcast"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "11/10/2008"
 "description": !!python/str "<html><body><p><i>CSJ-08-0005.0</i><br/>This case takes\

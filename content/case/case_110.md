@@ -6,7 +6,8 @@
 "case_number": "CSJ-13-0048.0"
 "case_topics":
 - "documentary"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/7/2013"
 "description": !!python/str "<html><body><p><em>CSJ-13-0048.0</em></p><p></p><p>This\

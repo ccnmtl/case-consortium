@@ -9,7 +9,8 @@
 - "social development"
 - "Latin America"
 - "management"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "7/22/2014"
 "description": !!python/str "<html><body><p><em>SIPA-14-0004.0</em></p><p>This case\

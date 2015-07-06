@@ -8,7 +8,8 @@
 - "ethics"
 - "sports reporting"
 - "digital journalism"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "3/9/2012"
 "description": !!python/str "<html><body><p></p><p><em>CSJ-12-0042.0</em><br/>This\

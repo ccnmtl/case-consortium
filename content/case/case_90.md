@@ -6,7 +6,8 @@
 "case_number": "MSPH-12-0002.0"
 "case_topics":
 - " None"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "5/7/2012"
 "description": !!python/str "<html><body><p><em style=\"color: rgb(0, 0, 0); font-family:\

@@ -7,7 +7,8 @@
 "case_topics":
 - "international journalism"
 - "editorial management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/27/2015"
 "description": ""

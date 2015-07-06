@@ -9,7 +9,8 @@
 - "editorial decisionmaking"
 - "gender & race"
 - "broadcast"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/16/2009"
 "description": "<html><body><p><i>CSJ-08-0007.0</i><br/>This case describes ABC News\

@@ -80,7 +80,7 @@
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
                               '<td class="case_slug"><a href="<%= obj.slug %>">'+
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' +
-                              '<td class="case_topics"><span><%= obj.category %></span></td>' +
+                              '<td class="case_topics"><a href="/category/<%= obj.cat_url %>"> <span><%= obj.category %></span></a></td>' +
                             '</tr>';
                             settings = {
                               items            : Cases.cases,

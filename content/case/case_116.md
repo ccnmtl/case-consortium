@@ -9,7 +9,8 @@
 - "government-media relations"
 - "data journalism"
 - "editorial management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "11/5/2013"
 "description": !!python/str "<html><body><p></p><p><em><span style=\"font-size:12px;\"\

@@ -7,7 +7,8 @@
 "case_topics":
 - "crisis management"
 - "international"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/20/2009"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-08-0012.0</i><br/>This\

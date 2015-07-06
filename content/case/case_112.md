@@ -9,7 +9,8 @@
 - "intergovernmental organizations"
 - "crisis management"
 - "media relations"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "3/10/2013"
 "description": !!python/str "<html><body><p></p><p><em>MSPH-13-0004.0</em> This case\

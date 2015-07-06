@@ -8,7 +8,8 @@
 - "ethics"
 - "blogging"
 - "celebrity reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "4/7/2009"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-08-0018.0PO</i><br/>This\

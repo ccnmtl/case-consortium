@@ -7,7 +7,8 @@
 "case_topics":
 - "strategic management"
 - "digital media"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/14/2009"
 "description": "<html><body><p><i>CSJ-07-0002.0</i><br/>This case study takes students\

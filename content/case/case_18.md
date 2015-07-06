@@ -8,7 +8,8 @@
 - "ethics"
 - "editorial decisionmaking"
 - "broadcast"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/15/2009"
 "description": "<html><body><p><i>CSJ-08-0004.0<br/></i>This text+video case is about\

@@ -72,8 +72,9 @@
 <div id="topics">
 
                     <h2>Category:</h2>
-                    
-                        <span> {{ .Params.category }}</span>
+                      {{ range .Params.category }}
+                        <a href="/category/{{ .|urlize }}">{{ . }}</a> <br/>
+                    {{ end }}
 </div>
             </div>
     </div>

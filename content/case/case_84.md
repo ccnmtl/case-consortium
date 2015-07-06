@@ -7,7 +7,8 @@
 "case_topics":
 - "international development"
 - "food security"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "1/30/2012"
 "description": !!python/str "<html><body><p><em>SIPA-12-0001.0</em></p><p>This case\

@@ -8,7 +8,8 @@
 - "editorial writing"
 - "politics reporting"
 - "ethics"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "10/2/2009"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-09-0023.0</i><br/>In\

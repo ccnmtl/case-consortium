@@ -7,7 +7,8 @@
 "case_topics":
 - "digital media"
 - "crisis reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "7/7/2009"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-09-0013.0</i><br/>This\

@@ -8,7 +8,8 @@
 - "feature writing"
 - "ethics"
 - "education reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "10/9/2009"
 "description": "<html><body><p> <i>CSJ-09-0019.0PO</i><br/><span>This case study examines\

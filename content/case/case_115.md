@@ -7,7 +7,8 @@
 "case_topics":
 - !!python/str "periodismo de investigación"
 - !!python/str "cobertura de religión"
-"category": "Spanish-language Cases"
+"category": 
+-  "Spanish-language Cases"
 "category_id": "5"
 "created_on": "8/27/2013"
 "description": !!python/str "<html><body><p></p><p>CSJ-13-0050.0<br/>Este caso trata\

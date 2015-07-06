@@ -8,7 +8,8 @@
 - "science reporting"
 - "religion reporting"
 - "education reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "4/14/2009"
 "description": !!python/str "<html><body><div style=\"padding: 10px; float: right;\"\

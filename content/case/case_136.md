@@ -9,7 +9,8 @@
 - "environmental affairs"
 - "negotiations"
 - "community empowerment"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "9/17/2014"
 "description": !!python/str "<html><body><p><em>SIPA-14-0006.0 </em><br/><br/>This\

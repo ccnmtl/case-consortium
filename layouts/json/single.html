@@ -14,12 +14,12 @@
                 "link": "{{ .Permalink }}",
                 "slug": "{{ .Slug }}",
                 "case_number": "{{ .Params.case_number }}",
-                "category": "{{ .Params.category }}",
+                "category": [{{ range $tindex, $cat := .Params.category }}{{ if $tindex }},{{ end }}"{{ $cat }}"{{ end }}],
+                "cat_url": [{{ range $tindex, $cat := .Params.category }}{{ if $tindex }},{{ end }}"{{ $cat|urlize }}"{{ end }}],
                 "content": "{{ $content|urlize }}",
                 "topics": [{{ range $tindex, $tag := .Params.case_topics }}{{ if $tindex }},{{ end }}"{{ $tag }}"{{ end }}],
                 "related_cases": [{{ range $tindex, $case := .Params.related_cases }}{{ if $tindex }},{{ end }}"{{ $case }}"{{ end }}]
             }{{if gt $last 1 }},{{ end }}
-
         {{ end }}
     {{ end }}
     {{ end }}

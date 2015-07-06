@@ -7,7 +7,8 @@
 "case_topics":
 - "investigative reporting"
 - "religion reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "12/17/2008"
 "description": "<html><body><p></p><p><i>CSJ-09-</i><i>0011.0</i><br/><span>This case\

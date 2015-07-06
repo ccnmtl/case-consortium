@@ -8,7 +8,8 @@
 - "media"
 - "strategic management"
 - "entrepreneurship"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "12/6/2013"
 "description": !!python/str "<html><body><p><em>CSJ-13-0052.0 </em><br/><br/>This\

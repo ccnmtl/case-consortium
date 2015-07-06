@@ -9,7 +9,8 @@
 - "editorial management"
 - "broadcast journalism"
 - "crisis management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "10/21/2012"
 "description": !!python/str "<html><body><p> <em>CSJ-12-0046.0  </em>This case provides\

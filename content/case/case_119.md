@@ -7,7 +7,8 @@
 "case_topics":
 - "journalism ethics"
 - "editorial management"
-"category": "AKU Cases"
+"category": 
+-  "AKU Cases"
 "category_id": "19"
 "created_on": "12/12/2013"
 "description": "<html><body><p><em>AKU-13-0001.0</em></p><p>This case examines what\

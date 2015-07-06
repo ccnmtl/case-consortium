@@ -8,7 +8,8 @@
 - "strategic management"
 - "politics reporting"
 - "media business"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "6/7/2010"
 "description": "<html><body><div style=\"float: right; padding: 10px;\"></div><p><i>CSJ-10-0031.0</i><br/>This\

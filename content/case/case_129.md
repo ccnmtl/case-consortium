@@ -8,7 +8,8 @@
 - "strategic management"
 - "business of media"
 - "digital media"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "6/12/2014"
 "description": !!python/str "<html><body><p><em>CSJ-14-0054.0</em></p><p>This case\

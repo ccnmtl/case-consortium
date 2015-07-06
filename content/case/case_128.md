@@ -9,7 +9,8 @@
 - "public administration"
 - "urban planning"
 - "land use"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "5/30/2014"
 "description": !!python/str "<html><body><p>SIPA-14-0005.0 <br/><br/>This case examines\

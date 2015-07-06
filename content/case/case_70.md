@@ -9,7 +9,8 @@
 - "international"
 - "digital media"
 - "politics reporting"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "6/16/2011"
 "description": !!python/str "<html><body><p><em>CSJ-11-0041.0</em> This case is about\

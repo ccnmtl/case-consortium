@@ -8,7 +8,8 @@
 - "strategic management"
 - "international"
 - "broadcast"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/16/2009"
 "description": !!python/str "<html><body><p><i>CSJ-08-0009.0</i><br/>This case is\

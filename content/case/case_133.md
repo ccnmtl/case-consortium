@@ -9,7 +9,8 @@
 - "nonprofit management"
 - "scientific ethics"
 - "international aid"
-"category": "Sustainable Development Cases"
+"category": 
+-  "Sustainable Development Cases"
 "category_id": "20"
 "created_on": "8/4/2014"
 "description": !!python/str "<html><body><p><em>CCC-14-0005.0</em><br/><br/>This sustainable\

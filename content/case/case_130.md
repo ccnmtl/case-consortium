@@ -9,7 +9,8 @@
 - "social activism"
 - "sustainable development"
 - "organizational management"
-"category": "Sustainable Development Cases"
+"category": 
+-  "Sustainable Development Cases"
 "category_id": "20"
 "created_on": "7/7/2014"
 "description": !!python/str "<html><body><p><em>CCC-14-0003.0</em></p><p>This case\

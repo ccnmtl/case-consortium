@@ -9,7 +9,8 @@
 - "investigative reporting"
 - "broadcast"
 - "ethics"
-"category": "Spanish-language Cases"
+"category": 
+-  "Spanish-language Cases"
 "category_id": "5"
 "created_on": "3/2/2010"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"\

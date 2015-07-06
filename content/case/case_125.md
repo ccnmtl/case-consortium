@@ -7,7 +7,8 @@
 "case_topics":
 - "community-based research"
 - "public health studies"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "4/8/2014"
 "description": !!python/str "<html><body><p>This case looks at the challenges of adhering\

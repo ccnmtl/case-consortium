@@ -8,7 +8,8 @@
 - "investigative reporting"
 - "blackmail"
 - "reporting on corruption"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "4/29/2014"
 "description": "<html><body><p><em>CSJ-14-0053.0</em></p><p><span style=\"font-size:12px;\"\

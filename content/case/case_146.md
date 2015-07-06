@@ -10,7 +10,8 @@
 - "Africa, multinational aid"
 - "medical ethics"
 - "evidence-based medicine"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "9/25/2014"
 "description": !!python/str "<html><body><p><em>MSPH-14-0008.0</em><br/><br/>This\

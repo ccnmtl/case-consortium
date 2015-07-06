@@ -9,7 +9,8 @@
 - "China"
 - "environmental activism"
 - "civil society"
-"category": "Sustainable Development Cases"
+"category": 
+-  "Sustainable Development Cases"
 "category_id": "20"
 "created_on": "8/19/2014"
 "description": !!python/str "<html><body><p><em>CCC-14-0006.0</em></p><p>A civil society\

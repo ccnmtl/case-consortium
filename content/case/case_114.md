@@ -8,7 +8,8 @@
 - "tuberculosis"
 - "infectious diseases"
 - "quarantine"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "6/9/2013"
 "description": !!python/str "<html><body><p> <em>MSPH-13-0006.0</em></p><p>This case\

@@ -8,7 +8,8 @@
 - "editorial management"
 - "ethics"
 - "international"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "8/23/2010"
 "description": !!python/str "<html><body><div style=\"float: right; padding: 10px;\"\

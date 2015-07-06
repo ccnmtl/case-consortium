@@ -8,7 +8,8 @@
 - "media business"
 - "newsroom management"
 - "digital media"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "10/6/2009"
 "description": !!python/str "<html><body><div style=\"padding: 10px; float: right;\"\

@@ -7,7 +7,8 @@
 "case_topics":
 - "Journalism ethics"
 - "human rights reporting"
-"category": "AKU Cases"
+"category": 
+-  "AKU Cases"
 "category_id": "19"
 "created_on": "12/12/2013"
 "description": !!python/str "<html><body><p><em>AKU-13-0007.0</em><br/><br/>This case\

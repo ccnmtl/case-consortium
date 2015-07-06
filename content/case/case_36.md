@@ -8,7 +8,8 @@
 - "ethics"
 - "editorial management"
 - "culture writing"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "9/30/2009"
 "description": !!python/str "<html><body><div style=\"padding: 10px; float: right;\"\

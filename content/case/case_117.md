@@ -7,7 +7,8 @@
 "case_topics":
 - "natural resource development policy"
 - "negotiations"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "11/21/2013"
 "description": "<html><body><p></p><p><em>SIPA-13-0003.0</em></p><p>This case provides\

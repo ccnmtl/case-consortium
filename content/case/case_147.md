@@ -8,7 +8,8 @@
 - "national security reporting"
 - "investigative reporting"
 - "editorial management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "10/15/2014"
 "description": !!python/str "<html><body><p><em>CSJ-14-00056.0</em><br/><br/>This\

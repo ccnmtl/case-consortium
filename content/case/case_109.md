@@ -9,7 +9,8 @@
 - "international"
 - "digital media"
 - "politics reporting"
-"category": "Spanish-language Cases"
+"category": 
+-  "Spanish-language Cases"
 "category_id": "5"
 "created_on": "10/21/2012"
 "description": !!python/str "<html><body><p><em>CSJ-11-0047.0</em></p><p></p><p>Este\

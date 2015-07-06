@@ -7,7 +7,8 @@
 "case_topics":
 - "human subject research"
 - "crisis management"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "3/14/2012"
 "description": !!python/str "<html><body><p></p><p><em>MSPH-12-0003.0</em></p><p><span\

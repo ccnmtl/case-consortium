@@ -8,7 +8,8 @@
 - "strategic management"
 - "media business"
 - "gender & race"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "1/26/2010"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-10-0026.0</i><br/>This\

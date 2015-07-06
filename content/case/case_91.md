@@ -7,7 +7,8 @@
 "case_topics":
 - "public health policy"
 - "public awareness campaigns"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "5/25/2012"
 "description": !!python/str "<html><body><p></p><p><em>MSPH-12-0001</em></p><p>This\

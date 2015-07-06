@@ -9,7 +9,8 @@
 - "technology in government"
 - "public sector performance evaluation"
 - "government innovation"
-"category": "Public Policy Cases"
+"category": 
+-  "Public Policy Cases"
 "category_id": "15"
 "created_on": "5/27/2014"
 "description": "<html><body><p><em>SIPA-14-0004.0</em></p><p>This case traces the\

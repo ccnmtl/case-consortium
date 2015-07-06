@@ -8,7 +8,8 @@
 - "los escritos originales"
 - !!python/str "informes sobre educación"
 - !!python/str "la ética"
-"category": "Spanish-language Cases"
+"category": 
+-  "Spanish-language Cases"
 "category_id": "5"
 "created_on": "2/1/2011"
 "description": !!python/str "<html><body><div style=\"float: right; padding: 10px;\"\

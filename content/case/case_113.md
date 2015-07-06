@@ -8,7 +8,8 @@
 - "disaster preparedness"
 - "crisis management"
 - "health care system logistics"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "6/7/2013"
 "description": !!python/str "<html><body><p><em>MSPH-13-0005.0</em></p><p></p><p>This\

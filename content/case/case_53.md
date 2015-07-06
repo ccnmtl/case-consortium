@@ -9,7 +9,8 @@
 - "editorial management"
 - "ethics"
 - "privacy"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "4/1/2010"
 "description": !!python/str "<html><body><div style=\"float: right; padding: 10px;\"\

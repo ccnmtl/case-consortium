@@ -9,7 +9,8 @@
 - "investigative reporting"
 - "broadcast"
 - "ethics"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "2/5/2010"
 "description": "<html><body><div style=\"padding: 10px; float: right;\"></div><p><i>CSJ-10-0027.0</i><br/>This\

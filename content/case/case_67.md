@@ -8,7 +8,8 @@
 - "strategic management"
 - "editorial decisionmaking"
 - "media business"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "3/29/2011"
 "description": "<html><body><div style=\"float: right; padding: 10px;\"></div><p><em>CSJ-11-0037.0</em></p><p>This\

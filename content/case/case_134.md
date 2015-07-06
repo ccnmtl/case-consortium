@@ -10,7 +10,8 @@
 - "mergers"
 - "acquisitions"
 - "human resources"
-"category": "Public Health and Medical Cases"
+"category": 
+-  "Public Health and Medical Cases"
 "category_id": "16"
 "created_on": "8/12/2014"
 "description": !!python/str "<html><body><p><em>CCC-14-0002.0</em></p><p>This case\

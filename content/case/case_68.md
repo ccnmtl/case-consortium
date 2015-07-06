@@ -9,7 +9,8 @@
 - "media business"
 - "digital media"
 - "newsroom management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "4/25/2011"
 "description": "<html><body><p><i>CSJ-11-0038.0CC</i><br/>This case takes a hard look\

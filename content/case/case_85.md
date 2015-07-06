@@ -8,7 +8,8 @@
 - "conflict reporting"
 - "race"
 - "gender"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "3/5/2012"
 "description": !!python/str "<html><body><p><em>CSJ-12-0043.0</em></p><p><span style=\"\

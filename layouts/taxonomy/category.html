@@ -1,0 +1,38 @@
+<html>
+    {{ partial "header.html" . }}
+    <body>
+        <div id="page-wrapper">
+            <!-- Header -->
+            <div id="header-wrapper">
+            {{ partial "header_section.html" . }}
+            </div>
+            {{ $pages := .Site.Pages }}
+            <div id="main-wrapper" class="box container">
+                <div class="row 200%">
+                    <div class="9u 12u$(medium)">
+                        <!-- Content -->
+                        <div id="content">
+                            <ul>
+                                {{ range .Data.Pages }}
+                                    <li><a class="unescape" href="{{ .Permalink }}">{{ .Title|safeHTML }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </div><!--end .content -->
+                    </div><!-- end .9u 12u -->
+                </div><!--end .row .200% -->
+            </div><!--end #main-wrapper -->
+        </div><!--end #page-wrapper-->
+
+        <script>
+        window.unescapeHtml = function(){
+          jQuery('.unescape').each(function(){
+              var text = jQuery(this).text();
+              jQuery(this).html(text);
+          });
+        }
+        jQuery(document).ready(function(){
+            window.unescapeHtml();
+        })
+        </script>
+    </body>
+</html>

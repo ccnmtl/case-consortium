@@ -9,7 +9,8 @@
 - "editorial management"
 - "ethics"
 - "multimedia journalism production"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "2/14/2013"
 "description": "<html><body><p></p><p><em>CSJ-13-0049.0</em></p><p>This case looks\

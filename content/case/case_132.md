@@ -9,7 +9,8 @@
 - "community journalism"
 - "strategic management"
 - "entrepreneurial journalism"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "7/24/2014"
 "description": !!python/str "<html><body><p>CSJ-14-0055.0 <br/>This case looks at\

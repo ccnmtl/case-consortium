@@ -9,7 +9,8 @@
 - "international"
 - "photojournalism"
 - "editorial decisionmaking"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "9/23/2010"
 "description": !!python/str "<html><body><p> </p><div style=\"float: right; padding:\

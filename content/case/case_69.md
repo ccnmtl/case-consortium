@@ -9,7 +9,8 @@
 - "arts criticism"
 - "local journalism"
 - "editorial management"
-"category": "Journalism Cases"
+"category": 
+-  "Journalism Cases"
 "category_id": "17"
 "created_on": "5/11/2011"
 "description": "<html><body><div style=\"float: right; padding: 10px;\"></div><p><i>CSJ-11-0039.0</i><br/>This\
