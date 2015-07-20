@@ -292,8 +292,13 @@ function getFilterById(id) {
  * It adds a class to the active filters and shows the correct number for each
  */
 function updateFacetUI() {
-  $('.active-facets').html('<span class="category" style="display:none">Category: </span><span class="topics" style="display:none">Topics: </span><span class="related_cases" style="display:none">Related Cases: </span>');
+  $('.active-facets').html(
+    '<span class="category" style="display:none">Category: </span>' +
+    '<span class="topics" style="display:none">Topics: </span>' +
+    '<span class="related_cases" style="display:none">Related Cases: </span>');
   var itemtemplate = _.template(settings.listItemTemplate);
+  var new_path = "/case?=";
+  var stateObj = { currentUrl: new_path};
   _.each(settings.facetStore, function(facet, facetname) {
     _.each(facet, function(filter, filtername){
       var item = {id: filter.id, name: filtername, count: filter.count};
@@ -305,14 +310,19 @@ function updateFacetUI() {
           //filtername > Subcategory: Category > Journalism
           $('.active-facets .'+facetname+'').show();
           $('.active-facets .'+facetname+'').append("<span data-filtername='"+filtername+"'>"+filtername+"</span>");
+          new_path = new_path + "&" + facetname + "=" + filter.id;
       } else {
         $("#"+filter.id).removeClass("activefacet");
       }
     });
+
   });
+  window.history.pushState(stateObj, "case-search", new_path);
+  //console.log(window.history.state);
   countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
   $(settings.facetSelector + ' .facettotalcount').replaceWith(countHtml);
 }
+
 
 /**
  * Updates the the list of results according to the filters that have been set

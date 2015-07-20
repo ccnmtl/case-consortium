@@ -104,6 +104,15 @@
                               //facetSortOption  : {'continent': ["North America", "South America"]}
                             }
 
+                            var path_length = window.location.pathname.split('/');
+                            console.log(path_length.length);
+                            console.log("settings");
+                            console.log(settings);
+
+                            //if (path_length > 3)
+                            //{
+                            //}
+
                             // use them!
                             jQuery.facetelize(settings);
                             setTableHeaders();
