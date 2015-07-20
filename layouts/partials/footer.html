@@ -1,23 +1,22 @@
 	{{ $baseurl := .Site.BaseURL }}
 
 		<div id="footer-wrapper">
-					<footer id="footer" class="container">
-						<div class="row">
-							<div class="10u 12u(medium) 12u$(small)">
-							<ul class="footer-nav">
-							    <li><a href="{{ $baseurl }}page/credits">Credits</a></li>
-   							    <li><a href="{{ $baseurl }}page/help">Help & Contact</a></li>
-							    </ul>
-							    </div>
-    							<div class="2u 12u(medium) 12u$(small)">
-<a href="http://ccnmtl.columbia.edu" target="_blank"><img src="{{ $baseurl }}img/ccnmtl.png" /></a>
-
-							</div>
-							</div>
-						</div>
-					</footer>
+			<footer id="footer" class="container">
+				<div class="row">
+					<div class="10u 12u(medium) 12u$(small)">
+						<ul class="footer-nav">
+						    <li><a href="{{ $baseurl }}page/credits">Credits</a></li>
+   						    <li><a href="{{ $baseurl }}page/help">Help & Contact</a></li>
+						</ul>
+					</div>
+    				<div class="2u 12u(medium) 12u$(small)">
+                        <a href="http://ccnmtl.columbia.edu" target="_blank"><img src="{{ $baseurl }}img/ccnmtl.png" /></a>
+					</div>
 				</div>
- <script type="text/javascript">
+			</div>
+			</footer>
+		</div>
+        <script type="text/javascript">
         $(document).ready(function () {
             $('#divRss').FeedEk({
                 FeedUrl: 'http://welcome.ccnmtl.columbia.edu/tag/case-consortium/feed',
@@ -27,4 +26,4 @@
                 DescCharacterLimit: false
             });
         });
-</script>
+        </script>

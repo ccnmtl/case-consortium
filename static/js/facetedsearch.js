@@ -292,6 +292,7 @@ function getFilterById(id) {
  * It adds a class to the active filters and shows the correct number for each
  */
 function updateFacetUI() {
+  $('.active-facets').html('<span class="category" style="display:none">Category: </span><span class="topics" style="display:none">Topics: </span><span class="related_cases" style="display:none">Related Cases: </span>');
   var itemtemplate = _.template(settings.listItemTemplate);
   _.each(settings.facetStore, function(facet, facetname) {
     _.each(facet, function(filter, filtername){
@@ -300,6 +301,10 @@ function updateFacetUI() {
       $("#"+filter.id).html(filteritem);
       if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) {
         $("#"+filter.id).addClass("activefacet");
+          //facetname > Category/Topic/Related Cases
+          //filtername > Subcategory: Category > Journalism
+          $('.active-facets .'+facetname+'').show();
+          $('.active-facets .'+facetname+'').append("<span data-filtername='"+filtername+"'>"+filtername+"</span>");
       } else {
         $("#"+filter.id).removeClass("activefacet");
       }

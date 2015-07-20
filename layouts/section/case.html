@@ -1,35 +1,37 @@
 <html>
         {{ partial "header.html" . }} 
 
-<body class="search">
-	<div id="page-wrapper">
+  <body class="search">
+	  <div id="page-wrapper">
 
-	<!-- Header --><div id="header-wrapper">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}js/tablesorter/themes/blue/style.css" />
-  <script type="text/javascript" src="/js/tablesorter/jquery.tablesorter.js"></script> 
-	{{ partial "header_section.html" . }}
-	<!-- End Header --></div>
+	  <!-- Header -->
+    <div id="header-wrapper">
+      <link rel="stylesheet" href="{{ .Site.BaseURL }}js/tablesorter/themes/blue/style.css" />
+      <script type="text/javascript" src="/js/tablesorter/jquery.tablesorter.js"></script> 
+	    {{ partial "header_section.html" . }}
+	    <!-- End Header -->
+    </div>
 
-<!-- Main Wrapper --><div id="main-wrapper" class="box container">
-	<!-- Search Box --><div id="search">
-							<form class="form-inline" role="search">
-							<div class="input-group">
-							<span class="ion-android-search"></span>
-							<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
-              				<button class="close-icon" id="clear-search" type="reset"></button>
-							<div class="input-group-btn"></div>
-							</div>
-							</form>
-							<div id="search-results"></div>
-<!-- End Search Box --></div>
-<!-- Browse Cases --><div class="row 200% browse_cases">
-
-
-
-
-
-    <!-- End Search Results -->
-<!-- Sidebar -->
+    <!-- Main Wrapper -->
+    <div id="main-wrapper" class="box container">
+	    <!-- Search Box -->
+      <div id="search">
+				<form class="form-inline" role="search">
+					<div class="input-group">
+						<span class="ion-android-search"></span>
+						<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
+        		<button class="close-icon" id="clear-search" type="reset"></button>
+            <div class="active-facets"><span class="category"></span><span class="topics"></span><span class="related_cases"></span></div>
+						<div class="input-group-btn"></div>
+					</div>
+				</form>
+				<div id="search-results"></div>
+        <!-- End Search Box -->
+      </div>
+      <!-- Browse Cases -->
+      <div class="row 200% browse_cases">
+        <!-- End Search Results -->
+        <!-- Sidebar -->
 	<div class="3u 12u$(medium)" id="sidebar">
 	<!-- Facets -->
 	<div id="facets"></div>

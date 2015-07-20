@@ -1,49 +1,41 @@
 <html>
-        {{ partial "header.html" . }}
-
-<body class="case">
-	<div id="page-wrapper">
-
-	<!-- Header -->
-	<div id="header-wrapper">
-	{{ partial "header_section.html" . }}
-	</div>
-
-<div id="main-wrapper" class="box container">
-
-<div class="row 200%">
-<div class="3u 12u$(medium) case-thumb">
-</div>
-<div class="9u 12u$(medium) case-desc">
-<!-- Content -->
-<div id="content">
-                <!-- One -->
-                    <section id="one">
-                        <h1 class="case-title unescape">{{.Title|safeHTML}}</h1>
-                        <p>{{ .Content }}</p>
-                        <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
-                            							<span class="ion-folder"></span> <span class="unescape">Link to case</span>
-                        </a>
-
-                         <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
-                         <span class="ion-document-text"></span> <span class="unescape">Link to pdf</span>
-                        </a>
-                        
-
-                    <!-- Button trigger modal -->
-                    <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-                     <span class="ion-university"></span> Teaching Resources
-                    </button>
-
-                    <!-- Modal -->
-                    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                      <div class="modal-dialog">
-                        <div class="modal-content">
-                          <div class="modal-header" style="border-bottom:none;">
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                            <!--<h4 class="modal-title" id="myModalLabel">Modal title</h4>-->
-                          </div>
-                          <div class="modal-body">
+  {{ partial "header.html" . }}
+  <body class="case">
+    <div id="page-wrapper">
+      <!-- Header -->
+      <div id="header-wrapper">
+        {{ partial "header_section.html" . }}
+      </div>
+      <div id="main-wrapper" class="box container">
+        <div class="row 200%">
+          <div class="3u 12u$(medium) case-thumb">
+        </div>
+        <div class="9u 12u$(medium) case-desc">
+          <!-- Content -->
+          <div id="content">
+            <!-- One -->
+            <section id="one">
+              <h1 class="case-title unescape">{{.Title|safeHTML}}</h1>
+                <p>{{ .Content }}</p>
+                <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
+                  <span class="ion-folder"></span> <span class="unescape">Link to case</span>
+                </a>
+                <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
+                  <span class="ion-document-text"></span> <span class="unescape">Link to pdf</span>
+                </a>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                  <span class="ion-university"></span> Teaching Resources
+                </button>
+                <!-- Modal -->
+                <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                  <div class="modal-dialog">
+                    <div class="modal-content">
+                      <div class="modal-header" style="border-bottom:none;">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <!--<h4 class="modal-title" id="myModalLabel">Modal title</h4>-->
+                      </div>
+                      <div class="modal-body">
                             <div><strong>Warning:</strong> Accessing the teaching resources as a student prior to the case discussion may dilute the learning experience. Coming up with conclusions to the case study builds analytical and critical thinking skills. For that reason, only educators should access these materials, especially prior to the case discussion.</div>
                             <br/>
                             <div>Are you sure you want to view the teaching resources?</div>
