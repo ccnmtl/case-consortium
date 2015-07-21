@@ -238,6 +238,7 @@ function createFacetUI() {
     updateFacetUI();
     updateResults();
   });
+
   // Append total result count
   var bottom = $(settings.bottomContainer);
   var orderSelector = $(settings.orderSelector);
@@ -297,7 +298,7 @@ function updateFacetUI() {
     '<span class="topics" style="display:none">Topics: </span>' +
     '<span class="related_cases" style="display:none">Related Cases: </span>');
   var itemtemplate = _.template(settings.listItemTemplate);
-  var new_path = "/case?=";
+  var new_path = "/case/?=";
   var stateObj = { currentUrl: new_path};
   _.each(settings.facetStore, function(facet, facetname) {
     _.each(facet, function(filter, filtername){
@@ -305,11 +306,12 @@ function updateFacetUI() {
       var filteritem  = $(itemtemplate(item)).html();
       $("#"+filter.id).html(filteritem);
       if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) {
-        $("#"+filter.id).addClass("activefacet");
+          $("#"+filter.id).addClass("activefacet");
           //facetname > Category/Topic/Related Cases
           //filtername > Subcategory: Category > Journalism
           $('.active-facets .'+facetname+'').show();
-          $('.active-facets .'+facetname+'').append("<span data-filtername='"+filtername+"'>"+filtername+"</span>");
+          $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-id='"+filter.id+"' data-filtername='"+filtername+"'>"+filtername+"<span class='glyphicon glyphicon-remove'></span></span>");
+            
           new_path = new_path + "&" + facetname + "=" + filter.id;
       } else {
         $("#"+filter.id).removeClass("activefacet");
@@ -323,7 +325,15 @@ function updateFacetUI() {
   $(settings.facetSelector + ' .facettotalcount').replaceWith(countHtml);
 }
 
+    //.click(function(event){//.on('click', function(evt){
+$('.active-facets').on('click', 'span .active-search-term', function(event){
+    //jQuery('span.glyphicon.glyphicon-remove').on('click', function(event){
+    console.log("remove");
+    //console.log(this);
+    //console.log(this.parent());
+});
 
+console.log("code has executed");
 /**
  * Updates the the list of results according to the filters that have been set
  */

@@ -57,6 +57,8 @@
 
           <script data-export="true" data-file-extension="js" id="facetize">
             jQuery(document).ready(function(){
+              
+
                     $.getJSON('/js/api/cases.json').success(function(cases){
                             window.Cases = cases;
                         }).error(function(){
@@ -86,6 +88,7 @@
                               '<h4 class="unescape"> <%= obj.title %></h4> </a></td>' +
                               '<td class="case_topics"><a href="/category/<%= obj.cat_url %>"> <span><%= obj.category %></span></a></td>' +
                             '</tr>';
+
                             settings = {
                               items            : Cases.cases,
                               facets           : {
@@ -104,12 +107,25 @@
                               //facetSortOption  : {'continent': ["North America", "South America"]}
                             }
 
-                            var path_length = window.location.pathname.split('/');
-                            console.log(path_length.length);
-                            console.log("settings");
-                            console.log(settings);
+                            var qry_params = window.location.href.split('?');
+                            var params = qry_params[1];
+                            var active_facets = params.split('&');
 
-                            //if (path_length > 3)
+                            /*for(var count_params=1; count_params < active_facets.length; count_params++)
+                            {
+                              var find_facet = active_facets[count_params].split('=');
+                              console.log(find_facet);
+                              var facet = find_facet[0];
+                              console.log(facet);
+                              var search_term = find_facet[1];
+                              console.log(search_term);
+                              //console.log(settings.items);
+                              //console.log(settings.facets);
+                              toggleFilter(facet, search_term);
+                            }*/
+                            // show active facets
+
+                            //if (qry_params > 3)
                             //{
                             //}
 
@@ -128,8 +144,27 @@
                                 unescapeHtml();
                             })
 
-                        })
-                  
+                            for(var count_params=1; count_params < active_facets.length; count_params++)
+                            {
+                              var find_facet = active_facets[count_params].split('=');
+                              console.log(find_facet);
+                              var facet = find_facet[0];
+                              console.log(facet);
+                              var search_term = find_facet[1];
+                              console.log(search_term);
+                              //console.log(settings.items);
+                              //console.log(settings.facets);
+                              jQuery.facetelize.toggleFilter(facet, search_term);
+                            }
+                            // show active facets
+
+                        });
+
+
+
+
+
+
               });
             </script>
             
