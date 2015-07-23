@@ -44,7 +44,7 @@
 "link_color": ""
 "linked_classes": ""
 "news_org": "Whiteville News Reporter"
-"pdf": "Whiteville_NC_TN_FINAL_062615.pdf"
+"pdf": "Whiteville_final_062615.pdf"
 "price": "0.00"
 "redtext": "FREE"
 "related_cases": []
