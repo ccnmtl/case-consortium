@@ -51,7 +51,7 @@
 "school": ""
 "slug": "ChasingtheCommunityNewspaperRainbow"
 "status_id": "1"
-"teaching_note": "Whiteville NC TN FINAL.pdf"
+"teaching_note": "Whiteville_NC_TN_FINAL_062615.pdf"
 "teaser": "This case looks at a community newspaper and how it might transform its\
   \ business model to thrive in the digital age. It chronicles the Whiteville  News\
   \ Reporter as it confronts many of the economic, editorial and technological challenges\
