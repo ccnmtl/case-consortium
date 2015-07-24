@@ -1,8 +1,5 @@
 runserver: 
-	hugo server --watch --verboseLog=true --buildDrafts -v --baseUrl=""	
-
-createjs:
-	bash scripts/create_json_from_mds.sh
+	hugo server --watch --verboseLog=true --buildDrafts -v --baseUrl=""
 
 deploy:
 	rm -rf public/
