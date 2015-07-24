@@ -294,12 +294,15 @@ function getFilterById(id) {
 function updateFacetUI() {
   var itemtemplate = _.template(settings.listItemTemplate);
   _.each(settings.facetStore, function(facet, facetname) {
+
     _.each(facet, function(filter, filtername){
       var item = {id: filter.id, name: filtername, count: filter.count};
       var filteritem  = $(itemtemplate(item)).html();
       $("#"+filter.id).html(filteritem);
+      //console.log(settings.state.filters);
       if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) {
         $("#"+filter.id).addClass("activefacet");
+
       } else {
         $("#"+filter.id).removeClass("activefacet");
       }
