@@ -120,8 +120,8 @@ function resetFacetCount() {
  * The number of items in each filter from each facet is also updated
  */
 function filter() {
-  // first apply the filters to the items
-  settings.currentResults = _.select(settings.items, function(item) {
+    // first apply the filters to the items
+    settings.currentResults = _.select(settings.items, function(item) {
     var filtersApply = true;
     _.each(settings.state.filters, function(filter, facet) {
       if ($.isArray(item[facet])) {
@@ -206,71 +206,150 @@ function toggleFilter(key, value) {
  * This function is only called once, it creates the facets ui.
  */
 function createFacetUI() {
-  var itemtemplate  = _.template(settings.listItemTemplate);
-  var titletemplate = _.template(settings.facetTitleTemplate);
-  var containertemplate = _.template(settings.facetContainer);
 
-  $(settings.facetSelector).html("");
-  _.each(settings.facets, function(facettitle, facet) {
-    var facetHtml     = $(containertemplate({id: facet}));
-    var facetItem     = {title: facettitle};
-    var facetItemHtml = $(titletemplate(facetItem));
+    console.log("create facet UI");
+    var itemtemplate  = _.template(settings.listItemTemplate);
+    var titletemplate = _.template(settings.facetTitleTemplate);
+    var containertemplate = _.template(settings.facetContainer);
 
-    facetHtml.append(facetItemHtml);
-    var facetlist = $(settings.facetListContainer);
-    _.each(settings.facetStore[facet], function(filter, filtername){
-      var item = {id: filter.id, name: filtername, count: filter.count};
-      var filteritem  = $(itemtemplate(item));
-      if (_.indexOf(settings.state.filters[facet], filtername) >= 0) {
-        filteritem.addClass("activefacet");
-      }
-      facetlist.append(filteritem);
+    $(settings.facetSelector).html("");
+
+    _.each(settings.facets, function(facettitle, facet)
+    {
+        var facetHtml     = $(containertemplate({id: facet}));
+        var facetItem     = {title: facettitle};
+        var facetItemHtml = $(titletemplate(facetItem));
+
+        facetHtml.append(facetItemHtml);
+
+        var facetlist = $(settings.facetListContainer);
+
+        _.each(settings.facetStore[facet], function(filter, filtername)
+        {
+            var item = {id: filter.id, name: filtername, count: filter.count};
+            var filteritem  = $(itemtemplate(item));
+            if (_.indexOf(settings.state.filters[facet], filtername) >= 0) {
+                filteritem.addClass("activefacet");
+            }
+
+            facetlist.append(filteritem);
+
+        });
+
+        facetHtml.append(facetlist);
+        $(settings.facetSelector).append(facetHtml);
+
     });
-    facetHtml.append(facetlist);
-    $(settings.facetSelector).append(facetHtml);
-  });
-  // add the click event handler to each facet item:
-  $('.facetitem').click(function(event){
-    var filter = getFilterById(this.id);
-    toggleFilter(filter.facetname, filter.filtername);
-    $(settings.facetSelector).trigger("facetedsearchfacetclick", filter);
-    order();
-    updateFacetUI();
-    updateResults();
-  });
 
-  // Append total result count
-  var bottom = $(settings.bottomContainer);
-  var orderSelector = $(settings.orderSelector);
-  countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
-  $(bottom).append(countHtml);
-  // generate the "order by" options:
-  var ordertemplate = _.template(settings.orderByTemplate);
-  var itemHtml = $(ordertemplate({'options': settings.orderByOptions}));
-  $(orderSelector).prepend(itemHtml);
-  $(settings.facetSelector).append(bottom);
-  $('.orderbyitem').each(function(){
-    var id = this.id.substr(8);
-    if (settings.state.orderBy == id) {
-      $(this).addClass("activeorderby");
+    // add the click event handler to each facet item:
+    $('.facetitem').click(function(event){
+        var filter = getFilterById(this.id);
+        toggleFilter(filter.facetname, filter.filtername);
+        $(settings.facetSelector).trigger("facetedsearchfacetclick", filter);
+        order();
+        updateFacetUI();
+        updateResults();
+    });
+
+    // Append total result count
+    var bottom = $(settings.bottomContainer);
+    var orderSelector = $(settings.orderSelector);
+    countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
+    $(bottom).append(countHtml);
+     // generate the "order by" options:
+    var ordertemplate = _.template(settings.orderByTemplate);
+    var itemHtml = $(ordertemplate({'options': settings.orderByOptions}));
+    $(orderSelector).prepend(itemHtml);
+    $(settings.facetSelector).append(bottom);
+    $('.orderbyitem').each(function(){
+        var id = this.id.substr(8);
+        if (settings.state.orderBy == id) {
+          $(this).addClass("activeorderby");
+        }
+    });
+
+    // add the click event handler to each "order by" item:
+    $('.orderbyitem').click(function(event){
+        var id = this.id.substr(8);
+        settings.state.orderBy = id;
+        $(settings.facetSelector).trigger("facetedsearchorderby", id);
+        settings.state.shownResults = 0;
+        order();
+        updateResults();
+    });
+
+    // Append deselect filters button
+    var deselect = $(settings.deselectTemplate).click(function(event){
+      settings.state.filters = {};
+      jQuery.facetUpdate();
+      //TODO: reset url
+    });
+    $(bottom).append(deselect);
+
+    //TODO: check length of url in conditional
+    /* How to add the items to facet store?  */
+    var qry_params = window.location.href.split('?');
+    var params = qry_params[1];
+    var active_facets = params.split('&');
+
+    // go over url parameters and re create search results
+    for(var count_params=1; count_params < active_facets.length; count_params++)
+    {
+        var find_facet = active_facets[count_params].split('=');
+        var facet = find_facet[0]; //category/related topics/
+        var search_term = find_facet[1].split('_'); // filter term/sub category
+        var item_id = parseInt(search_term[1]);
+  settings.state.filters[key] = settings.state.filters[key] || [] ;
+  if (_.indexOf(settings.state.filters[key], value) == -1) {
+    settings.state.filters[key].push(value);
+  } else {
+    settings.state.filters[key] = _.without(settings.state.filters[key], value);
+    if (settings.state.filters[key].length == 0) {
+      delete settings.state.filters[key];
     }
-  });
-  // add the click event handler to each "order by" item:
-  $('.orderbyitem').click(function(event){
-    var id = this.id.substr(8);
-    settings.state.orderBy = id;
-    $(settings.facetSelector).trigger("facetedsearchorderby", id);
-    settings.state.shownResults = 0;
-    order();
-    updateResults();
-  });
-  // Append deselect filters button
-  var deselect = $(settings.deselectTemplate).click(function(event){
-    settings.state.filters = {};
-    jQuery.facetUpdate();
-  });
-  $(bottom).append(deselect);
-  $(settings.facetSelector).trigger("facetuicreated");
+  }
+        
+        //settings.state.filters[facet] = settings.state.filters[facet] || [] ;
+        //console.log('settings.state.filters[facet] createFacetUI');
+        //console.log(settings.state.filters[facet]);
+
+
+        //if (_.indexOf(settings.state.filters[facet], value) == -1) {
+        ////    settings.state.filters[facet].push(value);
+        //}
+        _.each(settings.items, function(item) {
+            //console.log(item.id);
+            //console.log("item.id");
+            //console.log(item.id);
+            ///console.log("item_id");
+            //console.log(item_id);
+            if (item.id === item_id)
+            {
+              console.log("item.facetname");
+              console.log(item.facetname);
+
+              //settings.state.filters[facet].push(item);
+            }
+        });
+        filter();
+
+        /*var filter = getFilterById(this.id);
+        toggleFilter(filter.facetname, filter.filtername);
+        $(settings.facetSelector).trigger("facetedsearchfacetclick", filter);
+        order();
+        updateFacetUI();
+        updateResults();
+        */
+
+
+
+        //console.log(settings.facets);
+        //toggleFilter(facet, search_term);
+    }
+    console.log("settings.state.filters end of UI");
+    console.log(settings.state.filters);
+    $(settings.facetSelector).trigger("facetuicreated");
+
 }
 
 /**
@@ -293,36 +372,46 @@ function getFilterById(id) {
  * It adds a class to the active filters and shows the correct number for each
  */
 function updateFacetUI() {
-  $('.active-facets').html(
+
+    $('.active-facets').html(
     '<span class="category" style="display:none">Category: </span>' +
     '<span class="topics" style="display:none">Topics: </span>' +
     '<span class="related_cases" style="display:none">Related Cases: </span>');
-  var itemtemplate = _.template(settings.listItemTemplate);
-  var new_path = "/case/?=";
-  var stateObj = { currentUrl: new_path};
-  _.each(settings.facetStore, function(facet, facetname) {
-    _.each(facet, function(filter, filtername){
-      var item = {id: filter.id, name: filtername, count: filter.count};
-      var filteritem  = $(itemtemplate(item)).html();
-      $("#"+filter.id).html(filteritem);
-      if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) {
-          $("#"+filter.id).addClass("activefacet");
-          //facetname > Category/Topic/Related Cases
-          //filtername > Subcategory: Category > Journalism
-          $('.active-facets .'+facetname+'').show();
-          $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-id='"+filter.id+"' data-filtername='"+filtername+"'>"+filtername+"<span class='glyphicon glyphicon-remove'></span></span>");
-            
-          new_path = new_path + "&" + facetname + "=" + filter.id;
-      } else {
-        $("#"+filter.id).removeClass("activefacet");
-      }
+
+    var itemtemplate = _.template(settings.listItemTemplate);
+    var new_path = "/case/?=";
+    var stateObj = { currentUrl: new_path };
+    console.log("settings.state.filters beginning of update UI");
+    console.log(settings.state.filters);
+
+    _.each(settings.facetStore, function(facet, facetname) 
+    {
+        _.each(facet, function(filter, filtername)
+        {
+            var item = {id: filter.id, name: filtername, count: filter.count};
+            var filteritem  = $(itemtemplate(item)).html();
+            $("#"+filter.id).html(filteritem);
+            if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) 
+            {
+                $("#"+filter.id).addClass("activefacet");
+                //facetname > Category/Topic/Related Cases
+                //filtername > Subcategory: Category > Journalism
+                $('.active-facets .'+facetname+'').show();
+                $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-id='"+filter.id+"' data-filtername='"+filtername+"'>"+filtername+"<span class='glyphicon glyphicon-remove'></span></span>");
+                new_path = new_path + "&" + facetname + "=" + filter.id;
+            } else {
+                $("#"+filter.id).removeClass("activefacet");
+            }
+        });
     });
 
-  });
-  window.history.pushState(stateObj, "case-search", new_path);
-  //console.log(window.history.state);
-  countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
-  $(settings.facetSelector + ' .facettotalcount').replaceWith(countHtml);
+    console.log("settings.state.filtersend of update UI");
+    console.log(settings.state.filters);
+
+    window.history.pushState(stateObj, "case-search", new_path);
+    //console.log(window.history.state);
+    countHtml = _.template(settings.countTemplate, {count: settings.currentResults.length});
+    $(settings.facetSelector + ' .facettotalcount').replaceWith(countHtml);
 }
 
     //.click(function(event){//.on('click', function(evt){
@@ -333,7 +422,7 @@ $('.active-facets').on('click', 'span .active-search-term', function(event){
     //console.log(this.parent());
 });
 
-console.log("code has executed");
+
 /**
  * Updates the the list of results according to the filters that have been set
  */
