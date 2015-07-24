@@ -9,6 +9,6 @@ deploy:
 
 s3-deploy:
 	rm -rf public/
-	/usr/local/bin/hugo -s . -b 'https://casestudies.ccnmtl.columbia.edu/' && \
+	/usr/local/bin/hugo -s . -b 'https://casestudies.ccnmtl.columbia.edu/' \
 	&& mv public/json/index.html public/js/api/cases.json \
-	s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://casestudies.ccnmtl.columbia.edu/
+	&& s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://casestudies.ccnmtl.columbia.edu/
