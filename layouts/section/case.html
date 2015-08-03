@@ -4,51 +4,52 @@
 <body class="search">
 	<div id="page-wrapper">
 
-	<!-- Header --><div id="header-wrapper">
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}js/tablesorter/themes/blue/style.css" />
-  <script type="text/javascript" src="/js/tablesorter/jquery.tablesorter.js"></script> 
-	{{ partial "header_section.html" . }}
-	<!-- End Header --></div>
+	<!-- Header -->
+  <div id="header-wrapper">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}js/tablesorter/themes/blue/style.css" />
+    <script type="text/javascript" src="/js/tablesorter/jquery.tablesorter.js"></script> 
+	  {{ partial "header_section.html" . }}
+	  <!-- End Header -->
+  </div>
 
-<!-- Main Wrapper --><div id="main-wrapper" class="box container">
-	<!-- Search Box --><div id="search">
-							<form class="form-inline" role="search">
-							<div class="input-group">
-							<span class="ion-android-search"></span>
-							<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
-              				<button class="close-icon" id="clear-search" type="reset"></button>
-							<div class="input-group-btn"></div>
-							</div>
-							</form>
-							<div id="search-results"></div>
-<!-- End Search Box --></div>
-<!-- Browse Cases --><div class="row 200% browse_cases">
-
-
-
-
-
+<!-- Main Wrapper -->
+<div id="main-wrapper" class="box container">
+	<!-- Search Box -->
+  <div id="search">
+		<form class="form-inline" role="search">
+			<div class="input-group">
+				<span class="ion-android-search"></span>
+				<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
+        <button class="close-icon" id="clear-search" type="reset"></button>
+				<div class="input-group-btn"></div>
+			</div>
+      
+		</form>
+	  <div id="search-results"></div>
+      <!-- End Search Box -->
+    <div class="active-facets"></div>
+  </div>
+  <!-- Browse Cases -->
+  <div class="row 200% browse_cases">
     <!-- End Search Results -->
-<!-- Sidebar -->
-	<div class="3u 12u$(medium)" id="sidebar">
-	<!-- Facets -->
-	<div id="facets"></div>
-	<!-- End Facets -->
-	</div>
-<!-- End Sidebar -->
-	<div class="9u 12u$(medium) important(medium)">
-		<div id="content">
-	<!-- Content -->
+    <!-- Sidebar -->
+	  <div class="3u 12u$(medium)" id="sidebar">
+	    <!-- Facets -->
+	    <div id="facets"></div>
+	    <!-- End Facets -->
+	  </div>
+    <!-- End Sidebar -->
+	  <div class="9u 12u$(medium) important(medium)">
+		  <div id="content">
+	      <!-- Content -->
+        <table class="alt tablesorter" id="results"></table>
+	      <!-- End Content -->
+		  </div>
+	  </div>
 
-	<table class="alt tablesorter" id="results"></table>
-	<!-- End Content -->
-		</div>
-	</div>
-
-
-
-<!-- End Browse Cases -->
-<!-- End Main Wrapper --></div>
+    <!-- End Browse Cases -->
+    <!-- End Main Wrapper -->
+  </div>
 </div>
 
          {{ partial "footer.html" . }}
@@ -70,6 +71,27 @@
                                                             '<th class="case_topics_head">Category</th>' +
                                                         '</tr>' +
                                                        '</thead>');
+                        }
+                        function updateQueryParamsAndBreadCrumbs(){
+                            $('.active-facets').html(
+                                '<span class="category" style="display:none">Category: </span>' +
+                                '<span class="topics" style="display:none">Topics: </span>' +
+                                '<span class="related_cases" style="display:none">Related Cases: </span>');
+
+
+                            var new_path = "/case/?=";
+                            var stateObj = { currentUrl: new_path };
+
+                            _.each(settings.state.filters, function(filter, facetname) 
+                            {
+                                $('.active-facets .'+facetname+'').show();
+                                for(var x=0; x < filter.length; x++)
+                                {
+                                    $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
+                                    new_path = new_path + "&" + facetname + "=" + filter[x];
+                                }
+                            });
+                              window.history.pushState(stateObj, "case-search", new_path);
                         }
                         window.unescapeHtml = function(){
                             jQuery('.unescape').each(function(){
@@ -107,10 +129,9 @@
                         }
                         
                           //first check if there is a '?' in the link
-                        if (window.location.href.indexOf('?') !== -1){
-
+                        if (window.location.href.indexOf('?') !== -1)
+                        {
                             try {
-                                
                                 var qry_params = window.location.href.split('?');
                                 var params = qry_params[1];
 
@@ -142,7 +163,6 @@
                                     settings.state.filters[facet].push(decodeURI(search_term));
                                     
                                 }
-                            
                                 
                             }
                             catch(error){
@@ -150,6 +170,8 @@
                               console.log(error);
                             }
                           }
+
+                          
 
                           $('.active-facets').html(
                               '<span class="category" style="display:none">Category: </span>' +
@@ -163,6 +185,7 @@
                           // calling tablesorter library to order results of search
                           jQuery("#results").tablesorter(); 
 
+
                           jQuery('.orderbyitem')
                             .add(jQuery('.facetitem'))
                             .add(jQuery('.deselectstartover'))
@@ -171,7 +194,9 @@
                                 setTableHeaders();
                                 unescapeHtml();
                             })
-                          //jQuery.facetUpdate();
+
+                          jQuery('.facetitem').on('click', updateQueryParamsAndBreadCrumbs);
+                          jQuery('.deselectstartover').on('click', updateQueryParamsAndBreadCrumbs);
 
                   })
 
