@@ -55,28 +55,30 @@
 
           <script data-export="true" data-file-extension="js" id="facetize">
             jQuery(document).ready(function(){
-                    $.getJSON('/js/api/cases.json').success(function(cases){
-                            window.Cases = cases;
-                        }).error(function(){
-                            alert('There was a problem loading the cases.')
-                        }).complete(function(){
-                            function setTableHeaders(){
-                                  jQuery('#results').prepend('<thead>' +
+                $.getJSON('/js/api/cases.json').success(function(cases){
+                      window.Cases = cases;
+                  }).error(function(){
+                      alert('There was a problem loading the cases.')
+                  }).complete(function(){
+                    //after cases have loaded this function runs, contains the information passed to
+                    //faceted search and several methods called after the facested search is instantiated
+                        function setTableHeaders(){
+                            jQuery('#results').prepend('<thead>' +
                                                         '<tr>' +
                                                             '<th class="case_id_head">Case Number</th>' +
                                                             '<th class="case_title_head">Title</th>' +
                                                             '<th class="case_topics_head">Category</th>' +
                                                         '</tr>' +
-                                                      '</thead>');
-                            }
-                            window.unescapeHtml = function(){
-                              jQuery('.unescape').each(function(){
-                                  var text = jQuery(this).text();
-                                  jQuery(this).html(text);
-                              });
-                            }
+                                                       '</thead>');
+                        }
+                        window.unescapeHtml = function(){
+                            jQuery('.unescape').each(function(){
+                                var text = jQuery(this).text();
+                                jQuery(this).html(text);
+                            });
+                        }
 
-                            var item_template =
+                        var item_template =
                             '<tr class="item">' +
                               '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
                               '<span class="unescape"><%= obj.case_number %></span></td>' +
@@ -85,7 +87,7 @@
                               '<td class="case_topics"><a href="/category/<%= obj.cat_url %>"> <span><%= obj.category %></span></a></td>' +
                             '</tr>';
 
-                            settings = {
+                        settings = {
                               items            : Cases.cases,
                               facets           : {
                                                   'category': 'Category',
@@ -99,85 +101,77 @@
                               orderByOptions   : {'case_number': 'Case Number', 'title': 'Title'},
                               bottomContainer    : '<div class="bottom-container"></div>',
                               showMoreTemplate   : '<a id=showmorebutton>Show More</a>',
-                              //facetSortOption  : {'continent': ["North America", "South America"]}
-                            }
-                            console.log("settings.resultSelector");
-                            console.log(settings.resultSelector);
-
-
-                            //settings['state']['filters'][]
-
-                            $(settings.resultSelector).bind("facetuicreated", function(){
-                              console.log("UI created");
-         
-       
-
+                              state: {
+                                filters : {}
+                              }
+                        }
                         
-                               try {
+                          //first check if there is a '?' in the link
+                        if (window.location.href.indexOf('?') !== -1){
 
+                            try {
+                                
                                 var qry_params = window.location.href.split('?');
                                 var params = qry_params[1];
+
+                                // first check which facets are in url
+                                if (params.indexOf('category') !== -1)
+                                {
+                                  $.extend(settings.state.filters, {'category': []});
+                                }
+                                if (params.indexOf('topics') !== -1)
+                                {
+                                  $.extend(settings.state.filters, {'topics': []});
+                                }
+                                if (params.indexOf('related_cases') !== -1)
+                                {
+                                  $.extend(settings.state.filters, {'related_cases': []});
+                                }
+
                                 var active_facets = params.split('&');
+
+                                
 
                                 // go over url parameters and re create search results
                                 for(var count_params=1; count_params < active_facets.length; count_params++)
                                 {
                                     var find_facet = active_facets[count_params].split('=');
                                     var facet = find_facet[0]; //category/related topics/
-                                    console.log(facet);
-                                    //jQuery.facetUpdate(settings.state.filters['category'].push("Public Policy Cases"));
-                                    // test_output = jQuery(settings.state.filters);
-                                    //console.log(test_output);
-                                    //console.log(settings.state.filters);
-                                    //console.log(settings.state);
-                                    //settings.facetSortOption  : {'facetname': facetname, 'filtername': filtername};
-                                    var search_term = find_facet[1].split('_'); // filter term/sub categoryjQuery.facetelize(settings);"Public Policy Cases"
-                                    var item_id = parseInt(search_term[1]);
-                                    console.log(search_term);
-                                    //settings.state.filters[facet].push(search_term);
-                                    //settings.state.filters['category'].push("Public Policy Cases");
-                                    /*settings.state.filters[key] = settings.state.filters[key] || [] ;jQuery.facetelize(settings);
+                                    var search_term = find_facet[1];
 
-                                    if (_.indexOf(settings.state.filters[key], value) == -1) {"Public Health and Medical Cases"
-                                        settings.state.filters[key].push(value);
-                                    } else {
-                                        settings.state.filters[key] = _.without(settings.state.filters[key], value);
-                                    }*/
+                                    settings.state.filters[facet].push(decodeURI(search_term));
+                                    
                                 }
                             
                                 
                             }
                             catch(error){
+                              //console.log("Inside catch block");
                               console.log(error);
                             }
-                             });
+                          }
 
-
-                            $('.active-facets').html(
-                                '<span class="category" style="display:none">Category: </span>' +
-                                '<span class="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" style="display:none">Related Cases: </span>');
+                          $('.active-facets').html(
+                              '<span class="category" style="display:none">Category: </span>' +
+                              '<span class="topics" style="display:none">Topics: </span>' +
+                              '<span class="related_cases" style="display:none">Related Cases: </span>');
                         
-                            // use them!
-                            jQuery.facetelize(settings);
-                            //console.log(test_var);
-                            setTableHeaders();
-                            unescapeHtml();
-                            jQuery("#results").tablesorter(); 
+                          jQuery.facetelize(settings);
 
-                            jQuery('.orderbyitem')
-                              .add(jQuery('.facetitem'))
-                              .add(jQuery('.deselectstartover'))
-                              .add(jQuery('#showmorebutton'))
-                              .on('click', function(){
+                          setTableHeaders();
+                          unescapeHtml();
+                          // calling tablesorter library to order results of search
+                          jQuery("#results").tablesorter(); 
+
+                          jQuery('.orderbyitem')
+                            .add(jQuery('.facetitem'))
+                            .add(jQuery('.deselectstartover'))
+                            .add(jQuery('#showmorebutton'))
+                            .on('click', function(){
                                 setTableHeaders();
                                 unescapeHtml();
-                              })
-                              //jQuery.facetUpdate();
-
-
-                            
-
+                            })
+                          //jQuery.facetUpdate();
 
                   })
 
