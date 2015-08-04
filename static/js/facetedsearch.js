@@ -137,6 +137,7 @@ function filter() {
     });
     return filtersApply;
   });
+
   // Update the count for each facet and item:
   // intialize the count to be zero
   resetFacetCount();
@@ -161,6 +162,7 @@ function filter() {
     });
   });
   settings.state.shownResults = 0;
+
 }
 
 /**
@@ -294,12 +296,14 @@ function getFilterById(id) {
 function updateFacetUI() {
   var itemtemplate = _.template(settings.listItemTemplate);
   _.each(settings.facetStore, function(facet, facetname) {
+
     _.each(facet, function(filter, filtername){
       var item = {id: filter.id, name: filtername, count: filter.count};
       var filteritem  = $(itemtemplate(item)).html();
       $("#"+filter.id).html(filteritem);
       if (settings.state.filters[facetname] && _.indexOf(settings.state.filters[facetname], filtername) >= 0) {
         $("#"+filter.id).addClass("activefacet");
+
       } else {
         $("#"+filter.id).removeClass("activefacet");
       }
