@@ -124,20 +124,28 @@
                         function removeActiveFacet(){
                           console.log("removeActiveFacet()");
                           var filterText = jQuery(this).parent().text();
-                          var facetText = jQuery(this).parent().parent().html().split(':')[0].toLowerCase();;
+                          var facetText = jQuery(this).parent().parent().html().split(':')[0].toLowerCase();
                           
-                          console.log(facetText);
-                          console.log(filterText);
+                          //console.log(facetText);
+                          //console.log(filterText);
+
+
+                          var filterHTML = jQuery(this).parent().html();
+                                var facetHTML = jQuery(this).parent().parent().parent().html();
+                                console.log(facetHTML);
+                                console.log(filterHTML);
                           // go over all currently active facets
                           _.each(settings.state.filters, function(filter, facetname) 
                           {
-                            if(facetname === facetText)
-                              try{
+                            if(facetname === facetText){
+                              try {
                                 console.log('try block');
                                 //console.log(facetname);
                                 //console.log(facetText);
                                 console.log("settings.state.filters[facetname]");
                                 console.log(settings.state.filters[facetname]);
+                                console.log("settings.state.filters[facetname].length");
+                                console.log(settings.state.filters[facetname].length);
                                 //console.log(facetname);
                                 //var findFilter = _.indexOf(settings.state.filters[facetname], filterText);
                                 //console.log("findFilter");
@@ -145,7 +153,11 @@
                                 settings.state.filters[facetname].pop(filterText);
                                 console.log("settings.state.filters[facetname]");
                                 console.log(settings.state.filters[facetname]);
+
+                                
+
                                 // and remove the filter
+                                jQuery.facetUpdate();
                                 
                               }
                               catch(error)
@@ -153,9 +165,9 @@
                                 console.log("need to handle errors here...");
                                 console.log(error);
                               }
+                            }
 
                           });
-
                           //jQuery.facetUpdate();
                           //updateQueryParamsAndBreadCrumbs();
 
@@ -234,7 +246,7 @@
                                     
                                 }
 
-                                displayTags();
+                                displayActiveFacetTags();
                                 
                             }
                             catch(error){
@@ -263,8 +275,8 @@
                                 unescapeHtml();
                             })
 
-                          jQuery('.facetitem').on('click', updateQueryParamsAndBreadCrumbs);
-                          jQuery('.deselectstartover').on('click', updateQueryParamsAndBreadCrumbs);
+                          jQuery('.facetitem').on('click', displayActiveFacetTags);
+                          jQuery('.deselectstartover').on('click', displayActiveFacetTags);
                           // for some reason this does not seem to apply to the glyphs added later
                           jQuery('.glyphicon-remove').on('click', removeActiveFacet);
 
