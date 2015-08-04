@@ -73,6 +73,7 @@
                                                        '</thead>');
                         }
                         function updateQueryParamsAndBreadCrumbs(){
+
                             $('.active-facets').html(
                                 '<span class="category" style="display:none">Category: </span>' +
                                 '<span class="topics" style="display:none">Topics: </span>' +
@@ -131,6 +132,10 @@
                           //first check if there is a '?' in the link
                         if (window.location.href.indexOf('?') !== -1)
                         {
+                            $('.active-facets').html(
+                                '<span class="category" style="display:none">Category: </span>' +
+                                '<span class="topics" style="display:none">Topics: </span>' +
+                                '<span class="related_cases" style="display:none">Related Cases: </span>');
                             try {
                                 var qry_params = window.location.href.split('?');
                                 var params = qry_params[1];
@@ -163,6 +168,16 @@
                                     settings.state.filters[facet].push(decodeURI(search_term));
                                     
                                 }
+
+                                // add tags under search bar for active filters
+                                _.each(settings.state.filters, function(filter, facetname) 
+                                {  
+                                    $('.active-facets .'+facetname+'').show();
+                                    for(var x=0; x < filter.length; x++)
+                                    {
+                                        $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
+                                    }
+                                });
                                 
                             }
                             catch(error){
@@ -172,11 +187,14 @@
                           }
 
                           
+                          if (window.location.href.indexOf('?') === -1)
+                          {
 
                           $('.active-facets').html(
                               '<span class="category" style="display:none">Category: </span>' +
                               '<span class="topics" style="display:none">Topics: </span>' +
                               '<span class="related_cases" style="display:none">Related Cases: </span>');
+                          }
                         
                           jQuery.facetelize(settings);
 
