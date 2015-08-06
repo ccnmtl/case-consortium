@@ -2,30 +2,30 @@
         {{ partial "header.html" . }} 
 
 <body class="search">
-	<div id="page-wrapper">
+  <div id="page-wrapper">
 
-	<!-- Header -->
+  <!-- Header -->
   <div id="header-wrapper">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}js/tablesorter/themes/blue/style.css" />
     <script type="text/javascript" src="/js/tablesorter/jquery.tablesorter.js"></script> 
-	  {{ partial "header_section.html" . }}
-	  <!-- End Header -->
+    {{ partial "header_section.html" . }}
+    <!-- End Header -->
   </div>
 
 <!-- Main Wrapper -->
 <div id="main-wrapper" class="box container">
-	<!-- Search Box -->
+  <!-- Search Box -->
   <div id="search">
-		<form class="form-inline" role="search">
-			<div class="input-group">
-				<span class="ion-android-search"></span>
-				<input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
+    <form class="form-inline" role="search">
+      <div class="input-group">
+        <span class="ion-android-search"></span>
+        <input id="q" type="text" placeholder="Search for Cases" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Search for Cases'" />
         <button class="close-icon" id="clear-search" type="reset"></button>
-				<div class="input-group-btn"></div>
-			</div>
+        <div class="input-group-btn"></div>
+      </div>
       
-		</form>
-	  <div id="search-results"></div>
+    </form>
+    <div id="search-results"></div>
       <!-- End Search Box -->
     <div class="active-facets"></div>
   </div>
@@ -33,19 +33,19 @@
   <div class="row 200% browse_cases">
     <!-- End Search Results -->
     <!-- Sidebar -->
-	  <div class="3u 12u$(medium)" id="sidebar">
-	    <!-- Facets -->
-	    <div id="facets"></div>
-	    <!-- End Facets -->
-	  </div>
+    <div class="3u 12u$(medium)" id="sidebar">
+      <!-- Facets -->
+      <div id="facets"></div>
+      <!-- End Facets -->
+    </div>
     <!-- End Sidebar -->
-	  <div class="9u 12u$(medium) important(medium)">
-		  <div id="content">
-	      <!-- Content -->
+    <div class="9u 12u$(medium) important(medium)">
+      <div id="content">
+        <!-- Content -->
         <table class="alt tablesorter" id="results"></table>
-	      <!-- End Content -->
-		  </div>
-	  </div>
+        <!-- End Content -->
+      </div>
+    </div>
 
     <!-- End Browse Cases -->
     <!-- End Main Wrapper -->
@@ -75,9 +75,9 @@
                         function updateQueryParamsAndBreadCrumbs(){
 
                             $('.active-facets').html(
-                                '<span class="category" style="display:none">Category: </span>' +
-                                '<span class="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" style="display:none">Related Cases: </span>');
+                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
+                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
+                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
 
 
                             var new_path = "/case/?=";
@@ -133,9 +133,9 @@
                         if (window.location.href.indexOf('?') !== -1)
                         {
                             $('.active-facets').html(
-                                '<span class="category" style="display:none">Category: </span>' +
-                                '<span class="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" style="display:none">Related Cases: </span>');
+                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
+                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
+                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
                             try {
                                 var qry_params = window.location.href.split('?');
                                 var params = qry_params[1];
@@ -181,7 +181,6 @@
                                 
                             }
                             catch(error){
-                              //console.log("Inside catch block");
                               console.log(error);
                             }
                           }
@@ -190,10 +189,10 @@
                           if (window.location.href.indexOf('?') === -1)
                           {
 
-                          $('.active-facets').html(
-                              '<span class="category" style="display:none">Category: </span>' +
-                              '<span class="topics" style="display:none">Topics: </span>' +
-                              '<span class="related_cases" style="display:none">Related Cases: </span>');
+                            $('.active-facets').html(
+                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
+                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
+                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
                           }
                         
                           jQuery.facetelize(settings);
@@ -216,7 +215,48 @@
                           jQuery('.facetitem').on('click', updateQueryParamsAndBreadCrumbs);
                           jQuery('.deselectstartover').on('click', updateQueryParamsAndBreadCrumbs);
 
-                  })
+
+                          jQuery('.active-facets').on('click', function(event){
+
+                            if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
+                            {
+                                var filterText = event.target.parentNode.attributes['data-filtername'].value;
+                                var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
+
+                                _.each(settings.state.filters, function(filter, facetname) 
+                                {
+                                    if(facetname === facetText)
+                                    {
+                                       try {
+                                            settings.state.filters[facetname].pop(filterText);
+                                            // and remove the filter
+                                            jQuery.facetUpdate();
+                                            unescapeHtml();
+                                            updateQueryParamsAndBreadCrumbs();
+
+                                            if(settings.state.filters[facetname].length === 0)
+                                            {
+                                                delete settings.state.filters[facetname];
+                                                updateQueryParamsAndBreadCrumbs();
+                                                jQuery.facetUpdate();
+                                                unescapeHtml();
+                                            }
+                                
+                                        }
+                                        catch(error)
+                                        {
+                                            console.log(error);
+                                        }
+                                    }
+
+                                });
+
+                            }
+
+                        });
+
+                  }) 
+                  
 
               });
             </script>
