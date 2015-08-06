@@ -181,7 +181,6 @@
                                 
                             }
                             catch(error){
-                              //console.log("Inside catch block");
                               console.log(error);
                             }
                           }
@@ -194,9 +193,6 @@
                                 '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
                                 '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
                                 '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
-                            console.log(settings.state.filters);
-                            console.log(settings.state);
-
                           }
                         
                           jQuery.facetelize(settings);
@@ -221,15 +217,11 @@
 
 
                           jQuery('.active-facets').on('click', function(event){
-                            // remove active facets
-                            console.log("settings before click handled");
-                            console.log(settings.state);
 
                             if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
                             {
                                 var filterText = event.target.parentNode.attributes['data-filtername'].value;
                                 var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
-
 
                                 _.each(settings.state.filters, function(filter, facetname) 
                                 {
@@ -241,32 +233,18 @@
                                             jQuery.facetUpdate();
                                             unescapeHtml();
                                             updateQueryParamsAndBreadCrumbs();
-                                            //console.log("settings after click handled");
-                                            //console.log(settings.state);
-                                            // remove facet from settings.state.filters object
+
                                             if(settings.state.filters[facetname].length === 0)
                                             {
                                                 delete settings.state.filters[facetname];
+                                                updateQueryParamsAndBreadCrumbs();
+                                                jQuery.facetUpdate();
+                                                unescapeHtml();
                                             }
-                                            // check to see if filters object is completely empty
-                                            //if ()
-                                            //{
-                                            //    console.log("Object is empty");
-                                            //}
-                                            /*
-                                            console.log("settings after click handled");
-                                            console.log("settings.state.filters");
-                                            console.log(settings.state.filters);
-                                            console.log("settings.state.filters.length");settings.state.filters.toString() === "[object Object]"
-                                            console.log(settings.state.filters.length);*/
-                                            console.log("settings.state.filters.toString");
-                                            console.log(settings.state.filters.toString());
-
                                 
                                         }
                                         catch(error)
                                         {
-                                            console.log("need to handle errors here...");
                                             console.log(error);
                                         }
                                     }
