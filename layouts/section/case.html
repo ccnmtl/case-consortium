@@ -80,7 +80,7 @@
                                 '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
 
 
-                            var new_path = "/case/?=";
+                            var new_path = "/case/";
                             var stateObj = { currentUrl: new_path };
 
                             _.each(settings.state.filters, function(filter, facetname) 
@@ -89,10 +89,17 @@
                                 for(var x=0; x < filter.length; x++)
                                 {
                                     $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
-                                    new_path = new_path + "&" + facetname + "=" + filter[x];
+                                    if(new_path === "/case/") {
+                                        new_path = new_path + '?' + facetname + "=" + filter[x];
+                                    } 
+                                    else {
+                                        new_path = new_path + "&" + facetname + "=" + filter[x];
+                                    }
+                                    
                                 }
                             });
                               window.history.pushState(stateObj, "case-search", new_path);
+
                         }
                         window.unescapeHtml = function(){
                             jQuery('.unescape').each(function(){
