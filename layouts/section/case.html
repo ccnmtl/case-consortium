@@ -100,6 +100,7 @@
                             });
                               window.history.pushState(stateObj, "case-search", new_path);
 
+
                         }
                         window.unescapeHtml = function(){
                             jQuery('.unescape').each(function(){
@@ -163,8 +164,6 @@
 
                                 var active_facets = params.split('&');
 
-                                
-
                                 // go over url parameters and re create search results
                                 for(var count_params=1; count_params < active_facets.length; count_params++)
                                 {
@@ -215,8 +214,10 @@
                             .add(jQuery('.deselectstartover'))
                             .add(jQuery('#showmorebutton'))
                             .on('click', function(){
+
                                 setTableHeaders();
                                 unescapeHtml();
+                                jQuery("#results").tablesorter(); 
                             })
 
                           jQuery('.facetitem').on('click', updateQueryParamsAndBreadCrumbs);
@@ -238,8 +239,8 @@
                                             settings.state.filters[facetname].pop(filterText);
                                             // and remove the filter
                                             jQuery.facetUpdate();
-                                            unescapeHtml();
                                             updateQueryParamsAndBreadCrumbs();
+                                            unescapeHtml();
 
                                             if(settings.state.filters[facetname].length === 0)
                                             {
@@ -247,6 +248,12 @@
                                                 updateQueryParamsAndBreadCrumbs();
                                                 jQuery.facetUpdate();
                                                 unescapeHtml();
+                                                setTableHeaders();
+                                                jQuery("#results").tablesorter(); 
+                                            }
+                                            else {
+                                                setTableHeaders();
+                                                jQuery("#results").tablesorter(); 
                                             }
                                 
                                         }
