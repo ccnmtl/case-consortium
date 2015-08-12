@@ -140,10 +140,16 @@
                           //first check if there is a '?' in the link
                         if (window.location.href.indexOf('?') !== -1)
                         {
-                            $('.active-facets').html(
+                            jQuery.facetelize(settings);
+                            
+                              setTableHeaders();
+                              unescapeHtml();
+                              $('.active-facets').html(
                                 '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
                                 '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
                                 '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
+
+
                             try {
                                 var qry_params = window.location.href.split('?');
                                 var params = qry_params[1];
@@ -164,20 +170,21 @@
 
                                 var active_facets = params.split('&');
 
+
                                 // go over url parameters and re create search results
-                                for(var count_params=1; count_params < active_facets.length; count_params++)
-                                {
-                                    var find_facet = active_facets[count_params].split('=');
+                                for(var count_params=0; count_params < active_facets.length; count_params++)
+                                {   
+                                    //count_params = count_params - 1;
+                                    var find_facet = String(active_facets[count_params]).split('=');
                                     var facet = find_facet[0]; //category/related topics/
                                     var search_term = find_facet[1];
-
                                     settings.state.filters[facet].push(decodeURI(search_term));
                                     
                                 }
 
                                 // add tags under search bar for active filters
                                 _.each(settings.state.filters, function(filter, facetname) 
-                                {  
+                                {   
                                     $('.active-facets .'+facetname+'').show();
                                     for(var x=0; x < filter.length; x++)
                                     {
