@@ -28,7 +28,9 @@ $.getJSON('/js/api/cases.json').done(function(item) {
 var doSearch = function() {
     var q = $('#q').val();
     window.results = index.search(q);
-    var $el = $('#search-results');
+    //var $el = $('#search-results');
+    var $el = $('#results');
+    $el.addClass('alt tablesorter')
     
     $el.empty();
     $el.show();
@@ -63,6 +65,14 @@ var doSearch = function() {
 }
 
 $(document).ready(function() {
+    $('#q').on('click', function(event) {
+        console.log("onfocus");
+       $('#sidebar').hide();
+    });
+    $('#q').on('blur', function(event) {
+        console.log("blur");
+       $('#sidebar').show();
+    });
     $('#q').on('keydown', function(event) {
        var x = event.which;
        if (x === 13) {
@@ -70,7 +80,8 @@ $(document).ready(function() {
        }
     });
     $('#q').keyup(function() {
-        $('#search-results').empty();
+        //$('#search-results').empty();
+        $('#results').empty();
         if ($(this).val().length < 2) {
             return;
         }
@@ -78,8 +89,10 @@ $(document).ready(function() {
         return doSearch();
     });
     $('#clear-search').click(function(){
-        $('#search-results').empty();
-        $('#search-results').hide();
+        //$('#search-results').empty();
+        //$('#search-results').hide();
+        $('#results').empty();
+        $('#results').hide();
         $('#clear-search').hide();
     });
 });
