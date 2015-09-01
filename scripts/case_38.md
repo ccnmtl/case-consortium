@@ -63,7 +63,7 @@
 - "CSJ-09-0021.1"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "RiskyBusiness"
+"slug": "RiskyBusinessPartA"
 "status_id": "1"
 "teaching_note": "Politico Part A Teaching Note.pdf"
 "teaser": "Two cases on Business of Media, (A) re journalism entrepreneurship, and\

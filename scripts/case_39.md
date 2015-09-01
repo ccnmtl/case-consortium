@@ -47,7 +47,7 @@
 - "CSJ-09-0021.0"
 - "CSJ-07-0002.0"
 "school": ""
-"slug": "RiskyBusiness"
+"slug": "RiskyBusinessPartB"
 "status_id": "1"
 "teaching_note": "Politico Part B Teaching Note.pdf"
 "teaser": ""
