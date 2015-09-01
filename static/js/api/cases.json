@@ -1233,8 +1233,8 @@
             {
                 "id":38,
                 "title": "Risky Business: John Harris, Jim VandeHei, and &lt;i&gt;Politico&lt;/i&gt; Part A",
-                "link": "http://kodos.ccnmtl.columbia.edu:1313/case/RiskyBusiness/",
-                "slug": "RiskyBusiness",
+                "link": "http://kodos.ccnmtl.columbia.edu:1313/case/RiskyBusinessPartA/",
+                "slug": "RiskyBusinessPartA",
                 "case_number": "CSJ-09-0021.0",
                 "category": ["Journalism Cases"],
                 "cat_url": ["journalism-cases"],
@@ -1253,8 +1253,8 @@
             {
                 "id":39,
                 "title": "Risky Business: John Harris, Jim VandeHei, and &lt;i&gt;Politico&lt;/i&gt; Part B: A Winning Model?",
-                "link": "http://kodos.ccnmtl.columbia.edu:1313/case/RiskyBusiness/",
-                "slug": "RiskyBusiness",
+                "link": "http://kodos.ccnmtl.columbia.edu:1313/case/RiskyBusinessPartB/",
+                "slug": "RiskyBusinessPartB",
                 "case_number": "CSJ-09-0021.1",
                 "category": ["Journalism Cases"],
                 "cat_url": ["journalism-cases"],
