@@ -33,7 +33,7 @@
 "link_color": "#007a43"
 "linked_classes": ""
 "news_org": "Charlotte Observer; Associated Press"
-"pdf": "Associated Press and Lance Corporal Joshua Bernard_wm.pdf"
+"pdf": "AP and Charlotte Observer Text.pdf"
 "price": "5.95"
 "redtext": "New"
 "related_cases":
