@@ -278,7 +278,18 @@
 
                   }) 
                   
-
+              });
+            </script>
+            <script type="text/javascript">
+              jQuery(document).ready(function(){
+                  jQuery("#q").focus(function() {
+                	  jQuery("#facets").hide();
+                	  jQuery("#results").hide();
+                  });
+                  jQuery("#q").focusout(function() {
+                   	  jQuery("#facets").show();
+                   	  jQuery("#results").show();
+                  });
               });
             </script>
             
