@@ -62,11 +62,59 @@ var doSearch = function() {
     return false;
 }
 
+var searchTable = function() {
+    var q = $('#q').val();
+    window.results = index.search(q);
+    var $el = $('#results');
+    
+    
+    $el.empty();
+    $el.show();
+    function setTableHeaders(){
+        jQuery('#results').prepend('<thead>' +
+                                    '<tr>' +
+                                        '<th class="case_id_head">Case Number</th>' +
+                                        '<th class="case_title_head">Title</th>' +
+                                        '<th class="case_topics_head">Category</th>' +
+                                    '</tr>' +
+                                   '</thead>');
+    }
+    if (results.length == 0) {
+        $el.html('Sorry, no results matching your query were found.');
+    } else {
+
+        for (r in results.slice(0, 10)) {
+            if (results.hasOwnProperty(r)) {
+
+                var d = results[r].ref;
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
+
+                var $result = $('<tr class="item">');
+                var html_convert = $('<tr>');
+
+                html_convert.append(title);
+                var text = html_convert.text();
+                html_convert.html(text)
+                $result.append('<a target="_blank "href="'+
+                    slug+'">' + html_convert.html() + '</a>');
+                
+                $el.append($result);
+            }
+        }
+    }
+    return false;
+}
+
 $(document).ready(function() {
     $('#q').on('keydown', function(event) {
        var x = event.which;
        if (x === 13) {
-           event.preventDefault();
+           //event.preventDefault();
+    	   $('#search-results').empty();
+           $('#search-results').hide();
+    	   jQuery("#results").show();
+    	   return searchTable();
        }
     });
     $('#q').keyup(function() {
