@@ -26,6 +26,7 @@ $.getJSON('/js/api/cases.json').done(function(item) {
 });
 
 var doSearch = function() {
+	
     var q = $('#q').val();
     window.results = index.search(q);
     var $el = $('#search-results');
@@ -45,7 +46,8 @@ var doSearch = function() {
                 var d = results[r].ref;
                 var title = window.data[d]['title'];
                 var slug = window.data[d]['slug'];
-
+                // this is the drop down HTML you
+            	// see appended to the search bar
                 var $result = $('<div class="result-link">');
                 var html_convert = $('<div>');
 
@@ -62,14 +64,71 @@ var doSearch = function() {
     return false;
 }
 
+
+var searchTable = function() {
+	jQuery("#facets").hide();
+    var q = $('#q').val();
+    window.results = index.search(q);
+    var $el = $('#results');
+    $el.empty();
+    $el.show();
+    
+
+    if (results.length == 0) {
+        $el.html('Sorry, no results matching your query were found.');
+    } else {
+  		$el.prepend('<thead>' +
+                '<tr>' +
+                    '<th class="case_id_head">Case Number</th>' +
+                    '<th class="case_title_head">Title</th>' +
+                    '<th class="case_topics_head">Category</th>' +
+                '</tr>' +
+               '</thead>');
+        for (r in results.slice(0, 10)) {
+            if (results.hasOwnProperty(r)) {
+
+                var d = results[r].ref;
+                var row = "";
+                var case_category = window.data[d]['category'];
+                var cat_url = window.data[d]['cat_url'];
+                var case_number = window.data[d]['case_number'];
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
+
+                var $result = $('<tr class="item">');
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                                   + title + '</a></td><td><a href="/category/'+cat_url+'">'
+                                   + case_category + '</td>'
+                $result.append(row_elements);
+                $el.append($result);
+            }
+            jQuery("#results").tablesorter();
+        }
+    }
+    return false;
+}
+
 $(document).ready(function() {
     $('#q').on('keydown', function(event) {
+       $('.active-facets').hide();
        var x = event.which;
        if (x === 13) {
-           event.preventDefault();
+    	   $('#search-results').empty();
+           $('#search-results').hide();
+    	   jQuery("#results").show();
+    	   $('#q').blur();
+    	   return searchTable();
        }
     });
     $('#q').keyup(function() {
+        var x = event.which;
+        if (x === 13) {
+     	   $('#search-results').empty();
+           $('#search-results').hide();
+     	   jQuery("#results").show();
+     	   $('#q').blur();
+     	   return searchTable();
+        }
         $('#search-results').empty();
         if ($(this).val().length < 2) {
             return;
