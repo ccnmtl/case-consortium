@@ -6,7 +6,7 @@ title: about
 
 <h2>The Case Study</h2>
 
-<p>The beating heart of the Case Method is the “teaching” case study, so-called because it is used as a vehicle for classroom discussion. Most teaching cases are “decision forcing”—that is, the narrative stops at a critical turning point or decision point.
+<p>The heart of the Case Method is the “teaching” case study, so-called because it is used as a vehicle for classroom discussion. Most teaching cases are “decision forcing”—that is, the narrative stops at a critical turning point or decision point.
 The protagonist of a Journalism School case, for example, can be a reporter, editor, broadcast executive or publisher. Most often the protagonist is an individual, although a case can also profile a publication or news organization (or in other disciplines, an agency, a business or a government).</p>
 <p>Sometimes, however, case studies are “retrospective.” They tell an entire story from start to finish and the classroom discussion focuses on identifying the decision points and exploring what options the protagonist had at any given point. While each of our cases includes an epilogue, it is not necessary to distribute the epilogue to students. Analytic and problem-solving learning can be all the more powerful when the “what happened” is left unanswered.</p>
 
