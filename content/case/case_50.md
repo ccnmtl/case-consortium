@@ -57,4 +57,8 @@
   \ de Paul Schaefer"
 "title_color": "#e8123d"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-10-0028.0</i><br/>Este caso, dicho en su mayoría a través de entrevistas en video con el equipo de noticias, acerca del esfuerzo de una organización de noticias para localizar a un criminal, y si su trabajo es periodísticamente apropiado o se acerca mas a asuntos de policía. Los estudiantes exploran la delgada línea entre uso legítimo e ilegítimo de las técnicas secretas de reportajes, incluyendo cámaras ocultas. También tendrán la oportunidad de evaluar los costos de un proyecto de periodismo de investigación en contra de su posible rentabilidad.</p><p>Epílogo, Teaching Note</p><p><b><span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">Temas:</span></span></b><span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics"> internacional; el periodismo de investigación; la ética</span></span></p></body></html>
+*CSJ-10-0028.0*
+
+Este caso, dicho en su mayoría a través de entrevistas en video con el equipo de noticias, acerca del esfuerzo de una organización de noticias para localizar a un criminal, y si su trabajo es periodísticamente apropiado o se acerca mas a asuntos de policía. Los estudiantes exploran la delgada línea entre uso legítimo e ilegítimo de las técnicas secretas de reportajes, incluyendo cámaras ocultas. También tendrán la oportunidad de evaluar los costos de un proyecto de periodismo de investigación en contra de su posible rentabilidad.
+
+Epílogo, Teaching Note
