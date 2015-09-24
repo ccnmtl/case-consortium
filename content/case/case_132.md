@@ -61,4 +61,10 @@
   \ and the Digital Age"
 "title_color": ""
 ---
-<html><body><p>CSJ-14-0055.0 <br/>This case looks at a community newspaper and how it might transform its business model to thrive in the digital age. It chronicles the award-winning <i>Whiteville</i>&lt; (NC) <i>News Reporter </i>as it confronts many of the economic, editorial and technological challenges facing community newspapers today. The newspaper has long printed its own paper, enjoyed high reader loyalty and been an important community institution. But emerging from the recession of 2008, the <i>News Reporter</i> leadership team of Leslie and Stuart High realizes business is not as usual, and that a new strategic plan needs to take account of new realities regarding revenue and product. <br/><br/><strong>This is a contributed case.  </strong><br/><br/>Epilogue, Teaching Note</p></body></html>
+*CSJ-14-0055.0*
+
+This case looks at a community newspaper and how it might transform its business model to thrive in the digital age. It chronicles the award-winning Whiteville< (NC) News Reporter as it confronts many of the economic, editorial and technological challenges facing community newspapers today. The newspaper has long printed its own paper, enjoyed high reader loyalty and been an important community institution. But emerging from the recession of 2008, the News Reporter leadership team of Leslie and Stuart High realizes business is not as usual, and that a new strategic plan needs to take account of new realities regarding revenue and product. 
+
+This is a contributed case.
+
+Epilogue, Teaching Note
