@@ -49,4 +49,8 @@
   \ Jill Carroll"
 "title_color": "#993300"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-08-0012.0</i><br/>This case treats the hard choices which confront a news organization when violence strikes one of its reporters. Students will have a chance to consider how to structure a crisis response; how to manage competing interests; and how to sustain an effort past the first adrenalin-fueled moments into weeks of frustrating but crucial work.<br/><br/>Epilogue, Teaching Note</p><p><b>Topics: </b>crisis management; international</p></body></html>
+*CSJ-08-0012.0*
+
+This case treats the hard choices which confront a news organization when violence strikes one of its reporters. Students will have a chance to consider how to structure a crisis response; how to manage competing interests; and how to sustain an effort past the first adrenalin-fueled moments into weeks of frustrating but crucial work.
+
+Epilogue, Teaching Note
