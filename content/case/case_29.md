@@ -46,4 +46,8 @@
   \ Kirkwood Shooting"
 "title_color": "#c91e1e"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-09-0014.0</i><br/>This case about the St. Louis, MO, <i>Post-Dispatch</i> addresses how to manage a breaking story online when it could have traumatic effects on the local community. It also raises the challenge for editors of deciding what to put in the paper once a story has broken on the website. <br/><br/>Epilogue, Teaching Note</p><p><b>Topics: </b>digital media; crisis reporting</p></body></html>
+*CSJ-09-0014.0*
+
+This case about the St. Louis, MO, Post-Dispatch addresses how to manage a breaking story online when it could have traumatic effects on the local community. It also raises the challenge for editors of deciding what to put in the paper once a story has broken on the website. 
+
+Epilogue, Teaching Note
