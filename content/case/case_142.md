@@ -60,4 +60,8 @@
   \ and the &quot;Laura&quot; Story"
 "title_color": ""
 ---
-<html><body><p><em>AKU-12-0005.0 </em><br/><br/>This case introduces journalism students to the dilemma of raising awareness about social issues without harming the individuals involved--and remaining as objective as possible. In May 2005, Mildred Ngesa, a columnist and features writer for Nairobi’s <em>Daily Nation</em> newspaper, is deeply troubled to learn about an 11-year-old sexual abuse victim also likely infected with HIV. Ngesa wants to draw public attention to the national problem of child rape, but also to protect “Laura” (a pseudonym) from any further trauma. Ngesa also is given a disturbing photograph of the girl’s genitals, badly infected with a sexually transmitted disease.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong> international journalism; journalism in Africa; feature writing; editorial management</p></body></html>
+*AKU-12-0005.0*
+
+This case introduces journalism students to the dilemma of raising awareness about social issues without harming the individuals involved–and remaining as objective as possible. In May 2005, Mildred Ngesa, a columnist and features writer for Nairobi’s Daily Nation newspaper, is deeply troubled to learn about an 11-year-old sexual abuse victim also likely infected with HIV. Ngesa wants to draw public attention to the national problem of child rape, but also to protect “Laura” (a pseudonym) from any further trauma. Ngesa also is given a disturbing photograph of the girl’s genitals, badly infected with a sexually transmitted disease.
+
+Epilogue, Teaching Note
