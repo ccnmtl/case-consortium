@@ -51,4 +51,10 @@
   \ &lt;i&gt;News-Press&lt;/i&gt;"
 "title_color": "#996632"
 ---
-<html><body><p><i>CSJ-08-0008.0</i><br/>This two-part case looks at the research method “crowdsourcing,” pioneered by the private sector (The Wisdom of Crowds), and examines its usefulness. The Fort Myers (FL) <i>News-Press</i> and Gannett executives believe crowdsourcing —turning to consumers for expertise and information—holds promise for newspapers.</p><p>Teaching Note</p><p><b>Topics: </b>digital media; newsroom management; media business</p><p><i>This case can be used alone, or in combination with Part B. The two parts can be taught together, or in successive class sessions.</i></p></body></html>
+*CSJ-08-0008.0*
+
+This two-part case looks at the research method “crowdsourcing,” pioneered by the private sector (The Wisdom of Crowds), and examines its usefulness. The Fort Myers (FL) News-Press and Gannett executives believe crowdsourcing —turning to consumers for expertise and information—holds promise for newspapers.
+
+Teaching Note
+
+*This case can be used alone, or in combination with Part B. The two parts can be taught together, or in successive class sessions.*
