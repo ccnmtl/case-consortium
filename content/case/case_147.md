@@ -58,4 +58,8 @@
   \ and the National Security Agency"
 "title_color": ""
 ---
-<html><body><p><em>CSJ-14-00056.0</em><br/><br/>This case takes a behind-the-scenes look at how a national security reporter works. In February 2013, reporter Barton Gellman first learns about a source who claims to have National Security Agency (NSA) documents. Over the next four months, he and his collaborator, Laura Poitras, try to verify whether the source is credible and the materials bona fide. The documents, if true, reveal details about an intrusive NSA program that swept up private communications on a scale unsuspected by most US citizens or Congress. Nine Internet companies gave the NSA access to the information. In late May, Gellman takes the story to the <em>Washington Post</em>, which agrees to work with him to publish it.<br/><br/>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>national security reporting; investigative reporting; editorial management</p></body></html>
+*CSJ-14-00056.0*
+
+This case takes a behind-the-scenes look at how a national security reporter works. In February 2013, reporter Barton Gellman first learns about a source who claims to have National Security Agency (NSA) documents. Over the next four months, he and his collaborator, Laura Poitras, try to verify whether the source is credible and the materials bona fide. The documents, if true, reveal details about an intrusive NSA program that swept up private communications on a scale unsuspected by most US citizens or Congress. Nine Internet companies gave the NSA access to the information. In late May, Gellman takes the story to the Washington Post, which agrees to work with him to publish it.
+
+Epilogue, Teaching Note
