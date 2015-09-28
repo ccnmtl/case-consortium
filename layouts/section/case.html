@@ -79,7 +79,7 @@
                                 '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
 
 
-                            var new_path = "/case/";
+                            var new_path = "/case/?search=filter";
                             var stateObj = { currentUrl: new_path };
 
                             _.each(settings.state.filters, function(filter, facetname) 
@@ -88,7 +88,7 @@
                                 for(var x=0; x < filter.length; x++)
                                 {
                                     $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
-                                    if(new_path === "/case/") {
+                                    if(new_path === "/case/?search=filter") {
                                         new_path = new_path + '?' + facetname + "=" + filter[x];
                                     } 
                                     else {
@@ -136,8 +136,8 @@
                               }
                         }
                         
-                          //first check if there is a '?' in the link
-                        if (window.location.href.indexOf('?') !== -1)
+                          //first check if there is a '?search=filter' in the link
+                        if (window.location.href.indexOf('?search=filter&') !== -1)
                         {
                             jQuery.facetelize(settings);
                             
@@ -148,9 +148,8 @@
                                 '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
                                 '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
 
-
                             try {
-                                var qry_params = window.location.href.split('?');
+                                var qry_params = window.location.href.split('?search=filter&');
                                 var params = qry_params[1];
 
                                 // first check which facets are in url
@@ -178,7 +177,6 @@
                                     var facet = find_facet[0]; //category/related topics/
                                     var search_term = find_facet[1];
                                     settings.state.filters[facet].push(decodeURI(search_term));
-                                    
                                 }
 
                                 // add tags under search bar for active filters
@@ -198,9 +196,8 @@
                           }
 
                           
-                          if (window.location.href.indexOf('?') === -1)
+                          if (window.location.href.indexOf('?search=filter&') === -1)
                           {
-
                             $('.active-facets').html(
                                 '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
                                 '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +

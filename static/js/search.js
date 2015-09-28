@@ -108,6 +108,10 @@ var searchTable = function() {
     return false;
 }
 
+
+
+
+
 $(document).ready(function() {
     $('#q').on('keydown', function(event) {
        $('.active-facets').hide();
