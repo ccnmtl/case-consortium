@@ -54,4 +54,10 @@
 "title": "AllNovaScotia.com: Success or Anomaly?"
 "title_color": ""
 ---
-<html><body><p><em>CSJ-13-0052.0 </em><br/><br/>This case tells the story of a small, online publication in Halifax, Nova Scotia, which has confounded the punditry of the digital era. AllNovaScotia.com (ANS) sits firmly behind a paywall, does not allow its stories to be shared online, and even refuses subscriptions to employees of rival publications. Nonetheless, it has been financially successful. But in 2013, founder David Bentley faced a crossroads. At 69, he was ready to step back. But what should the next step be: sell out? Duplicate the ANS model elsewhere? Go more digital?</p><p><strong>This is a contributed case.</strong><br/><br/>Epilogue, Teaching Note</p></body></html>
+*CSJ-13-0052.0*
+
+This case tells the story of a small, online publication in Halifax, Nova Scotia, which has confounded the punditry of the digital era. AllNovaScotia.com (ANS) sits firmly behind a paywall, does not allow its stories to be shared online, and even refuses subscriptions to employees of rival publications. Nonetheless, it has been financially successful. But in 2013, founder David Bentley faced a crossroads. At 69, he was ready to step back. But what should the next step be: sell out? Duplicate the ANS model elsewhere? Go more digital?
+
+This is a contributed case.
+
+Epilogue, Teaching Note

@@ -52,4 +52,8 @@
   \ the Nonprofit Model"
 "title_color": ""
 ---
-<html><body><p></p><p><em>CSJ-13-0049.0</em></p><p>This case looks at the realities of creating a non-profit news start-up focused on investigative reporting. Nonprofits often start with substantial financial support from foundations. Is this healthy in the news business? What about when the goal is public service journalism? How can news start-ups achieve a sustainable business model that includes a mix of funding streams?</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>journalism entrepreneurship; editorial management; ethics; or multimedia journalism production</p></body></html>
+*CSJ-13-0049.0*
+
+This case looks at the realities of creating a non-profit news start-up focused on investigative reporting. Nonprofits often start with substantial financial support from foundations. Is this healthy in the news business? What about when the goal is public service journalism? How can news start-ups achieve a sustainable business model that includes a mix of funding streams?
+
+Epilogue, Teaching Note

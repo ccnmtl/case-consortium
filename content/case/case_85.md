@@ -52,4 +52,8 @@
 "title": "A Woman&apos;s Place? Photojournalist Lynsey Addario in Libya"
 "title_color": ""
 ---
-<html><body><p><em>CSJ-12-0043.0</em></p><p><span style="font-size: 12px;">This case raises for student consideration the challenges and rewards of covering conflict, especially for women reporters. In March 2011, photojournalist Lynsey Addario and three male colleagues from the </span><span style="font-size:12px;"><em>New York Times </em></span><span style="font-size:12px;">were seized at gunpoint by soldiers in Libya. Use this case to discuss how female journalists and their employers deal with the "silencing crime"--sexual attacks.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, verdana, sans-serif; line-height: 19px;">reporting in conflict zones; journalism and trauma; international journalism; or race/gender</span></p></body></html>
+*CSJ-12-0043.0*
+
+This case raises for student consideration the challenges and rewards of covering conflict, especially for women reporters. In March 2011, photojournalist Lynsey Addario and three male colleagues from the New York Times were seized at gunpoint by soldiers in Libya. Use this case to discuss how female journalists and their employers deal with the “silencing crime”–sexual attacks.
+
+Epilogue, Teaching Note

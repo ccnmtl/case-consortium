@@ -61,4 +61,8 @@
 "title": "Caricatured: &lt;i&gt;Le Monde&lt;/i&gt; and the Mohammed Cartoons"
 "title_color": "#ab0c0c"
 ---
-<html><body><div style="float: right; padding: 10px;"></div><p><em>CSJ-11-0036.0</em><br/>In early 2006, when news organizations across the world debated whether and how to republish Danish cartoons of the Islamic Prophet Mohammed, the influential French paper <em>Le Monde</em> found itself balancing two priorities: to respect religious beliefs and to support freedom of expression. Students can use this case to debate the role of religion in a secular society and the contribution the media can make to stoking or calming a conflict, the responsibility of news outlets to inform readers even if the information is inflammatory, the line between respect for religion and censorship, and the balance between religious beliefs and freedom of the press.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>international; religion reporting; news graphics</p></body></html>
+*CSJ-11-0036.0*
+
+In early 2006, when news organizations across the world debated whether and how to republish Danish cartoons of the Islamic Prophet Mohammed, the influential French paper Le Monde found itself balancing two priorities: to respect religious beliefs and to support freedom of expression. Students can use this case to debate the role of religion in a secular society and the contribution the media can make to stoking or calming a conflict, the responsibility of news outlets to inform readers even if the information is inflammatory, the line between respect for religion and censorship, and the balance between religious beliefs and freedom of the press.
+
+Epilogue, Teaching Note
