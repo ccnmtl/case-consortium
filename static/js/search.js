@@ -77,13 +77,7 @@ var searchTable = function() {
     if (results.length == 0) {
         $el.html('Sorry, no results matching your query were found.');
     } else {
-  		$el.prepend('<thead>' +
-                '<tr>' +
-                    '<th class="case_id_head">Case Number</th>' +
-                    '<th class="case_title_head">Title</th>' +
-                    '<th class="case_topics_head">Category</th>' +
-                '</tr>' +
-               '</thead>');
+    	CaseFunctions.setTableHeaders();
         for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
 
@@ -108,41 +102,3 @@ var searchTable = function() {
     return false;
 }
 
-
-
-
-
-$(document).ready(function() {
-    $('#q').on('keydown', function(event) {
-       $('.active-facets').hide();
-       var x = event.which;
-       if (x === 13) {
-    	   $('#search-results').empty();
-           $('#search-results').hide();
-    	   jQuery("#results").show();
-    	   $('#q').blur();
-    	   return searchTable();
-       }
-    });
-    $('#q').keyup(function() {
-        var x = event.which;
-        if (x === 13) {
-     	   $('#search-results').empty();
-           $('#search-results').hide();
-     	   jQuery("#results").show();
-     	   $('#q').blur();
-     	   return searchTable();
-        }
-        $('#search-results').empty();
-        if ($(this).val().length < 2) {
-            return;
-        }
-        $('#clear-search').show();
-        return doSearch();
-    });
-    $('#clear-search').click(function(){
-        $('#search-results').empty();
-        $('#search-results').hide();
-        $('#clear-search').hide();
-    });
-});
