@@ -110,7 +110,13 @@
                         {
                             CaseFunctions.drawActiveFacetsDiv();
                         }
-                        
+                        if (window.location.href.indexOf('?search=keyword&') !== -1)
+                        {
+                        	var qry_params = window.location.href.split('?search=keyword&search=');
+                            var params = qry_params[1];
+                            var params = decodeURI(params);
+                            return createSearchTable(params);
+                        }
                         jQuery.facetelize(settings);
 
                         CaseFunctions.setTableHeaders();
@@ -131,7 +137,6 @@
 
                           jQuery('.facetitem').on('click', CaseFunctions.updateFilterQueryParamsBreadCrumbs);
                           jQuery('.deselectstartover').on('click', CaseFunctions.clearQueryParams);
-
 
                           jQuery('.active-facets').on('click', function(event){
 
@@ -188,19 +193,22 @@
                 	  jQuery('.active-facets').hide();
                 	  jQuery("#facets").hide();
                 	  jQuery("#results").hide();
-                	  // toggleURLPath();
                   });
                   jQuery("#q").focusout(function() {
                    	  jQuery("#facets").show();
                    	  jQuery("#results").show();
-                   	  // toggleURLPath();
                   });
                   jQuery('#q').on('keydown', function(event) {
                 	  jQuery('.active-facets').hide();
+                	  
                 	    CaseFunctions.switchKeywordSearchPath();
                 	    jQuery('.active-facets').hide();
                 	       var x = event.which;
                 	       if (x === 13) {
+                	    	   //console.log(jQuery('#q').value());
+                	    	   //var x = jQuery('#q').val();
+                	           //console.log(x);
+                	           CaseFunctions.getSearchKeywordTablePath();
                 	    	   jQuery('#search-results').empty();
                 	    	   jQuery('#search-results').hide();
                 	    	   jQuery("#results").show();
@@ -215,7 +223,7 @@
                 	      jQuery('#search-results').hide();
                 	      jQuery("#results").show();
                 	      $('#q').blur();
-                	     	   return searchTable();
+                	      return searchTable();
                 	  }
                 	  jQuery('#search-results').empty();
                 	  if ($(this).val().length < 2) {
