@@ -64,39 +64,6 @@
                       //faceted search and several methods called after the facested search is instantiated
                       CaseFunctions.setTableHeaders();
                       
-//                       function updateFilterQueryParamsBreadCrumbs() {
-//                     	  CaseFunctions.drawActiveFacetsDiv();
-//                     	  CaseFunctions.displayActiveBreadcrumbs();
-//                     	  CaseFunctions.updateFilterSearchPath();
-//                     	  CaseFunctions.unescapeHtml();
-
-//                       }
-//                       function updateQueryParamsAndBreadCrumbs(){
-                  
-//                         	CaseFunctions.drawActiveFacetsDiv();
-
-//                             var new_path = "/case/?search=filter";
-//                             var stateObj = { currentUrl: new_path };
-
-//                             _.each(settings.state.filters, function(filter, facetname) 
-//                             {
-//                                 $('.active-facets .'+facetname+'').show();
-//                                 for(var x=0; x < filter.length; x++)
-//                                 {
-//                                     $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
-//                                     if(new_path === "/case/?search=filter") {
-//                                         new_path = new_path + '?' + facetname + "=" + filter[x];
-//                                     } 
-//                                     else {
-//                                         new_path = new_path + "&" + facetname + "=" + filter[x];
-//                                     }
-                                    
-//                                 }
-//                             });
-//                               window.history.pushState(stateObj, "case-search", new_path);
-
-
-//                         }
                         var item_template =
                             '<tr class="item">' +
                               '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
@@ -218,6 +185,7 @@
             <script type="text/javascript">
               jQuery(document).ready(function(){
                   jQuery("#q").focus(function() {
+                	  jQuery('.active-facets').hide();
                 	  jQuery("#facets").hide();
                 	  jQuery("#results").hide();
                 	  // toggleURLPath();
@@ -227,40 +195,41 @@
                    	  jQuery("#results").show();
                    	  // toggleURLPath();
                   });
-                  $('#q').on('keydown', function(event) {
+                  jQuery('#q').on('keydown', function(event) {
+                	  jQuery('.active-facets').hide();
                 	    CaseFunctions.switchKeywordSearchPath();
-                	       $('.active-facets').hide();
+                	    jQuery('.active-facets').hide();
                 	       var x = event.which;
                 	       if (x === 13) {
-                	    	   $('#search-results').empty();
-                	           $('#search-results').hide();
+                	    	   jQuery('#search-results').empty();
+                	    	   jQuery('#search-results').hide();
                 	    	   jQuery("#results").show();
-                	    	   $('#q').blur();
+                	    	   jQuery('#q').blur();
                 	    	   return searchTable();
                 	       }
-                	    });
-                	    $('#q').keyup(function() {
-                	        var x = event.which;
-                	        if (x === 13) {
-                	     	   $('#search-results').empty();
-                	           $('#search-results').hide();
-                	     	   jQuery("#results").show();
-                	     	   $('#q').blur();
+                  });
+                  jQuery('#q').keyup(function() {
+                	  var x = event.which;
+                	  if (x === 13) {
+                	      jQuery('#search-results').empty();
+                	      jQuery('#search-results').hide();
+                	      jQuery("#results").show();
+                	      $('#q').blur();
                 	     	   return searchTable();
-                	        }
-                	        $('#search-results').empty();
-                	        if ($(this).val().length < 2) {
-                	            return;
-                	        }
-                	        $('#clear-search').show();
-                	        return doSearch();
-                	    });
-                	    $('#clear-search').click(function(){
-                	    	CaseFunctions.switchFilterSearchPath();
-                	        $('#search-results').empty();
-                	        $('#search-results').hide();
-                	        $('#clear-search').hide();
-                	    });
+                	  }
+                	  jQuery('#search-results').empty();
+                	  if ($(this).val().length < 2) {
+                	      return;
+                	  }
+                	  jQuery('#clear-search').show();
+                	  return doSearch();
+                  });
+                  jQuery('#clear-search').click(function(){
+                	   CaseFunctions.switchFilterSearchPath();
+                	   jQuery('#search-results').empty();
+                	   jQuery('#search-results').hide();
+                	   jQuery('#clear-search').hide();
+                  });
               });
             </script>
             
