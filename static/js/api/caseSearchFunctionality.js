@@ -131,7 +131,7 @@ var CaseFunctions = function () {
         drawActiveFacetsDiv();
     	
     };
-        
+    
     var resetSearchFacetTableBreadcrumbsPath = function ()
     {
  		/* Reset entire interface --> reset facets, bread crumbs, and table*/
@@ -140,9 +140,12 @@ var CaseFunctions = function () {
 		
  	};
  	
-    var resetSearchKeywordTablePath = function ()
+    var getSearchKeywordTablePath = function ()
  	{
-    	switchKeywordSearchPath();
+    	var x = jQuery('#q').val();
+        var new_path = "/case/?search=keyword&search=" + encodeURI(x);
+        var stateObj = { currentUrl: new_path };
+        window.history.replaceState(stateObj, "case-search", new_path);
 		
  	};
         	
@@ -157,9 +160,10 @@ var CaseFunctions = function () {
         displayActiveBreadcrumbs: displayActiveBreadcrumbs,
         updateFilterSearchPath: updateFilterSearchPath,
  		resetSearchFacetTableBreadcrumbsPath: resetSearchFacetTableBreadcrumbsPath,
- 		resetSearchKeywordTablePath: resetSearchKeywordTablePath,
+ 		//resetSearchKeywordTablePath: resetSearchKeywordTablePath,
  		reconstructFilterSearch: reconstructFilterSearch,
  		updateFilterQueryParamsBreadCrumbs: updateFilterQueryParamsBreadCrumbs,
+ 		getSearchKeywordTablePath: getSearchKeywordTablePath
 
 	};
 	
