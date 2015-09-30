@@ -102,3 +102,39 @@ var searchTable = function() {
     return false;
 }
 
+var createSearchTable = function(q) {
+	jQuery("#facets").hide();
+    //var q = $('#q').val();
+    window.results = index.search(q);
+    var $el = $('#results');
+    $el.empty();
+    $el.show();
+    
+
+    if (results.length == 0) {
+        $el.html('Sorry, no results matching your query were found.');
+    } else {
+    	CaseFunctions.setTableHeaders();
+        for (r in results.slice(0, 10)) {
+            if (results.hasOwnProperty(r)) {
+
+                var d = results[r].ref;
+                var row = "";
+                var case_category = window.data[d]['category'];
+                var cat_url = window.data[d]['cat_url'];
+                var case_number = window.data[d]['case_number'];
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
+
+                var $result = $('<tr class="item">');
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                                   + title + '</a></td><td><a href="/category/'+cat_url+'">'
+                                   + case_category + '</td>'
+                $result.append(row_elements);
+                $el.append($result);
+            }
+            jQuery("#results").tablesorter();
+        }
+    }
+    return false;
+}

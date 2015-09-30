@@ -110,7 +110,13 @@
                         {
                             CaseFunctions.drawActiveFacetsDiv();
                         }
-                        
+                        if (window.location.href.indexOf('?search=keyword&') !== -1)
+                        {
+                        	var qry_params = window.location.href.split('?search=keyword&search=');
+                            var params = qry_params[1];
+                            var params = decodeURI(params);
+                            return createSearchTable(params);
+                        }
                         jQuery.facetelize(settings);
 
                         CaseFunctions.setTableHeaders();
