@@ -63,32 +63,40 @@
                       //after cases have loaded this function runs, contains the information passed to
                       //faceted search and several methods called after the facested search is instantiated
                       CaseFunctions.setTableHeaders();
-                      function updateQueryParamsAndBreadCrumbs(){
+                      
+//                       function updateFilterQueryParamsBreadCrumbs() {
+//                     	  CaseFunctions.drawActiveFacetsDiv();
+//                     	  CaseFunctions.displayActiveBreadcrumbs();
+//                     	  CaseFunctions.updateFilterSearchPath();
+//                     	  CaseFunctions.unescapeHtml();
+
+//                       }
+//                       function updateQueryParamsAndBreadCrumbs(){
                   
-                        	CaseFunctions.drawActiveFacetsDiv();
+//                         	CaseFunctions.drawActiveFacetsDiv();
 
-                            var new_path = "/case/?search=filter";
-                            var stateObj = { currentUrl: new_path };
+//                             var new_path = "/case/?search=filter";
+//                             var stateObj = { currentUrl: new_path };
 
-                            _.each(settings.state.filters, function(filter, facetname) 
-                            {
-                                $('.active-facets .'+facetname+'').show();
-                                for(var x=0; x < filter.length; x++)
-                                {
-                                    $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
-                                    if(new_path === "/case/?search=filter") {
-                                        new_path = new_path + '?' + facetname + "=" + filter[x];
-                                    } 
-                                    else {
-                                        new_path = new_path + "&" + facetname + "=" + filter[x];
-                                    }
+//                             _.each(settings.state.filters, function(filter, facetname) 
+//                             {
+//                                 $('.active-facets .'+facetname+'').show();
+//                                 for(var x=0; x < filter.length; x++)
+//                                 {
+//                                     $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
+//                                     if(new_path === "/case/?search=filter") {
+//                                         new_path = new_path + '?' + facetname + "=" + filter[x];
+//                                     } 
+//                                     else {
+//                                         new_path = new_path + "&" + facetname + "=" + filter[x];
+//                                     }
                                     
-                                }
-                            });
-                              window.history.pushState(stateObj, "case-search", new_path);
+//                                 }
+//                             });
+//                               window.history.pushState(stateObj, "case-search", new_path);
 
 
-                        }
+//                         }
                         var item_template =
                             '<tr class="item">' +
                               '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
@@ -119,94 +127,49 @@
                         
                         // first check if there is a '?search=filter' in the link
                         // if it is recreate search from url params
-                        if (window.location.href.indexOf('?search=filter&') !== -1)
+                        if (window.location.href.indexOf('?search=filter') !== -1)
                         {
                             jQuery.facetelize(settings);
                             
                             CaseFunctions.setTableHeaders();
                             CaseFunctions.unescapeHtml();
                             CaseFunctions.drawActiveFacetsDiv();
-
-                            try {
-                                var qry_params = window.location.href.split('?search=filter&');
-                                var params = qry_params[1];
-
-                                // first check which facets are in url
-                                if (params.indexOf('category') !== -1)
-                                {
-                                  $.extend(settings.state.filters, {'category': []});
-                                }
-                                if (params.indexOf('topics') !== -1)
-                                {
-                                  $.extend(settings.state.filters, {'topics': []});
-                                }
-                                if (params.indexOf('related_cases') !== -1)
-                                {
-                                  $.extend(settings.state.filters, {'related_cases': []});
-                                }
-
-                                var active_facets = params.split('&');
-
-
-                                // go over url parameters and re create search results
-                                for(var count_params=0; count_params < active_facets.length; count_params++)
-                                {   
-                                    //count_params = count_params - 1;
-                                    var find_facet = String(active_facets[count_params]).split('=');
-                                    var facet = find_facet[0]; //category/related topics/
-                                    var search_term = find_facet[1];
-                                    settings.state.filters[facet].push(decodeURI(search_term));
-                                }
-
-                                // add tags under search bar for active filters
-                                _.each(settings.state.filters, function(filter, facetname) 
-                                {   
-                                    $('.active-facets .'+facetname+'').show();
-                                    for(var x=0; x < filter.length; x++)
-                                    {
-                                        $('.active-facets .'+facetname+'').append("<span class='active-search-term' data-filtername='"+filter[x]+"'>"+filter[x]+"<span class='glyphicon glyphicon-remove'></span></span>");
-                                    }
-                                });
-                                
-                            }
-                            catch(error){
-                              console.log(error);
-                            }
-                          }
+                            CaseFunctions.reconstructFilterSearch();
+                            
+                        }
 
                           
-                          if (window.location.href.indexOf('?search=filter') === -1)
-                          {
-                        	  CaseFunctions.drawActiveFacetsDiv();
-                          }
+                        if (window.location.href.indexOf('?search=filter') === -1)
+                        {
+                            CaseFunctions.drawActiveFacetsDiv();
+                        }
                         
-                          jQuery.facetelize(settings);
+                        jQuery.facetelize(settings);
 
-                          CaseFunctions.setTableHeaders();
-                          CaseFunctions.unescapeHtml();
-                          // calling tablesorter library to order results of search
-                          jQuery("#results").tablesorter(); 
+                        CaseFunctions.setTableHeaders();
+                        CaseFunctions.unescapeHtml();
+                        // calling tablesorter library to order results of search
+                        jQuery("#results").tablesorter(); 
 
 
-                          jQuery('.orderbyitem')
+                        jQuery('.orderbyitem')
                             .add(jQuery('.facetitem'))
                             .add(jQuery('.deselectstartover'))
                             .add(jQuery('#showmorebutton'))
                             .on('click', function(){
-
-                            	CaseFunctions.setTableHeaders();
+                                CaseFunctions.setTableHeaders();
                             	CaseFunctions.unescapeHtml();
                                 jQuery("#results").tablesorter(); 
-                            })
+                            });
 
-                          jQuery('.facetitem').on('click', updateQueryParamsAndBreadCrumbs);
-                          jQuery('.deselectstartover').on('click', updateQueryParamsAndBreadCrumbs);
+                          jQuery('.facetitem').on('click', CaseFunctions.updateFilterQueryParamsBreadCrumbs);
+                          jQuery('.deselectstartover').on('click', CaseFunctions.clearQueryParams);
 
 
                           jQuery('.active-facets').on('click', function(event){
 
-                            if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
-                            {
+                              if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
+                              {
                                 var filterText = event.target.parentNode.attributes['data-filtername'].value;
                                 var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
 
@@ -218,13 +181,13 @@
                                             settings.state.filters[facetname].pop(filterText);
                                             // and remove the filter
                                             jQuery.facetUpdate();
-                                            updateQueryParamsAndBreadCrumbs();
-                                            unescapeHtml();
+                                            CaseFunctions.updateFilterQueryParamsBreadCrumbs();
+                                            CaseFunctions.unescapeHtml();
 
                                             if(settings.state.filters[facetname].length === 0)
                                             {
                                                 delete settings.state.filters[facetname];
-                                                updateQueryParamsAndBreadCrumbs();
+                                                CaseFunctions.updateFilterQueryParamsBreadCrumbs();
                                                 jQuery.facetUpdate();
                                                 CaseFunctions.unescapeHtml();
                                                 CaseFunctions.setTableHeaders();
@@ -264,6 +227,40 @@
                    	  jQuery("#results").show();
                    	  // toggleURLPath();
                   });
+                  $('#q').on('keydown', function(event) {
+                	    CaseFunctions.switchKeywordSearchPath();
+                	       $('.active-facets').hide();
+                	       var x = event.which;
+                	       if (x === 13) {
+                	    	   $('#search-results').empty();
+                	           $('#search-results').hide();
+                	    	   jQuery("#results").show();
+                	    	   $('#q').blur();
+                	    	   return searchTable();
+                	       }
+                	    });
+                	    $('#q').keyup(function() {
+                	        var x = event.which;
+                	        if (x === 13) {
+                	     	   $('#search-results').empty();
+                	           $('#search-results').hide();
+                	     	   jQuery("#results").show();
+                	     	   $('#q').blur();
+                	     	   return searchTable();
+                	        }
+                	        $('#search-results').empty();
+                	        if ($(this).val().length < 2) {
+                	            return;
+                	        }
+                	        $('#clear-search').show();
+                	        return doSearch();
+                	    });
+                	    $('#clear-search').click(function(){
+                	    	CaseFunctions.switchFilterSearchPath();
+                	        $('#search-results').empty();
+                	        $('#search-results').hide();
+                	        $('#clear-search').hide();
+                	    });
               });
             </script>
             
