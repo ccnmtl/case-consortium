@@ -77,13 +77,14 @@ var searchTable = function() {
     if (results.length == 0) {
         $el.html('Sorry, no results matching your query were found.');
     } else {
-  		$el.prepend('<thead>' +
+  		/*$el.prepend('<thead>' +
                 '<tr>' +
                     '<th class="case_id_head">Case Number</th>' +
                     '<th class="case_title_head">Title</th>' +
                     '<th class="case_topics_head">Category</th>' +
                 '</tr>' +
-               '</thead>');
+               '</thead>');*/
+    	CaseFunctions.setTableHeaders();
         for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
 
@@ -114,6 +115,7 @@ var searchTable = function() {
 
 $(document).ready(function() {
     $('#q').on('keydown', function(event) {
+    	//toggleURLPath();
        $('.active-facets').hide();
        var x = event.which;
        if (x === 13) {

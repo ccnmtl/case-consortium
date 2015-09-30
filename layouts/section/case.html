@@ -52,7 +52,7 @@
 </div>
 
          {{ partial "footer.html" . }}
-
+          <script type="text/javascript" src="/js/api/caseSearchFunctionality.js"></script> 
           <script data-export="true" data-file-extension="js" id="facetize">
             jQuery(document).ready(function(){
                 $.getJSON('/js/api/cases.json').success(function(cases){
@@ -60,24 +60,12 @@
                   }).error(function(){
                       alert('There was a problem loading the cases.')
                   }).complete(function(){
-                    //after cases have loaded this function runs, contains the information passed to
-                    //faceted search and several methods called after the facested search is instantiated
-                        function setTableHeaders(){
-                            jQuery('#results').prepend('<thead>' +
-                                                        '<tr>' +
-                                                            '<th class="case_id_head">Case Number</th>' +
-                                                            '<th class="case_title_head">Title</th>' +
-                                                            '<th class="case_topics_head">Category</th>' +
-                                                        '</tr>' +
-                                                       '</thead>');
-                        }
-                        function updateQueryParamsAndBreadCrumbs(){
-
-                            $('.active-facets').html(
-                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
-                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
-
+                      //after cases have loaded this function runs, contains the information passed to
+                      //faceted search and several methods called after the facested search is instantiated
+                      CaseFunctions.setTableHeaders();
+                      function updateQueryParamsAndBreadCrumbs(){
+                  
+                        	CaseFunctions.drawActiveFacetsDiv();
 
                             var new_path = "/case/?search=filter";
                             var stateObj = { currentUrl: new_path };
@@ -101,13 +89,6 @@
 
 
                         }
-                        window.unescapeHtml = function(){
-                            jQuery('.unescape').each(function(){
-                                var text = jQuery(this).text();
-                                jQuery(this).html(text);
-                            });
-                        }
-
                         var item_template =
                             '<tr class="item">' +
                               '<td class="case_id" id="case-id-<%= obj.id %>"><div class="desc hidden"><%= obj.description %></div>' +
@@ -136,17 +117,15 @@
                               }
                         }
                         
-                          //first check if there is a '?search=filter' in the link
+                        // first check if there is a '?search=filter' in the link
+                        // if it is recreate search from url params
                         if (window.location.href.indexOf('?search=filter&') !== -1)
                         {
                             jQuery.facetelize(settings);
                             
-                              setTableHeaders();
-                              unescapeHtml();
-                              $('.active-facets').html(
-                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
-                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
+                            CaseFunctions.setTableHeaders();
+                            CaseFunctions.unescapeHtml();
+                            CaseFunctions.drawActiveFacetsDiv();
 
                             try {
                                 var qry_params = window.location.href.split('?search=filter&');
@@ -196,18 +175,15 @@
                           }
 
                           
-                          if (window.location.href.indexOf('?search=filter&') === -1)
+                          if (window.location.href.indexOf('?search=filter') === -1)
                           {
-                            $('.active-facets').html(
-                                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
-                                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
-                                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
+                        	  CaseFunctions.drawActiveFacetsDiv();
                           }
                         
                           jQuery.facetelize(settings);
 
-                          setTableHeaders();
-                          unescapeHtml();
+                          CaseFunctions.setTableHeaders();
+                          CaseFunctions.unescapeHtml();
                           // calling tablesorter library to order results of search
                           jQuery("#results").tablesorter(); 
 
@@ -218,8 +194,8 @@
                             .add(jQuery('#showmorebutton'))
                             .on('click', function(){
 
-                                setTableHeaders();
-                                unescapeHtml();
+                            	CaseFunctions.setTableHeaders();
+                            	CaseFunctions.unescapeHtml();
                                 jQuery("#results").tablesorter(); 
                             })
 
@@ -250,12 +226,12 @@
                                                 delete settings.state.filters[facetname];
                                                 updateQueryParamsAndBreadCrumbs();
                                                 jQuery.facetUpdate();
-                                                unescapeHtml();
-                                                setTableHeaders();
+                                                CaseFunctions.unescapeHtml();
+                                                CaseFunctions.setTableHeaders();
                                                 jQuery("#results").tablesorter(); 
                                             }
                                             else {
-                                                setTableHeaders();
+                                            	CaseFunctions.setTableHeaders();
                                                 jQuery("#results").tablesorter(); 
                                             }
                                 
@@ -281,10 +257,12 @@
                   jQuery("#q").focus(function() {
                 	  jQuery("#facets").hide();
                 	  jQuery("#results").hide();
+                	  // toggleURLPath();
                   });
                   jQuery("#q").focusout(function() {
                    	  jQuery("#facets").show();
                    	  jQuery("#results").show();
+                   	  // toggleURLPath();
                   });
               });
             </script>
