@@ -179,6 +179,7 @@ var CaseFunctions = function () {
     	hideSearchBar();
     	jQuery("#facets").show();
     	jQuery(".active-facets").show();
+    	jQuery("#results").show();
     	hideFilterSearchLink();
     	showKeywordSearchLink();
 		switchFilterSearchPath();
@@ -197,7 +198,8 @@ var CaseFunctions = function () {
             drawActiveFacetsDiv();
         	unescapeHtml();
         	displayActiveBreadcrumbs();
-            jQuery("#results").tablesorter(); 
+            jQuery("#results").tablesorter();
+            jQuery("#results").show();
         });
 		jQuery('.facetitem').on('click', updateFilterQueryParamsBreadCrumbs);
         jQuery('.deselectstartover').on('click', clearQueryParams);
