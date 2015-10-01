@@ -25,6 +25,8 @@
       </div>
     </form>
     <div id="search-results"></div>
+    <div class="return-filter" style="display:none"><a href="#">Return to Filter Search</a></div>
+    <div class="return-search" style="display:none"><a href="#">Return to Text Search</a></div>
       <!-- End Search Box -->
     <div class="active-facets"></div>
   </div>
@@ -97,12 +99,11 @@
                         if (window.location.href.indexOf('?search=filter') !== -1)
                         {
                             jQuery.facetelize(settings);
-                            
                             CaseFunctions.setTableHeaders();
                             CaseFunctions.unescapeHtml();
                             CaseFunctions.drawActiveFacetsDiv();
                             CaseFunctions.reconstructFilterSearch();
-                            
+                            CaseFunctions.hideSearchBar();
                         }
 
                           
@@ -130,20 +131,23 @@
                             .add(jQuery('.deselectstartover'))
                             .add(jQuery('#showmorebutton'))
                             .on('click', function(){
+                            	CaseFunctions.showKeywordSearchLink();
                                 CaseFunctions.setTableHeaders();
                             	CaseFunctions.unescapeHtml();
                                 jQuery("#results").tablesorter(); 
                             });
-
+                          /* when user selects a facet */
                           jQuery('.facetitem').on('click', CaseFunctions.updateFilterQueryParamsBreadCrumbs);
                           jQuery('.deselectstartover').on('click', CaseFunctions.clearQueryParams);
 
                           jQuery('.active-facets').on('click', function(event){
+                        	  CaseFunctions.hideSearchBar();
+                        	  CaseFunctions.showKeywordSearchLink();
 
                               if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
                               {
-                                var filterText = event.target.parentNode.attributes['data-filtername'].value;
-                                var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
+                                  var filterText = event.target.parentNode.attributes['data-filtername'].value;
+                                  var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
 
                                 _.each(settings.state.filters, function(filter, facetname) 
                                 {
@@ -188,41 +192,33 @@
               });
             </script>
             <script type="text/javascript">
+                /* put events to listen for here... */
               jQuery(document).ready(function(){
                   jQuery("#q").focus(function() {
-                	  jQuery('.active-facets').hide();
-                	  jQuery("#facets").hide();
-                	  jQuery("#results").hide();
+                	  CaseFunctions.hideFacetElements();
+                	  CaseFunctions.showFilterSearchLink();
+                	  CaseFunctions.hideKeywordSearchLink();
                   });
                   jQuery("#q").focusout(function() {
-                   	  jQuery("#facets").show();
-                   	  jQuery("#results").show();
+                   	  CaseFunctions.reconstructFilterSearch();
+                   	  CaseFunctions.hideFilterSearchLink();
+                   	  CaseFunctions.showKeywordSearchLink();
                   });
                   jQuery('#q').on('keydown', function(event) {
-                	  jQuery('.active-facets').hide();
-                	  
                 	    CaseFunctions.switchKeywordSearchPath();
-                	    jQuery('.active-facets').hide();
+                	    CaseFunctions.hideFacetElements();
                 	       var x = event.which;
                 	       if (x === 13) {
-                	    	   //console.log(jQuery('#q').value());
-                	    	   //var x = jQuery('#q').val();
-                	           //console.log(x);
                 	           CaseFunctions.getSearchKeywordTablePath();
-                	    	   jQuery('#search-results').empty();
-                	    	   jQuery('#search-results').hide();
-                	    	   jQuery("#results").show();
-                	    	   jQuery('#q').blur();
+                	           CaseFunctions.resetKeyworSearchAndDisplayResults();
                 	    	   return searchTable();
                 	       }
                   });
                   jQuery('#q').keyup(function() {
                 	  var x = event.which;
                 	  if (x === 13) {
-                	      jQuery('#search-results').empty();
-                	      jQuery('#search-results').hide();
-                	      jQuery("#results").show();
-                	      $('#q').blur();
+                		  CaseFunctions.getSearchKeywordTablePath();
+                		  CaseFunctions.resetKeyworSearchAndDisplayResults();
                 	      return searchTable();
                 	  }
                 	  jQuery('#search-results').empty();
@@ -233,10 +229,20 @@
                 	  return doSearch();
                   });
                   jQuery('#clear-search').click(function(){
-                	   CaseFunctions.switchFilterSearchPath();
-                	   jQuery('#search-results').empty();
-                	   jQuery('#search-results').hide();
-                	   jQuery('#clear-search').hide();
+                	  jQuery('#search-results').empty();
+                	  CaseFunctions.hideSearchBar();
+                	  CaseFunctions.resetSearchFacetTableBreadcrumbsPath();
+                  });
+                  /* when user clicks on link to alternate
+                  * between the two kinds of searches */
+                  jQuery('.return-filter').on('click', function(event){
+                	  CaseFunctions.resetSearchFacetTableBreadcrumbsPath();
+                  });
+                  jQuery('.return-search').on('click', function(event){
+                	  CaseFunctions.hideFacetElements();
+                	  CaseFunctions.hideFilterSearchLink();
+                	  CaseFunctions.showKeywordSearchLink();
+                	  CaseFunctions.resetKeyworSearchAndDisplayResults();
                   });
               });
             </script>

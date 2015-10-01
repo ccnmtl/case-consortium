@@ -11,12 +11,12 @@ var CaseFunctions = function () {
     };
     
     var drawActiveFacetsDiv = function ()
-		{
-    	$('.active-facets').html(
-                '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
-                '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
-                '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
-		};
+	{
+        $('.active-facets').html(
+            '<span class="category" data-facetname="category" style="display:none">Category: </span>' +
+            '<span class="topics" data-facetname="topics" style="display:none">Topics: </span>' +
+            '<span class="related_cases" data-facetname="related_cases" style="display:none">Related Cases: </span>');
+	};
 		
     var unescapeHtml = function ()
 	{
@@ -25,6 +25,47 @@ var CaseFunctions = function () {
             jQuery(this).html(text);
 		});
 	};
+    
+    var showFilterSearchLink = function ()
+	{
+		jQuery('.return-filter').show();
+	};
+	
+    var hideFilterSearchLink = function ()
+	{
+		jQuery('.return-filter').hide();
+	};
+
+    var showKeywordSearchLink = function ()
+	{
+		jQuery('.return-search').show();
+	};
+	
+	var hideKeywordSearchLink = function ()
+	{
+		jQuery('.return-search').hide();
+	};
+	
+	var hideSearchBar = function ()
+	{
+		jQuery('#q').hide();
+		jQuery('.close-icon').hide();
+		jQuery('.ion-android-search').hide();
+    };
+	
+	var showSearchBar = function ()
+	{
+		jQuery('#q').show();
+		jQuery('.close-icon').show();
+		jQuery('.ion-android-search').show();
+    };
+    
+	var hideFacetElements = function ()
+	{
+  	  jQuery('.active-facets').hide();
+	  jQuery("#facets").hide();
+	  jQuery("#results").hide();
+    };
     
 	var clearQueryParams =  function() {
         var new_path = "/case/";
@@ -70,74 +111,107 @@ var CaseFunctions = function () {
     };
     
     var reconstructFilterSearch = function () {
-        // first check if there is a '?search=filter' in the link
-        // if it is recreate search from url params
-            setTableHeaders();
-            unescapeHtml();
-            drawActiveFacetsDiv();
 
-            try 
+        setTableHeaders();
+        unescapeHtml();
+        drawActiveFacetsDiv();
+
+        try 
+        {
+            var qry_params = window.location.href.split('?search=filter&');
+            var params = qry_params[1];
+
+            // first check which facets are in url
+            if (params.indexOf('category') !== -1)
             {
-                var qry_params = window.location.href.split('?search=filter&');
-                var params = qry_params[1];
+                $.extend(settings.state.filters, {'category': []});
+            }
+            if (params.indexOf('topics') !== -1)
+            {
+                $.extend(settings.state.filters, {'topics': []});
+            }
+            if (params.indexOf('related_cases') !== -1)
+            {
+                $.extend(settings.state.filters, {'related_cases': []});
+            }
 
-                // first check which facets are in url
-                if (params.indexOf('category') !== -1)
-                {
-                  $.extend(settings.state.filters, {'category': []});
-                }
-                if (params.indexOf('topics') !== -1)
-                {
-                  $.extend(settings.state.filters, {'topics': []});
-                }
-                if (params.indexOf('related_cases') !== -1)
-                {
-                  $.extend(settings.state.filters, {'related_cases': []});
-                }
+            var active_facets = params.split('&');
 
-                var active_facets = params.split('&');
+            // go over url parameters and re create search results
+            for(var count_params=0; count_params < active_facets.length; count_params++)
+            {   
+                //count_params = count_params - 1;
+                var find_facet = String(active_facets[count_params]).split('=');
+                var facet = find_facet[0]; //category/related topics/
+                var search_term = find_facet[1];
+                settings.state.filters[facet].push(decodeURI(search_term));
+            }
 
-                // go over url parameters and re create search results
-                for(var count_params=0; count_params < active_facets.length; count_params++)
-                {   
-                    //count_params = count_params - 1;
-                    var find_facet = String(active_facets[count_params]).split('=');
-                    var facet = find_facet[0]; //category/related topics/
-                    var search_term = find_facet[1];
-                    settings.state.filters[facet].push(decodeURI(search_term));
-                }
-
-                displayActiveBreadcrumbs();
+            displayActiveBreadcrumbs();
                 
-            }
-            catch(error)
-            {
-              console.log(error);
-            }
+        }
+        catch(error)
+        {
+            console.log(error);
+        }
 
     };
     
     var updateFilterQueryParamsBreadCrumbs = function () {
+    	hideSearchBar();
     	drawActiveFacetsDiv();
     	displayActiveBreadcrumbs();
     	updateFilterSearchPath();
     	unescapeHtml();
-
     };
     
     var updateFilterSearch = function () {
     	updateFilterSearchPath();
     	unescapeHtml();
         drawActiveFacetsDiv();
-    	
     };
     
     var resetSearchFacetTableBreadcrumbsPath = function ()
     {
- 		/* Reset entire interface --> reset facets, bread crumbs, and table*/
-    	//this.
+ 		/* Reset facet interface but hide search bar - repaint
+ 		 * the home screen with the exception of hiding the search
+ 		 * bar and displaying the 'return to keyword search' link */
+    	hideSearchBar();
+    	jQuery("#facets").show();
+    	jQuery(".active-facets").show();
+    	hideFilterSearchLink();
+    	showKeywordSearchLink();
 		switchFilterSearchPath();
-		
+		jQuery.facetelize(settings);
+		setTableHeaders();
+		drawActiveFacetsDiv();
+		unescapeHtml();
+		jQuery("#results").tablesorter(); 
+		/* Needed to rebind the events to the interface since the elements are being redrawn */
+		jQuery('.orderbyitem')
+        .add(jQuery('.facetitem'))
+        .add(jQuery('.deselectstartover'))
+        .add(jQuery('#showmorebutton'))
+        .on('click', function(){
+            setTableHeaders();
+            drawActiveFacetsDiv();
+        	unescapeHtml();
+        	displayActiveBreadcrumbs();
+            jQuery("#results").tablesorter(); 
+        });
+		jQuery('.facetitem').on('click', updateFilterQueryParamsBreadCrumbs);
+        jQuery('.deselectstartover').on('click', clearQueryParams);
+ 	};
+ 	
+    var resetKeyworSearchAndDisplayResults = function ()
+    {
+ 		/* Reset search interface hide facet elements */
+    	showSearchBar();
+    	jQuery('#search-results').empty();
+ 	    jQuery('#search-results').hide();
+ 	    jQuery('#q').blur();
+ 	    hideKeywordSearchLink();
+   	    showFilterSearchLink();
  	};
  	
     var getSearchKeywordTablePath = function ()
@@ -163,7 +237,15 @@ var CaseFunctions = function () {
  		//resetSearchKeywordTablePath: resetSearchKeywordTablePath,
  		reconstructFilterSearch: reconstructFilterSearch,
  		updateFilterQueryParamsBreadCrumbs: updateFilterQueryParamsBreadCrumbs,
- 		getSearchKeywordTablePath: getSearchKeywordTablePath
+ 		getSearchKeywordTablePath: getSearchKeywordTablePath,
+ 		showFilterSearchLink: showFilterSearchLink,
+ 		showKeywordSearchLink: showKeywordSearchLink,
+ 		hideFilterSearchLink: hideFilterSearchLink,
+ 		hideKeywordSearchLink: hideKeywordSearchLink,
+ 		hideSearchBar: hideSearchBar,
+ 		showSearchBar: showSearchBar,
+ 		hideFacetElements: hideFacetElements,
+ 		resetKeyworSearchAndDisplayResults: resetKeyworSearchAndDisplayResults,
 
 	};
 	
