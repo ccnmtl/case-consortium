@@ -99,12 +99,11 @@
                         if (window.location.href.indexOf('?search=filter') !== -1)
                         {
                             jQuery.facetelize(settings);
-                            
                             CaseFunctions.setTableHeaders();
                             CaseFunctions.unescapeHtml();
                             CaseFunctions.drawActiveFacetsDiv();
                             CaseFunctions.reconstructFilterSearch();
-                            
+                            CaseFunctions.hideSearchBar();
                         }
 
                           
@@ -132,6 +131,7 @@
                             .add(jQuery('.deselectstartover'))
                             .add(jQuery('#showmorebutton'))
                             .on('click', function(){
+                            	CaseFunctions.showKeywordSearchLink();
                                 CaseFunctions.setTableHeaders();
                             	CaseFunctions.unescapeHtml();
                                 jQuery("#results").tablesorter(); 
@@ -141,11 +141,13 @@
                           jQuery('.deselectstartover').on('click', CaseFunctions.clearQueryParams);
 
                           jQuery('.active-facets').on('click', function(event){
+                        	  CaseFunctions.hideSearchBar();
+                        	  CaseFunctions.showKeywordSearchLink();
 
                               if (event.target.attributes[0]['nodeValue'] === 'glyphicon glyphicon-remove')
                               {
-                                var filterText = event.target.parentNode.attributes['data-filtername'].value;
-                                var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
+                                  var filterText = event.target.parentNode.attributes['data-filtername'].value;
+                                  var facetText = event.target.parentNode.parentNode.attributes['data-facetname'].value;
 
                                 _.each(settings.state.filters, function(filter, facetname) 
                                 {
@@ -237,7 +239,10 @@
                 	  CaseFunctions.resetSearchFacetTableBreadcrumbsPath();
                   });
                   jQuery('.return-search').on('click', function(event){
-                	  CaseFunctions.resetSearchFacetTableBreadcrumbsPath();
+                	  CaseFunctions.hideFacetElements();
+                	  CaseFunctions.hideFilterSearchLink();
+                	  CaseFunctions.showKeywordSearchLink();
+                	  CaseFunctions.resetKeyworSearchAndDisplayResults();
                   });
               });
             </script>

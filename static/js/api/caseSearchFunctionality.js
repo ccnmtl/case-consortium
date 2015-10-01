@@ -158,6 +158,7 @@ var CaseFunctions = function () {
     };
     
     var updateFilterQueryParamsBreadCrumbs = function () {
+    	hideSearchBar();
     	drawActiveFacetsDiv();
     	displayActiveBreadcrumbs();
     	updateFilterSearchPath();
@@ -177,6 +178,7 @@ var CaseFunctions = function () {
  		 * bar and displaying the 'return to keyword search' link */
     	hideSearchBar();
     	jQuery("#facets").show();
+    	jQuery(".active-facets").show();
     	hideFilterSearchLink();
     	showKeywordSearchLink();
 		switchFilterSearchPath();
@@ -185,6 +187,20 @@ var CaseFunctions = function () {
 		drawActiveFacetsDiv();
 		unescapeHtml();
 		jQuery("#results").tablesorter(); 
+		/* Needed to rebind the events to the interface since the elements are being redrawn */
+		jQuery('.orderbyitem')
+        .add(jQuery('.facetitem'))
+        .add(jQuery('.deselectstartover'))
+        .add(jQuery('#showmorebutton'))
+        .on('click', function(){
+            setTableHeaders();
+            drawActiveFacetsDiv();
+        	unescapeHtml();
+        	displayActiveBreadcrumbs();
+            jQuery("#results").tablesorter(); 
+        });
+		jQuery('.facetitem').on('click', updateFilterQueryParamsBreadCrumbs);
+        jQuery('.deselectstartover').on('click', clearQueryParams);
  	};
  	
     var resetKeyworSearchAndDisplayResults = function ()
@@ -193,7 +209,6 @@ var CaseFunctions = function () {
     	showSearchBar();
     	jQuery('#search-results').empty();
  	    jQuery('#search-results').hide();
- 	    jQuery("#results").show();
  	    jQuery('#q').blur();
  	    hideKeywordSearchLink();
    	    showFilterSearchLink();
