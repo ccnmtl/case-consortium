@@ -106,6 +106,7 @@ var createSearchTable = function(q) {
 	jQuery("#facets").hide();
     //var q = $('#q').val();
     window.results = index.search(q);
+    $('#q').val(q);
     var $el = $('#results');
     $el.empty();
     $el.show();
