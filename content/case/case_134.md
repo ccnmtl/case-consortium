@@ -59,4 +59,8 @@
 "title": "Merging Two Worlds?: Reston Dental Arts and American Dental Partners"
 "title_color": ""
 ---
-<html><body><p><em>CCC-14-0002.0</em></p><p>This case takes students into the world of medical management, the challenges of group practice and the growing prevalence of medical management firms. The case looks at the experience of a Virginia dental group, Reston Dental Arts (RDA). In 1998, the member dentists—who had formed a group in the late 1980s—had in hand an offer from American Dental Partners (ADP). The management firm would take over all front office responsibilities, allow the doctors to focus on patients, and compensate them according to an agreed-on formula. </p><p>Part B, Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>dentistry professional practice; medical management; mergers; acquisitions; human resources</p></body></html>
+*CCC-14-0002.0*
+
+This case takes students into the world of medical management, the challenges of group practice and the growing prevalence of medical management firms. The case looks at the experience of a Virginia dental group, Reston Dental Arts (RDA). In 1998, the member dentists—who had formed a group in the late 1980s—had in hand an offer from American Dental Partners (ADP). The management firm would take over all front office responsibilities, allow the doctors to focus on patients, and compensate them according to an agreed-on formula. 
+
+Part B, Epilogue, Teaching Note
