@@ -44,4 +44,8 @@
 "title": "Land Grab or Responsible Development? Oil Palm Concessions in Liberia"
 "title_color": ""
 ---
-<html><body><p></p><p><em>SIPA-13-0003.0</em></p><p>This case provides a detailed description of a foreign direct investment (FDI) in Liberia. Students are asked to decide whether the project amounts to a land grab or is a legitimate development project.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>natural resource development policy, negotiations, land policy, rural communities</p></body></html>
+*SIPA-13-0003.0*
+
+This case provides a detailed description of a foreign direct investment (FDI) in Liberia. Students are asked to decide whether the project amounts to a land grab or is a legitimate development project.
+
+Epilogue, Teaching Note
