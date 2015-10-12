@@ -57,4 +57,8 @@
   \ Family"
 "title_color": ""
 ---
-<html><body><p><em>CSJ-14-0053.0</em></p><p><span style="font-size:12px;"><span style="font-family: arial, helvetica, verdana, sans-serif; line-height: 19.200000762939453px;">This case chronicles the challenges of reporting on corruption in an authoritarian society. Khadija Ismayilova is an Azerbaijani journalist who was trained in accountability journalism by Western practitioners. In March 2012, while researching yet another expose, Ismayilova received in the mail graphic photos of herself and her boyfriend, taken by a videocamera concealed in her bedroom. A cover letter threatened her if she persisted in her reporting. The case stops as Ismayilova debates what her options are: remain silent or respond and, if the latter, how?</span></span></p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>investigative reporting; blackmail; reporting on corruption</p></body></html>
+*CSJ-14-0053.0*
+
+This case chronicles the challenges of reporting on corruption in an authoritarian society. Khadija Ismayilova is an Azerbaijani journalist who was trained in accountability journalism by Western practitioners. In March 2012, while researching yet another expose, Ismayilova received in the mail graphic photos of herself and her boyfriend, taken by a videocamera concealed in her bedroom. A cover letter threatened her if she persisted in her reporting. The case stops as Ismayilova debates what her options are: remain silent or respond and, if the latter, how?
+
+Epilogue, Teaching Note
