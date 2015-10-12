@@ -49,4 +49,8 @@
   \ y la Historia de Bruce Ivins. Primera Parte."
 "title_color": "#2947a3"
 ---
-<html><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-08-0015.4PO</i><br/>Este caso, en dos partes, es acerca de cómo los medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho del público a informarse. Se pide a los estudiantes que deben tener en cuenta cuáles son las obligaciones de un periódico para sus lectores, y para aquellos sobre los que escribe.</p><p><strong>Temas:</strong> <span class="short_text" id="result_box"><span style="background-color: rgb(255, 255, 255);" title="Topics: international; investigative reporting; ethics">la ética; la privacidad</span></span></p><p><em><strong>Facultad:</strong> Usted tendrá la oportunidad de revisar la parte B, una vez que se haya registrado.</em></p></body></html>
+*CSJ-08-0015.4PO*
+
+Este caso, en dos partes, es acerca de cómo los medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho del público a informarse. Se pide a los estudiantes que deben tener en cuenta cuáles son las obligaciones de un periódico para sus lectores, y para aquellos sobre los que escribe.
+
+Facultad: Usted tendrá la oportunidad de revisar la parte B, una vez que se haya registrado.
