@@ -48,4 +48,8 @@
 "title": "News or Rumor? &lt;i&gt;Politico&lt;/i&gt; and the Edwards Affair "
 "title_color": "#2947a3"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-08-0018.0PO</i><br/>This case is about how journalists make daily decisions on what to write, and what not to write. Students are asked to weigh the credibility of different sources of news, and discuss different standards of accuracy for blogs, tabloids, and more mainstream news outlets. They can also discuss the fine line between privacy and the public's right to know.</p><p>Teaching Note</p><p><b>Topics: </b>ethics; blogging; celebrity reporting</p></body></html>
+*CSJ-08-0018.0PO*
+
+This case is about how journalists make daily decisions on what to write, and what not to write. Students are asked to weigh the credibility of different sources of news, and discuss different standards of accuracy for blogs, tabloids, and more mainstream news outlets. They can also discuss the fine line between privacy and the public’s right to know.
+
+Teaching Note
