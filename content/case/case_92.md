@@ -54,4 +54,8 @@
 "title": "Mission vs Safety: OCHA Somalia and the Baidoa Raid"
 "title_color": ""
 ---
-<html><body><p><em>SIPA-12-0002.0</em></p><p><span style="font-size:12px;">This case provides students with a window into the reality of international humanitarian work, specifically the UN Office for the Coordination of Humanitarian Affairs (OCHA).  In July 2009, al-Shabaab militants overran the UN Common Compound in Baidoa, Somalia, and expelled "political" agencies. Under UN rules, international humanitarian personnel were obliged to leave as well—although they did not want to.</span></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> aid to lawless societies; humanitarian organizations; multinational organizations; public sector management.</p></body></html>
+*SIPA-12-0002.0*
+
+This case provides students with a window into the reality of international humanitarian work, specifically the UN Office for the Coordination of Humanitarian Affairs (OCHA).  In July 2009, al-Shabaab militants overran the UN Common Compound in Baidoa, Somalia, and expelled “political” agencies. Under UN rules, international humanitarian personnel were obliged to leave as well—although they did not want to.
+
+Epilogue, Teaching Note
