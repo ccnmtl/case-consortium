@@ -34,5 +34,6 @@
 "title": "Just Enough Alarm: GlobalPost and the Syrian Chemical Attack S"
 "title_color": ""
 ---
+*CSJ-14-0057.0* 
 
-CSJ-14-0057.0 This case goes behind the scenes at GlobaPost to follow how journalists operate in war zones and how editors evaluate the newsworthiness of what could be an explosive story. In April 2014, GlobalPost Senior Correspondent Tracey Shelton heard reports of a chemical weapons attack that might cross the "red line" set by US President Barack Obama eight months earlier. She and her editors have to decide how to treat what she uncovers.
+This case goes behind the scenes at GlobaPost to follow how journalists operate in war zones and how editors evaluate the newsworthiness of what could be an explosive story. In April 2014, GlobalPost Senior Correspondent Tracey Shelton heard reports of a chemical weapons attack that might cross the “red line” set by US President Barack Obama eight months earlier. She and her editors have to decide how to treat what she uncovers
