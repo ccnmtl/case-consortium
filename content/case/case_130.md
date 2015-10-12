@@ -58,4 +58,8 @@
   \ Africa"
 "title_color": ""
 ---
-<html><body><p><em>CCC-14-0003.0</em></p><p>This case takes readers into the world of advocacy, and the benefits and risks of various strategies and tactics. Based in Cape Town, Equal Education started with a campaign to fix broken window in a single school and grew to encompass libraries, bathrooms, and electricity. In May 2013, it faced a dilemma. EE had sued the minister of basic education to issue basic norms and standards for school infrastructure, but she had missed yet another deadline and requested an extension. The leadership had to decide what to do.</p><p><strong style="margin: 0px; padding: 0px;">This is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p strong="" style="margin: 0px; padding: 0px;">Topics: education reform; social activism; sustainable development; organizational management </p></body></html>
+*CCC-14-0003.0*
+
+This case takes readers into the world of advocacy, and the benefits and risks of various strategies and tactics. Based in Cape Town, Equal Education started with a campaign to fix broken window in a single school and grew to encompass libraries, bathrooms, and electricity. In May 2013, it faced a dilemma. EE had sued the minister of basic education to issue basic norms and standards for school infrastructure, but she had missed yet another deadline and requested an extension. The leadership had to decide what to do.
+
+Epilogue, Teaching Note
