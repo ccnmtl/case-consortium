@@ -13,11 +13,44 @@ import fileinput
 
 file_to_search = sys.argv[1]
 
+def get_trail_number(somestring):
+    somestring = somestring.split('_')
+    sl = somestring[4]
+    sl = sl[4].split('.')
+    return sl[0]
+
+def potential_homepage(string):
+    '''exclude saving numbers for case pages like
+    case_id_20_id_53_c_bio.html'''
+    pass
+
+def is_casefile(somestring):
+    if somestring.endswith(".html") and "case_id" in somestring:
+        return True
+    else:
+        return False
+
+def replace_homepage(directory):
+    '''Still figuring out how to integrate this with the rest of the script'''
+    '''Attempt 1 - check if it is a case html file - if so save first case go
+    through the filenames - check the length of the name AND if the name has
+    a trailing number save that '''
+    file_name = os.getcwd()
+    list = os.listdir(file_name)
+    type(list)
+    shortest_file = list[0]
+    lowest_number = 0
+    for each in list:
+        '''We find a case html file with shorter name'''
+        print each
+        if len(shortest_file) > len(each):
+            shortest_file = each
 
 def search_folders(file_name):
     for path, subdirs, files in os.walk(file_name):
         files.sort()
         for f_name in files:
+            '''Remove duplicate html files ending with _pid_0.html'''
             if "_pid_0" in f_name:
                 print "Removing file : " + str(f_name)
                 file_path = os.path.join(path, f_name)
@@ -37,6 +70,12 @@ def search_folders(file_name):
                 for line in fileinput.input(file_path):
                     newfile.write(line.replace(old_string, new_string))
                 newfile.close()
+
+    for path, subdirs, files in os.walk(file_name):
+        '''need to account for homepage - has shortest name
+        and corresponding duplicate has the lowest ending id number'''
+        pass
+
 
 
 search_folders(file_to_search)
