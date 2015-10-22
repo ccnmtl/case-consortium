@@ -9,6 +9,7 @@ from subprocess import call
 import os
 import sys
 import fileinput
+import fnmatch
 
 
 file_to_search = sys.argv[1]
@@ -19,11 +20,14 @@ def get_trail_number(somestring):
     sl = sl[4].split('.')
     return sl[0]
 
-def potential_homepage(string):
-    '''exclude saving numbers for case pages like
-    case_id_20_id_53_c_bio.html'''
-    pass
-
+def is_homepage(string):
+    '''Better as regex - page with case_id_(some_number).html'''
+    if fnmatch.fnmatch(file, '^case_id_(\d+).html$'):
+        print file
+# for file in os.listdir('.'):
+#     if fnmatch.fnmatch(file, '*.txt'):
+#         print file
+#         
 def is_casefile(somestring):
     '''only process names of case files - the rest is a waste of time'''
     if somestring.endswith(".html") and "case_id" in somestring:
