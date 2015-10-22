@@ -9,7 +9,6 @@ from subprocess import call
 import os
 import sys
 import fileinput
-import fnmatch
 
 
 file_to_search = sys.argv[1]
