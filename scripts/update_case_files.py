@@ -25,10 +25,12 @@ def potential_homepage(string):
     pass
 
 def is_casefile(somestring):
+    '''only process names of case files - the rest is a waste of time'''
     if somestring.endswith(".html") and "case_id" in somestring:
         return True
     else:
         return False
+
 
 def replace_homepage(directory):
     '''Still figuring out how to integrate this with the rest of the script'''
@@ -36,15 +38,22 @@ def replace_homepage(directory):
     through the filenames - check the length of the name AND if the name has
     a trailing number save that '''
     file_name = os.getcwd()
-    list = os.listdir(file_name)
-    type(list)
-    shortest_file = list[0]
-    lowest_number = 0
-    for each in list:
-        '''We find a case html file with shorter name'''
-        print each
-        if len(shortest_file) > len(each):
-            shortest_file = each
+    print file_name
+    shortestname == ""
+    '''Should probably move this check to the outer search folders function'''
+    if file_name == "layout":
+        list = os.listdir(file_name)
+        print list
+        type(list)
+        shortest_file = list[0]
+        lowest_number = 0
+        for each in list:
+            '''We find a case html file with shorter name'''
+            print each
+            if len(shortest_file) > len(each):
+                shortest_file = each
+
+
 
 def search_folders(file_name):
     for path, subdirs, files in os.walk(file_name):
