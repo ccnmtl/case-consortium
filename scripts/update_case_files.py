@@ -76,7 +76,7 @@ def search_folders(file_name):
             if "_pid_0" in f_name:
                 print "Removing file : " + str(f_name)
                 file_path = os.path.join(path, f_name)
-                call(["rm", file_path])
+                call(["git rm", file_path])
 
     # go over directory second time - # of files
     # to update should be smaller
