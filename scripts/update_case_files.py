@@ -14,6 +14,13 @@ import fnmatch
 
 file_to_search = sys.argv[1]
 
+def represents_int(s):
+    try: 
+        int(s)
+        return True
+    except ValueError:
+        return False
+
 def get_trail_number(somestring):
     somestring = somestring.split('_')
     sl = somestring[4]
@@ -21,16 +28,18 @@ def get_trail_number(somestring):
     return sl[0]
 
 def is_homepage(string):
-    '''Better as regex - page with case_id_(some_number).html'''
-    if fnmatch.fnmatch(file, '^case_id_(\d+).html$'):
-        print file
-# for file in os.listdir('.'):
-#     if fnmatch.fnmatch(file, '*.txt'):
-#         print file
-#         
+    '''would be better as regex - page with case_id_(some_number).html
+    but I couldn't get that working'''
+    # if fnmatch.fnmatch(file, '^case_id_(\d+).html$'):
+    #     print file
+    newname = string[8:-5]
+    if represents_int(newname):
+        print newname
+    
+         
 def is_casefile(somestring):
     '''only process names of case files - the rest is a waste of time'''
-    if somestring.endswith(".html") and "case_id" in somestring:
+    if somestring.endswith(".html") and somestring.startswith("case_id_"):
         return True
     else:
         return False
