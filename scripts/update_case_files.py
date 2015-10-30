@@ -1,9 +1,9 @@
 '''
-  Go through all elements of the directory tree, if the folder's name is layout,
-  go through all html files in that folder and search for html files with _pid in
-  their name, these files should be deleted. After deleting these files, go through
-  the text of the remaining html files looking for links to files with _pid in the
-  name, update these strings to remove _pid from name
+  Go through all elements of the directory tree, go through all html files 
+  in that folder and search for html files with _pid in their name, these files
+  should be deleted. After deleting these files, go through the text of the
+  remaining html files looking for links to files with _pid in the name,
+  update these strings to remove _pid from name
 '''
 from subprocess import call
 import os
