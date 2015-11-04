@@ -1,0 +1,196 @@
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/videos/222/PointingGun.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/videos/221/TextCards.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/videos/223/Flashback2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/videos/224/AfghanSoldier.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/videos/86/Rust_begins_her_independent_research_97461305.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/videos/84/Vom_S_97860231.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/videos/87/Rust_14083965.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/videos/85/Rust_build_her_datatbase_70026981.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/videos/233/KhadijaExcerpt.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/videos/234/KhadijaBio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/videos/231/DrewBio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/videos/232/DrewExcerpt.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videos/236/EimickeLecture.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Bratton - p.4.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Bratton - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Tobin - p.7.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Goldsmith - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Gerola - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Flowers - p.8.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Smith - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Flowers - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Gerola - p.7.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Smith - p.3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Tobin - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/videosforsteve/Goldsmith - p.12.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Garafola - p.6.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Rogers - p.4.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Garafola - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Blonsky - p.5.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Switkin - p.10.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Rogers - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Davis - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Alschuler - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Blonsky - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Alschuler - p.10.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/128/casestudy/files/videosforsteve/Switkin - bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/18/casestudy/files/videos/44/melville.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/18/casestudy/files/videos/46/necn_interior.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/18/casestudy/files/videos/43/kravitz.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/18/casestudy/files/videos/45/saffrin.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/21/lac_pwhite.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/24/lac_montage.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/22/lac_tracy.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/23/lac_shanine.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/25/last_abortion_clinic_subclip.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/27/last_abortion_clinic_subclip_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/28/last_abortion_clinic_subclip_3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/29/last_abortion_clinic_subclip_4.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/30/last_abortion_clinic_subclip_5.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/31/last_abortion_clinic_subclip_6.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/32/last_abortion_clinic_subclip_7.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/33/last_abortion_clinic_subclip_8.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/34/last_abortion_clinic_subclip_9.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/35/last_abortion_clinic_subclip_10.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/36/last_abortion_clinic_subclip_11.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/37/last_abortion_clinic_subclip_12.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/38/last_abortion_clinic_subclip_13.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/39/last_abortion_clinic_subclip_14.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/40/last_abortion_clinic_subclip_15.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/41/last_abortion_clinic_subclip_16.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/2/casestudy/files/videos/42/last_abortion_clinic_full.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/61/vid_wnt_032606.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/62/vid_wnt_032906.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/63/vid_ntl_040506.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/64/vid_ntl_041006.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/65/vid_gma_041106.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/65/vid_wnt_041106.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/66/vid_gma_041106.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/67/vid_gma_041306.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/68/vid_wnt_041506.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/69/vid_gma_041606.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/21/casestudy/files/videos/71/vid_gma_041906.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/72/maines_database.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/73/hearing.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/74/knocking_on_doors_full.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/75/expose_video_maines_discovery.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/76/omatz_on_criminals.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/23/casestudy/files/videos/77/reactions_to_brown.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/100/managing_the_media_4.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/101/managing_the_media_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/102/a_videotape_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/103/whom_to_believe_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/104/government_agencies_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/105/stressed_out_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/106/whom_to_believe_3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/107/stressed_out_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/108/first_facts.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/109/whom_to_believe_4.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/110/covering_all_bases_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/111/managing_the_media_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/112/covering_all_bases_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/113/next_steps.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/114/arab_media.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/115/a_videotape_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/116/another_deadline_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/117/another_deadline_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/88/divvying_up_tasks.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/89/psa_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/90/psa_2.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/92/a_videotape_3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/93/whom_to_believe_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/94/taking_stock.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/95/sunday_january_8.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/96/managing_the_media_3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/97/another_deadline_3.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/98/government_agencies_1.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/24/casestudy/files/videos/99/whom_to_believe_5.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/videos/119/mcnichols_64903815.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/125/jonathan_mccarthy_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/124/melanie_lefkowitz_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/121/diane_davis_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/120/amanda_barrett_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/123/beth_holland_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/33/casestudy/files/videos/122/diane_goldie_bio.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/128/005_fuentes_setup_colonia.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/129/004_fuentes_mechanism_sex_abuse.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/130/009_fuentes_hospital_torture.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/131/010_fuentes_schaefer_abuse_chilean_children.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/132/012_rodriguez_schaefer_escape.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/133/019_fuentes_journalist_joke_call.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/134/030_fuentes_to_chivilcoy.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/136/032_33_34_fuentes_following_schmidt.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/126/005_fuentes_setup_colonia.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/137/037_fuentes_dilemma_being_chilean.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/138/041_fuentes_on_ethical_doubts.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/139/042_cardemil_on_disguises.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/140/045_cardemil_on_considering_undercover.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/141/052_villarrubia_on_italian_community.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/142/055_054_villarrubia_on_calandrino.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/143/057_villarrubia_seeing_placente.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/144/058_59_villarrubia_returns.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/145/060_villarrubia_story_reaction.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/146/061_villarrubia_germans_suspicious_actions.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/147/064_cardemil_we_dont_need_heroes.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/148/066_rodriguez_on_villarrubias_limits.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/156/068_fuentes_on_villarrubia_calandrino_relationship.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/157/069_villarrubia_calandrino_grandson_to_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/158/070_villarrubia_tells_calandrino.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/159/071_072_fuentes_rodriguez_react.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/178/073_villarrubia_lose_investigation.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/160/076_077_cardemil_on_hidden_camera.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/161/079_080_rodriguez_hidden_camera_permanent_dilemma.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/162/082_83_villarrubia_on_tactics.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/164/084_cardemil_journalist_involvement_dilemma.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/165/085_086_rodriguez_fuentes_investigative_methods.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/166/092_089_villarrubia_editors_pressure.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/167/090_rodriguez_expensive_gamble.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/172/092_villarrubia_fuentes_don't_give_up.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/172/092_villarrubia_fuentes_dont_give_up.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/171/094_villarrubia_entering_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/173/095_096_villarrubia_camera_loses_signal.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/174/098_villarrubia_schaefer_is_alive.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/175/099_villarrubia_everyone_at_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/176/104_102_rodriguez_villarrubia_doubts_about_police.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/49/casestudy/files/videos/177/106_villarrubia_confrontation_peter_schmidt.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/179/005_1_fuentes_setup_colonia.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/180/004_1_fuentes_mechanism_sex_abuse.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/181/009_1_fuentes_hospital_torture.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/182/010_1_fuentes_schaefer_abuse_chilean_children.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/183/012_1_rodriguez_schaefer_escape.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/184/019_1_fuentes_journalist_joke_call.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/185/030_1_fuentes_to_chivilcoy.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/186/031_1_fuentes_arrives_auto_shop.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/187/032_33_34_1_fuentes_following_schmidt.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/188/037_1_fuentes_dilemma_being_chilean.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/189/041_1_fuentes_on_ethical_doubts.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/190/042_1_cardemil_on_disguises.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/191/045_1_cardemil_on_considering_undercover.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/192/052_1_villarrubia_on_italian_community.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/193/055_054_1_villarrubia_on_calandrino.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/194/057_1_villarrubia_seeing_placente.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/195/058_59_1_villarrubia_returns.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/196/060_1_villarrubia_story_reaction.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/197/061_1_villarrubia_germans_suspicious_actions.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/198/064_1_cardemil_we_dont_need_heroes.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/199/066_1_rodriguez_on_villarrubias_limits.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/200/068_1_fuentes_on_villarrubia_calandrino_relationship.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/201/069_1_villarrubia_calandrino_grandson_to_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/202/070_1_villarrubia_tells_calandrino.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/203/071_072_1_fuentes_rodriguez_react.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/204/073_1_villarrubia_lose_investigation.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/205/076_077_1_cardemil_on_hidden_camera.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/206/079_080_1_rodriguez_hidden_camera_permanent_dilemma.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/207/082_083_1_villarrubia_on_tactics.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/208/084_1_cardemil_journalist_involvement_dilemma.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/209/085_086_1_rodriguez_fuentes_investigative_methods.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/210/092_089_1_villarrubia_editors_pressure.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/211/090_1_rodriguez_expensive_gamble.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/212/092_1_villarrubia_fuentes_dont_give_up.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/213/094_1_villarrubia_entering_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/213/095_096_1_villarrubia_camera_loses_signal.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/214/095_096_1_villarrubia_camera_loses_signal.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/215/098_1_villarrubia_schaefer_is_alive.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/216/099_1_villarrubia_everyone_at_la_solita.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/217/104_102_1_rodriguez_villarrubia_doubts_about_police.flv
+/www/data/ccnmtl/projects/caseconsortium/casestudies/50/casestudy/files/videos/218/106_1_villarrubia_confrontation_peter_schmidt.flv
