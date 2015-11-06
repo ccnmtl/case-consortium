@@ -31,9 +31,9 @@ MAX_RETRIES = 10
 
 # Always retry when these exceptions are raised.
 RETRIABLE_EXCEPTIONS = (httplib2.HttpLib2Error, IOError, httplib.NotConnected,
-  httplib.IncompleteRead, httplib.ImproperConnectionState,
-  httplib.CannotSendRequest, httplib.CannotSendHeader,
-  httplib.ResponseNotReady, httplib.BadStatusLine)
+    httplib.IncompleteRead, httplib.ImproperConnectionState,
+    httplib.CannotSendRequest, httplib.CannotSendHeader,
+    httplib.ResponseNotReady, httplib.BadStatusLine)
 
 # Always retry when an apiclient.errors.HttpError with one of these status
 # codes is raised.
@@ -49,7 +49,7 @@ RETRIABLE_STATUS_CODES = [500, 502, 503, 504]
 #   https://developers.google.com/youtube/v3/guides/authentication
 # For more information about the client_secrets.json file format, see:
 #   https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
-CLIENT_SECRETS_FILE = "client_secrets.json"
+CLIENT_SECRETS_FILE = "../client_secrets.json"
 
 # This OAuth 2.0 access scope allows an application to upload files to the
 # authenticated user's YouTube channel, but doesn't allow other types of access.
@@ -130,8 +130,10 @@ def initialize_upload(youtube, options):
 
   resumable_upload(insert_request)
 
+
 # This method implements an exponential backoff strategy to resume a
 # failed upload.
+
 def resumable_upload(insert_request):
   response = None
   error = None
@@ -165,41 +167,40 @@ def resumable_upload(insert_request):
       time.sleep(sleep_seconds)
 
 if __name__ == '__main__':
-  argparser.add_argument("--file", required=True, help="Video file to upload")
-  argparser.add_argument("--title", help="Video title", default="Test Title")
-  argparser.add_argument("--description", help="Video description",
-    default="Test Description")
-  argparser.add_argument("--category", default="22",
-    help="Numeric video category. " +
-      "See https://developers.google.com/youtube/v3/docs/videoCategories/list")
-  argparser.add_argument("--keywords", help="Video keywords, comma separated",
-    default="")
-  argparser.add_argument("--privacyStatus", choices=VALID_PRIVACY_STATUSES,
-    default=VALID_PRIVACY_STATUSES[0], help="Video privacy status.")
-  args = argparser.parse_args()
+    argparser.add_argument("--directory", help="Directory of files to upload",
+        default="Test Description")
+    argparser.add_argument("--playlist", help="Playlist",
+        default="Test Description")
+    argparser.add_argument("--file", help="Video file to upload")
+    argparser.add_argument("--title", help="Video title", default="Test Title")
+    argparser.add_argument("--description", help="Video description",
+        default="Test Description")
+    argparser.add_argument("--category", default="22",
+        help="Numeric video category. " +
+        "See https://developers.google.com/youtube/v3/docs/videoCategories/list")
+    argparser.add_argument("--keywords", help="Video keywords, comma separated",
+        default="")
+    argparser.add_argument("--privacyStatus", choices=VALID_PRIVACY_STATUSES,
+        default=VALID_PRIVACY_STATUSES[0], help="Video privacy status.")
+    args = argparser.parse_args()
 
-  if not os.path.exists(args.file):
-    exit("Please specify a valid file using the --file= parameter.")
+#  if not os.path.exists(args.file):
+#    exit("Please specify a valid file using the --file= parameter.")
 
   youtube = get_authenticated_service(args)
   try:
-    initialize_upload(youtube, args)
+    for path, subdirs, files in os.walk(directory):
+        for file_name in files:
+            if ".flv" in file_name: # file_name.endswith(".flv"):
+                print "Uploading file : " + str(file_name)
+                file_path = os.path.join(path, file_name)
+                args.file = file_name
+                print args
+                initialize_upload(youtube, args)
   except HttpError, e:
     print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
 
 
-# --privacyStatus="unlisted"
+#./upload_videos.py --directory="../ccnmtl-caseconsortium" --privacyStatus="unlisted"
 
-file_to_search = sys.argv[1]
-dest_file = sys.argv[2]
 
-def search_folders(file_name):
-    for path, subdirs, files in os.walk(file_name):
-        files.sort()
-        for file_name in files:
-            if ".flv" in file_name: # file_name.endswith(".flv"):
-                print "Moving file : " + str(file_name)
-                file_path = os.path.join(path, file_name)
-                call(["cp", file_path, dest_file])
-
-search_folders(file_to_search)
