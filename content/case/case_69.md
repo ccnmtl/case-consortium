@@ -54,8 +54,4 @@
   \ Music Critic"
 "title_color": "#ff0000"
 ---
-*CSJ-11-0039.0*
-
-This case turns to the field of art criticism, particularly music criticism, to raise for discussion the proper role for a critic. It looks at the experience of the Cleveland Plain Dealer and its longtime music critic, Donald Rosenberg. Students will come to see how challenging it is to be a critic, but also how difficult it can be for editors to manage critics in the newsroom.
-
-Epilogue, Teaching Note
+This case turns to the field of art criticism, particularly music criticism, to raise for discussion the proper role for a critic. It looks at the experience of the Cleveland *Plain Dealer* and its longtime music critic, Donald Rosenberg. Students will come to see how challenging it is to be a critic, but also how difficult it can be for editors to manage critics in the newsroom.

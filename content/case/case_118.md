@@ -20,7 +20,7 @@
   \ successful. But in 2013, founder David Bentley faced a crossroads. At 69, he was\
   \ ready to step back. But what should the next step be: sell out? Duplicate the\
   \ ANS model elsewhere? Go more digital?</p><p><strong>This is a contributed\
-  \ case.</strong><br/><br/>Epilogue, Teaching Note</p><p><strong>Topics:</strong> media,\
+  \ case.</strong><br/><br/>Epilogue, Teaching Note</p><p><strong>Topics:</strong> media,\
   \ strategic management, entrepreneurship</p></body></html>"
 "description_clean": "CSJ-13-0052.0 This case tells the story of a small, online publication\
   \ in Halifax, Nova Scotia, which has confounded the punditry of the digital era.\
@@ -29,7 +29,7 @@
   \ Nonetheless, it has been financially successful. But in 2013, founder David Bentley\
   \ faced a crossroads. At 69, he was ready to step back. But what should the next\
   \ step be: sell out? Duplicate the ANS model elsewhere? Go more digital?This is\
-  \ a contributed case.Epilogue, Teaching NoteTopics: media, strategic management,\
+  \ a contributed case.Epilogue, Teaching NoteTopics: media, strategic management,\
   \ entrepreneurship"
 "epilogue": "AllNovaScotia epilogue final.pdf"
 "faculty_notes": ""
@@ -54,10 +54,4 @@
 "title": "AllNovaScotia.com: Success or Anomaly?"
 "title_color": ""
 ---
-*CSJ-13-0052.0*
-
 This case tells the story of a small, online publication in Halifax, Nova Scotia, which has confounded the punditry of the digital era. AllNovaScotia.com (ANS) sits firmly behind a paywall, does not allow its stories to be shared online, and even refuses subscriptions to employees of rival publications. Nonetheless, it has been financially successful. But in 2013, founder David Bentley faced a crossroads. At 69, he was ready to step back. But what should the next step be: sell out? Duplicate the ANS model elsewhere? Go more digital?
-
-This is a contributed case.
-
-Epilogue, Teaching Note

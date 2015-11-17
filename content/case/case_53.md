@@ -53,4 +53,4 @@
   \ the Annie Le Murder"
 "title_color": "#3053ba"
 ---
-<html><body><div style="float: right; padding: 10px;"></div><p><em>CSJ-10-0030.0 </em><br/>This case asks what rules exist on the use of social media in reporting news stories. In September 2009, the New Haven<i style=""> Independent</i>—a recent, online, local news website—finds itself beating the national competition on the shocking story of the murder of Annie Le, a Yale University graduate student.<br/><br/><strong>This is a FREE case.</strong></p><p>Epilogue, Teaching Note</p><p><strong>Topics:</strong> digital media; editorial management; ethics</p></body></html>
+This case asks what rules exist on the use of social media in reporting news stories. In September 2009, the New Haven *Independent*&mdash;a recent, online, local news website&mdash;finds itself beating the national competition on the shocking story of the murder of Annie Le, a Yale University graduate student.

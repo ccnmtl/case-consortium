@@ -49,4 +49,4 @@
   \ and Radio Mart&amp;iacute;"
 "title_color": "#bd3c00"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-10-0026.0</i><br/>This case is about the management challenges which erupted after the <i>Miami Herald</i> published a story naming three reporters at its sister publication, <i>El Nuevo Herald</i>, as among a group of journalists accepting money from the US government. Students will gain understanding of the relationship between newspaper owners, their publishers, and their editors.</p><p>Epilogue, Teaching Note</p><p><b>Topics:</b> strategic management; media business; gender &amp; race</p></body></html>
+This case is about the management challenges which erupted after the *Miami Herald* published a story naming three reporters at its sister publication, *El Nuevo Herald*, as among a group of journalists accepting money from the US government. Students will gain understanding of the relationship between newspaper owners, their publishers, and their editors.

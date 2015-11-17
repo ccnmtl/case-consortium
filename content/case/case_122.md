@@ -18,14 +18,14 @@
   \ business? In January 2012, Deodatus Balile—managing editor of the fledgling Tanzanian\
   \ weekly newspaper, <em>Jamhuri</em>—obtained documents proving improprieties in\
   \ a privatization deal. Before publishing a story, he was offered a bribe to spike\
-  \ it.<br/><br/>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>journalism;\
+  \ it.<br/><br/>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>journalism;\
   \ business ethics; editorial management</p></body></html>"
 "description_clean": "AKU-14-0006.0How should a news organization handle a bribe if\
   \ refusing it could damage the news operation? What if giving and taking bribes,\
   \ while illegal, is an accepted cost of doing business? In January 2012, Deodatus\
   \ Balile—managing editor of the fledgling Tanzanian weekly newspaper, Jamhuri—obtained\
   \ documents proving improprieties in a privatization deal. Before publishing a story,\
-  \ he was offered a bribe to spike it.Epilogue, Teaching NoteTopics: journalism;\
+  \ he was offered a bribe to spike it.Epilogue, Teaching NoteTopics: journalism;\
   \ business ethics; editorial management"
 "epilogue": "TZ bribery epilogue FINAL.pdf"
 "faculty_notes": ""
@@ -51,4 +51,4 @@
 "title": "Spike or Suffer? &lt;i&gt;Jamhuri&lt;/i&gt; and the Bribe Offer"
 "title_color": ""
 ---
-<html><body><p><em>AKU-14-0006.0</em></p><p>How should a news organization handle a bribe if refusing it could damage the news operation? What if giving and taking bribes, while illegal, is an accepted cost of doing business? In January 2012, Deodatus Balile—managing editor of the fledgling Tanzanian weekly newspaper, <em>Jamhuri</em>—obtained documents proving improprieties in a privatization deal. Before publishing a story, he was offered a bribe to spike it.<br/><br/>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>journalism; business ethics; editorial management</p></body></html>
+How should a news organization handle a bribe if refusing it could damage the news operation? What if giving and taking bribes, while illegal, is an accepted cost of doing business? In January 2012, Deodatus Balile&mdash;managing editor of the fledgling Tanzanian weekly newspaper, *Jamhuri*&mdash;obtained documents proving improprieties in a privatization deal. Before publishing a story, he was offered a bribe to spike it.

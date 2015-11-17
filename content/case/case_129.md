@@ -16,13 +16,13 @@
   \ looks at a question that news organizations continue to struggle with as the traditional\
   \ business model crumbles: install a paywall or not? Case readers will be taken\
   \ behind the scenes at the New York Times in 2009, when it was deciding whether\
-  \ to try again for a paywall and, if so, what kind.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong> strategic\
+  \ to try again for a paywall and, if so, what kind.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong> strategic\
   \ management; business of media; digital media</p></body></html>"
 "description_clean": "CSJ-14-0054.0This case looks at a question that news organizations\
   \ continue to struggle with as the traditional business model crumbles: install\
   \ a paywall or not? Case readers will be taken behind the scenes at the New York\
   \ Times in 2009, when it was deciding whether to try again for a paywall and, if\
-  \ so, what kind.Epilogue, Teaching NoteTopics: strategic management; business of\
+  \ so, what kind.Epilogue, Teaching NoteTopics: strategic management; business of\
   \ media; digital media"
 "epilogue": "NYT Paywall epilogue final 061214.pdf"
 "faculty_notes": ""
@@ -48,4 +48,4 @@
 "title": "Salvation or Mirage? The &lt;em&gt;New York Times&lt;/em&gt; Paywall"
 "title_color": ""
 ---
-<html><body><p><em>CSJ-14-0054.0</em></p><p>This case looks at a question that news organizations continue to struggle with as the traditional business model crumbles: install a paywall or not? Case readers will be taken behind the scenes at the New York Times in 2009, when it was deciding whether to try again for a paywall and, if so, what kind.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong> strategic management; business of media; digital media</p></body></html>
+This case looks at a question that news organizations continue to struggle with as the traditional business model crumbles: install a paywall or not? Case readers will be taken behind the scenes at the *New York Times* in 2009, when it was deciding whether to try again for a paywall and, if so, what kind.

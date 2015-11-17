@@ -51,4 +51,4 @@
   \ Post&lt;/i&gt;"
 "title_color": "#0710b5"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i><span>CSJ-09-0016.0</span></i><br/><span>This case examines the challenges of reporting on a private individual’s sexual orientation. In March 2008, the <i>Washington Post</i> was tipped that a decorated Army major had been the first openly gay military officer killed in Iraq. But as the <i>Post</i> reported the story, it discovered that it was far from clear that he was open about his sexuality, especially to his military colleagues. How should the <i>Post</i> cover his death?</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b> ethics; gender &amp; race; privacy</p></body></html>
+This case examines the challenges of reporting on a private individual’s sexual orientation. In March 2008, the *Washington Post* was tipped that a decorated Army major had been the first openly gay military officer killed in Iraq. But as the *Post* reported the story, it discovered that it was far from clear that he was open about his sexuality, especially to his military colleagues. How should the *Post* cover his death?

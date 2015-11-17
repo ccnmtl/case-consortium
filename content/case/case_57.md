@@ -52,8 +52,4 @@
 "title": "Conflicted: The &lt;i&gt;New York Times&lt;/i&gt; and the Bias Question"
 "title_color": "#2947a3"
 ---
-*CSJ-10-0034.0PO*
-
-This case study examines the dilemma which confronted New York Times Executive Editor Bill Keller in February 2010 when critics—including the Times’ own ombudsman—called for transfer of Jerusalem Bureau Chief Ethan Bronner because his adult son had joined the Israeli Defense Forces.
-
-Epilogue, Teaching Note
+This case study examines the dilemma which confronted *New York Times* Executive Editor Bill Keller in February 2010 when critics&mdash;including the *Times*' own ombudsman&mdash;called for transfer of Jerusalem Bureau Chief Ethan Bronner because his adult son had joined the Israeli Defense Forces.

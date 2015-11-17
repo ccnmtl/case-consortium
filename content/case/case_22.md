@@ -48,4 +48,4 @@
 "title": "Reputations to Lose: BBC versus the Blair Government"
 "title_color": "#663366"
 ---
-<html><body><p><i>CSJ-08-0009.0</i><br/>This case is about the choices a publicly-funded news organization has to make when the government of the day attacks its editorial independence. In June 2003, what had been a short, live, early-morning exchange between a radio host and a British Broadcasting Corporation (BBC) reporter escalated into a full-scale war, which pitted the BBC against Prime Minister Tony Blair’s government.</p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>strategic management; international</p></body></html>
+This case is about the choices a publicly-funded news organization has to make when the government of the day attacks its editorial independence. In June 2003, what had been a short, live, early-morning exchange between a radio host and a British Broadcasting Corporation (BBC) reporter escalated into a full-scale war, which pitted the BBC against Prime Minister Tony Blair’s government.

@@ -52,8 +52,4 @@
 "title": "A Newsroom Divided: Kenya, the Election Crisis, and the Nation Media Group"
 "title_color": ""
 ---
-*AKU-13-0001.0*
-
-This case examines what happens when personal bias affects the newsroom. In mid-January 2008, post-election tribal violence in Kenya was making international headlines. The editorial director of Nation Media Group, which included the Daily Nation newspaper, had a crisis on his hands: the Daily Nation newsroom was splitting along tribal lines. He had to find a way reunite his staff.
-
-Epilogue, Teaching Note
+This case examines what happens when personal bias affects the newsroom. In mid-January 2008, post-election tribal violence in Kenya was making international headlines. The editorial director of Nation Media Group, which included the *Daily Nation* newspaper, had a crisis on his hands: the *Daily Nation* newsroom was splitting along tribal lines. He had to find a way reunite his staff.

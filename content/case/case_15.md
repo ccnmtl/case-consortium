@@ -46,8 +46,4 @@
   \ &lt;/i&gt;in a Wired World"
 "title_color": "#666666"
 ---
-*CSJ-07-0002.0*
-
-This case study takes students inside the strategic thinking of the executive team at the Albany Times Union, a prototypical regional newspaper. Like other newspapers, it faced the challenge of transforming from a traditional ink-on-paper product to a hybrid paper/Web product.
-
-Epilogue, Teaching Note
+This case study takes students inside the strategic thinking of the executive team at the Albany *Times Union*, a prototypical regional newspaper. Like other newspapers, it faced the challenge of transforming from a traditional ink-on-paper product to a hybrid paper/Web product.
