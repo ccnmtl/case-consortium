@@ -54,8 +54,4 @@
 "title": "Friend or foe? WikiLeaks and the &lt;i&gt;Guardian&lt;/i&gt;"
 "title_color": "#1f9937"
 ---
-*CSJ-11-0041.0* 
-
-This case is about the celebrated collaboration between WikiLeaks, the secure website for whistleblowers, and the mainstream media— focusing on the British Guardian newspaper. It raises for discussion whether the Guardian and its international media partners were correct to collaborate with WikiLeaks and to publish US secret government documents.
-
-Epilogue, Teaching Note
+This case is about the celebrated collaboration between WikiLeaks, the secure website for whistleblowers, and the mainstream media&mdash;focusing on the British *Guardian* newspaper. It raises for discussion whether the *Guardian* and its international media partners were correct to collaborate with WikiLeaks and to publish US secret government documents.

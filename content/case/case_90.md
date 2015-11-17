@@ -57,8 +57,4 @@
   \ Inmates"
 "title_color": ""
 ---
-*MSPH-12-0002.0*  
-
-This case looks at the challenges that confront public health professionals who work in a corrections environment. By 2011, a court-appointed Receiver had made progress in fixing a broken system of medical care for prisoners in California. But costs spiraled ever higher for elderly and ailing inmates. Public health officials had to balance competing public priorities: save taxpayer dollars, and treat patients. A new law allowed the sickest prisoners to move to community-based care–but now public health doctors had to decide: who qualified for medical parole? Inmate Carl Wade’s case was a tough call.   
-
-Epilogue, Teaching Note
+This case looks at the challenges that confront public health professionals who work in a corrections environment. By 2011, a court-appointed Receiver had made progress in fixing a broken system of medical care for prisoners in California. But costs spiraled ever higher for elderly and ailing inmates. Public health officials had to balance competing public priorities: save taxpayer dollars, and treat patients. A new law allowed the sickest prisoners to move to community-based care&mdash;but now public health doctors had to decide: who qualified for medical parole? Inmate Carl Wade’s case was a tough call.

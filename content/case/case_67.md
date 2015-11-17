@@ -51,8 +51,4 @@
   \ Press"
 "title_color": "#007a43"
 ---
-*CSJ-11-0037.0*
-
-This case examines the dilemma faced by US newspapers as they make painful business choices that have a dramatic impact on the editorial product. In late 2009, the Charlotte (NC) Observer considered whether to end its 135-year relationship with the venerable and once-indispensable wire service, the Associated Press.
-
-Epilogue, Teaching Note
+This case examines the dilemma faced by US newspapers as they make painful business choices that have a dramatic impact on the editorial product. In late 2009, the *Charlotte* (NC) *Observer* considered whether to end its 135-year relationship with the venerable and once-indispensable wire service, the Associated Press.

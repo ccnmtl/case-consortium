@@ -48,8 +48,4 @@
 "title": "Not for Profit? The &lt;i&gt;Voice of San Diego&lt;/i&gt; Experiment"
 "title_color": "#c21818"
 ---
-*CSJ-10-0025.0*
-
-This case takes a close look at an effort to launch a news outlet, Voice of San Diego, based on a model much lauded in theory, but little tested in practice—a nonprofit, online news organization. Students will learn about the pros and cons of nonprofit news. They will also get an in-person glimpse into the complexities of being a journalism entrepreneur.
-
-Epilogue, Teaching Note
+This case takes a close look at an effort to launch a news outlet, *Voice of San Diego*, based on a model much lauded in theory, but little tested in practice—a nonprofit, online news organization. Students will learn about the pros and cons of nonprofit news. They will also get an in-person glimpse into the complexities of being a journalism entrepreneur.

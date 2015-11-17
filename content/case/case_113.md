@@ -22,7 +22,7 @@
   \ earlier, when in August 2011 they evacuated hospitals in advance of Hurricane\
   \ Irene. But Irene had, at the last moment, spared New York City. With that unnecessary\
   \ evacuation fresh in their minds, the two officials had to decide what to do as\
-  \ Sandy approached.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>disaster\
+  \ Sandy approached.</p><p>Epilogue, Teaching Note</p><p><strong>Topics: </strong>disaster\
   \ preparedness, crisis management, health care system logistics</p></body></html>"
 "description_clean": "MSPH-13-0005.0This case examines the pros and cons of evacuating\
   \ medical facilities in the face of a looming natural disaster. In October 2012,\
@@ -33,7 +33,7 @@
   \ seen this scenario only a year earlier, when in August 2011 they evacuated hospitals\
   \ in advance of Hurricane Irene. But Irene had, at the last moment, spared New York\
   \ City. With that unnecessary evacuation fresh in their minds, the two officials\
-  \ had to decide what to do as Sandy approached.Epilogue, Teaching NoteTopics: disaster\
+  \ had to decide what to do as Sandy approached.Epilogue, Teaching NoteTopics: disaster\
   \ preparedness, crisis management, health care system logistics"
 "epilogue": "NorthShore LIJ Epilogue.pdf"
 "faculty_notes": ""
@@ -59,8 +59,4 @@
 "title": "Evacuate or Stay? Northshore LIJ and Hurricane Sandy"
 "title_color": ""
 ---
-*MSPH-13-0005.0*
-
-This case examines the pros and cons of evacuating medical facilities in the face of a looming natural disaster. In October 2012, the North Shore-Long Island Jewish Hospitals (North Shore-LIJ) network braced—together with rest of the East coast—for the advent of Hurricane Sandy. Weather forecasters painted a grim picture, and North Shore-LIJ had three hospitals in low-lying areas. Vice President of Protective Services James Romagnoli and COO Mark Solazzo had seen this scenario only a year earlier, when in August 2011 they evacuated hospitals in advance of Hurricane Irene. But Irene had, at the last moment, spared New York City. With that unnecessary evacuation fresh in their minds, the two officials had to decide what to do as Sandy approached.
-
-Epilogue, Teaching Note
+This case examines the pros and cons of evacuating medical facilities in the face of a looming natural disaster. In October 2012, the North Shore-Long Island Jewish Hospitals (North Shore-LIJ) network braced&mdash;together with rest of the East coast&mdash;for the advent of Hurricane Sandy. Weather forecasters painted a grim picture, and North Shore-LIJ had three hospitals in low-lying areas. Vice President of Protective Services James Romagnoli and COO Mark Solazzo had seen this scenario only a year earlier, when in August 2011 they evacuated hospitals in advance of Hurricane Irene. But Irene had, at the last moment, spared New York City. With that unnecessary evacuation fresh in their minds, the two officials had to decide what to do as Sandy approached.

@@ -20,13 +20,40 @@
                 <!-- One -->
                     <section id="one">
                         <h1 class="case-title unescape">{{.Title|safeHTML}}</h1>
-                        <p>{{ .Content }}</p>
+
+                        <div>
+                        {{ .Content }}
+                        </div>
+                        
+                        <div class="case-summary-details">
+                        <p>
+                            {{ if .Params.case_number }}
+                            <span class="detail-field">Case number:</span> 
+                                {{ .Params.case_number }}
+                            <br />
+                            {{ end }}
+                            <span class="detail-field">Category:</span>
+                            {{ range $i, $e := .Params.category }}{{if $i}}, {{end}}<a href="/category/{{ . | urlize | lower}}/">{{$e}}</a> {{ end }}
+                            <br />
+                            {{ if .Params.case_topics }}
+                            <span class="detail-field">Topics:</span>
+                            {{ range $i, $e := .Params.case_topics }}{{if $i}}, {{end}}{{$e}}{{ end }}
+                            <br />
+                            {{ end }}
+                            {{ if or .Params.teaching_note .Params.epilogue }}
+                            <span class="detail-field">Teaching resources:</span>
+                            {{ if .Params.epilogue }}Epilogue, {{ end }}
+                            {{ if .Params.teaching_note }}Teaching note{{ end }}
+                            {{ end }}
+                        </p>
+                        </div>
+                        
                         <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
-                            							<span class="ion-folder"></span> <span class="unescape">Link to case</span>
+                            							<span class="ion-folder"></span> <span class="unescape">Link to Case</span>
                         </a>
 
                          <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
-                         <span class="ion-document-text"></span> <span class="unescape">Link to pdf</span>
+                         <span class="ion-document-text"></span> <span class="unescape">Link to PDF</span>
                         </a>
                         
 
@@ -57,7 +84,7 @@
 
                                 {{ if .Params.epilogue }}
                                 <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
-                                    <h4 class="unescape">Link to epilogue</h4>
+                                    <h4 class="unescape">Link to Epilogue</h4>
                                 </a>
                                 {{ end }}
                             </div>
@@ -69,13 +96,7 @@
                         </div>
                       </div>
                     </div>
-<div id="topics">
 
-                    <h2>Category:</h2>
-                      {{ range .Params.category }}
-                        <a href="/category/{{ .|urlize }}">{{ . }}</a> <br/>
-                    {{ end }}
-</div>
             </div>
     </div>
     </div>

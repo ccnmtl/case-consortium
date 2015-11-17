@@ -49,8 +49,4 @@
 "title": "Integrity on Deadline: ABC News and the Duke Lacrosse Photographs"
 "title_color": "#006699"
 ---
-*CSJ-08-0007.0*
-
 This case describes ABC News and its early coverage of an alleged rape by members of the Duke University lacrosse team in 2006. The narrative stops at a point in mid-April when the ABC News Vice President for Editorial Quality, Kerry Smith, had to decide whether or not to broadcast photographs from the party at which the alleged rape took place.
-
-Epilogue, Teaching Note

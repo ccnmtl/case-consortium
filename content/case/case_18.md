@@ -50,10 +50,6 @@
 "title": "New England Cable News and the Terry Glenn Story"
 "title_color": "#1f805c"
 ---
-*CSJ-08-0004.0*
-
 This text+video case is about how a news organization, New England Cable News (NECN), handles the arrival of a fax alleging sexual misconduct by a member of the New England Patriots football team. The case proceeds in real time, allowing students to experience the pressures of a newsroom deadline.
 
 This is a video case.
-
-Epilogue, Teaching Note

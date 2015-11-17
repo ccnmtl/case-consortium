@@ -45,4 +45,4 @@
   \ and the Bruce Ivins Story"
 "title_color": "#2947a3"
 ---
-<html><body><div style="padding: 10px; float: right;"></div><p><i>CSJ-08-0015.0PO</i><br/>This two-part case is about how the media balances personal right to privacy against the public right to know. Students are asked to consider what are the obligations of a newspaper to its readers, and to those it writes about.</p><p>Part B, Teaching Note</p><p><b>Topics:</b> ethics; privacy</p><p><b><i>Faculty</i></b><i>: You will have an opportunity to review Part B once you have registered.</i></p></body></html>
+This two-part case is about how the media balances personal right to privacy against the public right to know. Students are asked to consider what are the obligations of a newspaper to its readers, and to those it writes about.
