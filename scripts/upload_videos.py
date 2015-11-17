@@ -70,36 +70,36 @@ https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
 """ % os.path.abspath(os.path.join(os.path.dirname(__file__),
                                    CLIENT_SECRETS_FILE))
 
-def get_authenticated_service(args):
-    storage = Storage(settings.OAUTH_STORAGE_PATH)
-    credentials = storage.get()
-
-    if credentials is None or credentials.invalid:
-        raise YTAuthError
-
-    return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
-                 http=credentials.authorize(httplib2.Http()))
-
-
-class Args(object):
-    pass
-
-
-def get_credentials():
-    """ do the oauth dance to get new credentials file """
-    args = Args()
-    args.logging_level = 'DEBUG'
-    args.noauth_local_webserver = 'http://localhost:8000/'
-    flow = flow_from_clientsecrets(
-        settings.YOUTUBE_CLIENT_SECRETS_FILE,
-        # it complains if you don't set something as the redirect_uri,
-        # even though it's not used
-        redirect_uri="http://localhost:8000/",
-        scope=YOUTUBE_UPLOAD_SCOPE)
-
-    storage = Storage("youtube_oauth.json")
-    credentials = run_flow(flow, storage, args)
-    return credentials
+# def get_authenticated_service(args):
+#     storage = Storage(settings.OAUTH_STORAGE_PATH)
+#     credentials = storage.get()
+# 
+#     if credentials is None or credentials.invalid:
+#         raise YTAuthError
+# 
+#     return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
+#                  http=credentials.authorize(httplib2.Http()))
+# 
+# 
+# class Args(object):
+#     pass
+# 
+# 
+# def get_credentials():
+#     """ do the oauth dance to get new credentials file """
+#     args = Args()
+#     args.logging_level = 'DEBUG'
+#     args.noauth_local_webserver = 'http://localhost:8000/'
+#     flow = flow_from_clientsecrets(
+#         settings.YOUTUBE_CLIENT_SECRETS_FILE,
+#         # it complains if you don't set something as the redirect_uri,
+#         # even though it's not used
+#         redirect_uri="http://localhost:8000/",
+#         scope=YOUTUBE_UPLOAD_SCOPE)
+# 
+#     storage = Storage("youtube_oauth.json")
+#     credentials = run_flow(flow, storage, args)
+#     return credentials
 
 
 def get_authenticated_service(args):
@@ -114,17 +114,16 @@ def get_authenticated_service(args):
     return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
         http=credentials.authorize(httplib2.Http()))
 
-def initialize_upload(youtube, options):
+
+def initialize_upload(youtube, options, file_path, filename):
     tags = None
-    if options.keywords:
-        tags = options.keywords.split(",")
 
     body=dict(
         snippet=dict(
-        title=options.title,
-        description=options.description,
-        tags=tags,
-        categoryId=options.category
+        title="",
+        description="",
+        tags="",
+        categoryId=""
     ),
     status=dict(
         privacyStatus="unlisted"
@@ -135,21 +134,10 @@ def initialize_upload(youtube, options):
     insert_request = youtube.videos().insert(
         part=",".join(body.keys()),
         body=body,
-        # The chunksize parameter specifies the size of each chunk of data, in
-        # bytes, that will be uploaded at a time. Set a higher value for
-        # reliable connections as fewer chunks lead to faster uploads. Set a lower
-        # value for better recovery on less reliable connections.
-        #
-        # Setting "chunksize" equal to -1 in the code below means that the entire
-        # file will be uploaded in a single HTTP request. (If the upload fails,
-        # it will still be retried where it left off.) This is usually a best
-        # practice, but if you're using Python older than 2.6 or if you're
-        # running on App Engine, you should set the chunksize to something like
-        # 1024 * 1024 (1 megabyte).
-        media_body=MediaFileUpload(options.file, chunksize=-1, resumable=True)
+        media_body=MediaFileUpload(file_path, chunksize=-1, resumable=True)
     )
 
-    resumable_upload(insert_request)
+#    resumable_upload(insert_request)
 
 
 
@@ -158,26 +146,20 @@ def initialize_upload(youtube, options):
 if __name__ == '__main__':
     argparser.add_argument("--directory", help="Directory of files to upload",
         default="Test Description")
-    argparser.add_argument("--playlist", help="Playlist",
-        default="Test Description")
-    argparser.add_argument("--file", help="Video file to upload")
-    argparser.add_argument("--title", help="Video title", default="Test Title")
-    argparser.add_argument("--privacyStatus", choices=VALID_PRIVACY_STATUSES,
-        default=VALID_PRIVACY_STATUSES[0], help="Video privacy status.")
     args = argparser.parse_args()
 
 
     youtube = get_authenticated_service(args)
-    print youtube
+    print args.directory
     try:
-        for path, subdirs, files in os.walk(directory):
+        for path, subdirs, files in os.walk(args.directory):
             for file_name in files:
                 if ".flv" in file_name: # file_name.endswith(".flv"):
                     print "Uploading file : " + str(file_name)
                     file_path = os.path.join(path, file_name)
-                    args.file = file_name
-                    print args
-                    initialize_upload(youtube, file_path, filename)
+                    # args.file = file_name
+                    # print args
+                    initialize_upload(youtube, args, file_path, file_name)
     except HttpError, e:
         print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
 
