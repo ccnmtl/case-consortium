@@ -55,6 +55,7 @@
   \ from American Dental Partners. The management firm would take over all front office\
   \ responsibilities, allow the doctors to focus on patients, and compensate them\
   \ according to an agreed-on formula. "
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-08-14 at 12.51.36 PM.png"
 "title": "Merging Two Worlds?: Reston Dental Arts and American Dental Partners"
 "title_color": ""

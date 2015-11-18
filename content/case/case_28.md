@@ -44,6 +44,7 @@
 "status_id": "1"
 "teaching_note": "Edwards Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "News or Rumor? &lt;i&gt;Politico&lt;/i&gt; and the Edwards Affair "
 "title_color": "#2947a3"

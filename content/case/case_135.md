@@ -54,6 +54,7 @@
   \ authoritarian government the role can carry extra burdens. This case examines\
   \ the creation and evolution of the Institute of Public and Environmental Affairs\
   \ (IPE). In early 2014, however, IPE prepared to take on a new group of polluters."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-08-19 at 12.36.34 PM.png"
 "title": "Publishing Pollution Data in China: Ma Jun and the Institute of Public and\
   \ Environmental Affairs"

@@ -53,6 +53,7 @@
   \ risks of various strategies and tactics. Equal Education had sued the minister\
   \ of basic education to issue basic norms and standards for school infrastructure,\
   \ but she had missed yet another deadline and requested an extension. "
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-07-15 at 4.10.45 PM.png"
 "title": "Fighting for Equality in Education: Student Activism in Post-apartheid South\
   \ Africa"

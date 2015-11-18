@@ -55,6 +55,7 @@
   \ a Chinese-owned mine in Peru, multi-level government interests, and the residents\
   \ of Morococha, a town that Chinalco wants to resettle to better exploit the mine’s\
   \ potential."
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Process and Politics: Chinalco and the Resettlement of Morococha"
 "title_color": ""

@@ -40,6 +40,7 @@
 "status_id": "1"
 "teaching_note": "Ivins Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Privacy and the Public Interest: Frederick, MD, &lt;i&gt;News-Post&lt;/i&gt;\
   \ and the Bruce Ivins Story"

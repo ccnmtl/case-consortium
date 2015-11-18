@@ -44,6 +44,7 @@
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Privacidad y el Inter&amp;eacute;s P&amp;uacute;blico: Frederick, MD, &lt;i&gt;News-Post&lt;/i&gt;\
   \ y la Historia de Bruce Ivins. Primera Parte."

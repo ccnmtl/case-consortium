@@ -57,6 +57,7 @@
   \ African country with limited resources as it tries to combat one of the highest\
   \ rates of HIV-AIDS infection in the world. Swaziland in 1999 declared HIV-AIDS\
   \ a national disaster. "
+"thumbnail_default": "yes"
 "thumb": "casethumbnail.png"
 "title": "Swaziland, HIV and Option B+: What Can We Afford?"
 "title_color": ""

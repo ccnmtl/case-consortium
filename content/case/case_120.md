@@ -48,6 +48,7 @@
   \ with complicated attitudes toward the issue. This case can be used in a course/class\
   \ on journalism ethics; editorial decision making; reporting on human rights and\
   \ social issues; or reporting on politics. "
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Radio Buddu and the Uganda Anti-Homosexuality Bill"
 "title_color": ""

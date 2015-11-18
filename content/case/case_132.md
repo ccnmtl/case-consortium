@@ -56,6 +56,7 @@
   \ business model to thrive in the digital age. It chronicles the Whiteville  News\
   \ Reporter as it confronts many of the economic, editorial and technological challenges\
   \ facing community newspapers today."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-07-29 at 3.25.09 PM.png"
 "title": "Chasing the Community Newspaper Rainbow: The &lt;em&gt;Whiteville News Reporter&lt;/em&gt;\
   \ and the Digital Age"

@@ -53,6 +53,7 @@
   \ the adoption by the New York Police Department in the 1990s of Compstat (computerized\
   \ comparison crime statistics) to the 2013 implementation by the Fire Department\
   \ of a computerized building inspection system."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-05-27 at 2.08.26 PM.png"
 "title": "From Compstat to Gov 2.0 Big Data in New York City Management"
 "title_color": ""

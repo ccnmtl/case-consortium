@@ -48,6 +48,7 @@
   \ This case can be used in a class/course on journalism ethics, editorial management,\
   \ reporting conflict, ethnicity and race in journalism, or reporting elections and\
   \ politics."
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "A Newsroom Divided: Kenya, the Election Crisis, and the Nation Media Group"
 "title_color": ""

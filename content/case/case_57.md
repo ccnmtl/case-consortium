@@ -48,6 +48,7 @@
   \ ombudsman—called for transfer of Jerusalem Bureau Chief Ethan Bronner because\
   \ his adult son had joined the Israeli Defense Forces. Use in courses on ethics;\
   \ international reporting; or editorial management."
+"thumbnail_default": "yes"
 "thumb": "text only image.jpg"
 "title": "Conflicted: The &lt;i&gt;New York Times&lt;/i&gt; and the Bias Question"
 "title_color": "#2947a3"

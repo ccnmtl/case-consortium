@@ -47,6 +47,7 @@
   \ outlet should it accept or refuse a bribe. Students are asked to think about the\
   \ fact that, while refusing bribes is the ethical ideal, doing so may harm the news\
   \ organization both legally and financially. "
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Spike or Suffer? &lt;i&gt;Jamhuri&lt;/i&gt; and the Bribe Offer"
 "title_color": ""

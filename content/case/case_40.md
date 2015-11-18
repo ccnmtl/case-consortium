@@ -41,6 +41,7 @@
 "status_id": "1"
 "teaching_note": "Chicago Tribune Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Elusive Story: The &lt;i&gt;Chicago Tribune&lt;/i&gt; Examines &amp;quot;No\
   \ Child Left Behind&amp;quot;"

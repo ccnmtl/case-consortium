@@ -53,6 +53,7 @@
 "teaser": "This case takes a behind-the-scenes look at how a national security reporter\
   \ works. In February 2013, reporter Barton Gellman first learns about a source who\
   \ claims to have National Security Agency (NSA) documents."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-10-15 at 11.08.03 PM.png"
 "title": "Covert Activity: the &lt;em&gt;Washington Post&lt;/em&gt;, Edward Snowden\
   \ and the National Security Agency"

@@ -56,6 +56,7 @@
   \ of disaster and development aid on indigenous societies, and raises for discussion\
   \ whether a better model exists. In December 2004, a killer tsunami swept across\
   \ the Indian Ocean, devastating among others the Nicobar Islands."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-08-04 at 1.40.52 PM.png"
 "title": "The Islanders and the Scientists: Post-tsunami Aid in the Nicobars"
 "title_color": ""
