@@ -2456,3 +2456,7 @@ button.decision {
 	padding: 0 10px 0 0;
 	display: inline;
 }
+
+.noborder {
+    border: none;
+}
