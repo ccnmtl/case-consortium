@@ -50,6 +50,7 @@
 "teaser": "This case takes a hard look behind the scenes at starting a for-profit\
   \ community news website, the <i>Long Beach Post</i> (LBPOST.com). Use in courses\
   \ on the business of media; online media; community news; or journalism entrepreneurship."
+"thumbnail_default": "yes"
 "thumb": "text only image.jpg"
 "title": "The Jury is Out: The &lt;i&gt;Long Beach Post&lt;/i&gt; and Online Local\
   \ News"

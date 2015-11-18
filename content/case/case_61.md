@@ -42,6 +42,7 @@
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Privacidad e Inter&amp;eacute;s P&amp;uacute;blico: La Evidencia Contra\
   \ Ivins. Segunda Parte."

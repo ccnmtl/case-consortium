@@ -46,6 +46,7 @@
 "status_id": "1"
 "teaching_note": "New York Times and IFC Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "But is it News? The &lt;i&gt;New York Times&lt;/i&gt; and the International\
   \ Freedom Center"

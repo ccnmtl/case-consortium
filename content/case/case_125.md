@@ -52,6 +52,7 @@
   \ research practices when operating in the real world. The national Experience Corps\
   \ program brings senior citizens to work as volunteers in elementary schools. But\
   \ it has not yet had a rigorous evaluation—one that would argue for aggressive expansion."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-05-19 at 12.43.37 PM.png"
 "title": "Scientific Method in the Real World: Experience Corps and the Johns Hopkins\
   \ Study"

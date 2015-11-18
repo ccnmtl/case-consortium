@@ -55,6 +55,7 @@
   \ remaining as objective as possible. Mildred Ngesa wants to draw public attention\
   \ to the national problem of child rape, but also to protect “Laura” (a pseudonym)\
   \ from any further trauma"
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Catalyze Without Offense: &lt;em&gt;Daily Nation Living Magazine&lt;/em&gt;\
   \ and the &quot;Laura&quot; Story"

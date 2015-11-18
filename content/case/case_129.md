@@ -44,6 +44,7 @@
   \ with as the traditional business model crumbles: install a paywall or not? Case\
   \ readers will be taken behind the scenes at the New York Times in 2009, when it\
   \ was deciding whether to try again for a paywall and, if so, what kind."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-06-13 at 11.53.26 AM.png"
 "title": "Salvation or Mirage? The &lt;em&gt;New York Times&lt;/em&gt; Paywall"
 "title_color": ""

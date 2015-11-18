@@ -57,6 +57,7 @@
   \ to the port city of Buenaventura, Colombia.   As the program director prepares\
   \ the ground for this new project, however, he is asked to accelerate a baseline\
   \ survey, short-cutting trust-building activities."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-07-23 at 3.56.58 PM.png"
 "title": !!python/str "Tortoise or Hare? Fundación Carvajal and Buenaventura"
 "title_color": ""

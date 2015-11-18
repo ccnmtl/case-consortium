@@ -48,6 +48,7 @@
 "teaser": "This case takes students into the world of international sustainable development.\
   \ It looks at the challenges that confront a comprehensive development project (environment,\
   \ education, health etc.) in the south of Haiti in 2012."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-03-13 at 6.57.14 PM.png"
 "title": !!python/str "Côte Sud Initiative: Integrated Development in Haiti"
 "title_color": ""

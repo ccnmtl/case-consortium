@@ -54,6 +54,7 @@
   \ public-private partnerships (PPPs) for parks. For years, New York City’s Central\
   \ Park was a neglected dustbowl. But in 1980, a new kind of organization arose to\
   \ reclaim and restore it."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-05-30 at 12.49.35 PM.png"
 "title": "Public-Private Partnerships for Green Space in NYC"
 "title_color": ""

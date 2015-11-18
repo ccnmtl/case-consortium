@@ -48,6 +48,7 @@
   \ African newspaper as it wrestles with whether to bug a meeting of right-wing extremists\
   \ in South Africa with a history of violence. What if the eavesdropping could forestall\
   \ a deadly event? Part B describes the consequences."
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Public Service or Illegal Act? The &lt;i&gt;Weekly Mail&lt;/i&gt; and Bugging\
   \ Staal Burger"

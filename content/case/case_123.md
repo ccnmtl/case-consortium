@@ -39,6 +39,7 @@
 "status_id": "1"
 "teaching_note": "Seeking Partners TZ TN.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Seeking Partners for Press Freedom Media Council of Tanzania and DEFIR"
 "title_color": ""

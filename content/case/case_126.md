@@ -52,6 +52,7 @@
   \ in an authoritarian society. It considers the role of technology in today’s investigative\
   \ reporting. It also looks at the role that government-financed news organizations\
   \ like Radio Free Europe/Radio Liberty (RFE/RL) can play globally."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-05-01 at 12.14.16 PM.png"
 "title": !!python/str "Fighting Blackmail: Khadija Ismayilova and Azerbaijan’s First\
   \ Family"

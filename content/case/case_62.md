@@ -50,6 +50,7 @@
   \ dilema para un reportero, cuando la historia que pretende escribir, no es la historia\
   \ que ella descubre. Este caso se puede utilizar en una clase sobre los escritos\
   \ originales; informes sobre educación; o ética."
+"thumbnail_default": "yes"
 "thumb": "text only image.jpg"
 "title": "Una Historia Esquiva: El &lt;i&gt;Chicago Tribune&lt;/i&gt; y la ley &amp;quot;Que\
   \ Ning&amp;uacute;n Ni&amp;ntilde;o Quede Atr&amp;aacute;s&amp;quot;"
