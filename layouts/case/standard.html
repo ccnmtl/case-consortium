@@ -13,6 +13,14 @@
 
 <div class="row 200%">
 <div class="3u 12u$(medium) case-thumb">
+    <a target="_blank" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html" title="Link to Case">
+    {{ if .Params.thumbnail_default }}
+        <img class ="thumbnail noborder" src="/img/case/case_thumb_00.png" />
+    {{ else }}
+        <img class ="thumbnail" src="/img/case/case_thumb_{{ .Params.id }}.jpg" />
+    {{ end }}
+    </a>
+     
 </div>
 <div class="9u 12u$(medium) case-desc">
 <!-- Content -->
@@ -133,23 +141,7 @@
                     };
                     unescapeText();
                     createTeachResourceUX();
-                    setCaseThumb();
                 };
-
-                function setCaseThumb() {
-                    var imageUrl = '/img/case/case_thumb_{{ .Params.id }}.jpg';
-                    jQuery.get(imageUrl).error(function() {
-                        // don't really do anything because we assume that there is no
-                        // assigned thumbnail for now. Eventually probably better to pull
-                        // the thumbnail directly from the front matter
-                    }).success(function() {
-                        var thumbDiv = jQuery('.case-thumb');
-                        var thumb = '<img class ="thumbnail" ' + 
-                        'src="/img/case/case_thumb_{{ .Params.id }}.jpg" />';
-                        thumbDiv.append(thumb);
-                    });
-                };
-                
 
                 init();
 
