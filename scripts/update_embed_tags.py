@@ -1,7 +1,8 @@
 '''
-  Find videos and upload to youtube
+  For each video that has been uploaded to youtube, 
   Copied script from Google developers youtube api:
   https://developers.google.com/youtube/v3/code_samples/python#upload_a_video
+  <embed type="application/x-shockwave-flash" src="mediaplayer.swf?file
 '''
 
 from subprocess import call
@@ -148,18 +149,18 @@ def resumable_upload(insert_request):
     retry = 0
     while response is None:
         try:
-            print "Uploading file..."
+            # print "Uploading file..."
             status, response = insert_request.next_chunk()
             if 'id' in response:
                 print "Video id '%s' was successfully uploaded." % response['id']
                 # make sure file to write title and ids to is there
                 if os.path.isfile('video_ids.txt'):
                     f = open('video_ids.txt', 'a')
-                    print "response['snippet']['localized']['title']"
-                    print response['snippet']['localized']['title']
-                    f.write(response['id'] + "\t\t\t\t" + response['snippet']['localized']['title'] + '\n')
-                    print "response"
-                    print response
+                    # print "response['snippet']['localized']['title']"
+                    # print response['snippet']['localized']['title']
+                    f.write(response['id'] + "\t" + response['snippet']['localized']['title'] + '\n')
+                    # print "response"
+                    # print response
             else:
                 exit("The upload failed with an unexpected response: %s" % response)
         except HttpError, e:
@@ -172,14 +173,14 @@ def resumable_upload(insert_request):
             error = "A retriable error occurred: %s" % e
 
         if error is not None:
-            print error
+            # print error
             retry += 1
         if retry > MAX_RETRIES:
             exit("No longer attempting to retry.")
 
         max_sleep = 2 ** retry
         sleep_seconds = random.random() * max_sleep
-        print "Sleeping %f seconds and then retrying..." % sleep_seconds
+        # print "Sleeping %f seconds and then retrying..." % sleep_seconds
         time.sleep(sleep_seconds)
 
 
@@ -206,6 +207,9 @@ if __name__ == '__main__':
         print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
 
 
-#./ve/bin/python upload_videos.py --directory="../ccnmtl-caseconsortium" --privacyStatus="unlisted"
+#./ve/bin/python update_embed_tags.py
+
+
+
 
 
