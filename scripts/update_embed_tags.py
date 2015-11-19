@@ -3,6 +3,7 @@
   Copied script from Google developers youtube api:
   https://developers.google.com/youtube/v3/code_samples/python#upload_a_video
   <embed type="application/x-shockwave-flash" src="mediaplayer.swf?file
+  <embed type="application/x-shockwave-flash" src="mediaplayer.swf?file=..%2F..%2Ffiles%2Fvideos%2F221%2FTextCards.flv" width="420" height="286" style="undefined" id="movie_player_1" name="movie_player_1" bgcolor="#ffffff" quality="high" wmode="transparent" autoplay="false" flashvars="file=..%2F..%2Ffiles%2Fvideos%2F221%2FTextCards.flv">
 '''
 
 from subprocess import call
