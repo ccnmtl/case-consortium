@@ -48,12 +48,9 @@
 "teaser": "This case takes students into the world of international sustainable development.\
   \ It looks at the challenges that confront a comprehensive development project (environment,\
   \ education, health etc.) in the south of Haiti in 2012."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-03-13 at 6.57.14 PM.png"
 "title": !!python/str "Côte Sud Initiative: Integrated Development in Haiti"
 "title_color": ""
 ---
-*CCC-14-0001.0*
-
 This case takes students into the world of international sustainable development. It looks at the challenges that confront a comprehensive development project (environment, education, health etc.) in the south of Haiti in 2012. The Côte Sud Initiative (CSI) is one piece of the government’s response to the devastating earthquake of January 2010 that leveled large parts of the capital and sent refugees streaming into the countryside, including the south. The project starts with data collection and is just gearing up to deliver services when, in March 2012, staff learn the chief funder is withdrawing.
-
-Epilogue, Teaching Note

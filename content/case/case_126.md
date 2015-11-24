@@ -52,13 +52,10 @@
   \ in an authoritarian society. It considers the role of technology in today’s investigative\
   \ reporting. It also looks at the role that government-financed news organizations\
   \ like Radio Free Europe/Radio Liberty (RFE/RL) can play globally."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-05-01 at 12.14.16 PM.png"
 "title": !!python/str "Fighting Blackmail: Khadija Ismayilova and Azerbaijan’s First\
   \ Family"
 "title_color": ""
 ---
-*CSJ-14-0053.0*
-
 This case chronicles the challenges of reporting on corruption in an authoritarian society. Khadija Ismayilova is an Azerbaijani journalist who was trained in accountability journalism by Western practitioners. In March 2012, while researching yet another expose, Ismayilova received in the mail graphic photos of herself and her boyfriend, taken by a videocamera concealed in her bedroom. A cover letter threatened her if she persisted in her reporting. The case stops as Ismayilova debates what her options are: remain silent or respond and, if the latter, how?
-
-Epilogue, Teaching Note

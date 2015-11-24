@@ -48,8 +48,4 @@
   \ Design Trial"
 "title_color": "#ab4915"
 ---
-*CSJ-09-0020.0*
-
 This case examines the challenge of providing balanced coverage of a court case when the trial is about science, and the reporter believes the science on one side is flawed. Students can debate the proper role of a newspaper serving its local community—to reflect local mores and values, or to challenge them?
-
-Epilogue, Teaching Note

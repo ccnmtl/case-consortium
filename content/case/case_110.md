@@ -50,8 +50,4 @@
 "title": "Higher Truth or Just the Facts? &lt;i&gt;Hell and Back Again&lt;/i&gt;"
 "title_color": ""
 ---
-*CSJ-13-0048.0*
-
 This case examines the challenges facing a news documentary maker who wants to create a film that conveys a psychological truth without resorting to cinematic techniques. Documentarians make constant decisions as they edit their raw footage about what to include, exclude and emphasize. Nearly all at some point have to ask whether it is dishonest to alter the literal truth in order to communicate a “higher” truth or complex story.
-
-Epilogue, Teaching Note

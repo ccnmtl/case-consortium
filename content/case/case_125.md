@@ -52,9 +52,10 @@
   \ research practices when operating in the real world. The national Experience Corps\
   \ program brings senior citizens to work as volunteers in elementary schools. But\
   \ it has not yet had a rigorous evaluation—one that would argue for aggressive expansion."
+"thumbnail_default": "yes"
 "thumb": "Screen Shot 2014-05-19 at 12.43.37 PM.png"
 "title": "Scientific Method in the Real World: Experience Corps and the Johns Hopkins\
   \ Study"
 "title_color": ""
 ---
-<html><body><p>This case looks at the challenges of adhering to best scientific research practices when operating in the real world. The national Experience Corps program brings senior citizens to work as volunteers in elementary schools. But it has not yet had a rigorous evaluation—one that would argue for aggressive expansion. In 2005, Linda Fried, director of the Center on Aging and Health at Johns Hopkins University, wants to submit a proposal to the National Institutes of Health to fund randomized controlled trial of the Baltimore chapter of Experience Corps. But the organization which operates Experience Corps in Baltimore, has objections—most of them political—to some of the requirements for an RCT.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>community-based research; public health studies; academic/non-profit partnerships</p></body></html>
+This case looks at the challenges of adhering to best scientific research practices when operating in the real world. The national Experience Corps program brings senior citizens to work as volunteers in elementary schools. But it has not yet had a rigorous evaluation&mdash;one that would argue for aggressive expansion. In 2005, Linda Fried, director of the Center on Aging and Health at Johns Hopkins University, wants to submit a proposal to the National Institutes of Health to fund randomized controlled trial of the Baltimore chapter of Experience Corps. But the organization which operates Experience Corps in Baltimore, has objections&mdash;most of them political&mdash;to some of the requirements for an RCT.

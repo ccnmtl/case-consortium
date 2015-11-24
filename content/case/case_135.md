@@ -19,10 +19,10 @@
   \ of the Institute of Public and Environmental Affairs (IPE). In early 2014, however,\
   \ IPE prepared to take on a new group of polluters: state-owned enterprises (SOEs).\
   \ IPE had earlier successfully pressured global brands to persuade their offending\
-  \ suppliers to clean up production. But SOEs were a different category—many had\
-  \ powerful supporters in high positions—national, regional and local. Use this case\
+  \ suppliers to clean up production. But SOEs were a different category&mdash;many had\
+  \ powerful supporters in high positions&mdash;national, regional and local. Use this case\
   \ to give students grounding in the realities of civil activism in authoritarian\
-  \ societies. </p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>international\
+  \ societies. </p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>international\
   \ sustainable development; China; environmental activism; civil society</p></body></html>"
 "description_clean": "CCC-14-0006.0A civil society activist in any country expects\
   \ challenges, but with an authoritarian government the role can carry extra burdens.\
@@ -30,9 +30,9 @@
   \ Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of\
   \ polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured\
   \ global brands to persuade their offending suppliers to clean up production. But\
-  \ SOEs were a different category—many had powerful supporters in high positions—national,\
+  \ SOEs were a different category&mdash;many had powerful supporters in high positions&mdash;national,\
   \ regional and local. Use this case to give students grounding in the realities\
-  \ of civil activism in authoritarian societies. Epilogue, Teaching NoteTopics: international\
+  \ of civil activism in authoritarian societies. Epilogue, Teaching NoteTopics: international\
   \ sustainable development; China; environmental activism; civil society"
 "epilogue": "Ma Jun epilogue final.pdf"
 "faculty_notes": ""
@@ -54,9 +54,10 @@
   \ authoritarian government the role can carry extra burdens. This case examines\
   \ the creation and evolution of the Institute of Public and Environmental Affairs\
   \ (IPE). In early 2014, however, IPE prepared to take on a new group of polluters."
+"thumbnail_default": "yes"
 "thumb": "Screen shot 2014-08-19 at 12.36.34 PM.png"
 "title": "Publishing Pollution Data in China: Ma Jun and the Institute of Public and\
   \ Environmental Affairs"
 "title_color": ""
 ---
-<html><body><p><em>CCC-14-0006.0</em></p><p>A civil society activist in any country expects challenges, but with an authoritarian government the role can carry extra burdens. This case examines the creation and evolution of the Institute of Public and Environmental Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured global brands to persuade their offending suppliers to clean up production. But SOEs were a different category—many had powerful supporters in high positions—national, regional and local. Use this case to give students grounding in the realities of civil activism in authoritarian societies. </p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>international sustainable development; China; environmental activism; civil society</p></body></html>
+A civil society activist in any country expects challenges, but with an authoritarian government the role can carry extra burdens. This case examines the creation and evolution of the Institute of Public and Environmental Affairs (IPE). In early 2014, however, IPE prepared to take on a new group of polluters: state-owned enterprises (SOEs). IPE had earlier successfully pressured global brands to persuade their offending suppliers to clean up production. But SOEs were a different category&mdash;many had powerful supporters in high positions&mdash;national, regional and local. Use this case to give students grounding in the realities of civil activism in authoritarian societies.

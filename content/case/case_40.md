@@ -41,9 +41,10 @@
 "status_id": "1"
 "teaching_note": "Chicago Tribune Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Elusive Story: The &lt;i&gt;Chicago Tribune&lt;/i&gt; Examines &amp;quot;No\
   \ Child Left Behind&amp;quot;"
 "title_color": "#2947a3"
 ---
-<html><body><p> <i>CSJ-09-0019.0PO</i><br/><span>This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions.</span></p><p>Epilogue, Teaching Note</p><p><b>Topics: </b>ethics; education reporting; feature writing</p></body></html>
+This case study examines long-form journalism, and the dilemma for a reporter when the story she intends to write is not the story she uncovers. It also examines the responsibility of a reporter to a source unfamiliar with journalistic conventions.

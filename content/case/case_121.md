@@ -17,15 +17,15 @@
   \ debate within the editorial team at the Weekly Mail South African newspaper as\
   \ it wrestles with whether to bug a meeting of right-wing extremists with a history\
   \ of violence. What if eavesdropping could forestall a deadly event? Part B describes\
-  \ the consequences.<br/><br/>Part B, Teaching Note<br/><br/><strong>Topics: </strong> journalism\
-  \ ethics,  international media, journalism and the law, or investigative reporting.<br/><br/><strong>Faculty:\
+  \ the consequences.<br/><br/>Part B, Teaching Note<br/><br/><strong>Topics: </strong> journalism\
+  \ ethics,  international media, journalism and the law, or investigative reporting.<br/><br/><strong>Faculty:\
   \ </strong>You will have an opportunity to review Part B once you have registered.</p></body></html>"
 "description_clean": "AKU-14-0002.0Are there instances in which the media is justified\
   \ in breaking the law? Part A describes debate within the editorial team at the\
   \ Weekly Mail South African newspaper as it wrestles with whether to bug a meeting\
   \ of right-wing extremists with a history of violence. What if eavesdropping could\
-  \ forestall a deadly event? Part B describes the consequences.Part B, Teaching NoteTopics:  journalism\
-  \ ethics,  international media, journalism and the law, or investigative reporting.Faculty:\
+  \ forestall a deadly event? Part B describes the consequences.Part B, Teaching NoteTopics:  journalism\
+  \ ethics,  international media, journalism and the law, or investigative reporting.Faculty:\
   \ You will have an opportunity to review Part B once you have registered."
 "epilogue": "Public Service or Illegal Act Pt B.pdf"
 "faculty_notes": ""
@@ -48,9 +48,10 @@
   \ African newspaper as it wrestles with whether to bug a meeting of right-wing extremists\
   \ in South Africa with a history of violence. What if the eavesdropping could forestall\
   \ a deadly event? Part B describes the consequences."
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Public Service or Illegal Act? The &lt;i&gt;Weekly Mail&lt;/i&gt; and Bugging\
   \ Staal Burger"
 "title_color": ""
 ---
-<html><body><p><em>AKU-14-0002.0</em><br/><br/>Are there instances in which the media is justified in breaking the law? Part A describes debate within the editorial team at the Weekly Mail South African newspaper as it wrestles with whether to bug a meeting of right-wing extremists with a history of violence. What if eavesdropping could forestall a deadly event? Part B describes the consequences.<br/><br/>Part B, Teaching Note<br/><br/></body></html>
+Are there instances in which the media is justified in breaking the law? Part A describes debate within the editorial team at the *Weekly Mail* South African newspaper as it wrestles with whether to bug a meeting of right-wing extremists with a history of violence. What if eavesdropping could forestall a deadly event? Part B describes the consequences.

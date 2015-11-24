@@ -57,8 +57,4 @@
   \ de Paul Schaefer"
 "title_color": "#e8123d"
 ---
-*CSJ-10-0028.0*
-
 Este caso, dicho en su mayoría a través de entrevistas en video con el equipo de noticias, acerca del esfuerzo de una organización de noticias para localizar a un criminal, y si su trabajo es periodísticamente apropiado o se acerca mas a asuntos de policía. Los estudiantes exploran la delgada línea entre uso legítimo e ilegítimo de las técnicas secretas de reportajes, incluyendo cámaras ocultas. También tendrán la oportunidad de evaluar los costos de un proyecto de periodismo de investigación en contra de su posible rentabilidad.
-
-Epílogo, Teaching Note

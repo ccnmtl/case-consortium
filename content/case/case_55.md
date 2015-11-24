@@ -51,8 +51,4 @@
 "title": "Into the Breach: Should Student Journalists Save Local Political Reporting?"
 "title_color": "#0c43b0"
 ---
-*CSJ-10-0031.0*
-
 This case allows students to consider the societal debate over the business models for future journalism, whether universities have a role to play, and whether good journalism is a civic obligation. The University of Kentucky and Kentucky State University have an opportunity in 2009 to create a student-run news bureau in the state capital, Frankfort.
-
-Epilogue, Teaching Note

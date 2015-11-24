@@ -50,8 +50,4 @@
   \ Sam Adams "
 "title_color": "#276b65"
 ---
-*CSJ-09-0023.0*
-
 In this case study, students are taken behind the scenes to examine the role an editorial board plays at a news organization. Students will begin to understand how editorial page opinions are formulated, the structures that keep news reporting separate from opinion, and the factors that weigh in on editorial page decisions.
-
-Epilogue, Teaching Note

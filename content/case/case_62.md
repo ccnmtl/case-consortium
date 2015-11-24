@@ -50,9 +50,10 @@
   \ dilema para un reportero, cuando la historia que pretende escribir, no es la historia\
   \ que ella descubre. Este caso se puede utilizar en una clase sobre los escritos\
   \ originales; informes sobre educación; o ética."
+"thumbnail_default": "yes"
 "thumb": "text only image.jpg"
 "title": "Una Historia Esquiva: El &lt;i&gt;Chicago Tribune&lt;/i&gt; y la ley &amp;quot;Que\
   \ Ning&amp;uacute;n Ni&amp;ntilde;o Quede Atr&amp;aacute;s&amp;quot;"
 "title_color": "#2947a3"
 ---
-<html><body><div style="float: right; padding: 10px;"></div><p><i>CSJ-09-0019.4PO</i><br/>Este caso de estudio, examina el periodismo narrativo y el dilema para un reportero, cuando la historia que pretende escribir, no es la historia que ella descubre. <span id="result_box" lang="es"><span class="hps" title="Click for alternate translations">También</span> <span class="hps" title="Click for alternate translations">examina</span> </span>la responsabilidad que tiene un periodista acerca de una fuente no familiarizada con las normas periodísticas.</p><p>Epílogo, Teaching Note</p><p><strong>Temas:</strong> los escritos originales; informes sobre educación; <span class="short_text" id="result_box"><span title="Topics: international; investigative reporting; ethics">la ética</span></span></p></body></html>
+Este caso de estudio, examina el periodismo narrativo y el dilema para un reportero, cuando la historia que pretende escribir, no es la historia que ella descubre. También examina la responsabilidad que tiene un periodista acerca de una fuente no familiarizada con las normas periodísticas.

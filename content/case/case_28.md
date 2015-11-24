@@ -44,12 +44,9 @@
 "status_id": "1"
 "teaching_note": "Edwards Teaching Note.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "News or Rumor? &lt;i&gt;Politico&lt;/i&gt; and the Edwards Affair "
 "title_color": "#2947a3"
 ---
-*CSJ-08-0018.0PO*
-
 This case is about how journalists make daily decisions on what to write, and what not to write. Students are asked to weigh the credibility of different sources of news, and discuss different standards of accuracy for blogs, tabloids, and more mainstream news outlets. They can also discuss the fine line between privacy and the public’s right to know.
-
-Teaching Note

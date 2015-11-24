@@ -45,4 +45,4 @@
 "title": "Settle or fight? &lt;i&gt; Far Eastern Economic Review &lt;/i&gt; and Singapore"
 "title_color": "#cc3333"
 ---
-<html><body><p><i>CSJ-08-0006.0</i><br/>This case is about the challenge faced by the <em>Far Eastern Economic Review</em> (FEER) and its parent, Dow Jones, when in 2006 FEER ran afoul of Singapore’s leaders and its government. The case traces the history of the media, both domestic and international, in Singapore.</p><p><br/>Epilogue, Teaching Note</p></body></html>
+This case is about the challenge faced by the *Far Eastern Economic Review* (FEER) and its parent, Dow Jones, when in 2006 FEER ran afoul of Singapore’s leaders and its government. The case traces the history of the media, both domestic and international, in Singapore.

@@ -44,8 +44,4 @@
   \ at 300 Million&quot;"
 "title_color": "#cc3333"
 ---
-*CSJ-07-0001.0*
-
-This case study tells the story of how one editor at Time Magazine took a concept—create a “mirror on America”—and translated it into 12 pages in the magazine. The case describes the kind of decisions editors have to make on a daily basis.
-
-Epilogue, Teaching Note
+This case study tells the story of how one editor at *Time* magazine took a concept—create a “mirror on America”—and translated it into 12 pages in the magazine. The case describes the kind of decisions editors have to make on a daily basis.

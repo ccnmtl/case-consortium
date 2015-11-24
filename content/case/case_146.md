@@ -23,7 +23,7 @@
   \ to take charge of its own treatment and prevention programs. Okello learned to\
   \ leverage both internal and international resources to maintain supplies of the\
   \ essential but expensive ART drugs needed to treat and prevent the further spread\
-  \ of HIV.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>public\
+  \ of HIV.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>public\
   \ health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based\
   \ medicine</p></body></html>"
 "description_clean": "MSPH-14-0008.0This case study examines the challenges and tradeoffs\
@@ -34,7 +34,7 @@
   \ Ministry of Health, the country gradually began to take charge of its own treatment\
   \ and prevention programs. Okello learned to leverage both internal and international\
   \ resources to maintain supplies of the essential but expensive ART drugs needed\
-  \ to treat and prevent the further spread of HIV.Epilogue, Teaching NoteTopics: public\
+  \ to treat and prevent the further spread of HIV.Epilogue, Teaching NoteTopics: public\
   \ health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based\
   \ medicine"
 "epilogue": "Swaziland epilogue final.pdf"
@@ -57,8 +57,9 @@
   \ African country with limited resources as it tries to combat one of the highest\
   \ rates of HIV-AIDS infection in the world. Swaziland in 1999 declared HIV-AIDS\
   \ a national disaster. "
+"thumbnail_default": "yes"
 "thumb": "casethumbnail.png"
 "title": "Swaziland, HIV and Option B+: What Can We Afford?"
 "title_color": ""
 ---
-<html><body><p><em>MSPH-14-0008.0</em><br/><br/>This case study examines the challenges and tradeoffs for a small sub-Saharan African country with limited resources as it tries to combat one of the highest rates of HIV-AIDS infection in the world. Swaziland in 1999 declared HIV-AIDS a national disaster. However, under the direction of Dr. Velphi Okello as national antiretroviral therapy (ART) coordinator at the Ministry of Health, the country gradually began to take charge of its own treatment and prevention programs. Okello learned to leverage both internal and international resources to maintain supplies of the essential but expensive ART drugs needed to treat and prevent the further spread of HIV.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics: </strong>public health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based medicine</p></body></html>
+This case study examines the challenges and tradeoffs for a small sub-Saharan African country with limited resources as it tries to combat one of the highest rates of HIV-AIDS infection in the world. Swaziland in 1999 declared HIV-AIDS a national disaster. However, under the direction of Dr. Velphi Okello as national antiretroviral therapy (ART) coordinator at the Ministry of Health, the country gradually began to take charge of its own treatment and prevention programs. Okello learned to leverage both internal and international resources to maintain supplies of the essential but expensive ART drugs needed to treat and prevent the further spread of HIV.

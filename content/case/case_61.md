@@ -42,13 +42,10 @@
 "status_id": "1"
 "teaching_note": "La Privacidad_b.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": ""
 "title": "Privacidad e Inter&amp;eacute;s P&amp;uacute;blico: La Evidencia Contra\
   \ Ivins. Segunda Parte."
 "title_color": "#2947a3"
 ---
-*CSJ-08-0015.5PO*
-
 Este caso, en dos partes, es acerca de cómo los medios de comunicación nivelan, el derecho personal a la intimidad frente al derecho del público a informarse. Se pide a los estudiantes que deben tener en cuenta cuáles son las obligaciones de un periódico para sus lectores, y para aquellos sobre los que escribe.
-
-Epílogo, Teaching Note

@@ -39,8 +39,9 @@
 "status_id": "1"
 "teaching_note": "Seeking Partners TZ TN.pdf"
 "teaser": ""
+"thumbnail_default": "yes"
 "thumb": "textonlythumbnail.jpeg"
 "title": "Seeking Partners for Press Freedom Media Council of Tanzania and DEFIR"
 "title_color": ""
 ---
-<html><body><p><em>AKU-13-0003.0 </em></p><p>This case examines what means and partners are available to battle endemic corruption within the media. In 2009, the Media Council of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers and others in adopting a code of editorial independence and responsibility.</p><p>Epilogue, Teaching Note<br/><br/><strong>Topics:</strong>  international media; ethics; media reform; or press and politics.</p></body></html>
+This case examines what means and partners are available to battle endemic corruption within the media. In 2009, the Media Council of Tanzania (MCT) committed itself to the goal of enlisting media outlets, advertisers and others in adopting a code of editorial independence and responsibility.
