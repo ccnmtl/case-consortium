@@ -70,37 +70,6 @@ https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
 """ % os.path.abspath(os.path.join(os.path.dirname(__file__),
                                    CLIENT_SECRETS_FILE))
 
-# def get_authenticated_service(args):
-#     storage = Storage(settings.OAUTH_STORAGE_PATH)
-#     credentials = storage.get()
-# 
-#     if credentials is None or credentials.invalid:
-#         raise YTAuthError
-# 
-#     return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
-#                  http=credentials.authorize(httplib2.Http()))
-# 
-# 
-# class Args(object):
-#     pass
-# 
-# 
-# def get_credentials():
-#     """ do the oauth dance to get new credentials file """
-#     args = Args()
-#     args.logging_level = 'DEBUG'
-#     args.noauth_local_webserver = 'http://localhost:8000/'
-#     flow = flow_from_clientsecrets(
-#         settings.YOUTUBE_CLIENT_SECRETS_FILE,
-#         # it complains if you don't set something as the redirect_uri,
-#         # even though it's not used
-#         redirect_uri="http://localhost:8000/",
-#         scope=YOUTUBE_UPLOAD_SCOPE)
-# 
-#     storage = Storage("youtube_oauth.json")
-#     credentials = run_flow(flow, storage, args)
-#     return credentials
-
 
 def get_authenticated_service(args):
     flow = flow_from_clientsecrets(CLIENT_SECRETS_FILE,
@@ -148,18 +117,13 @@ def resumable_upload(insert_request):
     retry = 0
     while response is None:
         try:
-            print "Uploading file..."
             status, response = insert_request.next_chunk()
             if 'id' in response:
-                print "Video id '%s' was successfully uploaded." % response['id']
                 # make sure file to write title and ids to is there
                 if os.path.isfile('video_ids.txt'):
                     f = open('video_ids.txt', 'a')
-                    print "response['snippet']['localized']['title']"
-                    print response['snippet']['localized']['title']
                     f.write(response['id'] + "\t\t\t\t" + response['snippet']['localized']['title'] + '\n')
-                    print "response"
-                    print response
+
             else:
                 exit("The upload failed with an unexpected response: %s" % response)
         except HttpError, e:
@@ -206,6 +170,7 @@ if __name__ == '__main__':
         print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
 
 
-#./ve/bin/python upload_videos.py --directory="../ccnmtl-caseconsortium" --privacyStatus="unlisted"
+#./ve/bin/python upload_videos.py --directory="../../../OldCaseStudies"
+
 
 
