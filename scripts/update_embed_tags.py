@@ -39,7 +39,7 @@ def search_folders(file_name):
 search_folders(file_to_search)
 
     
-    <embed type="application/x-shockwave-flash" src="mediaplayer.swf?file=..%2F..%2Ffiles%2Fvideos%2F222%2FPointingGun.flv" width="420" height="286" style="undefined" id="movie_player_1" name="movie_player_1" bgcolor="#ffffff" quality="high" wmode="transparent" autoplay="false" flashvars="file=..%2F..%2Ffiles%2Fvideos%2F222%2FPointingGun.flv">
+    # <embed type="application/x-shockwave-flash" src="mediaplayer.swf?file=..%2F..%2Ffiles%2Fvideos%2F222%2FPointingGun.flv" width="420" height="286" style="undefined" id="movie_player_1" name="movie_player_1" bgcolor="#ffffff" quality="high" wmode="transparent" autoplay="false" flashvars="file=..%2F..%2Ffiles%2Fvideos%2F222%2FPointingGun.flv">
     # split input line, search case html files for the video name
     # find the flv html element.
     def search_folders(file_name):

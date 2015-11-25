@@ -1,0 +1,296 @@
+$ find /www/data/ccnmtl/projects/caseconsortium/casestudies -name *.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/185/Rusbridger bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/189/Katz bio quotes .mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/182/Leigh bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/191/Casson bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/187/Davies bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/184/Rusbridger text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/183/Leigh text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/188/Katz text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/186/Davies text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/304/Lerner1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/306/Fiona1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/308/Dennis1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/303/Lerner2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/305/Fiona2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/110/casestudy/files/audios/307/Dennis2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/309/McClure bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/316/Alcorn text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/310/McClure text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/317/alcorn bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/311/Rita text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/313/Smith text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/314/Smith bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/111/casestudy/files/audios/312/Rita bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/323/bekedam text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/318/Chin text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/320/Schnur bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/321/Schnur text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/319/Chin bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/112/casestudy/files/audios/322/bekedam bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/113/casestudy/files/audios/326/Solazzo bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/113/casestudy/files/audios/325/Romagnoli text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/113/casestudy/files/audios/327/Solazzo text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/113/casestudy/files/audios/324/Romagnoli bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/42/Baron on documenting pattern.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/48/Rezendes we were all really devastated.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/47/Rezendes bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/46/Pfeiffer interesting project.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/41/Baron bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/50/Robinson on not believing own story.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/49/Robinson bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/43/Carroll on church directories.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/115/casestudy/files/audios/45/Pfeiffer bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/347/KuntzBioAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/343/VoskuhlCaseAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/346/FriedmanCaseAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/342/VoskuhlBioAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/345/FriedmanBioAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/348/KuntzCaseAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/339/IvryBioAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/116/casestudy/files/audios/344/IvryCaseAudio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/30/Katches.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/37/Cary Spivak bio on the thrill of the chase.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/36/Susanne Rust bio on getting into journalism.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/33/Stanley background.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/38/Kissinger background.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/12/casestudy/files/audios/29/Cary.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/351/Levy1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/349/Fischer1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/353/Wah1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/350/Fischer2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/354/Wah2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/124/casestudy/files/audios/352/Levy2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/358/FriedExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/359/McGillBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/360/McGillExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/370/MillerBio2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/372/Fried2Exc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/369/MillerExc2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/355/FreedmanBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/125/casestudy/files/audios/356/FreedmanExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/audios/366/PaulExcerpt.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/audios/363/KenanBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/audios/364/KenanExcerpt.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/126/casestudy/files/audios/365/PaulBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/127/casestudy/files/audios/373/EimickeAudioCut.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/377/KellerHumanInterest.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/380/MeislinAmp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/385/SchillerHI.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/384/schilleramp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/383/nisenholtzhi.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/390/WarrenHI.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/388/SulzbergerHI.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/378/LandsmanAmp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/386/sulzbergeramp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/375/GeddesHumanInterest.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/391/WarrenAmp2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/379/LandsmanHI.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/376/KellerAmp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/381/MeislinHI.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/129/casestudy/files/audios/382/NisenholtzAmp.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/397/GeoffExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/394/DoronBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/393/BradExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/395/DoronExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/396/GeoffBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/130/casestudy/files/audios/392/BradBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/398/GeorgBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/402/SimronBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/399/GeorgExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/401/MarinaExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/405/WilliExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/404/WilliBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/406/SimronCase.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/133/casestudy/files/audios/400/MarinaBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/134/casestudy/files/audios/410/SerraoExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/134/casestudy/files/audios/408/EichlerExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/134/casestudy/files/audios/409/MasciaExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/134/casestudy/files/audios/407/AverneExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/415/Collinsexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/416/guexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/414/gubio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/412/majunexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/411/majunbio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/135/casestudy/files/audios/413/collinsbio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/42/Baron on documenting pattern.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/48/Rezendes we were all really devastated.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/47/Rezendes bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/46/Pfeiffer interesting project.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/41/Baron bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/50/Robinson on not believing own story.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/49/Robinson bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/43/Carroll on church directories.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/14/casestudy/files/audios/45/Pfeiffer bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/423/okellobio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/417/abramsbio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/424/okelloexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/419/elsadrbio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/418/abramsexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/420/elsadrexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/421/nuwagababio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/146/casestudy/files/audios/422/nuwagabaexc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/425/BaronBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/426/BaronExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/429/LeenBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/427/GellmanBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/431/gellshort.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/147/casestudy/files/audios/430/LeenExc.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/435/MuchaCase.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/432/GellingBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/437/SheltonCase.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/436/SheltonBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/434/MuchaBio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/148/casestudy/files/audios/433/GellingCase.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/25/casestudy/files/audios/52/Len Downie clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/25/casestudy/files/audios/51/Deborah Howell clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/audios/55/Adam Goodman on deciding what to print.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/audios/54/Greg Jonsson on interviewing McNichols.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/audios/53/Pat Gauen on finding out.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/audios/56/Stephen Deere on the Thornton house.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/29/casestudy/files/audios/57/Hunn on reporting at the hospital.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/30/casestudy/files/audios/58/Lebo on ownership change.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/30/casestudy/files/audios/60/Lebo bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/30/casestudy/files/audios/59/Charisse on discussions with Lauri.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/67/A thesis disintegrates.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/71/Media savvy.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/73/backgrounding.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/72/Multipart stories.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/62/Going in Blind.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/70/Counseling Banchero.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/63/In class with Rayola.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/66/First day first twist.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/61/Stephanie Banchero story idea.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/65/Early persistence.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/31/casestudy/files/audios/75/Blau on talking to the subject.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/86/Nielsen bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/84/Caldwell explains meetings.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/89/Attig on thinking Adams should resign.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/87/Neilsen on not endorsing Adams.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/88/Sarsohn on interviewing Adams.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/93/Kitch on commission government.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/91/Bates on endorsing Adams.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/85/Caldwell on not a democracy.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/90/Attig bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/37/casestudy/files/audios/92/Bates bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/38/casestudy/files/audios/81/VandeHei on wife convincing him.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/38/casestudy/files/audios/78/Harris on trends.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/38/casestudy/files/audios/79/Harris bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/38/casestudy/files/audios/80/VandeHei on meeting with venture capitalist.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/39/casestudy/files/audios/79/Harris bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/39/casestudy/files/audios/83/VandeHei on wife convincing him.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/40/casestudy/files/audios/64/Late for ice cream.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/40/casestudy/files/audios/72/Multipart stories.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/40/casestudy/files/audios/77/High anxiety.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/100/Cancio bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/95/Fiedler text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/96/Corral text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/98/Castello text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/101/Weaver text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/99/Cancio text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/103/Ibarguen text.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/106/Fiedler bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/104/Ibarguen bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/97/Corral bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/105/Castello bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/43/casestudy/files/audios/102/Weaver bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/51/casestudy/files/audios/117/Woolley on meeting with Morgan.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/51/casestudy/files/audios/125/Lewis on being CEO.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/51/casestudy/files/audios/126/Donohue bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/51/casestudy/files/audios/110/Donohue on investing in technology.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/51/casestudy/files/audios/115/Lewis bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/53/casestudy/files/audios/109/Bailey building trust.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/53/casestudy/files/audios/124/Bass on getting rolling.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/53/casestudy/files/audios/108/Bailey bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/53/casestudy/files/audios/107/Bass bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/54/casestudy/files/audios/119/sullivan_car_tour.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/54/casestudy/files/audios/118/laura_sullivan_bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/54/casestudy/files/audios/121/steven_drummond_bio.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/54/casestudy/files/audios/122/drummond_sullivan_define_story.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/130/Cross_on_director.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/127/Barnes_on_student_newspaper_relationship.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/129/Cross_on_market.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/131/Cross_on_benefits_for_newspapers.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/128/Chapman_on Gilles.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/55/casestudy/files/audios/132/barnes_on_courier_journal.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/56/casestudy/files/audios/136/winaski on press freedom in Argentina.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/56/casestudy/files/audios/134/Fiona Ortiz on Kirchners war on business.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/56/casestudy/files/audios/139/Sierra on why Clarin supported Kirchner.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/153/Carroll on permission.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/157/Carroll on pissing off the Pentagon.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/148/Lyon on evolution of embed and pool system.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/152/Daniszewski on career.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/156/Curley on the story had to be told.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/158/Collins bio on being a Navy photographer.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/155/Collins on the job of photo editing.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/151/Lyon during first gulf war.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/59/casestudy/files/audios/154/Daniszewski on his first reaction to the photo.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/67/casestudy/files/audios/162/Rick Thames on APs Changing View of Newspapers.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/67/casestudy/files/audios/176/Grace on AP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/67/casestudy/files/audios/159/Rick Thames on AP Limited Dilemma.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/67/casestudy/files/audios/168/Thames on Benefits of CHA RAL Sharing News.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/185/Rusbridger bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/189/Katz bio quotes .mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/182/Leigh bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/190/Casson text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/191/Casson bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/187/Davies bio quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/184/Rusbridger text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/183/Leigh text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/188/Katz text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/70/casestudy/files/audios/186/Davies text quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/206/megan garvey p14.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/201/doug smith p13.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/204/ken schwencke p14-15.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/200/david lauter p9.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/205/julie marquis p7.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/83/casestudy/files/audios/199/beth shuster p3-4.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/85/casestudy/files/audios/223/Addario clip 2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/85/casestudy/files/audios/224/Addario clip 1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/219/WL bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/215/AJD bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/221/GD clip 2.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/218/WL clip 1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/216/AJD Clip 1.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/220/GD bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/86/casestudy/files/audios/217/AJD clip 3.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/260/graziano text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/257/faruque bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/262/haider text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/265/van geen bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/255/ahsan bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/261/haider bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/256/ahsan text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/258/faruque text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/264/Islam text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/266/van geen text clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/259/graziano bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/87/casestudy/files/audios/263/Islam bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/230/Carl Wadecl pg 12 clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/236/Dr Rikki Barnet pg 15.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/238/Dr Steven Tharratt pg 14.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/237/Dr Steven Tharratt bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/240/Joyce Hayhoe pg 10.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/233/Dr Joseph Bick bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/234/Dr Joseph Bick cilp2 .mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/242/Nancy Kincaid pg 5.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/235/Dr Rikki Barnet bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/229/Carl Wade bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/241/Nancy Kincaid bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/239/Joyce Hayhoe bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/231/Clark Kelso bio clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/90/casestudy/files/audios/232/Clark Kelso p 12 clip.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/91/casestudy/files/audios/268/Goldsteinpg15quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/91/casestudy/files/audios/269/Goldtseinbioquote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/91/casestudy/files/audios/272/Silverpg7quote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/91/casestudy/files/audios/271/Silverbioquote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/91/casestudy/files/audios/270/Marcusbioquote.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/276/Hotz_BIO CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/275/Bowden_BIO CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/281/Petit_BIO CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/282/Petit_TEXT CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/280/Bowden_TEXT CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/274/Bedaiko_TEXT CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/277/Hotz_TEXT CLIP.mp3
+/www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/273/Bedaiko_BIO CLIP.mp3
+$ 
