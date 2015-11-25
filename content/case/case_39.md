@@ -31,15 +31,16 @@
   \ of journalism entrepreneurs deciding what formula will ensure sufficient revenue\
   \ to continue operations.Teaching NoteTopics: media business; newsroom management;\
   \ digital media"
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/files/global/39/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/www/layout/case_id_39.html"
 "id": "39"
 "layout": "standard"
 "link_color": "#c73104"
 "linked_classes": ""
 "news_org": "Politico"
-"pdf": "John Harris, Jim VandeHei and Politico Part B_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/files/global/39/John Harris, Jim VandeHei and Politico Part B_wm.pdf"
 "price": "3.00"
 "redtext": ""
 "related_cases":
@@ -48,9 +49,9 @@
 "school": ""
 "slug": "RiskyBusinessPartB"
 "status_id": "1"
-"teaching_note": "Politico Part B Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/files/global/39/Politico Part B Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_39.jpg"
 "title": "Risky Business: John Harris, Jim VandeHei, and &lt;i&gt;Politico&lt;/i&gt;\
   \ Part B: A Winning Model?"
 "title_color": "#c73104"

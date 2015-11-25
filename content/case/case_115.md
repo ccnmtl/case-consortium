@@ -30,26 +30,27 @@
   \ impacto personal sobre los periodistas que produce la cobertura de ilícitos cometidos\
   \ por su propia iglesia.Epílogo, Teaching NoteTemas: periodismo de investigación;\
   \ cobertura de religión"
-"epilogue": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaEpilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/115/casestudy/files/global/115/BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaEpilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/115/casestudy/www/layout/case_id_115.html"
 "id": "115"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "The Boston Globe"
-"pdf": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolica_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/115/casestudy/files/global/115/BostonGlobeylosAbusosSexualesenlaIglesiaCatolica_wm.pdf"
 "price": "5.95"
 "redtext": "ESPANOL"
 "related_cases": []
 "school": ""
 "slug": "ReportearunaVerdadExplosiva"
 "status_id": "1"
-"teaching_note": "BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaTN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/115/casestudy/files/global/115/BostonGlobeylosAbusosSexualesenlaIglesiaCatolicaTN.pdf"
 "teaser": !!python/str "Este caso trata el cálculo que un medio de comunicación debe\
   \ hacer cuando descubre una historia que incrimina a la institución más poderosa\
   \ de su comunidad."
-"thumb": "Screen Shot 2013-08-27 at 4.44.04 PM.png"
+"thumbnail": "/img/case/case_thumb_115.jpg"
 "title": !!python/str "Reportear una Verdad Explosiva: Boston Globe y los Abusos Sexuales\
   \  en la Iglesia Católica"
 "title_color": ""

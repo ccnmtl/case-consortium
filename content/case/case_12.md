@@ -27,15 +27,16 @@
   \ telling “balanced” he said/she said-style stories, this thrusts the reporting\
   \ team—especially its science reporter—into unknown territory.Epilogue, Teaching\
   \ NoteTopics: science reporting; investigative reporting"
-"epilogue": "Chemical Fallout Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/12/casestudy/files/global/12/Chemical Fallout Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/12/casestudy/www/layout/case_id_12.html"
 "id": "12"
 "layout": "standard"
 "link_color": "#ad36a9"
 "linked_classes": ""
 "news_org": "Milwaukee Journal Sentinel"
-"pdf": "Milwaukee Journal Sentinel and the BPA story_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/12/casestudy/files/global/12/Milwaukee Journal Sentinel and the BPA story_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "ChemicalFallout"
 "status_id": "1"
-"teaching_note": "Chemical Fallout Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/12/casestudy/files/global/12/Chemical Fallout Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_12.jpg"
 "title": "Chemical Fallout: The Milwaukee &lt;i&gt;Journal Sentinel&lt;/i&gt; and\
   \ the BPA Story"
 "title_color": "#ad36ad"

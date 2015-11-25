@@ -25,15 +25,16 @@
   \ accepting money from the US government. Students will gain understanding of the\
   \ relationship between newspaper owners, their publishers, and their editors.Epilogue,\
   \ Teaching NoteTopics: strategic management; media business; gender & race"
-"epilogue": "Heralds epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/43/casestudy/files/global/43/Heralds epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/43/casestudy/www/layout/case_id_43.html"
 "id": "43"
 "layout": "standard"
 "link_color": "#bd3c00"
 "linked_classes": ""
 "news_org": "Miami Herald; El Nuevo Herald"
-"pdf": "Miami Herald Nuevo Herald and Radio Marti_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/43/casestudy/files/global/43/Miami Herald Nuevo Herald and Radio Marti_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,9 +43,9 @@
 "school": ""
 "slug": "Whenthestoryisus"
 "status_id": "1"
-"teaching_note": "TN Heralds.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/43/casestudy/files/global/43/TN Heralds.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_43.jpg"
 "title": "When the story is us: &lt;i&gt;Miami Herald&lt;/i&gt;, &lt;i&gt;Nuevo Herald&lt;/i&gt;\
   \ and Radio Mart&amp;iacute;"
 "title_color": "#bd3c00"

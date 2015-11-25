@@ -33,15 +33,16 @@
   \ cámaras ocultas. También tendrán la oportunidad de evaluar los costos de un proyecto\
   \ de periodismo de investigación en contra de su posible rentabilidad.Epílogo, Teaching\
   \ NoteTemas: internacional; el periodismo de investigación; la ética"
-"epilogue": "CONTACTO Espanol Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/50/casestudy/files/global/50/CONTACTO Espanol Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/50/casestudy/www/layout/case_id_50.html"
 "id": "50"
 "layout": "standard"
 "link_color": "#e8123d"
 "linked_classes": ""
 "news_org": "CONTACTO"
-"pdf": "CONTACTO y la bussqueda de Paul Schaefer_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/50/casestudy/files/global/50/CONTACTO y la bussqueda de Paul Schaefer_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -50,9 +51,9 @@
 "school": ""
 "slug": "Periodistasopolicias"
 "status_id": "1"
-"teaching_note": "CONTACTO Espanol Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/50/casestudy/files/global/50/CONTACTO Espanol Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_50.jpg"
 "title": "&amp;iquest;Periodistas o polic&amp;iacute;as? CONTACTO y la b&amp;uacute;squeda\
   \ de Paul Schaefer"
 "title_color": "#e8123d"

@@ -31,26 +31,27 @@
   \ step be: sell out? Duplicate the ANS model elsewhere? Go more digital?This is\
   \ a contributed case.Epilogue, Teaching NoteTopics: media, strategic management,\
   \ entrepreneurship"
-"epilogue": "AllNovaScotia epilogue final.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/118/casestudy/files/global/118/AllNovaScotia epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/118/casestudy/www/layout/case_id_118.html"
 "id": "118"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "AllNovaScotia.com"
-"pdf": "AllNovaScotia Final.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/118/casestudy/files/global/118/AllNovaScotia Final.pdf"
 "price": "0.00"
 "redtext": "FREE"
 "related_cases": []
 "school": ""
 "slug": "AllNovaScotia"
 "status_id": "1"
-"teaching_note": "ANS TN Final.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/118/casestudy/files/global/118/ANS TN Final.pdf"
 "teaser": "This case tells the story of a small, online publication in Halifax, Nova\
   \ Scotia, which has confounded the punditry of the digital era. Use this case in\
   \ a course/class about the business of media, strategic management, or entrepreneurship."
-"thumb": "textonlythumbnail.jpeg"
+"thumbnail": "/img/case/case_thumb_118.jpg"
 "title": "AllNovaScotia.com: Success or Anomaly?"
 "title_color": ""
 ---

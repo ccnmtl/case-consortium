@@ -25,28 +25,29 @@
   \ all at some point have to ask whether it is dishonest to alter the literal truth\
   \ in order to communicate a “higher” truth or complex story.Epilogue, Teaching NoteTopics: journalism\
   \ ethics; documentary; war reporting; editorial decision-making; or film editing."
-"epilogue": "HellandBack Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/110/casestudy/files/global/110/HellandBack Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/110/casestudy/www/layout/case_id_110.html"
 "id": "110"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "N/A"
-"pdf": "Hell & Back_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/110/casestudy/files/global/110/Hell & Back_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
 "slug": "highertruth"
 "status_id": "1"
-"teaching_note": "HellandBackTN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/110/casestudy/files/global/110/HellandBackTN.pdf"
 "teaser": "In 2010, photojournalist and videographer Danfung Dennis was wrapping up\
   \ production of a documentary about US Marines deployed to Afghanistan, and their\
   \ readjustment to civilian life.  This case examines the challenges facing a news\
   \ documentary maker who wants to create a film that conveys a psychological truth\
   \ without resorting to cinematic techniques. "
-"thumb": "Screen Shot 2013-02-06 at 7.02.38 PM.png"
+"thumbnail": "/img/case/case_thumb_110.jpg"
 "title": "Higher Truth or Just the Facts? &lt;i&gt;Hell and Back Again&lt;/i&gt;"
 "title_color": ""
 ---

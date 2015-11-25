@@ -25,15 +25,16 @@
   \ whether to end its 135-year relationship with the venerable and once-indispensable\
   \ wire service, the Associated Press.Epilogue, Teaching NoteTopics: strategic management;\
   \ editorial decisionmaking; media business"
-"epilogue": "AP and Charlotte Observer Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/67/casestudy/files/global/67/AP and Charlotte Observer Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/67/casestudy/www/layout/case_id_67.html"
 "id": "67"
 "layout": "standard"
 "link_color": "#007a43"
 "linked_classes": ""
 "news_org": "Charlotte Observer; Associated Press"
-"pdf": "AP and Charlotte Observer Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/67/casestudy/files/global/67/AP and Charlotte Observer Text.pdf"
 "price": "5.95"
 "redtext": "New"
 "related_cases":
@@ -41,12 +42,12 @@
 "school": ""
 "slug": "BuyItorMakeIt"
 "status_id": "1"
-"teaching_note": "AP and Charlotte Observer Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/67/casestudy/files/global/67/AP and Charlotte Observer Teaching Note.pdf"
 "teaser": "This case examines the dilemma faced by US newspapers as they make painful\
   \ business choices that have a dramatic impact on the editorial product. Use in\
   \ courses on local journalism; the business of media; strategic management; or editorial\
   \ decisionmaking."
-"thumb": "thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_67.jpg"
 "title": "Buy It or Make It? The &lt;i&gt;Charlotte Observer&lt;/i&gt; and the Associated\
   \ Press"
 "title_color": "#007a43"

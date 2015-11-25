@@ -21,15 +21,16 @@
   \ into 12 pages in the magazine. The case describes the kind of decisions editors\
   \ have to make on a daily basis.Epilogue, Teaching NoteTopics: editorial decisionmaking;\
   \ news graphics"
-"epilogue": "TIME Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/16/casestudy/files/global/16/TIME Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/16/casestudy/www/layout/case_id_16.html"
 "id": "16"
 "layout": "standard"
 "link_color": "#cc3333"
 "linked_classes": ""
 "news_org": "Time Magazine"
-"pdf": "Time Magazine and America at 300 Million_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/16/casestudy/files/global/16/Time Magazine and America at 300 Million_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -37,9 +38,9 @@
 "school": ""
 "slug": "FromConcepttoStory"
 "status_id": "1"
-"teaching_note": "TIME Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/16/casestudy/files/global/16/TIME Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_16.jpg"
 "title": "From Concept to Story: &lt;i&gt;Time&lt;/i&gt; Magazine and &quot;America\
   \ at 300 Million&quot;"
 "title_color": "#cc3333"

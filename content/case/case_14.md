@@ -27,15 +27,16 @@
   \ challenges of covering religion, and gain insight into the personal toll on journalists\
   \ of covering misdeeds in one's own church.Epilogue, Teaching NoteTopics: investigative\
   \ reporting; religion reporting"
-"epilogue": "Boston Globe Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/14/casestudy/files/global/14/Boston Globe Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/14/casestudy/www/layout/case_id_14.html"
 "id": "14"
 "layout": "standard"
 "link_color": "#996632"
 "linked_classes": ""
 "news_org": "Boston Globe"
-"pdf": "Boston Globe and Sexual Abuse in the Catholic Church_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/14/casestudy/files/global/14/Boston Globe and Sexual Abuse in the Catholic Church_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "ReportinganExplosiveTruth"
 "status_id": "1"
-"teaching_note": "Boston Globe Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/14/casestudy/files/global/14/Boston Globe Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_14.jpg"
 "title": "Reporting an Explosive Truth: The &lt;i&gt;Boston Globe&lt;/i&gt; and Sexual\
   \ Abuse in the Catholic Church "
 "title_color": "#996632"

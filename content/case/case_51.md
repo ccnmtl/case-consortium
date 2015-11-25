@@ -25,15 +25,16 @@
   \ learn about the pros and cons of nonprofit news. They will also get an in-person\
   \ glimpse into the complexities of being a journalism entrepreneur.Epilogue, Teaching\
   \ NoteTopics: media business; newsroom management"
-"epilogue": "Voice of San Diego Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/51/casestudy/files/global/51/Voice of San Diego Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/51/casestudy/www/layout/case_id_51.html"
 "id": "51"
 "layout": "standard"
 "link_color": "#c21818"
 "linked_classes": ""
 "news_org": "Voice of San Diego"
-"pdf": "Voice of San Diego Experiment_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/51/casestudy/files/global/51/Voice of San Diego Experiment_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,9 +43,9 @@
 "school": ""
 "slug": "NotforProfit"
 "status_id": "1"
-"teaching_note": "Voice of San Diego Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/51/casestudy/files/global/51/Voice of San Diego Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_51.jpg"
 "title": "Not for Profit? The &lt;i&gt;Voice of San Diego&lt;/i&gt; Experiment"
 "title_color": "#c21818"
 ---

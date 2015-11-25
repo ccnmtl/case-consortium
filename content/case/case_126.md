@@ -32,28 +32,28 @@
   \ reporting. The case stops as Ismayilova debates what her options are: remain silent\
   \ or respond and, if the latter, how?Epilogue, Teaching NoteTopics: investigative\
   \ reporting; blackmail; reporting on corruption"
-"epilogue": "Khadija epilogue 050114.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/126/casestudy/files/global/126/Khadija epilogue 050114.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/126/casestudy/www/layout/case_id_126.html"
 "id": "126"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "RFE/RL"
-"pdf": "Khadija Final 043014.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/126/casestudy/files/global/126/Khadija Final 043014.pdf"
 "price": "$5.95"
 "redtext": ""
 "related_cases": []
 "school": ""
 "slug": "FightingBlackmail"
 "status_id": "1"
-"teaching_note": "Khadija TN 071714.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/126/casestudy/files/global/126/Khadija TN 071714.pdf"
 "teaser": !!python/str "This case chronicles the challenges of reporting on corruption\
   \ in an authoritarian society. It considers the role of technology in today’s investigative\
   \ reporting. It also looks at the role that government-financed news organizations\
   \ like Radio Free Europe/Radio Liberty (RFE/RL) can play globally."
-"thumbnail_default": "yes"
-"thumb": "Screen shot 2014-05-01 at 12.14.16 PM.png"
+"thumbnail": ""
 "title": !!python/str "Fighting Blackmail: Khadija Ismayilova and Azerbaijan’s First\
   \ Family"
 "title_color": ""

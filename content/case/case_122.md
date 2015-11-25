@@ -27,28 +27,28 @@
   \ documents proving improprieties in a privatization deal. Before publishing a story,\
   \ he was offered a bribe to spike it.Epilogue, Teaching NoteTopics: journalism;\
   \ business ethics; editorial management"
-"epilogue": "TZ bribery epilogue FINAL.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/122/casestudy/files/global/122/TZ bribery epilogue FINAL.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/122/casestudy/www/layout/case_id_122.html"
 "id": "122"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Jamhuri"
-"pdf": "TZ bribery final.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/122/casestudy/files/global/122/TZ bribery final.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases": []
 "school": ""
 "slug": "TZBribery"
 "status_id": "1"
-"teaching_note": "TZ bribery TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/122/casestudy/files/global/122/TZ bribery TN.pdf"
 "teaser": "The case explores ethics in journalism and the potential costs to a news\
   \ outlet should it accept or refuse a bribe. Students are asked to think about the\
   \ fact that, while refusing bribes is the ethical ideal, doing so may harm the news\
   \ organization both legally and financially. "
-"thumbnail_default": "yes"
-"thumb": "textonlythumbnail.jpeg"
+"thumbnail": ""
 "title": "Spike or Suffer? &lt;i&gt;Jamhuri&lt;/i&gt; and the Bribe Offer"
 "title_color": ""
 ---

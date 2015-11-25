@@ -27,15 +27,16 @@
   \ far from clear that he was open about his sexuality, especially to his military\
   \ colleagues. How should the Post cover his death?Epilogue, Teaching NoteTopics:\
   \  ethics; gender & race; privacy"
-"epilogue": "Rogers and WaPost Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/25/casestudy/files/global/25/Rogers and WaPost Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/25/casestudy/www/layout/case_id_25.html"
 "id": "25"
 "layout": "standard"
 "link_color": "#0710b5"
 "linked_classes": ""
 "news_org": "Washington Post"
-"pdf": "Army Major Alan Rogers and the Washington Post_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/25/casestudy/files/global/25/Army Major Alan Rogers and the Washington Post_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "PublicDeath,PrivateLife"
 "status_id": "1"
-"teaching_note": "Rogers and WaPost Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/25/casestudy/files/global/25/Rogers and WaPost Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_25.jpg"
 "title": "Public Death, Private Life: Army Major Alan Rogers and the &lt;i&gt; Washington\
   \ Post&lt;/i&gt;"
 "title_color": "#0710b5"

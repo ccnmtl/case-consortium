@@ -32,22 +32,23 @@
   \ the mine’s potential. Goytendía Matos, in particular, dreams of a project that\
   \ will be a model for communities worldwide experiencing similar challenges.Topics:\
   \ sustainable development; environmental affairs; negotiations; community empowerment"
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/files/global/136/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/www/layout/case_id_136.html"
 "id": "136"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Chinalco final.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/files/global/136/Chinalco final.pdf"
 "price": "$3.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "ProcessandPolitics"
 "status_id": "1"
-"teaching_note": ""
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/files/global/136/"
 "teaser": !!python/str "This case traces the evolution of a resettlement scheme in\
   \ Peru that has the potential both to benefit corporate interests and better the\
   \ lot of the local community. In January 2012, Fred Goytendía Matos becomes technical\
@@ -55,8 +56,7 @@
   \ a Chinese-owned mine in Peru, multi-level government interests, and the residents\
   \ of Morococha, a town that Chinalco wants to resettle to better exploit the mine’s\
   \ potential."
-"thumbnail_default": "yes"
-"thumb": ""
+"thumbnail": ""
 "title": "Process and Politics: Chinalco and the Resettlement of Morococha"
 "title_color": ""
 ---

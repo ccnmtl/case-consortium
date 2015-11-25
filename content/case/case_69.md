@@ -28,15 +28,16 @@
   \ it is to be a critic, but also how difficult it can be for editors to manage critics\
   \ in the newsroom.Epilogue, Teaching NoteTopics: arts criticism; editorial management;\
   \ local journalism"
-"epilogue": "Cleveland Plain Dealer Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/69/casestudy/files/global/69/Cleveland Plain Dealer Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/69/casestudy/www/layout/case_id_69.html"
 "id": "69"
 "layout": "standard"
 "link_color": "#ff0000"
 "linked_classes": ""
 "news_org": "Cleveland Plain Dealer"
-"pdf": "Cleveland Plain Dealer and its Classical Music Critic_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/69/casestudy/files/global/69/Cleveland Plain Dealer and its Classical Music Critic_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -45,11 +46,11 @@
 "school": ""
 "slug": "Dissonace"
 "status_id": "1"
-"teaching_note": "Cleveland Plain Dealer Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/69/casestudy/files/global/69/Cleveland Plain Dealer Teaching Note.pdf"
 "teaser": "This case turns to the field of art criticism, particularly music criticism,\
   \ to raise for discussion the proper role for a critic. Use in courses on arts criticism;\
   \ editorial management; or local media."
-"thumb": "case_thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_69.jpg"
 "title": "Dissonance: The Cleveland &lt;i&gt;Plain Dealer&lt;/i&gt; and its Classical\
   \ Music Critic"
 "title_color": "#ff0000"

@@ -36,25 +36,26 @@
   \ it had to design a database to crunch and organize the data for optimal public\
   \ understanding.Epilogue, Teaching NoteTopics: financial journalism; government-media\
   \ relations; data journalism; editorial management. "
-"epilogue": "Bloomberg Epilogue 110713.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/116/casestudy/files/global/116/Bloomberg Epilogue 110713.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/116/casestudy/www/layout/case_id_116.html"
 "id": "116"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Bloomberg News"
-"pdf": "Bloomberg and FedReserve_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/116/casestudy/files/global/116/Bloomberg and FedReserve_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
 "slug": "CumulativeorDiscreteNumbers"
 "status_id": "1"
-"teaching_note": "Bloomberg TN 111413.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/116/casestudy/files/global/116/Bloomberg TN 111413.pdf"
 "teaser": "This case describes one of the more confounding issues that business reporters\
   \ face on a regular basis: how to use numbers. "
-"thumb": "Screen shot 2013-11-12 at 4.17.58 PM.png"
+"thumbnail": "/img/case/case_thumb_116.jpg"
 "title": "Cumulative or Discrete Numbers: How Should &lt;em&gt;Bloomberg&lt;/em&gt;\
   \ Measure the Bailout?"
 "title_color": ""

@@ -29,15 +29,16 @@
   \ Wikileaks y publicar documentos secretos del gobierno de Estados Unidos.Epílogo,\
   \ Teaching NoteTemas: las relaciones entre gobierno y medios; manejo de fuentes;\
   \ periodismo de datos; procesos editoriales de decisión; o información internacional."
-"epilogue": "Amigo o enemigoWikileaks Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/109/casestudy/files/global/109/Amigo o enemigoWikileaks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/109/casestudy/www/layout/case_id_109.html"
 "id": "109"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "The Guardian"
-"pdf": "Amigo o enemigo_ Wikileaks EN ESPANOL.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/109/casestudy/files/global/109/Amigo o enemigo_ Wikileaks EN ESPANOL.pdf"
 "price": "0.00"
 "redtext": "FREE"
 "related_cases":
@@ -46,12 +47,12 @@
 "school": ""
 "slug": "Amigooenemigo"
 "status_id": "1"
-"teaching_note": "Amigo o enemigo TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/109/casestudy/files/global/109/Amigo o enemigo TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\
   \ secure website for whistleblowers, and the mainstream media--focusing on the British\
   \ Guardian newspaper. Use in courses on government-media relations; managing sources;\
   \ data journalism; editorial decisionmaking; or international reporting. "
-"thumb": "thumbnail_wikileaks.jpeg"
+"thumbnail": "/img/case/case_thumb_109.jpg"
 "title": !!python/str "¿Amigo o enemigo? Wikileaks y the Guardian "
 "title_color": ""
 ---

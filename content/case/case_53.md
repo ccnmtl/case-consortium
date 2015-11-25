@@ -27,15 +27,16 @@
   \ on the shocking story of the murder of Annie Le, a Yale University graduate student.This\
   \ is a FREE case.Epilogue, Teaching NoteTopics: digital media; editorial management;\
   \ ethics"
-"epilogue": "New Haven Independent Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/53/casestudy/files/global/53/New Haven Independent Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/53/casestudy/www/layout/case_id_53.html"
 "id": "53"
 "layout": "standard"
 "link_color": "#3053ba"
 "linked_classes": ""
 "news_org": "New Haven Independent"
-"pdf": "New Haven Independent Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/53/casestudy/files/global/53/New Haven Independent Text.pdf"
 "price": "0.00"
 "redtext": "Free"
 "related_cases":
@@ -43,12 +44,12 @@
 "school": ""
 "slug": "FacebookConundrum"
 "status_id": "1"
-"teaching_note": "New Haven Independent Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/53/casestudy/files/global/53/New Haven Independent Teaching Note.pdf"
 "teaser": "This case asks what rules exist on the use of social media in reporting\
   \ news stories. The pressure is on a web-only start-up as the national press flock\
   \ to a murder story in the news site's backyard. Use in courses on editorial management;\
   \ the business of media; or ethics."
-"thumb": "case_thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_53.jpg"
 "title": "The Facebook Conundrum: The New Haven &lt;i&gt;Independent&lt;/i&gt; and\
   \ the Annie Le Murder"
 "title_color": "#3053ba"

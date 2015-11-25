@@ -25,15 +25,16 @@
   \ of Kentucky and Kentucky State University have an opportunity in 2009 to create\
   \ a student-run news bureau in the state capital, Frankfort.Epilogue, Teaching NoteTopics:\
   \ strategic management; politics reporting; media business"
-"epilogue": "Into the Breach Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/55/casestudy/files/global/55/Into the Breach Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/55/casestudy/www/layout/case_id_55.html"
 "id": "55"
 "layout": "standard"
 "link_color": "#0c43b0"
 "linked_classes": ""
 "news_org": "University of Kentucky; Kentucky State University"
-"pdf": "Should Student Journalists Save Local Political Reporting_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/55/casestudy/files/global/55/Should Student Journalists Save Local Political Reporting_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,12 +43,12 @@
 "school": ""
 "slug": "IntotheBreach"
 "status_id": "1"
-"teaching_note": "Into the Breach Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/55/casestudy/files/global/55/Into the Breach Teaching Note.pdf"
 "teaser": "This case allows students to consider the societal debate over the business\
   \ models for future journalism, whether universities have a role to play, and whether\
   \ good journalism is a civic obligation. Use in courses on democracy and media;\
   \ local reporting; or the business of media."
-"thumb": "kynews_thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_55.jpg"
 "title": "Into the Breach: Should Student Journalists Save Local Political Reporting?"
 "title_color": "#0c43b0"
 ---

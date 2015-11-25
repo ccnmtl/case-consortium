@@ -24,15 +24,16 @@
   \ to manage competing interests; and how to sustain an effort past the first adrenalin-fueled\
   \ moments into weeks of frustrating but crucial work.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: crisis management; international"
-"epilogue": "Monitor Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/24/casestudy/files/global/24/Monitor Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/24/casestudy/www/layout/case_id_24.html"
 "id": "24"
 "layout": "standard"
 "link_color": "#cc6600"
 "linked_classes": ""
 "news_org": "Christian Science Monitor"
-"pdf": "Monitor Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/24/casestudy/files/global/24/Monitor Text.pdf"
 "price": "5.95"
 "redtext": "Free"
 "related_cases":
@@ -40,11 +41,11 @@
 "school": ""
 "slug": "LifeontheLine"
 "status_id": "1"
-"teaching_note": "Monitor Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/24/casestudy/files/global/24/Monitor Teaching Note.pdf"
 "teaser": "This case treats the hard choices which confront a news organization when\
   \ violence strikes one of its reporters. Use in course/class on international reporting\
   \ or crisis management. "
-"thumb": "csm_office_img_assist_custom.jpg"
+"thumbnail": "/img/case/case_thumb_24.jpg"
 "title": "A Life on the Line: The &lt;i&gt;Christian Science Monitor&lt;/i&gt; and\
   \ Jill Carroll"
 "title_color": "#993300"

@@ -30,27 +30,28 @@
   \ leave as well—although they did not want to.Epilogue, Teaching NoteTopics: aid\
   \ to lawless societies; humanitarian organizations; multinational organizations;\
   \ public sector management."
-"epilogue": "Mission vs Safety Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/92/casestudy/files/global/92/Mission vs Safety Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/92/casestudy/www/layout/case_id_92.html"
 "id": "92"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "N/A"
-"pdf": "Mission vs Safety OCHA_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/92/casestudy/files/global/92/Mission vs Safety OCHA_wm.pdf"
 "price": "5.95"
 "redtext": "Public Policy!"
 "related_cases": []
 "school": ""
 "slug": "missionvssafety"
 "status_id": "1"
-"teaching_note": "UN OCHA TN .pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/92/casestudy/files/global/92/UN OCHA TN .pdf"
 "teaser": "When al-Shabaab militants in July 2009 expel agencies from the UN  Common\
   \ Compound in Baidoa, Somalia, all international personnel leave, including those\
   \ from the UN Office for the Coordination of Humanitarian Affairs (OCHA). Follow\
   \ as OCHA debates the pros and cons of returning to Baidoa to help desperate refugees."
-"thumb": "Screen Shot 2012-10-07 at 5.06.02 PM.jpg"
+"thumbnail": "/img/case/case_thumb_92.jpg"
 "title": "Mission vs Safety: OCHA Somalia and the Baidoa Raid"
 "title_color": ""
 ---

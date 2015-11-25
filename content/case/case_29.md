@@ -22,15 +22,16 @@
   \ on the local community. It also raises the challenge for editors of deciding what\
   \ to put in the paper once a story has broken on the website. Epilogue, Teaching\
   \ NoteTopics: digital media; crisis reporting"
-"epilogue": "Post-Dispatch Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/29/casestudy/files/global/29/Post-Dispatch Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/29/casestudy/www/layout/case_id_29.html"
 "id": "29"
 "layout": "standard"
 "link_color": "#c91e1e"
 "linked_classes": ""
 "news_org": "St. Louis Post-Dispatch"
-"pdf": "St Louis Post Dispatch and the Kirkwood Shooting_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/29/casestudy/files/global/29/St Louis Post Dispatch and the Kirkwood Shooting_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -39,9 +40,9 @@
 "school": ""
 "slug": "DigitalDeadline"
 "status_id": "1"
-"teaching_note": "Post-Dispatch Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/29/casestudy/files/global/29/Post-Dispatch Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_29.jpg"
 "title": "Digital Deadline: The St. Louis &lt;i&gt;Post-Dispatch&lt;/i&gt; and the\
   \ Kirkwood Shooting"
 "title_color": "#c91e1e"

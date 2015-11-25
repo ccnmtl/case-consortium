@@ -25,15 +25,16 @@
   \ the Times’ own ombudsman—called for transfer of Jerusalem Bureau Chief Ethan Bronner\
   \ because his adult son had joined the Israeli Defense Forces.Epilogue, Teaching\
   \ NoteTopics: editorial management; ethics; international"
-"epilogue": "Bronner and New York Times Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/57/casestudy/files/global/57/Bronner and New York Times Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/57/casestudy/www/layout/case_id_57.html"
 "id": "57"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "New York Times"
-"pdf": "New York Times and the Bias Question_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/57/casestudy/files/global/57/New York Times and the Bias Question_wm.pdf"
 "price": "3.95"
 "redtext": "New"
 "related_cases":
@@ -42,14 +43,13 @@
 "school": ""
 "slug": "Conflicted"
 "status_id": "1"
-"teaching_note": "Bronner and New York Times Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/57/casestudy/files/global/57/Bronner and New York Times Teaching Note.pdf"
 "teaser": !!python/str "This case study examines the dilemma which confronted New\
   \ York Times Executive Editor Bill Keller when critics—including the Times’  own\
   \ ombudsman—called for transfer of Jerusalem Bureau Chief Ethan Bronner because\
   \ his adult son had joined the Israeli Defense Forces. Use in courses on ethics;\
   \ international reporting; or editorial management."
-"thumbnail_default": "yes"
-"thumb": "text only image.jpg"
+"thumbnail": ""
 "title": "Conflicted: The &lt;i&gt;New York Times&lt;/i&gt; and the Bias Question"
 "title_color": "#2947a3"
 ---

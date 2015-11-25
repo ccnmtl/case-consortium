@@ -32,22 +32,23 @@
   \ to focus on patients, and compensate them according to an agreed-on formula. Part\
   \ B, Epilogue, Teaching NoteTopics: dentistry professional practice; medical management;\
   \ mergers; acquisitions; human resources"
-"epilogue": "PtBEpilogueComboFinal.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/134/casestudy/files/global/134/PtBEpilogueComboFinal.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/134/casestudy/www/layout/case_id_134.html"
 "id": "134"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Reston Dental Arts PtA 060914.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/134/casestudy/files/global/134/Reston Dental Arts PtA 060914.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "MergingTwoWorlds"
 "status_id": "1"
-"teaching_note": "TN Reston Dental Arts 082614.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/134/casestudy/files/global/134/TN Reston Dental Arts 082614.pdf"
 "teaser": !!python/str "This case takes students into the world of medical management,\
   \ the challenges of group practice and the growing prevalence of medical management\
   \ firms. The case looks at the experience of a Virginia dental group. In 1998, the\
@@ -55,8 +56,7 @@
   \ from American Dental Partners. The management firm would take over all front office\
   \ responsibilities, allow the doctors to focus on patients, and compensate them\
   \ according to an agreed-on formula. "
-"thumbnail_default": "yes"
-"thumb": "Screen shot 2014-08-14 at 12.51.36 PM.png"
+"thumbnail": ""
 "title": "Merging Two Worlds?: Reston Dental Arts and American Dental Partners"
 "title_color": ""
 ---

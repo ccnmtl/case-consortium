@@ -30,28 +30,29 @@
   \ of the countries experiencing an epidemic. What happens when that cooperation\
   \ is limited or nonexistent?Epilogue, Teaching NoteTopics: international public\
   \ health; intergovernmental organizations; crisis management; media relations"
-"epilogue": "WHO SARS Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/112/casestudy/files/global/112/WHO SARS Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/112/casestudy/www/layout/case_id_112.html"
 "id": "112"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "N/A"
-"pdf": "WHO SARS_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/112/casestudy/files/global/112/WHO SARS_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases": []
 "school": "mailman"
 "slug": "crediblevoice"
 "status_id": "1"
-"teaching_note": "WHO SARS TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/112/casestudy/files/global/112/WHO SARS TN.pdf"
 "teaser": "The WHO serves as the world's monitor of disease outbreak and control.\
   \ It is able to mobilize legions of the world's best scientists to analyze, diagnose,\
   \ prescribe treatments for and contain diseases. However, it depends on the cooperation\
   \ of the countries experiencing an epidemic. What happens when that cooperation\
   \ is limited or nonexistent?"
-"thumb": "Screen Shot 2013-03-13 at 10.45.46 PM.png"
+"thumbnail": "/img/case/case_thumb_112.jpg"
 "title": "Credible Voice: WHO-Beijing and the SARS Crisis"
 "title_color": ""
 ---

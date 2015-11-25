@@ -22,15 +22,16 @@
   \ is not the story she uncovers. It also examines the responsibility of a reporter\
   \ to a source unfamiliar with journalistic conventions.Epilogue, Teaching NoteTopics:\
   \ ethics; education reporting; feature writing"
-"epilogue": "Chicago Tribune Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/40/casestudy/files/global/40/Chicago Tribune Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/40/casestudy/www/layout/case_id_40.html"
 "id": "40"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Chicago Tribune"
-"pdf": "Chicago Tribune Examines No Child Left Behind_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/40/casestudy/files/global/40/Chicago Tribune Examines No Child Left Behind_wm.pdf"
 "price": "3.95"
 "redtext": ""
 "related_cases":
@@ -39,10 +40,9 @@
 "school": ""
 "slug": "ElusiveStory"
 "status_id": "1"
-"teaching_note": "Chicago Tribune Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/40/casestudy/files/global/40/Chicago Tribune Teaching Note.pdf"
 "teaser": ""
-"thumbnail_default": "yes"
-"thumb": ""
+"thumbnail": ""
 "title": "Elusive Story: The &lt;i&gt;Chicago Tribune&lt;/i&gt; Examines &amp;quot;No\
   \ Child Left Behind&amp;quot;"
 "title_color": "#2947a3"

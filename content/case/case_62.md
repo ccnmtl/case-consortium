@@ -28,15 +28,16 @@
   \ la historia que ella descubre. También examina la responsabilidad que tiene un\
   \ periodista acerca de una fuente no familiarizada con las normas periodísticas.Epílogo,\
   \ Teaching NoteTemas: los escritos originales; informes sobre educación; la ética"
-"epilogue": "Una Historia Esquiva Epilogo.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/62/casestudy/files/global/62/Una Historia Esquiva Epilogo.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/62/casestudy/www/layout/case_id_62.html"
 "id": "62"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Chicago Tribune"
-"pdf": "Una Historia Esquiva text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/62/casestudy/files/global/62/Una Historia Esquiva text.pdf"
 "price": "3.95"
 "redtext": !!python/str "Español"
 "related_cases":
@@ -45,13 +46,12 @@
 "school": ""
 "slug": "UnaHistoriaEsquiva"
 "status_id": "1"
-"teaching_note": "Una Historia Esquiva TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/62/casestudy/files/global/62/Una Historia Esquiva TN.pdf"
 "teaser": !!python/str "Este caso de estudio, examina el periodismo narrativo y el\
   \ dilema para un reportero, cuando la historia que pretende escribir, no es la historia\
   \ que ella descubre. Este caso se puede utilizar en una clase sobre los escritos\
   \ originales; informes sobre educación; o ética."
-"thumbnail_default": "yes"
-"thumb": "text only image.jpg"
+"thumbnail": ""
 "title": "Una Historia Esquiva: El &lt;i&gt;Chicago Tribune&lt;/i&gt; y la ley &amp;quot;Que\
   \ Ning&amp;uacute;n Ni&amp;ntilde;o Quede Atr&amp;aacute;s&amp;quot;"
 "title_color": "#2947a3"

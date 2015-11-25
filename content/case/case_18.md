@@ -27,15 +27,16 @@
   \ of a newsroom deadline.This is a video case.Epilogue, Teaching NoteTopics: ethics;\
   \ editorial decisionmaking; broadcastFaculty: You will have an opportunity to review\
   \ the video case once you have registered. "
-"epilogue": "NECN Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/18/casestudy/files/global/18/NECN Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/18/casestudy/www/layout/case_id_18.html"
 "id": "18"
 "layout": "standard"
 "link_color": "#09704a"
 "linked_classes": ""
 "news_org": "New England Cable News"
-"pdf": "New England Cable News and the Terry Glenn Story_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/18/casestudy/files/global/18/New England Cable News and the Terry Glenn Story_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "NewEnglandCableNewsText"
 "status_id": "1"
-"teaching_note": "NECN Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/18/casestudy/files/global/18/NECN Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_18.jpg"
 "title": "New England Cable News and the Terry Glenn Story"
 "title_color": "#1f805c"
 ---

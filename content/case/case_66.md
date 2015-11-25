@@ -35,15 +35,16 @@
   \ the line between respect for religion and censorship, and the balance between\
   \ religious beliefs and freedom of the press.Epilogue, Teaching NoteTopics: international;\
   \ religion reporting; news graphics"
-"epilogue": "Le Monde Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/66/casestudy/files/global/66/Le Monde Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/66/casestudy/www/layout/case_id_66.html"
 "id": "66"
 "layout": "standard"
 "link_color": "#ab0c0c"
 "linked_classes": ""
 "news_org": "Le Monde"
-"pdf": "Le Monde and the Mohammed Cartoons_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/66/casestudy/files/global/66/Le Monde and the Mohammed Cartoons_wm.pdf"
 "price": "5.95"
 "redtext": "New"
 "related_cases":
@@ -52,12 +53,12 @@
 "school": ""
 "slug": "Caricatured"
 "status_id": "1"
-"teaching_note": "Le Monde TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/66/casestudy/files/global/66/Le Monde TN.pdf"
 "teaser": "This case allows students to debate the role of religion in a secular society\
   \ and the contribution the media can make to stoking or calming a conflict. Use\
   \ in courses on editorial decisionmaking; religion reporting; media and democracy;\
   \ or news graphics."
-"thumb": "le_monde_thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_66.jpg"
 "title": "Caricatured: &lt;i&gt;Le Monde&lt;/i&gt; and the Mohammed Cartoons"
 "title_color": "#ab0c0c"
 ---

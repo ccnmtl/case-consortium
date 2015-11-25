@@ -30,26 +30,27 @@
   \ TB is more lethal and difficult-to-treat than anticipated. Epilogue, Teaching\
   \ NoteTopics: global health, tuberculosis, infectious diseases, epidemiology, global\
   \ migration and quarantine"
-"epilogue": "Speaker CDC Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/114/casestudy/files/global/114/Speaker CDC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/114/casestudy/www/layout/case_id_114.html"
 "id": "114"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "N/A"
-"pdf": "Speaker CDC_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/114/casestudy/files/global/114/Speaker CDC_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
 "slug": "elusive"
 "status_id": "1"
-"teaching_note": "Speaker CDC TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/114/casestudy/files/global/114/Speaker CDC TN.pdf"
 "teaser": "This case explores the ethical and logistical challenges that face doctors\
   \ when an infectious disease patient does not cooperate voluntarily with advice\
   \ to stay out of public spaces in order to protect the general welfare."
-"thumb": "Screen shot 2013-06-20 at 10.12.36 PM.png"
+"thumbnail": "/img/case/case_thumb_114.jpg"
 "title": "The Elusive Tuberculosis Case: The CDC and Andrew Speaker"
 "title_color": ""
 ---

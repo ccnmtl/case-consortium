@@ -36,28 +36,28 @@
   \ Simron Singh soon perceived that the islanders were losing initiative and self-reliance.  This\
   \ is a FREE case.Epilogue, Teaching NoteTopics: sustainable development; nonprofit\
   \ management; scientific ethics; international aid"
-"epilogue": "Nicobars epilogue 080414.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/133/casestudy/files/global/133/Nicobars epilogue 080414.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/133/casestudy/www/layout/case_id_133.html"
 "id": "133"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Nicobars final 080414.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/133/casestudy/files/global/133/Nicobars final 080414.pdf"
 "price": "0.00"
 "redtext": "NOTABLE"
 "related_cases": []
 "school": ""
 "slug": "theislandersandthescientists"
 "status_id": "1"
-"teaching_note": "Nicobars TN 080414.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/133/casestudy/files/global/133/Nicobars TN 080414.pdf"
 "teaser": "This sustainable development case focuses on the unintended consequences\
   \ of disaster and development aid on indigenous societies, and raises for discussion\
   \ whether a better model exists. In December 2004, a killer tsunami swept across\
   \ the Indian Ocean, devastating among others the Nicobar Islands."
-"thumbnail_default": "yes"
-"thumb": "Screen Shot 2014-08-04 at 1.40.52 PM.png"
+"thumbnail": ""
 "title": "The Islanders and the Scientists: Post-tsunami Aid in the Nicobars"
 "title_color": ""
 ---

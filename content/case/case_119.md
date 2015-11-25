@@ -28,28 +28,28 @@
   \ to find a way reunite his staff.Epilogue, Teaching NoteTopics: journalism ethics,\
   \ editorial management, reporting conflict, ethnicity and race in journalism, or\
   \ reporting elections and politics."
-"epilogue": "Kenya elections epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/119/casestudy/files/global/119/Kenya elections epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/119/casestudy/www/layout/case_id_119.html"
 "id": "119"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Nation Media Group"
-"pdf": "Kenya elxns.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/119/casestudy/files/global/119/Kenya elxns.pdf"
 "price": "5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "ANewsroomDivided"
 "status_id": "1"
-"teaching_note": "Kenya elxns TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/119/casestudy/files/global/119/Kenya elxns TN.pdf"
 "teaser": "This case examines what happens when personal bias affects the newsroom.\
   \ This case can be used in a class/course on journalism ethics, editorial management,\
   \ reporting conflict, ethnicity and race in journalism, or reporting elections and\
   \ politics."
-"thumbnail_default": "yes"
-"thumb": "textonlythumbnail.jpeg"
+"thumbnail": ""
 "title": "A Newsroom Divided: Kenya, the Election Crisis, and the Nation Media Group"
 "title_color": ""
 ---
