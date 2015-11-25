@@ -26,15 +26,16 @@
   \ President for Editorial Quality, Kerry Smith, had to decide whether or not to\
   \ broadcast photographs from the party at which the alleged rape took place.Epilogue,\
   \ Teaching NoteTopics: ethics; editorial decisionmaking; gender & race"
-"epilogue": "ABC Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/21/casestudy/files/global/21/ABC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/21/casestudy/www/layout/case_id_21.html"
 "id": "21"
 "layout": "standard"
 "link_color": "#003399"
 "linked_classes": ""
 "news_org": "ABC News"
-"pdf": "ABC News and the Duke Lacrosse Photographs_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/21/casestudy/files/global/21/ABC News and the Duke Lacrosse Photographs_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -43,9 +44,9 @@
 "school": ""
 "slug": "IntegrityonDeadline"
 "status_id": "1"
-"teaching_note": "ABC Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/21/casestudy/files/global/21/ABC Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_21.jpg"
 "title": "Integrity on Deadline: ABC News and the Duke Lacrosse Photographs"
 "title_color": "#006699"
 ---

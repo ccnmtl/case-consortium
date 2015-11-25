@@ -33,28 +33,29 @@
   \ the errors, how to manage audience and press reaction, and how to restore credibility\
   \ to the show.Epilogue, Teaching NoteTopics: journalism ethics, editorial management,\
   \ broadcast journalism or crisis management"
-"epilogue": "Truthiness Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/108/casestudy/files/global/108/Truthiness Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/108/casestudy/www/layout/case_id_108.html"
 "id": "108"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "This American Life, Public Radio International"
-"pdf": "Truthiness_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/108/casestudy/files/global/108/Truthiness_wm.pdf"
 "price": "5.95"
 "redtext": "NEW!"
 "related_cases": []
 "school": ""
 "slug": "thisamericanlife"
 "status_id": "1"
-"teaching_note": "Truthiness TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/108/casestudy/files/global/108/Truthiness TN.pdf"
 "teaser": "When This American Life featured a story exposing the deplorable working\
   \ conditions at an Apple computer supplier in China, host Ira Glass and his production\
   \ team are appalled to learn after the fact that many details were fabricated. This\
   \ case provides insight into how a news organization copes when it gets a story\
   \ wrong, whether by its own actions or those of others. "
-"thumb": "Screen Shot 2012-11-07 at 9.19.21 PM.jpg"
+"thumbnail": "/img/case/case_thumb_108.jpg"
 "title": "Truthiness: &lt;i&gt;This American Life&lt;/i&gt; and the Monologist"
 "title_color": ""
 ---

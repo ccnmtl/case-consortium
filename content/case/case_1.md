@@ -23,15 +23,16 @@
   \ afoul of Singapore’s leaders and its government. The case traces the history of\
   \ the media, both domestic and international, in Singapore.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: international; ethics; media business"
-"epilogue": "FEER Epilogue FINAL 091010.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/1/casestudy/files/global/1/FEER Epilogue FINAL 091010.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/1/casestudy/www/layout/case_id_1.html"
 "id": "1"
 "layout": "standard"
 "link_color": "#cc3333"
 "linked_classes": ""
 "news_org": "Far Eastern Economic Review "
-"pdf": "FEER Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/1/casestudy/files/global/1/FEER Text.pdf"
 "price": "0.00"
 "redtext": ""
 "related_cases":
@@ -39,9 +40,9 @@
 "school": ""
 "slug": "Settleorfight"
 "status_id": "1"
-"teaching_note": "FEER Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/1/casestudy/files/global/1/FEER Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_1.jpg"
 "title": "Settle or fight? &lt;i&gt; Far Eastern Economic Review &lt;/i&gt; and Singapore"
 "title_color": "#cc3333"
 ---

@@ -34,27 +34,27 @@
   \ takes the story to the Washington Post, which agrees to work with him to publish\
   \ it.Epilogue, Teaching NoteTopics: national security reporting; investigative reporting;\
   \ editorial management"
-"epilogue": "Snowden WaPost epilogue 101514.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/147/casestudy/files/global/147/Snowden WaPost epilogue 101514.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/147/casestudy/www/layout/case_id_147.html"
 "id": "147"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "The Washington Post"
-"pdf": "WaPost Snowden final 102314.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/147/casestudy/files/global/147/WaPost Snowden final 102314.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "CovertActivity"
 "status_id": "1"
-"teaching_note": "TN Snowden WaPost.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/147/casestudy/files/global/147/TN Snowden WaPost.pdf"
 "teaser": "This case takes a behind-the-scenes look at how a national security reporter\
   \ works. In February 2013, reporter Barton Gellman first learns about a source who\
   \ claims to have National Security Agency (NSA) documents."
-"thumbnail_default": "yes"
-"thumb": "Screen Shot 2014-10-15 at 11.08.03 PM.png"
+"thumbnail": ""
 "title": "Covert Activity: the &lt;em&gt;Washington Post&lt;/em&gt;, Edward Snowden\
   \ and the National Security Agency"
 "title_color": ""

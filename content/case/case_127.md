@@ -33,28 +33,28 @@
   \ issues? Should other cities imitate New York?Epilogue, Teaching NoteTopics: public\
   \ management; technology in government; public sector performance evaluation; government\
   \ innovation"
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/files/global/127/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/www/layout/case_id_127.html"
 "id": "127"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "NYC Big Data final 061814.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/files/global/127/NYC Big Data final 061814.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "BigData"
 "status_id": "1"
-"teaching_note": "NYC Big Data TN 060814.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/files/global/127/NYC Big Data TN 060814.pdf"
 "teaser": "This case traces the use of data in making wiser policy decisions, from\
   \ the adoption by the New York Police Department in the 1990s of Compstat (computerized\
   \ comparison crime statistics) to the 2013 implementation by the Fire Department\
   \ of a computerized building inspection system."
-"thumbnail_default": "yes"
-"thumb": "Screen shot 2014-05-27 at 2.08.26 PM.png"
+"thumbnail": ""
 "title": "From Compstat to Gov 2.0 Big Data in New York City Management"
 "title_color": ""
 ---

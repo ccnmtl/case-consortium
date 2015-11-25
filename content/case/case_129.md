@@ -24,28 +24,28 @@
   \ Times in 2009, when it was deciding whether to try again for a paywall and, if\
   \ so, what kind.Epilogue, Teaching NoteTopics: strategic management; business of\
   \ media; digital media"
-"epilogue": "NYT Paywall epilogue final 061214.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/129/casestudy/files/global/129/NYT Paywall epilogue final 061214.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/129/casestudy/www/layout/case_id_129.html"
 "id": "129"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "New York Times"
-"pdf": "NYT Paywall final 061814.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/129/casestudy/files/global/129/NYT Paywall final 061814.pdf"
 "price": "$5.95"
 "redtext": "NOTABLE"
 "related_cases": []
 "school": ""
 "slug": "SalvationorMirage"
 "status_id": "1"
-"teaching_note": "NYT Paywall TN 061214.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/129/casestudy/files/global/129/NYT Paywall TN 061214.pdf"
 "teaser": "This case looks at a question that news organizations continue to struggle\
   \ with as the traditional business model crumbles: install a paywall or not? Case\
   \ readers will be taken behind the scenes at the New York Times in 2009, when it\
   \ was deciding whether to try again for a paywall and, if so, what kind."
-"thumbnail_default": "yes"
-"thumb": "Screen Shot 2014-06-13 at 11.53.26 AM.png"
+"thumbnail": ""
 "title": "Salvation or Mirage? The &lt;em&gt;New York Times&lt;/em&gt; Paywall"
 "title_color": ""
 ---

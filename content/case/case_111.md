@@ -28,26 +28,27 @@
   \ can news start-ups achieve a sustainable business model that includes a mix of\
   \ funding streams?Epilogue, Teaching NoteTopics: journalism entrepreneurship; editorial\
   \ management; ethics; or multimedia journalism production"
-"epilogue": "InvestigateWest Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/111/casestudy/files/global/111/InvestigateWest Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/111/casestudy/www/layout/case_id_111.html"
 "id": "111"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "InvestigateWest"
-"pdf": "InvestigateWest_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/111/casestudy/files/global/111/InvestigateWest_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases": []
 "school": ""
 "slug": "caninvestigatepay"
 "status_id": "1"
-"teaching_note": "InvestigateWest TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/111/casestudy/files/global/111/InvestigateWest TN.pdf"
 "teaser": "This case looks at the realities of creating a non-profit news start-up\
   \ focused on investigative reporting. Nonprofits often start with substantial financial\
   \ support from foundations. Is this healthy in the news business?"
-"thumb": "Screen Shot 2013-02-27 at 6.57.21 PM.png"
+"thumbnail": "/img/case/case_thumb_111.jpg"
 "title": "Can Investigative Journalism Pay?: &lt;i&gt;InvestigateWest&lt;/i&gt; and\
   \ the Nonprofit Model"
 "title_color": ""

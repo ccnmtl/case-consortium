@@ -29,15 +29,16 @@
   \ have a chance to weigh the costs of an investigative reporting project against\
   \ its likely returns.Epilogue, Teaching NoteTopics: international; investigative\
   \ reporting; ethics"
-"epilogue": "CONTACTO Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/49/casestudy/files/global/49/CONTACTO Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/49/casestudy/www/layout/case_id_49.html"
 "id": "49"
 "layout": "standard"
 "link_color": "#e8123d"
 "linked_classes": ""
 "news_org": "CONTACTO"
-"pdf": "CONTACTO ENGLISH_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/49/casestudy/files/global/49/CONTACTO ENGLISH_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -46,9 +47,9 @@
 "school": ""
 "slug": "Reportersorcops"
 "status_id": "1"
-"teaching_note": "CONTACTO Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/49/casestudy/files/global/49/CONTACTO Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_49.jpg"
 "title": "Reporters or cops? CONTACTO and the search for Paul Schaefer"
 "title_color": "#e8123d"
 ---

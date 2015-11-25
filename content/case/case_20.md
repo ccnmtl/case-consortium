@@ -27,15 +27,16 @@
   \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
   \ businessThis case should be used in combination with Part A. The two parts can\
   \ be taught together, or in successive class sessions."
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/files/global/20/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/www/layout/case_id_20.html"
 "id": "20"
 "layout": "standard"
 "link_color": "#996632"
 "linked_classes": ""
 "news_org": "Fort Myers, FL, News-Press"
-"pdf": "Crowdsourcing Text Part B_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/files/global/20/Crowdsourcing Text Part B_wm.pdf"
 "price": "3.00"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "CrowdsourcingB"
 "status_id": "1"
-"teaching_note": "Crowdsourcing Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/files/global/20/Crowdsourcing Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_20.jpg"
 "title": "Crowdsourcing at the Fort Myers, FL, &lt;i&gt;News-Press&lt;/i&gt; Part\
   \ B: &quot;Help Us Investigate&quot;"
 "title_color": "#996632"

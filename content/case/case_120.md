@@ -28,28 +28,28 @@
   \ a show exploring the pros and cons of the bill.This is a FREE case.Epilogue, Teaching\
   \ NoteTopics:  journalism ethics, editorial decision making, reporting on human\
   \ rights and social issues, reporting on politics. "
-"epilogue": "Radio Buddu epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/120/casestudy/files/global/120/Radio Buddu epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/120/casestudy/www/layout/case_id_120.html"
 "id": "120"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Radio Buddu"
-"pdf": "Radio Buddu Uganda.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/120/casestudy/files/global/120/Radio Buddu Uganda.pdf"
 "price": "0.00"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "RadioBuddu"
 "status_id": "1"
-"teaching_note": "TN Radio Buddu.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/120/casestudy/files/global/120/TN Radio Buddu.pdf"
 "teaser": "This case looks at the challenges of reporting on homosexuality in a society\
   \ with complicated attitudes toward the issue. This case can be used in a course/class\
   \ on journalism ethics; editorial decision making; reporting on human rights and\
   \ social issues; or reporting on politics. "
-"thumbnail_default": "yes"
-"thumb": "textonlythumbnail.jpeg"
+"thumbnail": ""
 "title": "Radio Buddu and the Uganda Anti-Homosexuality Bill"
 "title_color": ""
 ---

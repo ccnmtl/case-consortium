@@ -27,15 +27,16 @@
   \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
   \ businessThis case can be used alone, or in combination with Part B. The two parts\
   \ can be taught together, or in successive class sessions."
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/19/casestudy/files/global/19/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/19/casestudy/www/layout/case_id_19.html"
 "id": "19"
 "layout": "standard"
 "link_color": "#996632"
 "linked_classes": "20"
 "news_org": "Fort Myers, FL, News-Press"
-"pdf": "Crowdsourcing Text Part A_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/19/casestudy/files/global/19/Crowdsourcing Text Part A_wm.pdf"
 "price": "3.00"
 "redtext": ""
 "related_cases":
@@ -44,9 +45,9 @@
 "school": ""
 "slug": "CrowdsourcingA"
 "status_id": "1"
-"teaching_note": "Crowdsourcing Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/19/casestudy/files/global/19/Crowdsourcing Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_19.jpg"
 "title": "Crowdsourcing: Promise or Hazard? Part A: Debate at the Fort Myers, FL,\
   \ &lt;i&gt;News-Press&lt;/i&gt;"
 "title_color": "#996632"

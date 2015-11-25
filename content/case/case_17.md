@@ -25,15 +25,16 @@
   \ section of the Bakersfield.com website, she is asked to offer informal observations\
   \ and commentary on the complicated murder case.Epilogue, Teaching NoteTopics: digital\
   \ media; newsroom management; blogging"
-"epilogue": "Bakersfield Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/17/casestudy/files/global/17/Bakersfield Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/17/casestudy/www/layout/case_id_17.html"
 "id": "17"
 "layout": "standard"
 "link_color": "#996632"
 "linked_classes": ""
 "news_org": "Bakersfield Californian"
-"pdf": "Bakersfield Californian and Blogging the Courtroom_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/17/casestudy/files/global/17/Bakersfield Californian and Blogging the Courtroom_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,9 +43,9 @@
 "school": ""
 "slug": "Bakersfield"
 "status_id": "1"
-"teaching_note": "Bakersfield Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/17/casestudy/files/global/17/Bakersfield Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_17.jpg"
 "title": "The Bakersfield &lt;i&gt;Californian&lt;/i&gt; and Blogging the Courtroom"
 "title_color": "#996632"
 ---

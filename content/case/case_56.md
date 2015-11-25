@@ -29,15 +29,16 @@
   \ ideal legal framework for a press to operate, and the competing priorities of\
   \ media as a business vs. media as news purveyor.Epilogue, Teaching NoteTopics:\
   \ media business; strategic management; international"
-"epilogue": "Clarin Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/56/casestudy/files/global/56/Clarin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/56/casestudy/www/layout/case_id_56.html"
 "id": "56"
 "layout": "standard"
 "link_color": "#9e1313"
 "linked_classes": ""
 "news_org": !!python/str "Clarín Group"
-"pdf": "Clarin Group and the Kirchners_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/56/casestudy/files/global/56/Clarin Group and the Kirchners_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -46,12 +47,12 @@
 "school": ""
 "slug": "LegalJeopardy"
 "status_id": "1"
-"teaching_note": "Clarin Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/56/casestudy/files/global/56/Clarin Teaching Note.pdf"
 "teaser": "This case is about the relationship between government and media, how media\
   \ companies should manage that relationship, and the role of media in society. Use\
   \ in a course on media and democracy; business of media; international journalism;\
   \ or strategic management."
-"thumb": "clarin_banner_thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_56.jpg"
 "title": "Legal Jeopardy: Clar&amp;iacute;n Group and the Kirchners"
 "title_color": "#9e1313"
 ---

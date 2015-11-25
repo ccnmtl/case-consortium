@@ -34,28 +34,28 @@
   \ a group of citizens who wanted to convert a disused elevated railroad into a public\
   \ park. Epilogue, Teaching NoteTopics: public policy, public administration, urban\
   \ planning, land use"
-"epilogue": "PPP Parks Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/128/casestudy/files/global/128/PPP Parks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/128/casestudy/www/layout/case_id_128.html"
 "id": "128"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "PPP Parks Final 072214.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/128/casestudy/files/global/128/PPP Parks Final 072214.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "Parks"
 "status_id": "1"
-"teaching_note": "TN PPP Parks 060314.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/128/casestudy/files/global/128/TN PPP Parks 060314.pdf"
 "teaser": !!python/str "This case examines the history and wider applicability of\
   \ public-private partnerships (PPPs) for parks. For years, New York City’s Central\
   \ Park was a neglected dustbowl. But in 1980, a new kind of organization arose to\
   \ reclaim and restore it."
-"thumbnail_default": "yes"
-"thumb": "Screen Shot 2014-05-30 at 12.49.35 PM.png"
+"thumbnail": ""
 "title": "Public-Private Partnerships for Green Space in NYC"
 "title_color": ""
 ---

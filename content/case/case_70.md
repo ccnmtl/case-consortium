@@ -28,15 +28,16 @@
   \ WikiLeaks and to publish US secret government documents.This is a FREE case.Epilogue,\
   \ Teaching NoteTopics: editorial management; international; digital media; politics\
   \ reporting"
-"epilogue": "Wikileaks Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/70/casestudy/files/global/70/Wikileaks Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/70/casestudy/www/layout/case_id_70.html"
 "id": "70"
 "layout": "standard"
 "link_color": "#1f9937"
 "linked_classes": ""
 "news_org": "Guardian"
-"pdf": "WikiLeaks and the Guardian.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/70/casestudy/files/global/70/WikiLeaks and the Guardian.pdf"
 "price": "Free"
 "redtext": "FREE"
 "related_cases":
@@ -45,12 +46,12 @@
 "school": ""
 "slug": "Friendorfoe"
 "status_id": "1"
-"teaching_note": "WikiLeaks TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/70/casestudy/files/global/70/WikiLeaks TN.pdf"
 "teaser": "This case is about the celebrated collaboration between WikiLeaks, the\
   \ secure website for whistleblowers, and the mainstream media--focusing on the British\
   \ Guardian newspaper. Use in courses on government-media relations; managing sources;\
   \ data journalism; editorial decisionmaking; or international reporting. "
-"thumb": "thumbnail_wikileaks.jpg"
+"thumbnail": "/img/case/case_thumb_70.jpg"
 "title": "Friend or foe? WikiLeaks and the &lt;i&gt;Guardian&lt;/i&gt;"
 "title_color": "#1f9937"
 ---

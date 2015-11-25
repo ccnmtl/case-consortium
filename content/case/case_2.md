@@ -23,15 +23,16 @@
   \ in Boston (WGBH). The case tells the story of the making of “The Last Abortion\
   \ Clinic,” a 2005 documentary by producer Raney Aronson and her team.This is a FREE\
   \ case.Epilogue, Teaching NoteTopics: documentary; editorial decisionmaking"
-"epilogue": "Frontline Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/2/casestudy/files/global/2/Frontline Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/2/casestudy/www/layout/case_id_2.html"
 "id": "2"
 "layout": "standard"
 "link_color": "#006699"
 "linked_classes": ""
 "news_org": "Frontline"
-"pdf": "Frontline Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/2/casestudy/files/global/2/Frontline Text.pdf"
 "price": "0.00"
 "redtext": ""
 "related_cases":
@@ -40,9 +41,9 @@
 "school": ""
 "slug": "Frontline"
 "status_id": "1"
-"teaching_note": "Frontline Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/2/casestudy/files/global/2/Frontline Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_2.jpg"
 "title": "&lt;i&gt;Frontline&lt;/i&gt;&apos;s &quot;The Last Abortion Clinic&quot;:\
   \ What&apos;s Fair in a Video World?"
 "title_color": "#006699"

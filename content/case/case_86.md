@@ -31,27 +31,28 @@
   \ herself had refused to provide the photos. Daulerio had already published the\
   \ story about the photos and associated text messages. What did the photos add?Epilogue,\
   \ Teaching NoteTopics: ethics; sports reporting; digital journalism"
-"epilogue": "Deadspin Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/86/casestudy/files/global/86/Deadspin Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/86/casestudy/www/layout/case_id_86.html"
 "id": "86"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Deadspin"
-"pdf": "Deadspin and an Iconic Athelete_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/86/casestudy/files/global/86/Deadspin and an Iconic Athelete_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases": []
 "school": ""
 "slug": "PersonalFoul"
 "status_id": "1"
-"teaching_note": "Deadspin TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/86/casestudy/files/global/86/Deadspin TN.pdf"
 "teaser": "This case looks at the differences between online and mainstream media\
   \ to ask whether different editorial guidelines apply to the different platforms,\
   \ and to question whether rules have changed. Use it in courses on sports reporting,\
   \ digital journalism, or ethics. "
-"thumb": "Screen Shot 2012-03-28 at 3.20.52 PM.png"
+"thumbnail": "/img/case/case_thumb_86.jpg"
 "title": "Personal Foul? &lt;i&gt;Deadspin&lt;/i&gt; and an Iconic Athlete"
 "title_color": ""
 ---

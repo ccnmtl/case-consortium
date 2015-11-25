@@ -27,15 +27,16 @@
   \ voice Debra Burlingame, in which she levied charges against a proposed International\
   \ Freedom Center (IFC) at the World Trade Center memorial site. Epilogue, Teaching\
   \ NoteTopics: ethics; editorial management; culture writing"
-"epilogue": "New York Times and IFC Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/36/casestudy/files/global/36/New York Times and IFC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/36/casestudy/www/layout/case_id_36.html"
 "id": "36"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "New York Times"
-"pdf": "New York Times and the International Freedom Center_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/36/casestudy/files/global/36/New York Times and the International Freedom Center_wm.pdf"
 "price": "3.95"
 "redtext": ""
 "related_cases":
@@ -44,10 +45,9 @@
 "school": ""
 "slug": "ButisitNews"
 "status_id": "1"
-"teaching_note": "New York Times and IFC Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/36/casestudy/files/global/36/New York Times and IFC Teaching Note.pdf"
 "teaser": ""
-"thumbnail_default": "yes"
-"thumb": ""
+"thumbnail": ""
 "title": "But is it News? The &lt;i&gt;New York Times&lt;/i&gt; and the International\
   \ Freedom Center"
 "title_color": "#2947a3"

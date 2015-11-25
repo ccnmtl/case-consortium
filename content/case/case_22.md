@@ -25,15 +25,16 @@
   \ between a radio host and a British Broadcasting Corporation (BBC) reporter escalated\
   \ into a full-scale war, which pitted the BBC against Prime Minister Tony Blair’s\
   \ government.Epilogue, Teaching NoteTopics: strategic management; international"
-"epilogue": "BBC Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/22/casestudy/files/global/22/BBC Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/22/casestudy/www/layout/case_id_22.html"
 "id": "22"
 "layout": "standard"
 "link_color": "#663366"
 "linked_classes": ""
 "news_org": "BBC"
-"pdf": "BBC versus the Blair Government_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/22/casestudy/files/global/22/BBC versus the Blair Government_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,9 +43,9 @@
 "school": ""
 "slug": "ReputationstoLose"
 "status_id": "1"
-"teaching_note": "BBC Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/22/casestudy/files/global/22/BBC Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_22.jpg"
 "title": "Reputations to Lose: BBC versus the Blair Government"
 "title_color": "#663366"
 ---

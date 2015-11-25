@@ -29,15 +29,16 @@
   \ local media markets, and the options for community outreach.This is a FREE, contributed\
   \ case.Epilogue, Teaching NoteTopics: local journalism; media business; digital\
   \ media"
-"epilogue": "Long Beach Post Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/68/casestudy/files/global/68/Long Beach Post Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/68/casestudy/www/layout/case_id_68.html"
 "id": "68"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Long Beach Post"
-"pdf": "Long Beach Post Text.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/68/casestudy/files/global/68/Long Beach Post Text.pdf"
 "price": "0.00"
 "redtext": "Free"
 "related_cases":
@@ -46,12 +47,11 @@
 "school": ""
 "slug": "JuryisOut"
 "status_id": "1"
-"teaching_note": "Long Beach Post Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/68/casestudy/files/global/68/Long Beach Post Teaching Note.pdf"
 "teaser": "This case takes a hard look behind the scenes at starting a for-profit\
   \ community news website, the <i>Long Beach Post</i> (LBPOST.com). Use in courses\
   \ on the business of media; online media; community news; or journalism entrepreneurship."
-"thumbnail_default": "yes"
-"thumb": "text only image.jpg"
+"thumbnail": ""
 "title": "The Jury is Out: The &lt;i&gt;Long Beach Post&lt;/i&gt; and Online Local\
   \ News"
 "title_color": "#2947a3"

@@ -24,15 +24,16 @@
   \ the science on one side is flawed. Students can debate the proper role of a newspaper\
   \ serving its local community—to reflect local mores and values, or to challenge\
   \ them?Epilogue, Teaching NoteTopics: science reporting; religion reporting"
-"epilogue": "York Daily Record Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/30/casestudy/files/global/30/York Daily Record Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/30/casestudy/www/layout/case_id_30.html"
 "id": "30"
 "layout": "standard"
 "link_color": "#ab4915"
 "linked_classes": ""
 "news_org": "York Daily Record"
-"pdf": "York Daily Record and the Intelligent Design Trial_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/30/casestudy/files/global/30/York Daily Record and the Intelligent Design Trial_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -41,9 +42,9 @@
 "school": ""
 "slug": "GodandDarwin"
 "status_id": "1"
-"teaching_note": "York Daily Record Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/30/casestudy/files/global/30/York Daily Record Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_30.jpg"
 "title": "God and Darwin: The &lt;i&gt;York Daily Record&lt;/i&gt; and the Intelligent\
   \ Design Trial"
 "title_color": "#ab4915"

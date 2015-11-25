@@ -26,15 +26,16 @@
   \ and into the minds of two journalism entrepreneurs. Students can debate the pros\
   \ and cons of leaving mainstream journalism outlets to start new operations.Teaching\
   \ NoteTopics: media business; editorial decisionmaking; digital media"
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/files/global/38/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/www/layout/case_id_38.html"
 "id": "38"
 "layout": "standard"
 "link_color": "#c73104"
 "linked_classes": ""
 "news_org": "Politico"
-"pdf": "John Harris, Jim VandeHei and Politico Part A_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/files/global/38/John Harris, Jim VandeHei and Politico Part A_wm.pdf"
 "price": "3.00"
 "redtext": ""
 "related_cases":
@@ -43,11 +44,11 @@
 "school": ""
 "slug": "RiskyBusinessPartA"
 "status_id": "1"
-"teaching_note": "Politico Part A Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/files/global/38/Politico Part A Teaching Note.pdf"
 "teaser": "Two cases on Business of Media, (A) re journalism entrepreneurship, and\
   \ (B) re media business models. Use in course/class on Media Business, Digital Media,\
   \ Editorial Decisionmaking, or Newsroom Management."
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_38.jpg"
 "title": "Risky Business: John Harris, Jim VandeHei, and &lt;i&gt;Politico&lt;/i&gt;\
   \ Part A"
 "title_color": "#c73104"

@@ -35,27 +35,28 @@
   \ City. With that unnecessary evacuation fresh in their minds, the two officials\
   \ had to decide what to do as Sandy approached.Epilogue, Teaching NoteTopics: disaster\
   \ preparedness, crisis management, health care system logistics"
-"epilogue": "NorthShore LIJ Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/113/casestudy/files/global/113/NorthShore LIJ Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/113/casestudy/www/layout/case_id_113.html"
 "id": "113"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "N/A"
-"pdf": "NorthShore LIJ_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/113/casestudy/files/global/113/NorthShore LIJ_wm.pdf"
 "price": "5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "evacuate"
 "status_id": "1"
-"teaching_note": "NorthShore LIJ TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/113/casestudy/files/global/113/NorthShore LIJ TN.pdf"
 "teaser": !!python/str "In October 2012, the North Shore-Long Island Jewish Hospitals\
   \ (North Shore-LIJ) network braced—together with rest of the East coast—for the\
   \ advent of Hurricane Sandy. This case examines the pros and cons of evacuating\
   \ medical facilities in the face of a looming natural disaster. "
-"thumb": "Screen Shot 2013-07-23 at 12.33.44 PM.png"
+"thumbnail": "/img/case/case_thumb_113.jpg"
 "title": "Evacuate or Stay? Northshore LIJ and Hurricane Sandy"
 "title_color": ""
 ---

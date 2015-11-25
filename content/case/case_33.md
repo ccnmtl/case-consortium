@@ -26,15 +26,16 @@
   \ went down in Far Rockaway, Queens, New York.This is a video case.Teaching NoteTopics:\
   \ digital media; crisis reportingFaculty: You will have an opportunity to review\
   \ the video case once you have registered. "
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/33/casestudy/files/global/33/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/33/casestudy/www/layout/case_id_33.html"
 "id": "33"
 "layout": "standard"
 "link_color": "#1f5680"
 "linked_classes": ""
 "news_org": "Newsday"
-"pdf": "Newsday and the Crash of American Airlines Flight 587_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/33/casestudy/files/global/33/Newsday and the Crash of American Airlines Flight 587_wm.pdf"
 "price": "5.95"
 "redtext": "Video"
 "related_cases":
@@ -43,13 +44,13 @@
 "school": ""
 "slug": "TerrororAccident"
 "status_id": "1"
-"teaching_note": "Newsday Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/33/casestudy/files/global/33/Newsday Teaching Note.pdf"
 "teaser": "This text+video case asks students to engage in a difficult calculus: how\
   \ to report on deadline about a disaster when the causes are unclear. The website\
   \ editor has to make the call: accident or terrorism? The case also raises managerial\
   \ and competitive issues. _x000d_\nUse in course/class on Digital Media or Crisis\
   \  Reporting._x000d_\n"
-"thumb": "newsday_casecover.jpg"
+"thumbnail": "/img/case/case_thumb_33.jpg"
 "title": "Terror or Accident? &lt;i&gt;Newsday&lt;/i&gt; and the Crash of American\
   \ Airlines Flight 587"
 "title_color": "#1c6399"

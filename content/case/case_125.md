@@ -32,28 +32,28 @@
   \ But the organization which operates Experience Corps in Baltimore, has objections—most\
   \ of them political—to some of the requirements for an RCT.Epilogue, Teaching NoteTopics: community-based\
   \ research; public health studies; academic/non-profit partnerships"
-"epilogue": "EC epilogue v.2.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/125/casestudy/files/global/125/EC epilogue v.2.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/125/casestudy/www/layout/case_id_125.html"
 "id": "125"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Experience Corps Final.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/125/casestudy/files/global/125/Experience Corps Final.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "ScientificMethod"
 "status_id": "1"
-"teaching_note": "EC teaching note v.2.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/125/casestudy/files/global/125/EC teaching note v.2.pdf"
 "teaser": !!python/str "This case looks at the challenges of adhering to best scientific\
   \ research practices when operating in the real world. The national Experience Corps\
   \ program brings senior citizens to work as volunteers in elementary schools. But\
   \ it has not yet had a rigorous evaluation—one that would argue for aggressive expansion."
-"thumbnail_default": "yes"
-"thumb": "Screen Shot 2014-05-19 at 12.43.37 PM.png"
+"thumbnail": ""
 "title": "Scientific Method in the Real World: Experience Corps and the Johns Hopkins\
   \ Study"
 "title_color": ""

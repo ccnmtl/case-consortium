@@ -26,15 +26,16 @@
   \ cases of two men held in solitary confinement for 36 years at the Louisiana State\
   \ Penitentiary in Angola, Louisiana.Epilogue, Teaching NoteTopics: broadcast; investigative;\
   \ ethics"
-"epilogue": "NPR Sullivan Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/54/casestudy/files/global/54/NPR Sullivan Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/54/casestudy/www/layout/case_id_54.html"
 "id": "54"
 "layout": "standard"
 "link_color": "#243770"
 "linked_classes": ""
 "news_org": "National Public Radio"
-"pdf": "National Public Radio and Angola State Prison_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/54/casestudy/files/global/54/National Public Radio and Angola State Prison_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -43,9 +44,9 @@
 "school": ""
 "slug": "VoicesBehindBars"
 "status_id": "1"
-"teaching_note": "NPR Sullivan Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/54/casestudy/files/global/54/NPR Sullivan Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_54.jpg"
 "title": "Voices Behind Bars: National Public Radio and Angola State Prison"
 "title_color": "#243770"
 ---

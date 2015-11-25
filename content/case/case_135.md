@@ -34,28 +34,28 @@
   \ regional and local. Use this case to give students grounding in the realities\
   \ of civil activism in authoritarian societies. Epilogue, Teaching NoteTopics: international\
   \ sustainable development; China; environmental activism; civil society"
-"epilogue": "Ma Jun epilogue final.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/135/casestudy/files/global/135/Ma Jun epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/135/casestudy/www/layout/case_id_135.html"
 "id": "135"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Ma Jun final.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/135/casestudy/files/global/135/Ma Jun final.pdf"
 "price": "0.00"
 "redtext": "FREE"
 "related_cases": []
 "school": ""
 "slug": "PublishingPollutionDatainChina"
 "status_id": "1"
-"teaching_note": "TN Ma Jun.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/135/casestudy/files/global/135/TN Ma Jun.pdf"
 "teaser": "A civil society activist in any country expects challenges, but with an\
   \ authoritarian government the role can carry extra burdens. This case examines\
   \ the creation and evolution of the Institute of Public and Environmental Affairs\
   \ (IPE). In early 2014, however, IPE prepared to take on a new group of polluters."
-"thumbnail_default": "yes"
-"thumb": "Screen shot 2014-08-19 at 12.36.34 PM.png"
+"thumbnail": ""
 "title": "Publishing Pollution Data in China: Ma Jun and the Institute of Public and\
   \ Environmental Affairs"
 "title_color": ""

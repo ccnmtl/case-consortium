@@ -25,15 +25,16 @@
   \ Management Agency (FEMA) aid recipients, as well as instances of complicit FEMA\
   \ inspectors, many of whom had criminal backgrounds.Epilogue, Teaching NoteTopics:\
   \ investigative reporting; newsroom management"
-"epilogue": "Sun-Sentinel Epilogue.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/23/casestudy/files/global/23/Sun-Sentinel Epilogue.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/23/casestudy/www/layout/case_id_23.html"
 "id": "23"
 "layout": "standard"
 "link_color": "#003399"
 "linked_classes": ""
 "news_org": "South Florida Sun-Sentinel"
-"pdf": "South FLorida Sun Sentinel Investigates FEMA_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/23/casestudy/files/global/23/South FLorida Sun Sentinel Investigates FEMA_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -42,9 +43,9 @@
 "school": ""
 "slug": "AftertheStorms"
 "status_id": "1"
-"teaching_note": "Sun-Sentinel Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/23/casestudy/files/global/23/Sun-Sentinel Teaching Note.pdf"
 "teaser": ""
-"thumb": ""
+"thumbnail": "/img/case/case_thumb_23.jpg"
 "title": "After the Storms: The South Florida &lt;i&gt;Sun-Sentinel&lt;/i&gt; Investigates\
   \ FEMA"
 "title_color": "#006699"

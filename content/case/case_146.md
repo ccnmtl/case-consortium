@@ -37,28 +37,28 @@
   \ to treat and prevent the further spread of HIV.Epilogue, Teaching NoteTopics: public\
   \ health policy; HIV-AIDS; Africa, multinational aid; medical ethics; evidence-based\
   \ medicine"
-"epilogue": "Swaziland epilogue final.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/146/casestudy/files/global/146/Swaziland epilogue final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/146/casestudy/www/layout/case_id_146.html"
 "id": "146"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": ""
-"pdf": "Swaziland HIV FINAL.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/146/casestudy/files/global/146/Swaziland HIV FINAL.pdf"
 "price": "$5.95"
 "redtext": "NEW"
 "related_cases": []
 "school": ""
 "slug": "Swaziland"
 "status_id": "1"
-"teaching_note": "Swaziland TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/146/casestudy/files/global/146/Swaziland TN.pdf"
 "teaser": "This case study examines the challenges and tradeoffs for a small sub-Saharan\
   \ African country with limited resources as it tries to combat one of the highest\
   \ rates of HIV-AIDS infection in the world. Swaziland in 1999 declared HIV-AIDS\
   \ a national disaster. "
-"thumbnail_default": "yes"
-"thumb": "casethumbnail.png"
+"thumbnail": ""
 "title": "Swaziland, HIV and Option B+: What Can We Afford?"
 "title_color": ""
 ---

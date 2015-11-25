@@ -25,15 +25,16 @@
   \ of accuracy for blogs, tabloids, and more mainstream news outlets. They can also\
   \ discuss the fine line between privacy and the public's right to know.Teaching\
   \ NoteTopics: ethics; blogging; celebrity reporting"
-"epilogue": ""
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/files/global/28/"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/www/layout/case_id_28.html"
 "id": "28"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Politico"
-"pdf": "Politico and the Edwards Affair_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/files/global/28/Politico and the Edwards Affair_wm.pdf"
 "price": "3.95"
 "redtext": ""
 "related_cases":
@@ -42,10 +43,9 @@
 "school": ""
 "slug": "NewsorRumor"
 "status_id": "1"
-"teaching_note": "Edwards Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/files/global/28/Edwards Teaching Note.pdf"
 "teaser": ""
-"thumbnail_default": "yes"
-"thumb": ""
+"thumbnail": ""
 "title": "News or Rumor? &lt;i&gt;Politico&lt;/i&gt; and the Edwards Affair "
 "title_color": "#2947a3"
 ---

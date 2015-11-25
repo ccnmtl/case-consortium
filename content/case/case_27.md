@@ -22,15 +22,16 @@
   \ Students are asked to consider what are the obligations of a newspaper to its\
   \ readers, and to those it writes about.Part B, Teaching NoteTopics: ethics; privacyFaculty:\
   \ You will have an opportunity to review Part B once you have registered."
-"epilogue": "News Post and the Bruce Ivins Story Part B.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/27/casestudy/files/global/27/News Post and the Bruce Ivins Story Part B.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/27/casestudy/www/layout/case_id_27.html"
 "id": "27"
 "layout": "standard"
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Frederick, MD, News-Post"
-"pdf": "News Post and the Bruce Ivins Story Part A_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/27/casestudy/files/global/27/News Post and the Bruce Ivins Story Part A_wm.pdf"
 "price": "5.95"
 "redtext": ""
 "related_cases":
@@ -38,10 +39,9 @@
 "school": ""
 "slug": "PrivacyandthePublicInterest"
 "status_id": "1"
-"teaching_note": "Ivins Teaching Note.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/27/casestudy/files/global/27/Ivins Teaching Note.pdf"
 "teaser": ""
-"thumbnail_default": "yes"
-"thumb": ""
+"thumbnail": ""
 "title": "Privacy and the Public Interest: Frederick, MD, &lt;i&gt;News-Post&lt;/i&gt;\
   \ and the Bruce Ivins Story"
 "title_color": "#2947a3"

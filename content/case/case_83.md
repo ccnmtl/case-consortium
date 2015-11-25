@@ -28,26 +28,27 @@
   \ it (they hire a Rand Corp. expert) to reveal teacher effectiveness. The key question\
   \ is accountability: should the paper name individual teachers when it publishes\
   \ the scores?Epilogue, Teaching NoteTopics: education reporting; editorial decisionmaking"
-"epilogue": "LATimes Epilogue Final.pdf"
+"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/83/casestudy/files/global/83/LATimes Epilogue Final.pdf"
 "faculty_notes": ""
 "faculty_only": ""
+case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/83/casestudy/www/layout/case_id_83.html"
 "id": "83"
 "layout": "standard"
 "link_color": ""
 "linked_classes": ""
 "news_org": "Los Angeles Times"
-"pdf": "Los Angeles Times and Value Added Analysis_wm.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/83/casestudy/files/global/83/Los Angeles Times and Value Added Analysis_wm.pdf"
 "price": "$5.95"
 "redtext": ""
 "related_cases": []
 "school": ""
 "slug": "RatingTeachers"
 "status_id": "1"
-"teaching_note": "LA Times TN.pdf"
+"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/83/casestudy/files/global/83/LA Times TN.pdf"
 "teaser": "This case goes behind the scenes to examine the thinking at the Los Angeles\
   \ Times about a 2010 project to rank public elementary school teachers of English\
   \ and math. Use it in courses on education reporting and editorial decisionmaking. "
-"thumb": "thumbnail.jpg"
+"thumbnail": "/img/case/case_thumb_83.jpg"
 "title": "Rating Teachers: a Job for Journalists? The &lt;i&gt;Los Angeles Times&lt;/i&gt;\
   \ and &quot;Value-Added&quot; Analysis"
 "title_color": ""
