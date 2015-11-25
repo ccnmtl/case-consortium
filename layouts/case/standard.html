@@ -13,11 +13,11 @@
 
 <div class="row 200%">
 <div class="3u 12u$(medium) case-thumb">
-    <a target="_blank" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html" title="Link to Case">
-    {{ if .Params.thumbnail_default }}
-        <img class ="thumbnail noborder" src="/img/case/case_thumb_00.png" />
-    {{ else }}
-        <img class ="thumbnail" src="/img/case/case_thumb_{{ .Params.id }}.jpg" />
+    <a target="_blank" href="{{ .Params.case_url }}" title="Link to Case">
+    {{ if .Params.thumbnail }}
+        <img class ="thumbnail" src="{{ .Params.thumbnail }}" />
+     {{ else }}
+       <img class ="thumbnail noborder" src="/img/case/case_thumb_00.png" />
     {{ end }}
     </a>
      
@@ -56,11 +56,11 @@
                         </p>
                         </div>
                         
-                        <a target="_blank" class="external-case-link" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/www/layout/case_id_{{ .Params.id }}.html">
-                            							<span class="ion-folder"></span> <span class="unescape">Link to Case</span>
+                        <a target="_blank" class="external-case-link" href="{{ .Params.case_url }}">
+                        <span class="ion-folder"></span> <span class="unescape">Link to Case</span>
                         </a>
 
-                         <a target="_blank" class="pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.pdf }}">
+                         <a target="_blank" class="pdf" href="{{ .Params.pdf }}">
                          <span class="ion-document-text"></span> <span class="unescape">Link to PDF</span>
                         </a>
                         
@@ -85,13 +85,13 @@
 
                             <div id="teaching-resources">
                                 {{ if .Params.teaching_note }}
-                                <a target="_blank" class="teacher-pdf" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.teaching_note }}">
+                                <a target="_blank" class="teacher-pdf" href="{{ .Params.teaching_note }}">
                                     <h4 class="unescape">Link to Teaching Note</h4>
                                 </a>
                                 {{ end }}
 
                                 {{ if .Params.epilogue }}
-                                <a target="_blank" class="epoligue" href="http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/{{ .Params.id }}/casestudy/files/global/{{ .Params.id }}/{{ .Params.epilogue }}">
+                                <a target="_blank" class="epoligue" href="{{ .Params.epilogue }}">
                                     <h4 class="unescape">Link to Epilogue</h4>
                                 </a>
                                 {{ end }}
