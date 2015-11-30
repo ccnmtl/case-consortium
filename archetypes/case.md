@@ -15,5 +15,5 @@ teaching_note: ""
 description: ""
 layout: "standard"
 thumbnail: ""
-case_url" ""
+case_url: ""
 ---
