@@ -293,4 +293,3 @@ $ find /www/data/ccnmtl/projects/caseconsortium/casestudies -name *.mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/274/Bedaiko_TEXT CLIP.mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/277/Hotz_TEXT CLIP.mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/92/casestudy/files/audios/273/Bedaiko_BIO CLIP.mp3
-$ 
