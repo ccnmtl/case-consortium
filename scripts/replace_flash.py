@@ -1,4 +1,6 @@
+from bs4 import BeautifulSoup
 from subprocess import call
+import urllib
 import os
 import sys
 import fileinput
@@ -50,4 +52,31 @@ replace entire flash tag with new iframe...
 file_to_search = sys.argv[1]
 dest_file = sys.argv[2]
 
+'''Convert video name to url encoding...'''
+# urllib.urlencode()
 '''Open file and scan for flash tag'''
+'''Get HTML elements related to the video tag'''
+
+'''Load video_list.txt and video_ids.txt'''
+# one time script - hard coding is fine for now...
+video_list = open('video_list.txt', 'r')
+'''read contents of video_ids.txt into memory to avoid reopening and reading each time in the inner loop'''
+video_ids = open('video_ids.txt', 'r').readlines()
+video_table = {}
+
+'''For each listed case video in video_list.txt find corresponding video id in video_ids.txt...'''
+for line in video_list:
+    line = line.split('/')
+    title = line[-1]
+    for l in video_ids:
+        l = l.split('\t\t\t\t')
+        id_title = l[1].strip('\n')
+        # print title
+        # print id_title
+        if title == id_title:
+            # print video_table
+            video_table[title] = id_title
+            print id_title
+            print title
+
+
