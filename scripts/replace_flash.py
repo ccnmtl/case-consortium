@@ -11,6 +11,10 @@ string_to_find = ("""<embed type="application/x-shockwave-flash" """
                   """name="movie_player_1" bgcolor="#ffffff" quality="high" wmode="transparent" """
                   """autoplay="false" flashvars="file=..%2F..%2Ffiles%2Fvideos%2F221%2FTextCards.flv">""")
 
+other_string = ("""<center><p><span class="caption2"><a class="media {width:420, height:286}" """
+                """href="../../files/videos/221/TextCards.flv">Death of Lance Cpl. Sharp; shots """
+                """of Sgt. Nathan Harris.</a></span></p></center>""")
+
 example_string = ("""<embed type="application/x-shockwave-flash" """
                   """src="mediaplayer.swf?file=..%2F..%2Ffiles%2Fvideos%2F221%2FTextCards.flv" """
                   """width="420" height="286" style="undefined" id="movie_player_1" """
@@ -45,3 +49,5 @@ replace entire flash tag with new iframe...
 
 file_to_search = sys.argv[1]
 dest_file = sys.argv[2]
+
+'''Open file and scan for flash tag'''
