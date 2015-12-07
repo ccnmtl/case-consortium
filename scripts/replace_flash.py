@@ -67,16 +67,11 @@ video_table = {}
 '''For each listed case video in video_list.txt find corresponding video id in video_ids.txt...'''
 for line in video_list:
     line = line.split('/')
-    title = line[-1]
+    title = line[-1].strip('\n')
     for l in video_ids:
         l = l.split('\t\t\t\t')
         id_title = l[1].strip('\n')
-        # print title
-        # print id_title
         if title == id_title:
-            # print video_table
-            video_table[title] = id_title
-            print id_title
-            print title
+            video_table[title] = l[0]
 
 
