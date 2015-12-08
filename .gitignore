@@ -5,3 +5,5 @@
 public
 *~
 client_secret.json
+.project
+.pydevproject
