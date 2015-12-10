@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+import BeautifulSoup
 from subprocess import call
 import urllib
 import os
@@ -49,29 +49,69 @@ replace entire flash tag with new iframe...
 '''
 
 
-file_to_search = sys.argv[1]
-dest_file = sys.argv[2]
+
 
 '''Convert video name to url encoding...'''
 # urllib.urlencode()
 '''Open file and scan for flash tag'''
-'''Get HTML elements related to the video tag'''
+def open_file_and_replace_tags(htmlfile, flvname):
+    htmldoc = open(htmlfile, 'rw')
+    soup = BeautifulSoup(htmldoc, 'html.parser')
+    '''Get HTML elements related to the video tag'''
+    '''Videos seem to be in embed tags or center > p > span tags'''
+    find_href = soup.find_all(href=re.compile(flvname))
+    print find_href
+    print type(find_href)
+    find_embeds = soup.find_all('embed', href=re.compile(flvname))
+    print find_embeds
+    print type(find_embeds)
+    # type="application/x-shockwave-flash"
 
-'''Load video_list.txt and video_ids.txt'''
-# one time script - hard coding is fine for now...
-video_list = open('video_list.txt', 'r')
-'''read contents of video_ids.txt into memory to avoid reopening and reading each time in the inner loop'''
-video_ids = open('video_ids.txt', 'r').readlines()
-video_table = {}
 
-'''For each listed case video in video_list.txt find corresponding video id in video_ids.txt...'''
-for line in video_list:
-    line = line.split('/')
-    title = line[-1].strip('\n')
+
+
+
+
+
+'''Traverse directory files for flv...'''
+def go_over_directory(args.directory):
+    pass
+
+
+
+youtube = get_authenticated_service(args.)
+try:
+  initialize_upload(youtube, args)
+except HttpError, e:
+  print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
+
+
+
+if __name__ == '__main__':
+    argparser.add_argument("--directory", help="Directory of files to traverse",
+        default=".")
+    argparser.add_argument("--file", help="File to process")
+    argparser.add_argument("--title", help="Title of flv")
+    argparser.add_argument("--id", help="ID of flv on youtube")
+    args = argparser.parse_args()
+
+    # one time script - hard coding is fine for now...
+    '''For each listed case video in video_ids.txt stick in a dictionary...'''
+    video_ids = open('video_ids.txt', 'r') # .readlines()
+    video_table = {}
+
     for l in video_ids:
         l = l.split('\t\t\t\t')
         id_title = l[1].strip('\n')
-        if title == id_title:
-            video_table[title] = l[0]
+        video_table[id_title] = l[0]
+    video_ids.close()
 
 
+#   if not os.path.exists(args.file):
+#     exit("Please specify a valid file using the --file= parameter.")
+# 
+#   youtube = get_authenticated_service(args)
+#   try:
+#     initialize_upload(youtube, args)
+#   except HttpError, e:
+#     print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
