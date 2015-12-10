@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+import BeautifulSoup
 from subprocess import call
 import urllib
 import os
@@ -55,6 +55,16 @@ dest_file = sys.argv[2]
 '''Convert video name to url encoding...'''
 # urllib.urlencode()
 '''Open file and scan for flash tag'''
+def replace_tags(scan_file):
+    htmldoc = open(scan_file, 'r')
+    soup = BeautifulSoup(htmldoc, 'html.parser')
+    '''Videos seem to be in embed tags or center > p > span tags'''
+    find_embeds = soup.find_all('embed', type="application/x-shockwave-flash") # """<embed type="application/x-shockwave-flash" """
+    find_href = soup.find_all('a', class_="media") # """<center><p><span class="caption2">>>> soup.find_all('a', class_="media")
+    for tag in soup.find_all():
+        print tag
+        
+
 '''Get HTML elements related to the video tag'''
 
 '''Load video_list.txt and video_ids.txt'''
@@ -73,5 +83,6 @@ for line in video_list:
         id_title = l[1].strip('\n')
         if title == id_title:
             video_table[title] = l[0]
-
+video_list.close()
+video_ids.close()
 
