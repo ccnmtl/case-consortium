@@ -7,12 +7,13 @@ var index = lunr(function() {
 });
 index.ref('slug');
 
+
 window.data = {};
 $.getJSON('/js/api/cases.json').done(function(item) {
     item.cases.forEach(function(d) {
         var el = $('<div>' + d.title + '</div>');
         // convert encoded html to decoded text
-        // then grab that text and insert it to
+        // then grab that text and insert it to 
         // the index
         el.html(el.text());
         d.title = el.text();
@@ -25,117 +26,116 @@ $.getJSON('/js/api/cases.json').done(function(item) {
 });
 
 var doSearch = function() {
+	
     var q = $('#q').val();
     window.results = index.search(q);
     var $el = $('#search-results');
-
+    
     $el.empty();
     $el.show();
-    if (results.length === 0) {
+    if (results.length == 0) {
         $el.html('Sorry, no results matching your query were found.');
     } else {
         $el.append(
            $('<h2 class="results-title">Search Results: "' + q + '"</h2>')
         );
 
-        for (var r in results.slice(0, 10)) {
+        for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
 
                 var d = results[r].ref;
-                var title = window.data[d].title;
-                var slug = window.data[d].slug;
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
                 // this is the drop down HTML you
-                // see appended to the search bar
+            	// see appended to the search bar
                 var $result = $('<div class="result-link">');
-                var htmlConvert = $('<div>');
+                var html_convert = $('<div>');
 
-                htmlConvert.append(title);
-                var text = htmlConvert.text();
-                htmlConvert.html(text);
-                $result.append('<a target="_blank "href="' +
-                    slug + '">' + htmlConvert.html() + '</a>');
+                html_convert.append(title);
+                var text = html_convert.text();
+                html_convert.html(text)
+                $result.append('<a target="_blank "href="'+
+                    slug+'">' + html_convert.html() + '</a>');
+                
                 $el.append($result);
             }
         }
     }
     return false;
-};
+}
+
 
 var searchTable = function() {
-    jQuery('#facets').hide();
+	jQuery("#facets").hide();
     var q = $('#q').val();
     window.results = index.search(q);
     var $el = $('#results');
     $el.empty();
     $el.show();
+    
 
-    if (results.length === 0) {
+    if (results.length == 0) {
         $el.html('Sorry, no results matching your query were found.');
     } else {
-        CaseFunctions.setTableHeaders();
-        for (var r in results.slice(0, 10)) {
+    	CaseFunctions.setTableHeaders();
+        for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
 
                 var d = results[r].ref;
-                var row = '';
-                var caseCategory = window.data[d].category;
-                var k = 'cat_url';
-                var catURL = window.data[d][k];
-                k = 'case_number';
-                var caseNumber = window.data[d][k];
-                var title = window.data[d].title;
-                var slug = window.data[d].slug;
+                var row = "";
+                var case_category = window.data[d]['category'];
+                var cat_url = window.data[d]['cat_url'];
+                var case_number = window.data[d]['case_number'];
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
 
                 var $result = $('<tr class="item">');
-                var rowElements = '<td>' + caseNumber +
-                    '</td><td><a target="_blank "href="' + slug + '">' +
-                    title + '</a></td><td><a href="/category/' + catURL + '">' +
-                    caseCategory + '</td>';
-                $result.append(rowElements);
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                                   + title + '</a></td><td><a href="/category/'+cat_url+'">'
+                                   + case_category + '</td>'
+                $result.append(row_elements);
                 $el.append($result);
             }
-            jQuery('#results').tablesorter();
+            jQuery("#results").tablesorter();
         }
     }
     return false;
-};
+}
 
 var createSearchTable = function(q) {
-    jQuery('#facets').hide();
+	jQuery("#facets").hide();
     //var q = $('#q').val();
     window.results = index.search(q);
     $('#q').val(q);
     var $el = $('#results');
     $el.empty();
     $el.show();
+    
 
-    if (results.length === 0) {
+    if (results.length == 0) {
         $el.html('Sorry, no results matching your query were found.');
     } else {
-        CaseFunctions.setTableHeaders();
-        for (var r in results.slice(0, 10)) {
+    	CaseFunctions.setTableHeaders();
+        for (r in results.slice(0, 10)) {
             if (results.hasOwnProperty(r)) {
 
                 var d = results[r].ref;
-                var row = '';
-                var caseCategory = window.data[d].category;
-                var k = 'cat_url';
-                var catURL = window.data[d][k];
-                k = 'case_number';
-                var caseNumber = window.data[d][k];
-                var title = window.data[d].title;
-                var slug = window.data[d].slug;
+                var row = "";
+                var case_category = window.data[d]['category'];
+                var cat_url = window.data[d]['cat_url'];
+                var case_number = window.data[d]['case_number'];
+                var title = window.data[d]['title'];
+                var slug = window.data[d]['slug'];
 
                 var $result = $('<tr class="item">');
-                var rowElements = '<td>' + caseNumber +
-                    '</td><td><a target="_blank "href="' + slug + '">' +
-                    title + '</a></td><td><a href="/category/' + catURL + '">' +
-                    caseCategory + '</td>';
-                $result.append(rowElements);
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                                   + title + '</a></td><td><a href="/category/'+cat_url+'">'
+                                   + case_category + '</td>'
+                $result.append(row_elements);
                 $el.append($result);
             }
-            jQuery('#results').tablesorter();
+            jQuery("#results").tablesorter();
         }
     }
     return false;
-};
+}
