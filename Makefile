@@ -1,14 +1,19 @@
-runserver: 
-	hugo server --watch --verboseLog=true --buildDrafts -v --baseUrl=""
+STAGING_URL=https://case-consortium.stage.ccnmtl.columbia.edu/
+PROD_URL=https://casestudies.ccnmtl.columbia.edu/
+STAGING_BUCKET=case-consortium.stage.ccnmtl.columbia.edu
+PROD_BUCKET=casestudies.ccnmtl.columbia.edu
+INTERMEDIATE_STEPS ?= make $(PUBLIC)/js/api/cases.json
 
-deploy:
-	rm -rf public/
-	/usr/local/bin/hugo -s . -b 'https://case-consortium.stage.ccnmtl.columbia.edu/' \
-	&& mv public/json/index.html public/js/api/cases.json \
-	&& s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://case-consortium.stage.ccnmtl.columbia.edu/
+JS_FILES=static/js/facetedsearch.js static/js/FeedEk.js static/js/main.js static/js/search.js static/js/util.js
 
-s3-deploy:
-	rm -rf public/
-	/usr/local/bin/hugo -s . -b 'https://casestudies.ccnmtl.columbia.edu/' \
-	&& mv public/json/index.html public/js/api/cases.json \
-	&& s3cmd --acl-public --delete-removed --no-progress sync --no-mime-magic --guess-mime-type public/* s3://casestudies.ccnmtl.columbia.edu/
+all: jshint jscs
+
+include *.mk
+
+$(PUBLIC)/js/api/cases.json: $(PUBLIC)/json/index.html
+	mv $< $@
+
+# jenkins still expects some other target names
+deploy: deploy-stage
+
+s3-deploy: deploy-prod
