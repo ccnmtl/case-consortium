@@ -19,7 +19,7 @@ def clean_html_file(htmlfile):
     after them. In all cases I have seen the invalid html
     is only after the valid closing tags'''
     closingtag = ''
-    for i in range(-10, 0): #(i = -10, i < 0 , i = i +1):
+    for i in range(-10, 0):
         pb = temphold[i]
         ph = temphold[i+1]
         if (pb == "</body>" or pb == "</body>\n") and (ph == "</html>" or ph == "</html>\n" ):
@@ -32,74 +32,6 @@ def clean_html_file(htmlfile):
 
     f.truncate()
     f.close()
-
-#     if temphold[0] == '\n' and temphold[1] == '\n':
-#         '''If first two lines are blank get rid of them'''
-#         rml = len(temphold) - 2
-#         temphold = temphold[-rml:]
-#  
-# 
-#     '''Remove blank lines from end of file - probably a better/smarter way to do this...'''
-# 
-# 
-#     if temphold[-1] == '\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-# 
-#     if temphold[-1] == '\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-# 
-#     if temphold[-1] == '\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-# 
-#     if temphold[-1] == '\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-# 
-#     if temphold[-1] == '\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-# 
-#     '''clean up bottom of document so beautiful soup doesn't
-#     get confused and start formatting it further...'''
-# 
-# 
-#     if temphold[-1] == '/html>':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     if temphold[-1] == '</html>' and temphold[-3] == '</html>' :
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     if temphold[-1] == 'dy>':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     if temphold[-1] == '/html>\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     if temphold[-1] == '</html>\n' and temphold[-3] == '</html>\n' :
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     if temphold[-1] == 'dy>\n':
-#         rml = len(temphold) - 1
-#         temphold = temphold[:rml]
-# 
-#     for line in temphold:
-#         f.write(line)
-# 
-#     f.truncate()
-#     f.close()
 
 
 def prettify_html(htmlfile):
@@ -124,7 +56,6 @@ def search_folders(file_name):
                 file_path = os.path.join(path, f_name)
                 clean_html_file(file_path)
                 # prettify_html(file_path)
-
 
  
 search_folders(file_to_search)
