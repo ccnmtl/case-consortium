@@ -57,6 +57,6 @@ def search_folders(file_name):
                 clean_html_file(file_path)
                 # prettify_html(file_path)
 
- 
+
 search_folders(file_to_search)
 
