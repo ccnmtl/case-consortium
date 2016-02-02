@@ -9,3 +9,4 @@ client_secret.json
 .pydevproject
 .settings
 *.pyc
+scripts/ve/*
