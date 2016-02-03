@@ -10,135 +10,55 @@ from bs4 import BeautifulSoup
 from subprocess import call
 
 
-file_to_search = sys.argv[1]
+list_of_mp3s = 'mp3_list.txt'
+location_of_cases = sys.argv[1]
 
 
-def search_folders(file_name):
-    orig_homepage = "case_id_\d+.html"
-    dup_homepage = "case_id_\d+_id_\d+.html"
-    for path, subdirs, files in os.walk(file_name):
-        if path.endswith("layout"):
-            '''For each template directory'''
+mp3list = open(list_of_mp3s, 'r+')
+
+
+def update_audio_tags(location_of_cases):
+    file_path = os.path.abspath(location_of_cases)
+    # print file_path
+    for line in mp3list.readlines():
+        fline = line.split('casestudy')
+        # case_path = line[0]
+        # print case_path
+        audio_path = '../..' + str(fline[1])
+        #print audio_path
+        # case_path = str(line[0]).split('caseconsortium')
+        # print case_path
+        '''for testing on one case - different path'''
+        sline = line.split('casestudies')
+        # print sline
+        sline = str(sline[1]).split('files')
+        # print sline
+        # html_pg_path = str(case_path[1]) + 'casestudy/www/layout/'
+        html_pg_path = str(sline[0]) + 'casestudy/www/layout/'
+        # print html_pg_path
+        # dir_path = location_of_cases + html_pg_path
+        # print dir_path
+        # print os.path.abspath()
+        dir_path = os.path.abspath('.') + '/110/'
+        #print dir_path
+        for path, subdirs, files in os.walk(dir_path):
+            # print "print inside loop"
+            # print files
             files.sort()
-            potential_dups = []
-            home_page = ""
-            duplicate_page = ""
             for f_name in files:
-                '''Sort filenames'''
-                homematchObj = re.match(orig_homepage, f_name)
-                dupmatchObj = re.match(dup_homepage, f_name)
-                if homematchObj:
-                    home_page = f_name
-                else:
-                    pass
-                if dupmatchObj:
-                    potential_dups.append(f_name)
-                else:
-                    pass
-            temp = potential_dups[0][:-5].split('_')[4]
-            '''Get first of the possible home page duplicates to compare the others to'''
-            for each in potential_dups:
-                '''Go over potential duplicates and find the homepage'''
-                test_num = each[:-5].split('_')[4]
-                if test_num < temp:
-                    temp = test_num
-            ns = home_page.split('.html')[0]
-            ns = str(ns) + '_id_' + str(temp) + '.html'
-            duplicate_page = ns
-            dup_path = os.path.join(path, duplicate_page)
-            call(["git", "rm", dup_path])
-            for f_name in files:
-                '''Go over all files again and look for references to the duplicate page and remove them'''
-                if "case_id_" in f_name:
-                    '''this will throw an error when it tries to open the deleted file --> put in try block'''
+                if f_name.endswith(".html"):
+                    # print f_name
                     file_path = os.path.join(path, f_name)
-                    try:
-                        newfile = open(file_path, 'r+')
-                        for line in fileinput.input(file_path):
-                            newfile.write(line.replace(duplicate_page, home_page))
-                        newfile.close()
-                    except:
-                        pass
+                    html_doc = open(file_path, 'r+')
+                    # print html_doc
+                    soup = BeautifulSoup(html_doc, 'html.parser')
+                    for img_tag in soup.find_all('img'):
+                        # print(img_tag.get('src'))
+                        if str(img_tag.get('src')) == str(audio_path):
+                            print "this file " + f_name + " contains the audio file " + audio_path
+     
+update_audio_tags(location_of_cases)
 
 
 
-
-
-def clean_html_file(htmlfile):
-    f = open(htmlfile, 'r+')
-    temphold = f.readlines()
-    f.seek(0)
-    tempholdlen = len(temphold)
-
-    '''We should go through the last 10 items
-    in the list and search for the </body></html>
-    tags after finding these we can remove everything 
-    after them. In all cases I have seen the invalid html
-    is only after the valid closing tags'''
-    closingtag = ''
-    for i in range(-10, 0):
-        pb = temphold[i]
-        ph = temphold[i+1]
-        if (pb == "</body>" or pb == "</body>\n") and (ph == "</html>" or ph == "</html>\n" ):
-            closingtag = i+1
-            tempholdlen = tempholdlen + closingtag + 1
-            temphold = temphold[:tempholdlen]
-
-    for line in temphold:
-        f.write(line)
-
-    f.truncate()
-    f.close()
-
-
-def replace_audio_new_tags(htmlfile):
-    f = open(htmlfile, 'r+')
-    temphold = f.readlines()
-    f.seek(0)
-    tempholdlen = len(temphold)
-
-    '''search for old audio file references and replace with audio tags
-    '''
-    closingtag = ''
-    for i in range(-10, 0):
-        pb = temphold[i]
-        ph = temphold[i+1]
-        if (pb == "</body>" or pb == "</body>\n") and (ph == "</html>" or ph == "</html>\n" ):
-            closingtag = i+1
-            tempholdlen = tempholdlen + closingtag + 1
-            temphold = temphold[:tempholdlen]
-
-    for line in temphold:
-        f.write(line)
-
-    f.truncate()
-    f.close()
-
-
-
-def prettify_html(htmlfile):
-    '''finally - make the html human friendly...'''
-    htmldoc = open(htmlfile, 'rw')
-    soup = BeautifulSoup(htmldoc, 'html.parser')
-    newdoc = soup.prettify(soup.original_encoding)
-    htmldoc.close()
-    with open(htmlfile,"wb") as file:
-        file.write(newdoc)
-
-
-file_to_search = sys.argv[1]
-
-
-def search_folders(file_name):
-    for path, subdirs, files in os.walk(file_name):
-        files.sort()
-        for f_name in files:
-            if "case_id_" in f_name:
-                print "Updating file " + str(f_name)
-                file_path = os.path.join(path, f_name)
-                clean_html_file(file_path)
-                # prettify_html(file_path)
-
- 
-search_folders(file_to_search)
 
