@@ -1,4 +1,3 @@
-$ find /www/data/ccnmtl/projects/caseconsortium/casestudies -name *.mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/185/Rusbridger bio quote.mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/189/Katz bio quotes .mp3
 /www/data/ccnmtl/projects/caseconsortium/casestudies/109/casestudy/files/audios/182/Leigh bio quote.mp3

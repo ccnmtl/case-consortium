@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 from subprocess import call
 import urllib
