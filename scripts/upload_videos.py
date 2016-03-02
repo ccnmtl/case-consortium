@@ -79,7 +79,6 @@ def get_authenticated_service(args):
     credentials = storage.get()
     if credentials is None or credentials.invalid:
         credentials = run_flow(flow, storage, args)
-
     return build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
         http=credentials.authorize(httplib2.Http()))
 
@@ -111,6 +110,8 @@ def initialize_upload(youtube, options, file_path, filename):
 
 # This method implements an exponential backoff strategy to resume a
 # failed upload.
+
+
 def resumable_upload(insert_request):
     response = None
     error = None
@@ -147,6 +148,54 @@ def resumable_upload(insert_request):
         time.sleep(sleep_seconds)
 
 
+def create_playlist(youtube):
+    # This code creates a new, private playlist in the authorized user's channel.
+    playlists_insert_response = youtube.playlists().insert(
+        part="snippet,status",
+        body=dict(
+            snippet=dict(
+                title="Case Consortium",
+                description=""
+            ),
+        status=dict(
+            privacyStatus="unlisted"
+        )
+      )
+    ).execute()
+    return playlists_insert_response
+
+
+def put_videos_in_list(youtube, playlist_id, options):
+    if os.path.isfile('video_ids.txt'):
+        f = open('video_ids.txt', 'a')
+        f.write(response['id'] + "\t\t\t\t" + response['snippet']['localized']['title'] + '\n')
+    # Call the API's videos.list method to retrieve the video resource.
+    videos_list_response = youtube.videos().list(
+        id=options.video_id,
+        part='snippet'
+    ).execute()
+
+    # If the response does not contain an array of "items" then the video was
+    # not found.
+    if not videos_list_response["items"]:
+        print "Video '%s' was not found." % options.video_id
+        sys.exit(1)
+
+    # Update the video resource by calling the videos.update() method.
+    videos_update_response = youtube.videos().update(
+        part='snippet',
+        body=dict(
+            snippet=videos_list_snippet,
+            id=options.video_id
+    )).execute()
+
+    print "New playlist id: %s" % playlists_insert_response["id"]
+
+    playlist_id = playlists_insert_response["id"]
+
+
+
+
 # The JSON structure below shows the format of a videos resource:
 # player.embedHtml
 if __name__ == '__main__':
@@ -165,9 +214,23 @@ if __name__ == '__main__':
                     file_path = os.path.join(path, file_name)
                     # args.file = file_name
                     # print args
-                    initialize_upload(youtube, args, file_path, file_name)
+                    # initialize_upload(youtube, args, file_path, file_name)
+                    playlist_id = create_playlist(youtube)
+                    print playlist_id
     except HttpError, e:
         print "An HTTP error %d occurred:\n%s" % (e.resp.status, e.content)
+
+
+'''
+    Create Playlist And Add Videos to Channel
+    From PMT:
+    Please note the we have two youtube channels:
+    ColumbiaLearn - publish final videos or playlists
+    Production - staging environment
+    At our meeting, we decided the Case Consortium playlist and videos
+    should be published "unlisted" on ColumbiaLearn since this will be
+    the perminant location.
+'''
 
 
 #./ve/bin/python upload_videos.py --directory="../../../OldCaseStudies"
