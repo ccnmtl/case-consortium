@@ -28,7 +28,7 @@ def search_folders(file_name):
                 audiotag = ''
                 '''Use beautiful soup to replace img tag with comment and get
                 information on location of audio file'''
-                soup = BeautifulSoup(htmldoc, "html5lib")
+                soup = BeautifulSoup(htmldoc)
                 for img_tag in soup.find_all(has_audio_as_img):
                     '''save location of mp3 file'''
                     # print "\n\n"
