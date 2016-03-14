@@ -2,7 +2,6 @@ from subprocess import call
 import os
 import sys
 import fileinput
-import re
 
 staging_site_1 = "http://ccnmtl.columbia.edu/projects/caseconsortium_stage/casestudies/"
 staging_site_2 = "/casestudy/www/layout/"
@@ -22,14 +21,8 @@ def search_folders(file_name):
                     print f_name
                     num = f_name.split("_")
                     num = num[2]
-                    # print num
                     link = staging_site_1 + str(num) + staging_site_2 + f_name + "\n"
-                    print link
                     listmp3file.write(link)
-                # hasmp3 = re.match(mp3, f_name)
-                # print hasmp3
-                # if hasmp3:
-                #     print f_name
 
 
 search_folders(file_to_search)
