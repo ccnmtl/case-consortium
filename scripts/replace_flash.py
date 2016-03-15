@@ -33,6 +33,7 @@ example_string = ("""<embed type="application/x-shockwave-flash" """
 
 
 
+
 def make_replacement_tag(flvid):
     '''Create replacement link'''
     # width="420" height="286" for embeds...
@@ -64,15 +65,15 @@ def open_file_and_replace_tags(htmlfile, flvname2):
         flvid = video_table[flvname2]
         replacement_tag = make_replacement_tag(flvid)
         find_href.replace_with(replacement_tag)
-        
 
     find_embeds = soup.find_all('embed', href=re.compile(flvname2))
-
     # type="application/x-shockwave-flash"
+
 
 '''Create output file to log details of script run to - which files were updated'''
 def record_transaction():
     pass
+
 
 '''Traverse directory files for flv...'''
 def go_over_directory(directory):
@@ -104,4 +105,5 @@ if __name__ == '__main__':
         video_table[id_title] = l[0]
 
     video_ids.close()
+
 
