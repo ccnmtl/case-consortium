@@ -1,9 +1,16 @@
 ---
-date: 2015-06-12T12:56:06-04:00
+date: {}
 title: credits
+published: true
 ---
 
+
 <h2>Credits</h2>
+
+<p>The Case Consortium at Columbia University was founded by the Graduate School of Journalism, the Joseph L. Mailman School of Public Health, and the School of International and Public Affairs (SIPA).</p>
+
+<p>From 2011 to July 2015, the Consortium was managed by Kirsten Lundberg, who founded CC@C’s predecessor the Knight Case Studies Initiative. The Consortium library holds more than 80 cases, which are used in upwards of 100 colleges and universities worldwide. CCNMTL is continuing the original mission of the Consortium; producing case studies which train students to think like professional managers and industry leaders. CCNMTL has moved the entire collection to this site and offers the entire resource for free.</p>
+
 
 <h3><a href="ccnmtl.columbia.edu" target="_blank">Columbia Center for New Media Teaching and Learning</a>:</h3>
 <ul>
