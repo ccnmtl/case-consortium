@@ -5,4 +5,4 @@ title: help
 
 <h2>Help</h2>
 
-Extended help documentation is coming soon. In the meantime, please email <a href="mailto:ccnmtl+casestudies@columbia.edu">ccnmtl+casestudies@columbia.edu</a> with any questions or comments.
+Extended help documentation is coming soon. In the meantime, please email <a href="mailto:ColumbiaCTL+casestudies@columbia.edu">ColumbiaCTL+casestudies@columbia.edu</a> with any questions or comments.
