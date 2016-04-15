@@ -26,7 +26,7 @@
   \ and into the minds of two journalism entrepreneurs. Students can debate the pros\
   \ and cons of leaving mainstream journalism outlets to start new operations.Teaching\
   \ NoteTopics: media business; editorial decisionmaking; digital media"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/files/global/38/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/38/casestudy/www/layout/case_id_38.html"

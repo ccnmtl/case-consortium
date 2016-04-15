@@ -31,7 +31,7 @@
   \ of journalism entrepreneurs deciding what formula will ensure sufficient revenue\
   \ to continue operations.Teaching NoteTopics: media business; newsroom management;\
   \ digital media"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/files/global/39/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/39/casestudy/www/layout/case_id_39.html"

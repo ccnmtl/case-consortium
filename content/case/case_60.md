@@ -26,7 +26,7 @@
   \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
   \ sobre los que escribe.Temas: la ética; la privacidadFacultad: Usted tendrá la\
   \ oportunidad de revisar la parte B, una vez que se haya registrado."
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/60/casestudy/files/global/60/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/60/casestudy/www/layout/case_id_60.html"

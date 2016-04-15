@@ -27,7 +27,7 @@
   \ for newspapers.Teaching NoteTopics: digital media; newsroom management; media\
   \ businessThis case should be used in combination with Part A. The two parts can\
   \ be taught together, or in successive class sessions."
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/files/global/20/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/20/casestudy/www/layout/case_id_20.html"

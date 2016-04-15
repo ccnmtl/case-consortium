@@ -32,7 +32,7 @@
   \ the mine’s potential. Goytendía Matos, in particular, dreams of a project that\
   \ will be a model for communities worldwide experiencing similar challenges.Topics:\
   \ sustainable development; environmental affairs; negotiations; community empowerment"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/files/global/136/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/www/layout/case_id_136.html"
@@ -48,7 +48,7 @@ case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/ca
 "school": ""
 "slug": "ProcessandPolitics"
 "status_id": "1"
-"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/136/casestudy/files/global/136/"
+"teaching_note": ""
 "teaser": !!python/str "This case traces the evolution of a resettlement scheme in\
   \ Peru that has the potential both to benefit corporate interests and better the\
   \ lot of the local community. In January 2012, Fred Goytendía Matos becomes technical\

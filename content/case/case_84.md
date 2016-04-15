@@ -28,7 +28,7 @@
   \ 2020. The case asks students to take on the role of agriculture policy advisor\
   \ to the prime minister, tasked with setting the timetable for implementing this\
   \ ambitious plan.Teaching NoteTopics: international development, food security"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/84/casestudy/files/global/84/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/84/casestudy/www/layout/case_id_84.html"

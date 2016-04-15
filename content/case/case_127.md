@@ -33,7 +33,7 @@
   \ issues? Should other cities imitate New York?Epilogue, Teaching NoteTopics: public\
   \ management; technology in government; public sector performance evaluation; government\
   \ innovation"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/files/global/127/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/127/casestudy/www/layout/case_id_127.html"

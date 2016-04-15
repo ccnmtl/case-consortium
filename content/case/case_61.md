@@ -24,7 +24,7 @@
   \ del público a informarse. Se pide a los estudiantes que deben tener en cuenta\
   \ cuáles son las obligaciones de un periódico para sus lectores, y para aquellos\
   \ sobre los que escribe.Epílogo, Teaching NoteTemas: la ética; la privacidad"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/61/casestudy/files/global/61/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": "yes"
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/61/casestudy/www/layout/case_id_61.html"

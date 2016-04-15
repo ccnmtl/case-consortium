@@ -40,7 +40,7 @@ case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/106/ca
 "school": ""
 "slug": "WordsoftheDying"
 "status_id": "1"
-"teaching_note": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/106/casestudy/files/global/106/"
+"teaching_note": ""
 "teaser": ""
 "thumbnail": "/img/case/case_thumb_106.jpg"
 "title": "Words of the Dying: CHCH TV and Constable Garrett Styles"

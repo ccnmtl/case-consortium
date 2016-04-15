@@ -25,7 +25,7 @@
   \ of accuracy for blogs, tabloids, and more mainstream news outlets. They can also\
   \ discuss the fine line between privacy and the public's right to know.Teaching\
   \ NoteTopics: ethics; blogging; celebrity reporting"
-"epilogue": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/files/global/28/"
+"epilogue": ""
 "faculty_notes": ""
 "faculty_only": ""
 case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/28/casestudy/www/layout/case_id_28.html"
