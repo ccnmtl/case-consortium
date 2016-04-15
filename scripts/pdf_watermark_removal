@@ -1,0 +1,8 @@
+Some notes on the pdf watermark removal.
+
+Our source files are a bit disorganized, and the only way to be sure what version of the file we are working with is to pull down the pdf in question.
+
+First, collect the links to the pdf, teaching_note and epilogs
+
+% cd case-consortium/scripts
+% grep pdf\": ../content/case/case_* | cut -d\  -f2- | sed 's/\"//g' > case_pdfs.txt
