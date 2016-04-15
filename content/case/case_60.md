@@ -35,7 +35,7 @@ case_url: "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/60/cas
 "link_color": "#2947a3"
 "linked_classes": ""
 "news_org": "Frederick, MD, News-Post"
-"pdf": !!python/str "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/60/casestudy/files/global/60/Privacidad e Interés Público text A.pdf"
+"pdf": "http://ccnmtl.columbia.edu/projects/caseconsortium/casestudies/60/casestudy/files/global/60/Privacidad e Interes Publico text A.pdf"
 "price": "3.95"
 "redtext": ""
 "related_cases":
