@@ -1,0 +1,10 @@
+# steps to remove the copyright notices on the case pages
+
+## some global search and replaces
+```
+cd ccnmtl-caseconsortium/casestudies
+# remove the copyright paragraph on the abstract and case home page
+find . -name \*.html | xargs perl -pi -e "undef $/; s#<p>\s+Copyright\s+&copy;.*?</p>##sg"
+
+# remove the 2nd copyright notice in thefooter - leave a placeholder for CC replacement later
+find . -name \*.html | xargs perl -pi -e "s#<a .*?20\d\d Columbia University.*?</a>#<!-- copyright notice -->#g"
