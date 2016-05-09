@@ -6,6 +6,8 @@ cd ccnmtl-caseconsortium/casestudies
 # remove the copyright paragraph on the abstract and case home page
 # undef $/ since this is a multiline match
 find . -name \*.html | xargs perl -pi -e "undef $/; s#<p>\s+Copyright\s+&copy;.*?</p>##sg"
+# pick up a few more that have spans around them (the 0777 slurps in whole file, improving multiline matches)
+find . -name \*html | xargs perl  -0777 -pi -e 'undef $/; s#<p>\s+\s+<span style="font-size:11px;">Copyright\s+&copy;.*?</p>##sg'
 
 # remove the 2nd copyright notice in thefooter - leave a placeholder for CC replacement later
 find . -name \*.html | xargs perl -pi -e "s#<a .*?20\d\d Columbia University.*?</a>#<!-- copyright notice -->#g"
