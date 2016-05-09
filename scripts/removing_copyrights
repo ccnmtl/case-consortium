@@ -11,3 +11,7 @@ find . -name \*html | xargs perl  -0777 -pi -e 'undef $/; s#<p>\s+\s+<span style
 
 # remove the 2nd copyright notice in thefooter - leave a placeholder for CC replacement later
 find . -name \*.html | xargs perl -pi -e "s#<a .*?20\d\d Columbia University.*?</a>#<!-- copyright notice -->#g"
+
+unfortunately, many of these were hand tweaked, and I could not find a universal regex. I was able to find and remove a few stray ones like this:
+
+find . -name \*html | xargs grep -r Copyright | grep -v '<!--' |
