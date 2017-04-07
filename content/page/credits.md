@@ -9,7 +9,7 @@ published: true
 
 <p>The Case Consortium at Columbia University was founded by the Graduate School of Journalism, the Joseph L. Mailman School of Public Health, and the School of International and Public Affairs (SIPA).</p>
 
-<p>From 2011 to July 2015, the Consortium was managed by Kirsten Lundberg, who founded CC@C’s predecessor the Knight Case Studies Initiative. The Consortium library holds more than 80 cases, which are used in upwards of 100 colleges and universities worldwide. The Columbia Center for Teaching and Learning is continuing the original mission of the Consortium; making available case studies which train students to think like professional managers and industry leaders on this new site. All cases are available free of charge.</p>
+<p>From 2011 to July 2015, the Consortium was managed by Kirsten Lundberg, who founded CC@C’s predecessor the Knight Case Studies Initiative. The Consortium library holds more than 80 cases, which are used in upwards of 100 colleges and universities worldwide. The Columbia Center for Teaching and Learning is continuing the original mission of the Consortium; making available case studies which train students to think like professional managers and industry leaders. All cases are available free of charge.</p>
 
 
 <h3><a href="ccnmtl.columbia.edu" target="_blank">Columbia Center for Teaching and Learning</a>:</h3>
