@@ -14,6 +14,8 @@ published: true
 
 <h3><a href="ccnmtl.columbia.edu" target="_blank">Columbia Center for Teaching and Learning</a>:</h3>
 
-<p>For inquiries, please email ColumbiaCTL@columbia.edu. Case Consortium project manager: Andrew Flatgard.</p>
+<p>Case Consortium project manager: Andrew Flatgard.</p>
 
 <p>This port was directed by Maurice Matiz and Kirsten Lundberg and performed by Andrew Flatgard, Rachelle White, Jonah Bossewitch, and Jed Davis</p>
+
+<p>For inquiries, please email ColumbiaCTL@columbia.edu.</p>
