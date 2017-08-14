@@ -109,15 +109,20 @@ var CaseFunctions = function () {
             }
         });
     };
-    
-    var reconstructFilterSearch = function () {
 
+    var sanitize = function(s) {
+        // http://shebang.brandonmintern.com/foolproof-html-escaping-in-javascript/
+        var div = document.createElement('div');
+        div.appendChild(document.createTextNode(s));
+        return div.innerHTML;
+    };
+
+    var reconstructFilterSearch = function () {
         setTableHeaders();
         unescapeHtml();
         drawActiveFacetsDiv();
 
-        try 
-        {
+        try {
             var qry_params = window.location.href.split('?search=filter&');
             var params = qry_params[1];
 
@@ -140,11 +145,11 @@ var CaseFunctions = function () {
             // go over url parameters and re create search results
             for(var count_params=0; count_params < active_facets.length; count_params++)
             {   
-                //count_params = count_params - 1;
                 var find_facet = String(active_facets[count_params]).split('=');
                 var facet = find_facet[0]; //category/related topics/
-                var search_term = find_facet[1];
-                settings.state.filters[facet].push(decodeURI(search_term));
+                var search_term = decodeURI(find_facet[1]);
+                search_term = sanitize(search_term);
+                settings.state.filters[facet].push(search_term);
             }
 
             displayActiveBreadcrumbs();
