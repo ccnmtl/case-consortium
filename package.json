@@ -1,0 +1,22 @@
+{
+  "name": "case-consortium",
+  "version": "1.0.0",
+  "description": "Hugo site for Case Consortium",
+  "main": "static/js/search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccnmtl/case-consortium.git"
+  },
+  "author": "Columbia University's Center for Teaching and Learning",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/ccnmtl/case-consortium/issues"
+  },
+  "homepage": "https://github.com/ccnmtl/case-consortium#readme",
+  "devDependencies": {
+    "eslint": "~4.5.0"
+  }
+}
