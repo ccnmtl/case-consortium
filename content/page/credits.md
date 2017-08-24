@@ -1,5 +1,4 @@
 ---
-date: {}
 title: credits
 published: true
 ---

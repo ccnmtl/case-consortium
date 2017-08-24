@@ -22,7 +22,7 @@ $.getJSON('/js/api/cases.json').done(function(item) {
     });
 }).fail(function(jqxhr, textStatus, error) {
     var err = textStatus + ', ' + error;
-    console.error('Error getting Hugo index flie:', err);
+    console.error('Error getting Hugo index file:', err);
 });
 
 var doSearch = function() {
@@ -54,7 +54,7 @@ var doSearch = function() {
                 html_convert.append(title);
                 var text = html_convert.text();
                 html_convert.html(text)
-                $result.append('<a target="_blank "href="'+
+                $result.append('<a target="_blank" href="'+
                     slug+'">' + html_convert.html() + '</a>');
                 
                 $el.append($result);
@@ -90,7 +90,7 @@ var searchTable = function() {
                 var slug = window.data[d]['slug'];
 
                 var $result = $('<tr class="item">');
-                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank" href="'+slug+'">'
                                    + title + '</a></td><td><a href="/category/'+cat_url+'">'
                                    + case_category + '</td>'
                 $result.append(row_elements);
@@ -128,7 +128,7 @@ var createSearchTable = function(q) {
                 var slug = window.data[d]['slug'];
 
                 var $result = $('<tr class="item">');
-                var row_elements = '<td>' + case_number + '</td><td><a target="_blank "href="'+slug+'">'
+                var row_elements = '<td>' + case_number + '</td><td><a target="_blank" href="'+slug+'">'
                                    + title + '</a></td><td><a href="/category/'+cat_url+'">'
                                    + case_category + '</td>'
                 $result.append(row_elements);
