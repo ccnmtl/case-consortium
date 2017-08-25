@@ -1515,12 +1515,6 @@ max-width: 100%;
 
 #banner ul { margin: 0 0 0 2em; }
 
-/* RSS Feed */
-
-.container.updates {
-  padding: 2em 0 0 0;
-}
-
 /* Footer */
 #footer-wrapper {
 background-color: #444;
