@@ -10,3 +10,4 @@ client_secret.json
 .settings
 *.pyc
 scripts/ve/*
+node_modules/
