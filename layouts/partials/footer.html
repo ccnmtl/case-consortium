@@ -1,30 +1,19 @@
-	{{ $baseurl := .Site.BaseURL }}
+{{ $baseurl := .Site.BaseURL }}
 
-		<div id="footer-wrapper">
-					<footer id="footer" class="container">
-						<div class="row">
-							<div class="10u 12u(medium) 12u$(small)">
-							<ul class="footer-nav">
-							    <li><a href="{{ $baseurl }}page/credits">Credits</a></li>
-   							    <li><a href="{{ $baseurl }}page/help">Help & Contact</a></li>
-							    </ul>
-							    </div>
-    							<div class="2u 12u(medium) 12u$(small)">
-<a href="http://ccnmtl.columbia.edu" target="_blank"><img src="{{ $baseurl }}img/logo-ctl-white.png" /></a>
+<div id="footer-wrapper">
+    <footer id="footer" class="container">
+        <div class="row">
+            <div class="10u 12u(medium) 12u$(small)">
+                <ul class="footer-nav">
+                    <li><a href="{{ $baseurl }}page/credits">Credits</a></li>
+                    <li><a href="{{ $baseurl }}page/help">Help & Contact</a></li>
+                </ul>
+            </div>
+            <div class="2u 12u(medium) 12u$(small)">
+                <a href="http://ccnmtl.columbia.edu" target="_blank"><img src="{{ $baseurl }}img/logo-ctl-white.png" /></a>
 
-							</div>
-							</div>
-						</div>
-					</footer>
-				</div>
- <script type="text/javascript">
-        $(document).ready(function () {
-            $('#divRss').FeedEk({
-                FeedUrl: 'http://ctl.columbia.edu/category/consortium/feed/',
-                MaxCount: 3,
-                ShowDesc: true,
-                ShowPubDate: false,
-                DescCharacterLimit: false
-            });
-        });
-</script>
+            </div>
+        </div>
+</div>
+    </footer>
+</div>
