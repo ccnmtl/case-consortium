@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ccnmtl/case-consortium#readme",
   "devDependencies": {
-    "eslint": "~4.10.0"
+    "eslint": "~4.11.0"
   }
 }
