@@ -11,3 +11,4 @@ client_secret.json
 *.pyc
 scripts/ve/*
 node_modules/
+local.mk
