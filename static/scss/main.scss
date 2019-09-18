@@ -51,7 +51,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 }
 
 body {
-    @include vendor('background-image', ('linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0))', 'url("images/bg01.png")'));
+    @include vendor('background-image', ('linear-gradient(to top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0))', 'url("images/bg01.png")'));
     background-color: #f7f7f7;
     background-position: top left, top left;
     background-repeat: repeat-x, repeat;
