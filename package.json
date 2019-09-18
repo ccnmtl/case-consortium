@@ -4,9 +4,7 @@
   "description": "Hugo site for Case Consortium",
   "main": "static/js/search.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build-scss": "node-sass --output static/css static/scss/main.scss && postcss -u autoprefixer -r static/css/main.css",
-    "watch-scss": "nodemon -e scss -x 'npm run build-scss'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -20,11 +18,5 @@
   "homepage": "https://github.com/ccnmtl/case-consortium#readme",
   "devDependencies": {
     "eslint": "~4.17.0"
-  },
-  "dependencies": {
-    "autoprefixer": "^9.6.1",
-    "node-sass": "^4.12.0",
-    "nodemon": "^1.19.2",
-    "postcss-cli": "^6.1.3"
   }
 }
