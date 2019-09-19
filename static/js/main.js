@@ -1,83 +1,219 @@
+/* global skel, jQuery, ga */
 /*
-	Verti by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+    Verti by HTML5 UP
+    html5up.net | @n33co
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    */
 
 (function($) {
+    skel.breakpoints({
+        xlarge: '(max-width: 1680px)',
+        large: '(max-width: 1280px)',
+        medium: '(max-width: 980px)',
+        small: '(max-width: 736px)'
+    });
 
-	skel.breakpoints({
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)'
-	});
+    $(function() {
+        var	$window = $(window),
+            $body = $('body');
 
-	$(function() {
+        // Disable animations/transitions until the page has loaded.
+        $body.addClass('is-loading');
 
-		var	$window = $(window),
-			$body = $('body');
+        $window.on('load', function() {
+            $body.removeClass('is-loading');
+        });
 
-		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
+        // Fix: Placeholder polyfill.
+        $('form').placeholder();
 
-			$window.on('load', function() {
-				$body.removeClass('is-loading');
-			});
+        // Prioritize "important" elements on medium.
+        skel.on('+medium -medium', function() {
+            $.prioritize(
+                '.important\\28 medium\\29',
+                skel.breakpoint('medium').active
+            );
+        });
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
+        // Dropdowns.
+        $('#nav > ul').dropotron({
+            mode: 'fade',
+            noOpenerFade: true,
+            speed: 300
+        });
 
-		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
-				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
-				);
-			});
+        // Off-Canvas Navigation.
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({
-				mode: 'fade',
-				noOpenerFade: true,
-				speed: 300
-			});
+        // Navigation Toggle.
+        $(
+            '<div id="navToggle">' +
+            '<a href="#navPanel" class="toggle"></a>' +
+            '</div>'
+        ).appendTo($body);
 
-		// Off-Canvas Navigation.
+        // Navigation Panel.
+        $(
+            '<div id="navPanel">' +
+            '<nav>' +
+            $('#nav').navList() +
+            '</nav>' +
+            '</div>'
+        )
+            .appendTo($body)
+            .panel({
+                delay: 500,
+                hideOnClick: true,
+                hideOnSwipe: true,
+                resetScroll: true,
+                resetForms: true,
+                side: 'left',
+                target: $body,
+                visibleClass: 'navPanel-visible'
+            });
 
-			// Navigation Toggle.
-				$(
-					'<div id="navToggle">' +
-						'<a href="#navPanel" class="toggle"></a>' +
-					'</div>'
-				)
-					.appendTo($body);
+        // Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
+        if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
+            $('#navToggle, #navPanel, #page-wrapper')
+                .css('transition', 'none');
 
-			// Navigation Panel.
-				$(
-					'<div id="navPanel">' +
-						'<nav>' +
-							$('#nav').navList() +
-						'</nav>' +
-					'</div>'
-				)
-					.appendTo($body)
-					.panel({
-						delay: 500,
-						hideOnClick: true,
-						hideOnSwipe: true,
-						resetScroll: true,
-						resetForms: true,
-						side: 'left',
-						target: $body,
-						visibleClass: 'navPanel-visible'
-					});
+        // Pulls the case number from a URL to a resource served from CUNIX
+        // Note that this makes assumptions about what
+        // case number is in all links
+        function getCaseNumber(url) {
+            return url.split('/')[6];
+        }
 
-			// Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
-				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
-					$('#navToggle, #navPanel, #page-wrapper')
-						.css('transition', 'none');
+        // Add event listeners for pdf links
+        $('a.pdf').each(function(idx, el){
+            $(el).on('click', function(e){
+                e.preventDefault();
 
-	});
+                var target = e.target;
+                while (!$(target).attr('href')) {
+                    target = target.parentElement;
+                }
+
+                var analyticsSubmitted = false;
+                function followLink() {
+                    if (!analyticsSubmitted) {
+                        analyticsSubmitted = true;
+
+                        /* eslint-disable scanjs-rules/assign_to_href */
+                        location.href = $(target).attr('href');
+                    }
+                }
+                /* eslint-disable-next-line scanjs-rules/call_setTimeout */
+                setTimeout(followLink, 200);
+
+                var caseNumber = getCaseNumber(target.href);
+
+                ga('send', {
+                    hitType: 'event',
+                    eventCategory: 'Case Resource Request',
+                    eventAction: 'pdf-request',
+                    eventLabel: caseNumber
+                });
+            });
+        });
+
+        // Event for link to case on CUNIX
+        $('a.external-case-link').each(function(idx, el){
+            $(el).on('click', function(e){
+                e.preventDefault();
+
+                var target = e.target;
+                while (!$(target).attr('href')) {
+                    target = target.parentElement;
+                }
+
+                var analyticsSubmitted = false;
+                function followLink() {
+                    if (!analyticsSubmitted) {
+                        analyticsSubmitted = true;
+
+                        /* eslint-disable scanjs-rules/assign_to_href */
+                        location.href = $(target).attr('href');
+                    }
+                }
+                /* eslint-disable-next-line scanjs-rules/call_setTimeout */
+                setTimeout(followLink, 200);
+
+                var caseNumber = getCaseNumber(target.href);
+
+                ga('send', {
+                    hitType: 'event',
+                    eventCategory: 'Case Resource Request',
+                    eventAction: 'external-case-link',
+                    eventLabel: caseNumber
+                });
+            });
+        });
+
+        // Event for link to teacher's pdf
+        $('a.teacher-pdf').each(function(idx, el){
+            $(el).on('click', function(e){
+                e.preventDefault();
+
+                var target = e.target;
+                while (!$(target).attr('href')) {
+                    target = target.parentElement;
+                }
+
+                var analyticsSubmitted = false;
+                function followLink() {
+                    if (!analyticsSubmitted) {
+                        analyticsSubmitted = true;
+
+                        /* eslint-disable scanjs-rules/assign_to_href */
+                        location.href = $(target).attr('href');
+                    }
+                }
+                /* eslint-disable-next-line scanjs-rules/call_setTimeout */
+                setTimeout(followLink, 200);
+
+                var caseNumber = getCaseNumber(target.href);
+
+                ga('send', {
+                    hitType: 'event',
+                    eventCategory: 'Case Resource Request',
+                    eventAction: 'teacher-pdf',
+                    eventLabel: caseNumber
+                });
+            });
+        });
+
+        // Event for case epilogue
+        $('a.epilogue').each(function(idx, el){
+            $(el).on('click', function(e){
+                e.preventDefault();
+
+                var target = e.target;
+                while (!$(target).attr('href')) {
+                    target = target.parentElement;
+                }
+
+                var analyticsSubmitted = false;
+                function followLink() {
+                    if (!analyticsSubmitted) {
+                        analyticsSubmitted = true;
+
+                        /* eslint-disable scanjs-rules/assign_to_href */
+                        location.href = $(target).attr('href');
+                    }
+                }
+                /* eslint-disable-next-line scanjs-rules/call_setTimeout */
+                setTimeout(followLink, 200);
+
+                var caseNumber = getCaseNumber(target.href);
+
+                ga('send', {
+                    hitType: 'event',
+                    eventCategory: 'Case Resource Request',
+                    eventAction: 'epilogue-request',
+                    eventLabel: caseNumber
+                });
+            });
+        });
+    });
 
 })(jQuery);
